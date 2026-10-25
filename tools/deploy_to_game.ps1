@@ -31,8 +31,12 @@ Write-Host "3. Installation des données de traduction..." -ForegroundColor Yell
 $destData = Join-Path $destPlugins "LocoMotiveFR_Data"
 if (!(Test-Path $destData)) { New-Item -ItemType Directory -Path $destData -Force | Out-Null }
 
-# Copier tous les fichiers .tsv de translations vers LocoMotiveFR_Data
-Get-ChildItem -Path "translations" -Filter "*.tsv" -Recurse | ForEach-Object {
+# Copier tous les fichiers de traduction effectifs vers LocoMotiveFR_Data
+Get-ChildItem -Path "translations" -Filter "*french.tsv" -Recurse | ForEach-Object {
+    Copy-Item -Path $_.FullName -Destination $destData -Force
+    Write-Host "   -> Copié : $($_.Name)" -ForegroundColor Gray
+}
+Get-ChildItem -Path "translations" -Filter "*test*.tsv" -Recurse | ForEach-Object {
     Copy-Item -Path $_.FullName -Destination $destData -Force
     Write-Host "   -> Copié : $($_.Name)" -ForegroundColor Gray
 }

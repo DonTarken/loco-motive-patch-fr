@@ -1,0 +1,87 @@
+Id	Character	English	French	Class	Method
+0	LadyUnterwald	Alright, chop chop. Let's begin, shall we?	Bien, au pas de course. Commençons, voulez-vous ?	RoomEstablishingShot+<BackgroundSubtitleDisplay>d__5	MoveNext
+Somewhere in Europe	Quelque part en Europe
+On the Reuss Express	À bord du Reuss Express
+67	Arthur	The night was still young.	La nuit ne faisait que commencer.	RoomIntroCarriage+<OnEnterRoomAfterFade>d__1	MoveNext
+I felt like the world was my oyster...	J'avais l'impression que le monde m'appartenait...
+69	Arthur	I hope those oysters don't come back to haunt me.	J'espère seulement que ces huîtres ne vont pas me rester sur l'estomac.	RoomIntroCarriage+<OnEnterRoomAfterFade>d__1	MoveNext
+70	Arthur	I don't remember leaving my door open.	Je ne me rappelle pas avoir laissé ma porte ouverte.	RoomIntroCarriage+<OnEnterRoomAfterFade>d__1	MoveNext
+71	Arthur	I love a good brochure, but I have other pressing matters to attend to.	J'apprécie une bonne brochure, mais j'ai d'autres affaires urgentes à régler.	RoomIntroCarriage+<OnInteractPropPamphlets>d__6	MoveNext
+72	Arthur	It's a very generous likeness of Lady Unterwald.	C'est un portrait particulièrement flatteur de Lady Unterwald.	RoomIntroCarriage+<OnLookAtPropStatue>d__8	MoveNext
+73	Arthur	There's not as many wrinkles as the real deal.	Il y a nettement moins de rides que sur l'originale.	RoomIntroCarriage+<OnLookAtPropStatue>d__8	MoveNext
+74	Arthur	This way for...	Par ici pour...	RoomIntroCarriage+<OnLookAtPropSignR>d__9	MoveNext
+75	Arthur	Dining Carriage.	Le Wagon-restaurant.	RoomIntroCarriage+<OnLookAtPropSignR>d__9	MoveNext
+76	Arthur	Casino Carriage.	Le Wagon-casino.	RoomIntroCarriage+<OnLookAtPropSignR>d__9	MoveNext
+77	Arthur	Lounge Area.	Le Salon.	RoomIntroCarriage+<OnLookAtPropSignR>d__9	MoveNext
+78	Arthur	I've always been fascinated by these little trolleys.	Ces petits chariots m'ont toujours fasciné.	RoomIntroCarriage+<OnInteractPropDiningCart>d__10	MoveNext
+0	WaiterTwo	Sir, you can order from the Dining Carriage if you're hungry.	Monsieur, vous pouvez commander au wagon-restaurant si vous avez faim.	RoomIntroCarriage+<OnInteractPropDiningCart>d__10	MoveNext
+79	Arthur	Just browsing!	Je ne fais que jeter un œil !	RoomIntroCarriage+<OnInteractPropDiningCart>d__10	MoveNext
+80	Arthur	That's better.	Voilà qui est mieux.	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+17	Herman	There, that should do it.	Et voilà, ça devrait suffire.	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+81	Arthur	Hello?	Bonjour ?	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+18	Herman	AGHH!	AAAARGH !	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+19	Herman	Mr Ackerman, I presume? I was just-	Monsieur Ackerman, je présume ? J'étais justement...	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+82	Arthur	Breaking and entering?	En train de commettre une effraction ?	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+20	Herman	On the contrary, I've been sent by our mutual benefactor.	Bien au contraire, j'ai été envoyé par notre bienfaitrice commune.	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+21	Herman	Lady Unterwald.	Lady Unterwald.	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+83	Arthur	Lady Unterwald, of course.	Lady Unterwald, évidemment.	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+84	Arthur	If you've come about the sink, it was like that when I got here.	Si vous venez pour le lavabo, il était déjà comme ça à mon arrivée.	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+22	Herman	Ho ho! There's no need to be humble, Mr Ackerman.	Ho ho ! Nul besoin de jouer les modestes, monsieur Ackerman.	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+23	Herman	'Tis I, Herman Merman!	C'est moi, Herman Merman !	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+85	Arthur	Uhh.	Euh...	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+25	Herman	Surely you've read the stories of my cases?	Vous avez sans doute dévoré les récits de mes enquêtes ?	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+86	Arthur	I'm not a big reader of fiction, sorry.	Je ne suis pas très porté sur les romans de gare, désolé.	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+27	Herman	Ah, well, there's a letter for you on the dresser.	Ah... Eh bien, il y a une lettre pour vous sur la commode.	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+87	Arthur	And the suit?	Et ce costume ?	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+28	Herman	Lady Unterwald believes a change of attire is in order.	Lady Unterwald estime qu'un changement de tenue s'impose.	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+29	Herman	I'll give you some privacy.	Je vous laisse à votre intimité.	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+30	Herman	Until we meet again, Mr Ackerman!	À très bientôt, monsieur Ackerman !	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+88	Arthur	What an unusual encounter.	Quelle étrange rencontre.	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+89	Arthur	I suppose I should read Lady Unterwald's letter.	J'imagine que je devrais lire la lettre de Lady Unterwald.	RoomArthurQuarters+<OnEnterRoomAfterFade>d__1	MoveNext
+90	Arthur	As you know, it's my desire for every passenger aboard the Reuss Express to not only enjoy themselves, but depart with a tale worth telling.	Comme vous le savez, mon souhait est que chaque passager à bord du Reuss Express passe un séjour mémorable et reparte avec une histoire digne d'être racontée.	RoomArthurQuarters+<OnInteractPropLetter>d__10	MoveNext
+91	Arthur	While the flashy suit provided can be seen as a symbolic gesture of excitement and adventure, it's also a very literal one.	Si le costume voyant fourni peut être vu comme un symbole d'aventure et de festivités, il l'est aussi au sens le plus strict.	RoomArthurQuarters+<OnInteractPropLetter>d__10	MoveNext
+92	Arthur	Get out of those drab clothes, and have yourself a good time. That's an order!	Débarrassez-vous de ces haillons ternes et amusez-vous. C'est un ordre !	RoomArthurQuarters+<OnInteractPropLetter>d__10	MoveNext
+93	Arthur	Yours sincerely, Lady Unterwald.	Bien à vous, Lady Unterwald.	RoomArthurQuarters+<OnInteractPropLetter>d__10	MoveNext
+94	Arthur	I think I got the gist of it. I'm to meet with Lady Unterwald.	Je pense avoir saisi l'essentiel. Je dois rejoindre Lady Unterwald.	RoomArthurQuarters+<OnInteractPropLetter>d__10	MoveNext
+95	Arthur	So I need to meet with Lady Unterwald in her quarters.	Je dois donc retrouver Lady Unterwald dans ses appartements.	RoomArthurQuarters+<OnInteractPropLetter>d__10	MoveNext
+117	Arthur	I wonder what Lady Unterwald has in store for me this time.	Je me demande ce que Lady Unterwald me réserve cette fois.	RoomArthurQuarters+<OnEnterRegionToSleeperCarriage>d__13	MoveNext
+118	Arthur	Look out, world.	Monde cruel, prends garde.	RoomArthurQuarters+<OnEnterRegionToSleeperCarriage>d__13	MoveNext
+119	Arthur	Arthur A. Ackerman has some intense lawyering to do.	Arthur A. Ackerman a des devoirs d'avocat de haute volée à accomplir.	RoomArthurQuarters+<OnEnterRegionToSleeperCarriage>d__13	MoveNext
+120	Arthur	If you're going to draft up contracts, you've got to have access to a trusty typewriter.	Pour rédiger de bons contrats, il faut toujours avoir une machine à écrire sous la main.	RoomArthurQuarters+<OnLookAtPropTypewriter>d__14	MoveNext
+122	Arthur	Ah, ol' reliable.	Ah, ma fidèle alliée.	RoomArthurQuarters+<OnLookAtPropBriefcase>d__17	MoveNext
+123	Arthur	It's got me through many a jam.	Elle m'a tiré d'affaire plus d'une fois.	RoomArthurQuarters+<OnLookAtPropBriefcase>d__17	MoveNext
+124	Arthur	Looking snazzy!	Quelle élégance !	RoomArthurQuarters+<OnLookAtPropWardrobe>d__19	MoveNext
+125	Arthur	Looking neat and orderly.	Tout est soigné et bien ordonné.	RoomArthurQuarters+<OnLookAtPropWardrobe>d__19	MoveNext
+126	Arthur	I don't think this is getting fixed any time soon.	Je crains que ce ne soit pas réparé de sitôt.	RoomArthurQuarters+<OnLookAtPropBasin>d__20	MoveNext
+127	Arthur	Nah, I don't need to look at my undergarments right now.	Non, je n'ai pas besoin d'examiner mes sous-vêtements maintenant.	RoomArthurQuarters+<OnLookAtPropLuggage>d__22	MoveNext
+128	Arthur	I'll let maintenance handle the blockage.	Je laisserai l'équipe d'entretien régler cette obstruction.	RoomArthurQuarters+<OnInteractPropBasin>d__21	MoveNext
+129	Arthur	I thought my brown suit was perfectly fine.	Et moi qui trouvais mon costume marron tout à fait convenable.	RoomArthurQuarters+<OnLookAtPropClothes>d__23	MoveNext
+179	Arthur	Cool Mint flavoured mouthwash.	Bain de bouche saveur menthe fraîche.	RoomArthurQuarters+<OnLookAtPropToiletries>d__24	MoveNext
+180	Arthur	Advisory: Contains pure Ethanol.	Avertissement : contient de l'éthanol pur.	RoomArthurQuarters+<OnLookAtPropToiletries>d__24	MoveNext
+181	Arthur	INGREDIENTS: Ethanol (29.9%), Eucalyptol, Menthol, Methyl Salicylate, Poloxamer 407, Thymol.	INGRÉDIENTS : Éthanol (29,9 %), Eucalyptol, Menthol, Salicylate de méthyle, Poloxamère 407, Thymol.	RoomArthurQuarters+<OnLookAtPropToiletries>d__24	MoveNext
+99	Arthur	Provides the perfect light level for reading legislation.	Offre une luminosité idéale pour compulser les textes de loi.	RoomArthurQuarters+<OnLookAtPropDeskLamp>d__27	MoveNext
+100	Arthur	If you're not squinting, you're having too much fun.	Si vous n'avez pas mal aux yeux, c'est que vous travaillez trop peu.	RoomArthurQuarters+<OnLookAtPropDeskLamp>d__27	MoveNext
+Are you nearly ready? I'm not getting any younger, dear.	Avez-vous bientôt terminé ? Je ne rajeunis pas, mon cher.
+Alas, you cannot rush perfection.	Hélas, on ne saurait bousculer la perfection.
+My apologies, am I interrupting?	Toutes mes excuses, est-ce que je vous dérange ?
+Not at all, Arthur! I'll be with you shortly.	Pas du tout, Arthur ! Je suis à vous dans un instant.
+Pierre should take but a--	Pierre n'en a que pour une...
+--moment!	...seconde !
+Oh, tremendous! I see even Arthur made an appearance.	Oh, prodigieux ! Je vois que même Arthur figure sur la toile.
+I capture every detail in the frame, madame. Exactly as I see it.	Je capture chaque détail dans le cadre, madame. Exactement tel que je le vois.
+Well, I do wish you'd take some creative liberties, dear.	Eh bien, j'aurais aimé que vous preniez quelques libertés artistiques, mon cher.
+We don't want anyone thinking I've got THIS many wrinkles!	Nous ne voudrions pas que l'on s'imagine que j'ai AUTANT de rides !
+As you wish!	À vos ordres !
+We can attempt another portrait during my speech, if you like.	Nous pourrons tenter un autre portrait durant mon discours, si le cœur vous en dit.
+Arthur, I've just signed another amendment to my will. It's by the window.	Arthur, je viens de signer un nouvel avenant à mon testament. Il est près de la fenêtre.
+Of course, I'll keep it safe in the briefcase for now.	Bien entendu, je vais le mettre en sécurité dans ma mallette pour le moment.
+You'll have to accept my apologies for all the cloak and dagger theatrics.	Vous m'excuserez pour toutes ces manières d'espion de roman.
+I must confess, I'm a little nervous about the speech tonight.	Je dois avouer que je suis un peu nerveuse à l'idée du discours de ce soir.
+Ma'am?	Madame ?
+It's going to ruffle some feathers. But do you think any of them are cut out to take over the reins?	Cela va froisser quelques susceptibilités. Mais pensez-vous que l'un d'entre eux ait les épaules pour reprendre les rênes ?
+Bickering sycophants, the lot of them!	Une bande de sycophantes querelleurs, jusqu'au dernier !
+They're just waiting for me to kick the bucket, you know?	Ils n'attendent qu'une chose : que je passe l'arme à gauche, vous savez ?
+Ohh, it makes my blood boil just thinking about it!	Ohh, rien que d'y penser, ça me fait bouillir le sang !
+Would you be a dear and open the window? It's getting quite hot in here, I need some air!	Auriez-vous la bonté d'ouvrir la fenêtre ? Il commence à faire une chaleur étouffante ici, j'ai besoin d'air !
+110	LadyUnterwald	Would you open the window, dear?	Voudriez-vous ouvrir la fenêtre, mon cher ?	RoomUnterwaldCarriage+<OnEnterRoomAfterFade>d__47	MoveNext
+116	LadyUnterwald	Put that away, Arthur.	Rangez cela, Arthur.	RoomUnterwaldCarriage+<OnUseInvPropDrawer>d__61	MoveNext

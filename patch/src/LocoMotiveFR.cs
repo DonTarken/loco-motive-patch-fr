@@ -60,7 +60,6 @@ namespace LocoMotiveFR
                 Directory.CreateDirectory(TranslationDir);
             }
 
-            // 1. Charger les fichiers TSV dans TranslationDir
             string[] tsvFiles = Directory.GetFiles(TranslationDir, "*.tsv", SearchOption.AllDirectories);
             foreach (var file in tsvFiles)
             {
@@ -91,7 +90,6 @@ namespace LocoMotiveFR
                     string[] parts = line.Split('\t');
                     if (parts.Length >= 4)
                     {
-                        // Format: Id \t Character \t English \t French
                         int id;
                         int.TryParse(parts[0].Trim(), out id);
                         string en = parts[2].Trim().Replace(" \\n ", "\n");
@@ -111,7 +109,6 @@ namespace LocoMotiveFR
                     }
                     else if (parts.Length >= 2)
                     {
-                        // Format: English \t French
                         string en = parts[0].Trim().Replace(" \\n ", "\n");
                         string fr = parts[1].Trim().Replace(" \\n ", "\n");
                         if (!string.IsNullOrEmpty(en) && !string.IsNullOrEmpty(fr))
@@ -121,6 +118,22 @@ namespace LocoMotiveFR
                     }
                 }
             }
+        }
+
+        public static string TranslateString(string input)
+        {
+            if (string.IsNullOrEmpty(input)) return input;
+            string fr;
+            if (TextByEnglish.TryGetValue(input, out fr) && !string.IsNullOrEmpty(fr))
+            {
+                return fr;
+            }
+            string trimmed = input.Trim();
+            if (TextByEnglish.TryGetValue(trimmed, out fr) && !string.IsNullOrEmpty(fr))
+            {
+                return fr;
+            }
+            return input;
         }
     }
 
@@ -166,18 +179,33 @@ namespace LocoMotiveFR
         }
     }
 
+    [HarmonyPatch(typeof(PowerTools.Quest.QuestTextPro), "SetText", new Type[] { typeof(string) })]
+    public static class Patch_QuestTextPro_SetText
+    {
+        [HarmonyPrefix]
+        public static void Prefix(ref string text)
+        {
+            text = LocoMotiveFRPlugin.TranslateString(text);
+        }
+    }
+
     [HarmonyPatch(typeof(TMP_Text), "text", MethodType.Setter)]
     public static class Patch_TMP_Text_Setter
     {
         [HarmonyPrefix]
         public static void Prefix(ref string value)
         {
-            if (string.IsNullOrEmpty(value)) return;
-            string fr;
-            if (LocoMotiveFRPlugin.TextByEnglish.TryGetValue(value, out fr) && !string.IsNullOrEmpty(fr))
-            {
-                value = fr;
-            }
+            value = LocoMotiveFRPlugin.TranslateString(value);
+        }
+    }
+
+    [HarmonyPatch(typeof(TMP_Text), "SetText", new Type[] { typeof(string), typeof(bool) })]
+    public static class Patch_TMP_Text_SetText
+    {
+        [HarmonyPrefix]
+        public static void Prefix(ref string text)
+        {
+            text = LocoMotiveFRPlugin.TranslateString(text);
         }
     }
 }
