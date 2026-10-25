@@ -1,0 +1,20 @@
+# Game binaries and large archives
+*.exe
+*.dll
+*.unity3d
+*.bundle
+*.resource
+*.bnvib
+
+# Build output
+bin/
+obj/
+dist/raw/
+
+# Logs and system
+*.log
+Thumbs.db
+.DS_Store
+
+# Ignore raw full dumps if large
+raw_dumps/
