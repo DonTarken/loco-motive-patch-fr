@@ -296,11 +296,14 @@ namespace LocoMotiveFR
                         newLangs.AddRange(currentLangs);
                     }
                     bool hasFr = false;
-                    foreach (var l in newLangs)
+                    int frIndex = -1;
+                    for (int i = 0; i < newLangs.Count; i++)
                     {
+                        var l = newLangs[i];
                         if (l != null && (l.m_code == "fr" || l.m_description == "Français"))
                         {
                             hasFr = true;
+                            frIndex = i;
                             break;
                         }
                     }
@@ -310,8 +313,27 @@ namespace LocoMotiveFR
                         frLang.m_code = "fr";
                         frLang.m_description = "Français";
                         newLangs.Add(frLang);
+                        frIndex = newLangs.Count - 1;
                         fi.SetValue(__instance, newLangs.ToArray());
                         if (LocoMotiveFRPlugin.Log != null) LocoMotiveFRPlugin.Log.LogInfo("-> Langue 'Français' ajoutée avec succès au menu des langues de SystemText !");
+                    }
+
+                    // Activer le Français par défaut si la langue était sur 0 (English)
+                    try
+                    {
+                        var pq = PowerTools.Quest.PowerQuest.Get;
+                        if (pq != null && pq.Settings != null && frIndex > 0)
+                        {
+                            if (pq.Settings.LanguageId == 0)
+                            {
+                                pq.Settings.LanguageId = frIndex;
+                                if (LocoMotiveFRPlugin.Log != null) LocoMotiveFRPlugin.Log.LogInfo(string.Format("-> Langue active définie sur Français (index {0}) !", frIndex));
+                            }
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        if (LocoMotiveFRPlugin.Log != null) LocoMotiveFRPlugin.Log.LogWarning("Impossible de forcer la langue active : " + ex.Message);
                     }
                 }
             }
@@ -356,9 +378,9 @@ namespace LocoMotiveFR
 
     public static class Patch_TMP_Text_SetText
     {
-        public static void Prefix(ref string text)
+        public static void Prefix(ref string sourceText)
         {
-            text = LocoMotiveFRPlugin.TranslateString(text);
+            sourceText = LocoMotiveFRPlugin.TranslateString(sourceText);
         }
     }
 }

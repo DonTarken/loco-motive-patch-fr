@@ -11,14 +11,18 @@ if (!(Test-Path "$GameDir\Loco Motive.exe")) {
     Write-Error "Le jeu n'a pas été trouvé dans $GameDir"
 }
 
-# 1. Copie des fichiers de base BepInEx
-Write-Host "1. Installation du runtime BepInEx..." -ForegroundColor Yellow
-Copy-Item -Path "patch\BepInEx_base\winhttp.dll" -Destination $GameDir -Force
-Copy-Item -Path "patch\BepInEx_base\doorstop_config.ini" -Destination $GameDir -Force
+# 1. Copie des fichiers de base BepInEx si nécessaire
+if (!(Test-Path "$GameDir\winhttp.dll")) {
+    Write-Host "1. Installation du runtime BepInEx..." -ForegroundColor Yellow
+    Copy-Item -Path "patch\BepInEx_base\winhttp.dll" -Destination $GameDir -Force
+    Copy-Item -Path "patch\BepInEx_base\doorstop_config.ini" -Destination $GameDir -Force
+}
 
 $destBepInEx = Join-Path $GameDir "BepInEx"
 if (!(Test-Path $destBepInEx)) { New-Item -ItemType Directory -Path $destBepInEx -Force | Out-Null }
-Copy-Item -Path "patch\BepInEx_base\BepInEx\core" -Destination $destBepInEx -Recurse -Force
+if (!(Test-Path "$destBepInEx\core")) {
+    Copy-Item -Path "patch\BepInEx_base\BepInEx\core" -Destination $destBepInEx -Recurse -Force
+}
 
 # 2. Copie du plugin compilé LocoMotiveFR.dll
 Write-Host "2. Installation du plugin LocoMotiveFR.dll..." -ForegroundColor Yellow

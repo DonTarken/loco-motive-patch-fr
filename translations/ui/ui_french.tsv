@@ -1,7 +1,7 @@
-START GAME	DÉMARRER LA PARTIE
-Start Game	Démarrer la partie
+START GAME	COMMENCER
+Start Game	Commencer
 NEW GAME	NOUVELLE PARTIE
-New Game	Nouvelle Partie
+New Game	Nouvelle partie
 CONTINUE	CONTINUER
 Continue	Continuer
 SETTINGS	PARAMÈTRES
@@ -10,6 +10,13 @@ CREDITS	CRÉDITS
 Credits	Crédits
 QUIT	QUITTER
 Quit	Quitter
+PRESS ANY BUTTON	APPUYEZ SUR UNE TOUCHE
+Press Any Button	Appuyez sur une touche
+Press any button	Appuyez sur une touche
+GAME PAUSED	JEU EN PAUSE
+Game Paused	Jeu en pause
+PAUSE	PAUSE
+Pause	Pause
 BACK	RETOUR
 Back	Retour
 DEFAULTS	PAR DÉFAUT
@@ -96,7 +103,6 @@ Cycle Selected Hotspot	Faire défiler les éléments
 Run (Hold)	Courir (Maintenir)
 Move	Se déplacer
 Select Dialogue Choice	Choisir une réponse
-Pause	Pause
 Highlight All Objects	Révéler les objets interactifs
 Prologue	Prologue
 Part One	Première Partie
@@ -107,3 +113,7 @@ Part Five	Cinquième Partie
 Part Six	Sixième Partie
 Part Seven	Septième Partie
 Chapter	Chapitre
+English (UK)	Anglais (UK)
+ENGLISH (UK)	ANGLAIS (UK)
+Français	Français
+FRANÇAIS	FRANÇAIS

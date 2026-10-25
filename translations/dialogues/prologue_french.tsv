@@ -85,3 +85,93 @@ Ohh, it makes my blood boil just thinking about it!	Ohh, rien que d'y penser, ç
 Would you be a dear and open the window? It's getting quite hot in here, I need some air!	Auriez-vous la bonté d'ouvrir la fenêtre ? Il commence à faire une chaleur étouffante ici, j'ai besoin d'air !
 110	LadyUnterwald	Would you open the window, dear?	Voudriez-vous ouvrir la fenêtre, mon cher ?	RoomUnterwaldCarriage+<OnEnterRoomAfterFade>d__47	MoveNext
 116	LadyUnterwald	Put that away, Arthur.	Rangez cela, Arthur.	RoomUnterwaldCarriage+<OnUseInvPropDrawer>d__61	MoveNext
+4	LadyUnterwald	Arthur!	Arthur !	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	MoveNext
+5	LadyUnterwald	Stop your dilly-dallying.	Cessez de lambiner.	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	MoveNext
+348	Arthur	Coming, Lady Unterwald!	J'arrive, Lady Unterwald !	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	MoveNext
+6	LadyUnterwald	Thank you all for coming.	Merci à tous d'être venus.	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	MoveNext
+7	LadyUnterwald	You know me as the “Ageing heiress of the Wald-Bahn Empire”.	Vous me connaissez comme la « vieille héritière de l'empire Wald-Bahn ».	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	MoveNext
+8	LadyUnterwald	But there comes a day for everyone, when you know your time is up.	Mais pour chacun vient un jour où l'on sait que son heure a sonné.	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	MoveNext
+9	LadyUnterwald	I've long desired to leave my legacy in good hands, and after much deliberation-	J'ai longtemps souhaité transmettre mon héritage à de bonnes mains, et après mûre réflexion...	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	MoveNext
+0	Arista	Be quiet, you idiots. We don't have all day!	Taisez-vous, imbéciles. Nous n'avons pas toute la journée !	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	MoveNext
+10	LadyUnterwald	AHEM!	HUM HUM !	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	MoveNext
+11	LadyUnterwald	AFTER MUCH DELIBERATION...	APRÈS MÛRE RÉFLEXION...	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	MoveNext
+12	LadyUnterwald	It's my desire that the Unterwald estate be passed over, in its entirety...	C'est ma volonté que l'empire Unterwald soit légué, dans son intégralité...	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	MoveNext
+1	Hirsch	Wait!	Attendez !	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	MoveNext
+2	Hirsch	It may just be a flesh wound!	Ce n'est peut-être qu'une égratignure !	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	MoveNext
+24	Bailey	You're telling us that's how it happened, Arthur?	Vous prétendez que c'est ainsi que ça s'est passé, Arthur ?	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	MoveNext
+35	Lamont	This stinks, Bailey.	Ça sent mauvais, Bailey.	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	MoveNext
+36	Lamont	It's got the unmistakable musk of...	Ça a le parfum caractéristique du...	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	MoveNext
+345	Arthur	The will!	Le testament !	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldMurderScene>d__36	MoveNext
+346	Arthur	It's caught on the window!	Il est coincé sur la fenêtre !	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldMurderScene>d__36	MoveNext
+347	Arthur	I might still have time to grab it...	J'ai peut-être encore le temps de l'attraper...	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldMurderScene>d__36	MoveNext
+113	Herman	Ladies and gentlemen, thank you for gathering here.	Mesdames et messieurs, merci de vous être réunis ici.	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+114	Herman	There is a killer among us, but I assure you they've made a grave mistake.	Il y a un meurtrier parmi nous, mais je vous assure qu'il a commis une grave erreur.	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+3	Hirsch	They couldn't have accounted for the presence of a world renowned detective!	Il ne pouvait pas prévoir la présence d'un détective de renommée mondiale !	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+17	Bergmann	There's a detective aboard this train?	Il y a un détective à bord de ce train ?	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+4	Hirsch	Indeed there is.	Tout à fait.	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+18	Bergmann	Well? Where are they?	Eh bien ? Où est-il ?	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+115	Herman	'Tis I, Herman Merman! Detective extraordinaire!	C'est moi, Herman Merman ! Détective extraordinaire !	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+19	Bergmann	And you have experience in solving murder cases, Mr Merman?	Et vous avez de l'expérience dans la résolution de meurtres, monsieur Merman ?	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+116	Herman	I-I need not bore you with the details.	Je... je ne vais pas vous ennuyer avec les détails.	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+117	Herman	Let's get straight down to business, shall we?	Passons plutôt directement aux choses sérieuses, voulez-vous ?	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+20	Bergmann	Good heavens!	Grands dieux !	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+118	Herman	Lady Unterwald's final moments were captured by the renowned speed painter, Pierre Brosse.	Les derniers instants de Lady Unterwald ont été saisis par le célèbre peintre sur le vif, Pierre Brosse.	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+119	Herman	It's clear that nobody approached Lady Unterwald directly.	Il est évident que personne ne s'est approché directement de Lady Unterwald.	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+6	Hirsch	That means the attack must have been made from a distance.	Ce qui signifie que l'attaque a dû être portée à distance.	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+120	Herman	Mr Ackerman, you were safekeeping Lady Unterwald's last will and testament?	Monsieur Ackerman, vous aviez sous votre garde le testament de Lady Unterwald ?	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+392	Arthur	That's right. I had to oversee some last minute amendments to the will.	C'est exact. Je devais superviser quelques modifications de dernière minute.	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+21	Bergmann	Are you suggesting this amended will could reveal a motive, Mr Merman?	Suggérez-vous que ce testament modifié pourrait révéler un mobile, monsieur Merman ?	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+121	Herman	Indeed. I believe it to be the smoking gun that will unravel this entire mystery!	Exactement. C'est selon moi la preuve irréfutable qui va percer tout ce mystère !	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+7	Hirsch	Bravo, Herman Merman! Bravo!	Bravo, Herman Merman ! Bravo !	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+122	Herman	Hand me the will, Arthur. We should be able to wrap this up in no time at all!	Donnez-moi le testament, Arthur. Nous devrions clore cette affaire en un tournemain !	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+123	Herman	Wait, you don't have the will? That was your only job!	Attendez, vous n'avez pas le testament ? C'était votre seule mission !	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+609	Arthur	I hope you weren't counting on it for your big reveal.	J'espère que vous ne comptiez pas trop dessus pour votre grande révélation.	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+124	Herman	Well I... I...	Eh bien je... je...	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+8	Hirsch	Herman Merman? Are you alright?	Herman Merman ? Tout va bien ?	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+22	Bergmann	He's gone quite pale.	Il est devenu tout pâle.	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+1	Arista	I may be hard of hearing, but it sounds like our detective is out of ideas.	J'ai beau être dure d'oreille, on dirait bien que notre détective est à court d'idées.	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+9	Hirsch	Uh-oh.	Oh-oh.	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+25	Gunter	Is that the sound of another tunnel?	Serait-ce le grondement d'un nouveau tunnel ?	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+125	Herman	No! Th-that's when the killer strikes!	Non ! C'est... c'est le moment où le tueur frappe !	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+126	Herman	Help! Somebody get me out of here!	À l'aide ! Que quelqu'un me sorte de là !	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+10	Hirsch	Herman?	Herman ?	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+23	Bergmann	Well then.	Eh bien, ma foi.	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+11	Hirsch	What do we do now?	Qu'est-ce qu'on fait maintenant ?	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+20	Lamont	Your first instinct was to rush to the scene of the crime? That doesn't sound like you.	Votre premier réflexe a été de vous ruer sur la scène de crime ? Ça ne vous ressemble pas.	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+12	Herman	It was merely an opportunity to put my detectiving skills to the test.	C'était simplement l'occasion de mettre mes talents de détective à l'épreuve.	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+13	Herman	But more importantly, I needed to know if I was also a target.	Mais surtout, j'avais besoin de savoir si j'étais moi aussi une cible.	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+37	Lamont	Go on...	Continuez...	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+14	Herman	I thought if I could convince the killer I was onto them, perhaps they'd back off.	J'ai pensé que si je persuadais le tueur que j'étais sur sa piste, il battrait peut-être en retraite.	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+42	Lamont	But your plan fell apart when the attorney lost the will, didn't it, Herman?	Mais votre plan a volé en éclats quand l'avocat a égaré le testament, n'est-ce pas, Herman ?	RoomLoungeCarriage+<OnEnterAfterFadePrologueHermanDisappears>d__45	MoveNext
+0	Lamont	GUILT!	COUPABLE !	RoomInterrogation+<OnEnterRoomAfterFadeActOneOpeningScene>d__36	MoveNext
+0	Bailey	Careful, Lamont. We're dealing with a lawyer here.	Prudence, Lamont. On a affaire à un avocat.	RoomInterrogation+<OnEnterRoomAfterFadeActOneOpeningScene>d__36	MoveNext
+1	Arthur	Arthur Ackerman, attorney-at-law!	Arthur Ackerman, avocat au barreau !	RoomInterrogation+<OnEnterRoomAfterFadeActOneOpeningScene>d__36	MoveNext
+1	Lamont	Listen, Arthur. You're accused of murdering your own client.	Écoute, Arthur. Tu es accusé d'avoir assassiné ta propre cliente.	RoomInterrogation+<OnEnterRoomAfterFadeActOneOpeningScene>d__36	MoveNext
+2	Lamont	What do you have to say for yourself?	Qu'est-ce que tu as à dire pour ta défense ?	RoomInterrogation+<OnEnterRoomAfterFadeActOneOpeningScene>d__36	MoveNext
+0	Herman	I assure you detectives, these restraints are unnecessary!	Je vous assure, messieurs les inspecteurs, ces fers sont tout à fait superflus !	RoomInterrogation+<OnEnterRoomAfterFadeActTwoOpeningScene>d__46	MoveNext
+14	Lamont	Herman Merman, as I live and breathe!	Herman Merman en chair et en os !	RoomInterrogation+<OnEnterRoomAfterFadeActTwoOpeningScene>d__46	MoveNext
+15	Lamont	I hope you don't mind me saying, but we're big fans of your work.	Si je puis me permettre, nous sommes de grands admirateurs de vos exploits.	RoomInterrogation+<OnEnterRoomAfterFadeActTwoOpeningScene>d__46	MoveNext
+17	Lamont	Isn't that right, Bailey?	Pas vrai, Bailey ?	RoomInterrogation+<OnEnterRoomAfterFadeActTwoOpeningScene>d__46	MoveNext
+30	Bailey	Oh? I mean, yes, I could hardly contain my excitement.	Ah ? Oui, enfin, je déborde d'enthousiasme, c'est évident.	RoomInterrogation+<OnEnterRoomAfterFadeActTwoOpeningScene>d__46	MoveNext
+40	Lamont	We were thinking, maybe you could help us out, Herman?	On se disait que vous pourriez peut-être nous donner un coup de main, Herman ?	RoomInterrogation+<OnEnterRoomAfterFadeActTwoOpeningScene>d__46	MoveNext
+31	Herman	Well, I'm always happy to assist a fan!	Eh bien, je suis toujours ravi d'aider un admirateur !	RoomInterrogation+<OnEnterRoomAfterFadeActTwoOpeningScene>d__46	MoveNext
+18	Lamont	Maybe you could tell us what happened on the Reuss Express?	Vous pourriez peut-être nous raconter ce qui s'est passé à bord du Reuss Express ?	RoomInterrogation+<OnEnterRoomAfterFadeActTwoOpeningScene>d__46	MoveNext
+32	Herman	You want to know about the Reuss Express?	Vous voulez savoir ce qui s'est passé sur le Reuss Express ?	RoomInterrogation+<OnEnterRoomAfterFadeActTwoOpeningScene>d__46	MoveNext
+11	Bailey	We wanted to give you the opportunity to set the record straight.	On voulait vous donner l'occasion de rétablir la vérité.	RoomInterrogation+<OnEnterRoomAfterFadeActTwoOpeningScene>d__46	MoveNext
+41	Lamont	What do you say?	Qu'en dites-vous ?	RoomInterrogation+<OnEnterRoomAfterFadeActTwoOpeningScene>d__46	MoveNext
+22	Lamont	Look, lady. We just want to know the truth. Can't you just tell us what happened?	Écoutez, ma petite dame. On veut juste la vérité. Vous ne pouvez pas simplement nous dire ce qui s'est passé ?	RoomInterrogation+<OnEnterRoomAfterFadeActThreeOpeningScene>d__50	MoveNext
+0	Diana	I'd love to tell you, officer, but I'm afraid it's all classified.	J'adorerais, inspecteur, mais j'ai bien peur que ce soit top secret.	RoomInterrogation+<OnEnterRoomAfterFadeActThreeOpeningScene>d__50	MoveNext
+1	Diana	Top secret. My lips are sealed.	Secret défense. Mes lèvres sont scellées.	RoomInterrogation+<OnEnterRoomAfterFadeActThreeOpeningScene>d__50	MoveNext
+23	Lamont	*Groan*	*Soupir*	RoomInterrogation+<OnEnterRoomAfterFadeActThreeOpeningScene>d__50	MoveNext
+24	Lamont	Bailey, we've been at this for days... I'm not sure if I have it in me any more.	Bailey, ça fait des jours qu'on est dessus... Je ne sais pas si je vais tenir le coup.	RoomInterrogation+<OnEnterRoomAfterFadeActThreeOpeningScene>d__50	MoveNext
+17	Bailey	Diana, please. We're all just looking to wrap this up.	Diana, s'il vous plaît. On veut tous en finir avec cette affaire.	RoomInterrogation+<OnEnterRoomAfterFadeActThreeOpeningScene>d__50	MoveNext
+25	Lamont	Was it money? Vengeance? A burning hatred for the elderly?	C'était pour l'argent ? La vengeance ? Une aversion viscérale envers le troisième âge ?	RoomInterrogation+<OnEnterRoomAfterFadeActThreeOpeningScene>d__50	MoveNext
+2	Diana	The tragic death of Lady Unterwald wasn't my doing, in fact it made my mission terribly complicated.	La fin tragique de Lady Unterwald n'est pas de mon fait, au contraire, ça a terribly compliqué ma mission.	RoomInterrogation+<OnEnterRoomAfterFadeActThreeOpeningScene>d__50	MoveNext
+26	Lamont	Mission? What mission?	Mission ? Quelle mission ?	RoomInterrogation+<OnEnterRoomAfterFadeActThreeOpeningScene>d__50	MoveNext
+18	Bailey	We found you at the scene, Diana. But you weren't on the manifest.	On vous a trouvée sur place, Diana. Mais vous ne figurez pas sur la liste des passagers.	RoomInterrogation+<OnEnterRoomAfterFadeActThreeOpeningScene>d__50	MoveNext
+19	Bailey	There's no record of you ever boarding the train.	Il n'y a aucune trace de votre montée à bord.	RoomInterrogation+<OnEnterRoomAfterFadeActThreeOpeningScene>d__50	MoveNext
+3	Diana	Probably just a clerical error. I'm sure it happens all the time.	Certainement une simple erreur administrative. Ça arrive tout le temps, voyons.	RoomInterrogation+<OnEnterRoomAfterFadeActThreeOpeningScene>d__50	MoveNext
+27	Lamont	It's highly suspicious, you have to admit.	C'est extrêmement louche, vous en conviendrez.	RoomInterrogation+<OnEnterRoomAfterFadeActThreeOpeningScene>d__50	MoveNext
+20	Bailey	This is the sort of detail that could be very compelling to a jury.	C'est le genre de détail qui fait mouche auprès d'un jury.	RoomInterrogation+<OnEnterRoomAfterFadeActThreeOpeningScene>d__50	MoveNext
+5	Diana	Fine, I can tell you aren't going to stop asking. But it won't do you any good, you know!	D'accord, je vois bien que vous ne lâcherez pas l'affaire. Mais ça ne vous avancera à rien, je vous préviens !	RoomInterrogation+<OnEnterRoomAfterFadeActThreeOpeningScene>d__50	MoveNext
+21	Bailey	Start at the beginning.	Commencez par le début.	RoomInterrogation+<OnEnterRoomAfterFadeActThreeOpeningScene>d__50	MoveNext
