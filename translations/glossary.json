@@ -1,0 +1,108 @@
+{
+  "characters": [
+    {
+      "en": "Arthur Ackerman",
+      "fr": "Arthur Ackerman",
+      "description": "Avocat rigide, méthodique et timide de Lady Unterwald, l'un des trois protagonistes jouables."
+    },
+    {
+      "en": "Herman Merman",
+      "fr": "Herman Merman",
+      "description": "Détective privé excentrique, fanfaron et loufoque, persuadé d'être un génie de l'enquête."
+    },
+    {
+      "en": "Diana Osterhagen",
+      "fr": "Diana Osterhagen",
+      "description": "Espionne infiltrée, athlétique, vive d'esprit et sarcastique."
+    },
+    {
+      "en": "Lady Unterwald",
+      "fr": "Lady Unterwald",
+      "description": "Riche héritière excentrique et tyrannique dont le meurtre lance l'intrigue."
+    },
+    {
+      "en": "Chiselton",
+      "fr": "Chiselton",
+      "description": "Majordome dévoué mais suspect."
+    },
+    {
+      "en": "Hirsch",
+      "fr": "Hirsch",
+      "description": "Inspecteur de police officiel ou passager important."
+    },
+    {
+      "en": "Arista",
+      "fr": "Arista",
+      "description": "Passagère mondaine du train."
+    },
+    {
+      "en": "Don",
+      "fr": "Don",
+      "description": "Escroc / faussaire à bord."
+    },
+    {
+      "en": "Bergmann",
+      "fr": "Bergmann",
+      "description": "Suspect allemand / passager mystérieux."
+    },
+    {
+      "en": "Jian Liu",
+      "fr": "Jian Liu",
+      "description": "Passager énigmatique, amateur d'arts et d'idoles."
+    }
+  ],
+  "locations": [
+    {
+      "en": "Reuss Express",
+      "fr": "Reuss Express",
+      "description": "Le train de luxe à bord duquel se déroule l'enquête."
+    },
+    {
+      "en": "Bar Carriage",
+      "fr": "Wagon-bar",
+      "description": "Voiture bar du train."
+    },
+    {
+      "en": "Dining Carriage",
+      "fr": "Wagon-restaurant",
+      "description": "Voiture restaurant."
+    },
+    {
+      "en": "Baggage Carriage",
+      "fr": "Fourgon à bagages",
+      "description": "Wagon où sont stockés les malles et marchandises."
+    },
+    {
+      "en": "Sleeper Carriage",
+      "fr": "Voiture-lits / Wagon-couchettes",
+      "description": "Compartiments des passagers."
+    },
+    {
+      "en": "Casino Carriage",
+      "fr": "Wagon-casino",
+      "description": "Voiture réservée aux jeux d'argent."
+    },
+    {
+      "en": "Engine Room / Locomotive",
+      "fr": "Locomotive / Salle des machines",
+      "description": "Tête du train."
+    }
+  ],
+  "common_terms": [
+    {
+      "en": "Will",
+      "fr": "Testament",
+      "note": "Document central de l'héritage de Lady Unterwald au cœur de l'intrigue."
+    },
+    {
+      "en": "Hint",
+      "fr": "Indice",
+      "note": "Système d'aide en jeu."
+    },
+    {
+      "en": "Inventory",
+      "fr": "Inventaire",
+      "note": "Affichage des objets portés par le personnage."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+Id	Character	English	French	Class	Method
+735	Herman	'Tis I, Herman Merman – detective extraordinaire!	C'est moi, Herman Merman – détective extraordinaire !	DialogIntroductionStageManager+<Option1>d__1	MoveNext
+55	StageManager	Herman Merman? And that's your real name?	Herman Merman ? Et c'est votre véritable nom ?	DialogIntroductionStageManager+<Option1>d__1	MoveNext
+736	Herman	It is indeed!	Tout à fait !	DialogIntroductionStageManager+<Option1>d__1	MoveNext
+56	StageManager	So your parents were trying to make things difficult for you?	Vos parents cherchaient donc à vous compliquer l'existence ?	DialogIntroductionStageManager+<Option1>d__1	MoveNext
+737	Herman	They were both quite eccentric, now that you mention it.	Ils étaient tous les deux particulièrement excentriques, maintenant que vous le dites.	DialogIntroductionStageManager+<Option1>d__1	MoveNext
+57	StageManager	I don't doubt it.	Je n'en doute pas une seule seconde.	DialogIntroductionStageManager+<Option1>d__1	MoveNext
+This game supports automatic saving.	Ce jeu utilise la sauvegarde automatique.
+Do not turn off or reset the device when this symbol is displayed.	N'éteignez pas votre ordinateur lorsque ce symbole s'affiche.
+Prologue	Prologue
+Part One	Première Partie
+Part Two	Deuxième Partie
+Part Three	Troisième Partie
+Part Four	Quatrième Partie
+Part Five	Cinquième Partie
+Part Six	Sixième Partie
+Part Seven	Septième Partie

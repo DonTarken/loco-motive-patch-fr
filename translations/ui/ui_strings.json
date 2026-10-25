@@ -1,0 +1,1616 @@
+﻿[
+    {
+        "En":  "This game supports automatic saving.",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiAutosaveDisclaimer.OnShow"
+    },
+    {
+        "En":  "Do not turn off or reset the device when this symbol is displayed.",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiAutosaveDisclaimer.OnShow"
+    },
+    {
+        "En":  "Prologue",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiChapterSelect.OnShow"
+    },
+    {
+        "En":  "Part One",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiChapterSelect.OnShow"
+    },
+    {
+        "En":  "Part Two",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiChapterSelect.OnShow"
+    },
+    {
+        "En":  "Part Three",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiChapterSelect.OnShow"
+    },
+    {
+        "En":  "Part Four",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiChapterSelect.OnShow"
+    },
+    {
+        "En":  "Part Five",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiChapterSelect.OnShow"
+    },
+    {
+        "En":  "Part Six",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiChapterSelect.OnShow"
+    },
+    {
+        "En":  "Finale",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiChapterSelect.OnShow"
+    },
+    {
+        "En":  "Character",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiCharacterSwap.OnSwitchToArthur"
+    },
+    {
+        "En":  "CharacterSwap",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDialogTree.OnShow"
+    },
+    {
+        "En":  "Pointer",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDialogTree.OnShow"
+    },
+    {
+        "En":  "\u003cfont=\"{0}\"\u003e\u003csize={1}px\u003e{2}",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDialogTreeComponent.UpdateItems"
+    },
+    {
+        "En":  "Key1",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDialogTreeComponent.Update"
+    },
+    {
+        "En":  "Key2",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDialogTreeComponent.Update"
+    },
+    {
+        "En":  "Key3",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDialogTreeComponent.Update"
+    },
+    {
+        "En":  "Key4",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDialogTreeComponent.Update"
+    },
+    {
+        "En":  "Key5",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDialogTreeComponent.Update"
+    },
+    {
+        "En":  "Key6",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDialogTreeComponent.Update"
+    },
+    {
+        "En":  "Key7",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDialogTreeComponent.Update"
+    },
+    {
+        "En":  "Key8",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDialogTreeComponent.Update"
+    },
+    {
+        "En":  "Key9",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDialogTreeComponent.Update"
+    },
+    {
+        "En":  "Welcome!",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDisclaimer.OnShow"
+    },
+    {
+        "En":  "Prepare to board the Reuss Express for an exclusive\ndemo of this murder mystery comedy adventure.",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDisclaimer.OnShow"
+    },
+    {
+        "En":  "The full game will feature:",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDisclaimer.OnShow"
+    },
+    {
+        "En":  "\u003cbounce a=0.15\u003e",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDisclaimer.OnShow"
+    },
+    {
+        "En":  "Three playable characters in a\nfeature-length story!",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDisclaimer.OnShow"
+    },
+    {
+        "En":  "Puzzle hint system!",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDisclaimer.OnShow"
+    },
+    {
+        "En":  "An ambiguously European locale!",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDisclaimer.OnShow"
+    },
+    {
+        "En":  "Even more jokes and puzzles!",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDisclaimer.OnShow"
+    },
+    {
+        "En":  "\u003c/\u003e",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDisclaimer.OnShow"
+    },
+    {
+        "En":  "Coming to PC \u0026 Nintendo Switch - Q4 2024!",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDisclaimer.OnShow"
+    },
+    {
+        "En":  "OnClickBtnContinue",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiDisclaimer.\u003cRefreshNavigationUI\u003eb__11_0"
+    },
+    {
+        "En":  "Wishlist on Steam!",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiEndSlate.OnShow"
+    },
+    {
+        "En":  "bus:/Music",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiEndSlate.OnShow"
+    },
+    {
+        "En":  "Wishlist",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiEndSlate.RefreshNavigationUI"
+    },
+    {
+        "En":  "OnClickBtnWishlist",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiEndSlate.\u003cRefreshNavigationUI\u003eb__19_1"
+    },
+    {
+        "En":  "Another error is already showing!",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiErrorHandler.Show"
+    },
+    {
+        "En":  "Hold to Skip",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiHoldSkipCutscene.OnShow"
+    },
+    {
+        "En":  "Skip Cutscene",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiHoldSkipCutscene.Update"
+    },
+    {
+        "En":  "Text",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiHoverText.Update"
+    },
+    {
+        "En":  "ScreenAnchor",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiInventory.get_ScreenAnchor"
+    },
+    {
+        "En":  "Back",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiInventory.OnControllerChanged"
+    },
+    {
+        "En":  "Close",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiInventory.OnControllerChanged"
+    },
+    {
+        "En":  "Scroll Up",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiInventory.OnControllerChanged"
+    },
+    {
+        "En":  "Scroll Down",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiInventory.OnControllerChanged"
+    },
+    {
+        "En":  "ArthurInventory",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiInventory.OnPlayerChanged"
+    },
+    {
+        "En":  "HermanInventory",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiInventory.OnPlayerChanged"
+    },
+    {
+        "En":  "DianaInventory",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiInventory.OnPlayerChanged"
+    },
+    {
+        "En":  "DialogText",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiInventory.HideDialogText"
+    },
+    {
+        "En":  "ArthurBG",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiInventoryButton.OnPlayerChanged"
+    },
+    {
+        "En":  "Suitless",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiInventoryButton.OnPlayerChanged"
+    },
+    {
+        "En":  "SuitlessArthurIcon",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiInventoryButton.OnPlayerChanged"
+    },
+    {
+        "En":  "ArthurIcon",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiInventoryButton.OnPlayerChanged"
+    },
+    {
+        "En":  "HermanBG",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiInventoryButton.OnPlayerChanged"
+    },
+    {
+        "En":  "HermanIcon",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiInventoryButton.OnPlayerChanged"
+    },
+    {
+        "En":  "DianaBG",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiInventoryButton.OnPlayerChanged"
+    },
+    {
+        "En":  "DianaIcon",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiInventoryButton.OnPlayerChanged"
+    },
+    {
+        "En":  "ReturnFromSave",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiMainMenu.OnShow"
+    },
+    {
+        "En":  "ReturnFromSettings",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiMainMenu.OnShow"
+    },
+    {
+        "En":  "KO",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiMainMenu.OnLanguageChanged"
+    },
+    {
+        "En":  "logo_kr",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiMainMenu.OnLanguageChanged"
+    },
+    {
+        "En":  "logo_en",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiMainMenu.OnLanguageChanged"
+    },
+    {
+        "En":  "New Game",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiMainMenu.SetDefaultLabels"
+    },
+    {
+        "En":  "Start Game",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiMainMenu.SetDefaultLabels"
+    },
+    {
+        "En":  "Settings",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiMainMenu.SetDefaultLabels"
+    },
+    {
+        "En":  "Credits",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiMainMenu.SetDefaultLabels"
+    },
+    {
+        "En":  "Quit",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiMainMenu.SetDefaultLabels"
+    },
+    {
+        "En":  "Play Demo",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiMainMenu.SetTimedDemoLabels"
+    },
+    {
+        "En":  "Add to Wishlist",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiMainMenu.SetUntimedDemoLabels"
+    },
+    {
+        "En":  "Select",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiMainMenu.RefreshNavigationUI"
+    },
+    {
+        "En":  "dd/MM/yy",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiMedicalRecords.OnShow"
+    },
+    {
+        "En":  "Character {0} not found in map.",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiMedicalRecords.OnShow"
+    },
+    {
+        "En":  "DE",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiMedicalRecords.OnLanguageChanged"
+    },
+    {
+        "En":  "NotesDE",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiMedicalRecords.OnLanguageChanged"
+    },
+    {
+        "En":  "NotesEN",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiMedicalRecords.OnLanguageChanged"
+    },
+    {
+        "En":  "UICancel",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiMedicalRecords.Update"
+    },
+    {
+        "En":  "\u003csize={0}px\u003e{1}{2}",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiNavigationComponent.Show"
+    },
+    {
+        "En":  "GAME PAUSED",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiPause.Show"
+    },
+    {
+        "En":  "Another prompt is already showing!",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiPause.Show"
+    },
+    {
+        "En":  "SAVE GAME",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSave.OnShow"
+    },
+    {
+        "En":  "LOAD GAME",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSave.OnShow"
+    },
+    {
+        "En":  "SaveSlot1",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSave.OnShow"
+    },
+    {
+        "En":  "SaveSlot2",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSave.OnShow"
+    },
+    {
+        "En":  "SaveSlot3",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSave.OnShow"
+    },
+    {
+        "En":  "SaveSlot4",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSave.OnShow"
+    },
+    {
+        "En":  "SaveSlot5",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSave.OnShow"
+    },
+    {
+        "En":  "SaveSlot6",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSave.OnShow"
+    },
+    {
+        "En":  "EMPTY",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSave.OnShow"
+    },
+    {
+        "En":  "dd/MM/yyyy",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSave.OnShow"
+    },
+    {
+        "En":  "HH:mm",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSave.OnShow"
+    },
+    {
+        "En":  "ALERT!",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSave.OnClickSaveSlot"
+    },
+    {
+        "En":  "There is already a save file in this slot, would you like to overwrite it?",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSave.OnClickSaveSlot"
+    },
+    {
+        "En":  "YES, CONTINUE",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSave.OnClickSaveSlot"
+    },
+    {
+        "En":  "NO, GO BACK",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSave.OnClickSaveSlot"
+    },
+    {
+        "En":  "Autosave",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSave.Save"
+    },
+    {
+        "En":  "OneEN",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSetList.OnShow"
+    },
+    {
+        "En":  "TwoEN",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSetList.OnShow"
+    },
+    {
+        "En":  "ThreeEN",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSetList.OnShow"
+    },
+    {
+        "En":  "FourEN",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSetList.OnShow"
+    },
+    {
+        "En":  "FiveEN",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSetList.OnShow"
+    },
+    {
+        "En":  "Envelope",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSetList.OnLanguageChanged"
+    },
+    {
+        "En":  "LetterDE",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSetList.OnLanguageChanged"
+    },
+    {
+        "En":  "EN",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSetList.OnLanguageChanged"
+    },
+    {
+        "En":  "LetterEN",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSetList.OnLanguageChanged"
+    },
+    {
+        "En":  "SetlistDE",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSetList.OnLanguageChanged"
+    },
+    {
+        "En":  "SetlistEN",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSetList.OnLanguageChanged"
+    },
+    {
+        "En":  "OptMaster",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "OptMusic",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "OptSoundEffects",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "OptAmbient",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "OptVoice",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "OptResolution",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "OptScreenMode",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "OptCameraSway",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "OptBloodEffects",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "OptDistortionEffects",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "OptHotspotVisibility",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "OptNoirMode",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "OptTextLanguage",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "OptTextSpeech",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "OptFontSelection",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "OptSpeakerName",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "OptSubtitleSpeed",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "OptSubtitleBacking",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "OptSubtitleSize",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "OptHoverTextSize",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "OptDialogTextSize",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "BuildNumber",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnShow"
+    },
+    {
+        "En":  "Defocused",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.ShowPanel"
+    },
+    {
+        "En":  "Active",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.ShowPanel"
+    },
+    {
+        "En":  "Normal",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.ShowPanel"
+    },
+    {
+        "En":  "BuildScriptableObject not found in Resources folder.",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.UpdateVersionLabel"
+    },
+    {
+        "En":  "Open Inventory",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshControllerLabels"
+    },
+    {
+        "En":  "Skip Dialogue",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshControllerLabels"
+    },
+    {
+        "En":  "Main Action",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshControllerLabels"
+    },
+    {
+        "En":  "Secondary Action",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshControllerLabels"
+    },
+    {
+        "En":  "Change Selected Hotspot",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshControllerLabels"
+    },
+    {
+        "En":  "Open Settings",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshControllerLabels"
+    },
+    {
+        "En":  "Cycle Selected Hotspot",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshControllerLabels"
+    },
+    {
+        "En":  "Run (Hold)",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshControllerLabels"
+    },
+    {
+        "En":  "Move",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshControllerLabels"
+    },
+    {
+        "En":  "Select Dialogue Choice",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshControllerLabels"
+    },
+    {
+        "En":  "Pause",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshControllerLabels"
+    },
+    {
+        "En":  "Highlight All Objects",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshControllerLabels"
+    },
+    {
+        "En":  "Defaults",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshNavigationUI"
+    },
+    {
+        "En":  "Apply",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshNavigationUI"
+    },
+    {
+        "En":  "Audio",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshCategoryButtons"
+    },
+    {
+        "En":  "Video",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshCategoryButtons"
+    },
+    {
+        "En":  "Gameplay",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshCategoryButtons"
+    },
+    {
+        "En":  "Language",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshCategoryButtons"
+    },
+    {
+        "En":  "Accessibility",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshCategoryButtons"
+    },
+    {
+        "En":  "Master",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "Music",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "Sound Effects",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "Ambient",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "Voice",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "Resolution",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "Screen Mode",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "OptBrightness",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "Brightness",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "Blood Effects",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "Camera Sway",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "Distortion Effects",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "Hotspot Visibility",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "Noir Mode",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "Text Language",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "Text / Speech",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "Font Selection",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "Display Speaker\u0027s Name",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "Subtitle Speed",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "Subtitle Backing",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "Subtitle Size",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "Hover Text Size",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "Dialog Choices Text Size",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHeadings"
+    },
+    {
+        "En":  "{0}%",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshMasterVolumeDisplay"
+    },
+    {
+        "En":  "{0} x {1}",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshResolutionDisplay"
+    },
+    {
+        "En":  "Fullscreen",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshScreenModeDisplay"
+    },
+    {
+        "En":  "Windowed",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshScreenModeDisplay"
+    },
+    {
+        "En":  "On",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshBloodEffectsDisplay"
+    },
+    {
+        "En":  "Off",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshBloodEffectsDisplay"
+    },
+    {
+        "En":  "Low",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshCameraEffectsDisplay"
+    },
+    {
+        "En":  "Hold",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHotspotVisibilityDisplay"
+    },
+    {
+        "En":  "Toggle",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshHotspotVisibilityDisplay"
+    },
+    {
+        "En":  "Text \u0026 Speech",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshTextSpeechDisplay"
+    },
+    {
+        "En":  "Speech Only",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshTextSpeechDisplay"
+    },
+    {
+        "En":  "Text Only",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshTextSpeechDisplay"
+    },
+    {
+        "En":  "Default",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshFontSelection"
+    },
+    {
+        "En":  "Dyslexic",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshFontSelection"
+    },
+    {
+        "En":  "Slowest",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshSubtitleSpeed"
+    },
+    {
+        "En":  "Slower",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshSubtitleSpeed"
+    },
+    {
+        "En":  "Slow",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshSubtitleSpeed"
+    },
+    {
+        "En":  "Medium",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshSubtitleSpeed"
+    },
+    {
+        "En":  "Fast",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshSubtitleSpeed"
+    },
+    {
+        "En":  "Faster",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshSubtitleSpeed"
+    },
+    {
+        "En":  "Fastest",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshSubtitleSpeed"
+    },
+    {
+        "En":  "None",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshSubtitleBacking"
+    },
+    {
+        "En":  "Light",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshSubtitleBacking"
+    },
+    {
+        "En":  "Dark",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshSubtitleBacking"
+    },
+    {
+        "En":  "Black",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshSubtitleBacking"
+    },
+    {
+        "En":  "Small",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshSubtitleTextSize"
+    },
+    {
+        "En":  "Large",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.RefreshSubtitleTextSize"
+    },
+    {
+        "En":  "Settings have changed, do you want to apply these changes?",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnApply"
+    },
+    {
+        "En":  "YES, APPLY CHANGES",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnApply"
+    },
+    {
+        "En":  "All settings will be reset to default, do you want to continue?",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnDefaults"
+    },
+    {
+        "En":  "Selected",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnBack"
+    },
+    {
+        "En":  "Any unsaved changes will be lost, do you want to continue?",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSettings.OnBack"
+    },
+    {
+        "En":  "Another subtitle is already showing!",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiSubtitle.Show"
+    },
+    {
+        "En":  "\u003csprite name=\"DEMO_STOPWATCH\"\u003e",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiTimer.OnShow"
+    },
+    {
+        "En":  "\u003cswing a=0.5\u003e\u003csprite name=\"DEMO_STOPWATCH\" color=#FF0000\u003e",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiTimer.Update"
+    },
+    {
+        "En":  "{0:D2}:{1:D2}",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiTimer.Update"
+    },
+    {
+        "En":  "Copyright 2025 Robust Games",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiTitle.OnShow"
+    },
+    {
+        "En":  "Developed by Robust Games",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiTitle.OnShow"
+    },
+    {
+        "En":  "Published by Chucklefish",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiTitle.OnShow"
+    },
+    {
+        "En":  "All Rights Reserved",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiTitle.OnShow"
+    },
+    {
+        "En":  "PRESS ANY BUTTON",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiTitle.OnShow"
+    },
+    {
+        "En":  "train_horn",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiTitle.\u003cUpdate\u003eb__8_0"
+    },
+    {
+        "En":  "Robust Games",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiTitleCard.ShowIntroduction"
+    },
+    {
+        "En":  "presents",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiTitleCard.ShowIntroduction"
+    },
+    {
+        "En":  "Loco Motive",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiTitleCard.ShowIntroduction"
+    },
+    {
+        "En":  "Copyright MMXXIV By Robust Games",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiTitleCard.ShowIntroduction"
+    },
+    {
+        "En":  "Combine {0} with {1}",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiTooltips.Update"
+    },
+    {
+        "En":  "Use {0} on {1}",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiTooltips.Update"
+    },
+    {
+        "En":  "Give {0} to {1}",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiTooltips.Update"
+    },
+    {
+        "En":  "Combine",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiTooltips.ShowControllerInventory"
+    },
+    {
+        "En":  "Another help tooltip is already showing!",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiTutorial.Show"
+    },
+    {
+        "En":  "bus:/Ambient",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "QuestSettings.UpdateAmbientVolume"
+    },
+    {
+        "En":  "bus:/Dialogue",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "QuestSettings.UpdateDialogueVolume"
+    },
+    {
+        "En":  "bus:/Reverb VO",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "QuestSettings.UpdateDialogueVolume"
+    },
+    {
+        "En":  "bus:/",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "QuestSettings.UpdateMasterVolume"
+    },
+    {
+        "En":  "bus:/Lofi",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "QuestSettings.UpdateMusicVolume"
+    },
+    {
+        "En":  "bus:/SFX",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "QuestSettings.UpdateSFXVolume"
+    },
+    {
+        "En":  "bus:/UI",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "QuestSettings.UpdateSFXVolume"
+    },
+    {
+        "En":  "bus:/Reverb SFX",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "QuestSettings.UpdateSFXVolume"
+    },
+    {
+        "En":  "Blood",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "QuestSettings.UpdateBloodEffects"
+    },
+    {
+        "En":  "Couldn\u0027t find language id:",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "QuestSettings.set_LanguageId"
+    },
+    {
+        "En":  "UninstantiatedGui",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiControl.get_ScriptName"
+    },
+    {
+        "En":  "Gui Control \u0027",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "Gui.GetControl"
+    },
+    {
+        "En":  "\u0027 doesn\u0027t exist in",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "Gui.GetControl"
+    },
+    {
+        "En":  "Inventory",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "Gui.set_HiddenBySystem"
+    },
+    {
+        "En":  "Initialise",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "Gui.HotLoadScript"
+    },
+    {
+        "En":  "Gui",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "Gui.EditorInitialise"
+    },
+    {
+        "En":  "GUI",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "GuiUtils.FindGuiCamera"
+    },
+    {
+        "En":  "ChapterOne",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cOnClickBtn2\u003ed__2.MoveNext"
+    },
+    {
+        "En":  "ChapterTwo",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cOnClickBtn3\u003ed__3.MoveNext"
+    },
+    {
+        "En":  "ChapterThree",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cOnClickBtn4\u003ed__4.MoveNext"
+    },
+    {
+        "En":  "ChapterFour",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cOnClickBtn5\u003ed__5.MoveNext"
+    },
+    {
+        "En":  "ChapterFive",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cOnClickBtn6\u003ed__6.MoveNext"
+    },
+    {
+        "En":  "ChapterSix",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cOnClickBtn7\u003ed__7.MoveNext"
+    },
+    {
+        "En":  "https://store.steampowered.com/app/1709880/Loco_Motive/#game_area_purchase",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cOnClickBtnWishlist\u003ed__23.MoveNext"
+    },
+    {
+        "En":  "SkipTitleScreen",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cOnClickBtnContinue\u003ed__24.MoveNext"
+    },
+    {
+        "En":  "GuiInventoryButtonOnShowInventoryItem",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cShowInventoryItems\u003ed__14.MoveNext"
+    },
+    {
+        "En":  "Autosave data will be overwritten. Are you sure you want to start a new game?",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cOnClickBtnStart\u003ed__27.MoveNext"
+    },
+    {
+        "En":  "QUIT?",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cOnClickBtnQuit\u003ed__33.MoveNext"
+    },
+    {
+        "En":  "YES, QUIT TO DESKTOP",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cOnClickBtnQuit\u003ed__33.MoveNext"
+    },
+    {
+        "En":  "NO, NOT YET",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cOnClickBtnQuit\u003ed__33.MoveNext"
+    },
+    {
+        "En":  "OnShowGuiMedicalRecords",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cWaitForShow\u003ed__2.MoveNext"
+    },
+    {
+        "En":  "Is that Lady Unterwald\u0027s date of birth?",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cWaitForShow\u003ed__2.MoveNext"
+    },
+    {
+        "En":  "She certainly had a good run.",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cWaitForShow\u003ed__2.MoveNext"
+    },
+    {
+        "En":  "SaveSlot{0}",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003c\u003ec__DisplayClass13_0.\u003cOnClickSaveSlot\u003eb__1"
+    },
+    {
+        "En":  "OnShowGuiSetList",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cWaitForShow\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s the set list for the band, Balboa Swing.",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cWaitForShow\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "The songs are to be played in the following order.",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cWaitForShow\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Railroad Rhythm.",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cOnSayCorrectSetListOrder\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "Whistle Stop Swing.",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cOnSayCorrectSetListOrder\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "Boxcar Boogie.",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cOnSayCorrectSetListOrder\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "My Love is on the Line.",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cOnSayCorrectSetListOrder\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "Freight Train Blues.",
+        "Fr":  "",
+        "Category":  "UI",
+        "Source":  "\u003cOnSayCorrectSetListOrder\u003ed__1.MoveNext"
+    }
+]

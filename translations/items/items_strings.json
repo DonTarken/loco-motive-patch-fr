@@ -1,0 +1,2258 @@
+﻿[
+    {
+        "En":  "MysteriousNapkin",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "PerfumedLoveNote",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "MetalHanger",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "DonsRoomKey",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "AccountingRecords",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "PetalLeaf",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Mouthwash",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "CasinoChips",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "ArtistSketches",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Rosebud",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "LuggageStorageKey",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "MedicalBriefcase",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "MedicalRecords",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Magnet",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "MagneticBall",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "BlockOfCheese",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Mouse",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "HermanRoomKey",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "RecordingDevice",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "SecretNote",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "WireReel",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "HearingHorn",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "CorkingDevice",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "CorkedHorn",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "BudLite",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "HornFullLiquidBlue",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "SurgicalTape",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "OvenGloves",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "EmptyRecorder",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "UnterwaldRecording",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "WillOfLadyUnterwald",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "LetterToArthur",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "BrokenHanger",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "ReinforcedHookedCane",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "WobblyHookedCane",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "BergmannRecording",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "WalkingCane",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "HornFullLiquidPink",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Fan",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Umbrella",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "FunnelFan",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Newspaper",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "BagOfCash",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "ToyDetectiveBadge",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "SetList",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "WoodenHanger",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "WaxSeal",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Lemon",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Boots",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "HandIdol",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "HandCream",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "PrototypeDoll",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Butter",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "BlueSuit",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "AdventureManuscript",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "BusinessCard",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "CupofPaste",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Package",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "ActionManuscript",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "FilledCup",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "LetterOpener",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Lockpick",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "OpenedDoll",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "PackingPopcorn",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "PaperCup",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Sawdust",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Stapler",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "CrumpledPaper",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Habanero",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "MagnifyingGlass",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "PearlNecklace",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "ForgedEntryList",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "KitchenPlunger",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "ToiletPlunger",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "KitchenBoots",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "ToiletBoots",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "SuctionBoots",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "DianaPhoto",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "RosebudRecipe",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "WiringKit",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "RubberTubing",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "EmptyFuelCanister",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "SiphonKit",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "FilledFuelCanister",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "PnematuicTubeContainer",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "AgentM",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "GadgetGrabBag",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "IncendiaryPencils",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "DeactivatedTruthSerum",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "IncendiaryFuelTank",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Coal",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Chains",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "AnkletKey",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "RustyPole",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "PlungerCup",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "MakeshiftPlunger",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "MeltedWaxBlob",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "HardenedWaxBlob",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "WaxImprint",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "PhonographRecording",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "GramophoneRecord",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Antidote",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Pencil",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "ExplosivePowder",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "SawdustCup",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "LadyULetter",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Napkin",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "SurgicalSpirit",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "SurgicalSpiritNapkin",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Coffee",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Mocktail",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "PoetryBook",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "InvisibleBook",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "RomanceManuscript",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "DetectiveBadge",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "ChiseltonCover",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "FakeNovel",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "SlipperyMixture",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "SoupCup",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "LeftoverMixture",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "Knife",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "SlipperyKnife",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "RepairedHearingHorn",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "BrokenBoots",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "ItemNameSuggestor.GetItems"
+    },
+    {
+        "En":  "I\u0027m sure we\u0027d find a lot of creative accounting in here.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a very thick manuscript. Typical overachiever.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s the manuscript to my latest masterpiece.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Herman Merman and the Suburban Burden!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I\u0027ll slip my manuscript inside Dirk Chiselton\u0027s cover.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "RevealItem",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "UseManuscriptOnChiseltonCover",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "UseMouseOnPneumaticTube",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Mouth",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "UseMouseOnPneumaticTubeEnter",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Alright, Agent M. You\u0027ll be nice and snug inside this pod.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Talk",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "UseMouseOnPneumaticTubeExit",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "She\u0027s the cutest little agent, ever!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "I wonder who trained her to be such a kleptomaniac?",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "It\u0027s the key I used to get out of my chains!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "This looks like it might unlock a set of chains.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a small key, but I have no idea what it unlocks.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "This key might unlock those chains!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s an anklet key, primarily used for locking prison chains.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Hmm. This syringe has a label marked ‘Antidote\u0027.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s the antidote I used to revive Dr Hirsch!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I can see the various handshakes in the background of these sketches!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I\u0027ll still need some help to figure out the correct order.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Perhaps you\u0027d settle for a simple fist bump?",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnSayNextPatternItem\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "If you think I\u0027m still sleeping, you should give me a shake!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnSayNextPatternItem\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "I assure you, these palms, they have a strong grip!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnSayNextPatternItem\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "I\u0027ve watched your dance of digits, and I handedly approve.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnSayNextPatternItem\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "I\u0027m sure I can put Don\u0027s winnings to better use.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I\u0027m sure Bergmann will choose his words more carefully in future.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "This pocket cheese should be useful, and not just for snacking purposes!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s the blue suit jacket that Mr Liu was wearing.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "DisguisedBootMergeRed",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I think I might be onto something here!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "DisguisedBootMergeBlue",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a pair of Lady Unterwald\u0027s boots. We happen to have the same shoe size!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventoryBootsActTwo\u003ed__2.MoveNext"
+    },
+    {
+        "En":  "UseLetterOpenerOnBrokenBoots",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "That drawer put up a fight, but the hanger still has some life left in it.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "A bit of experimentation might give this Bud-Lite a bigger kick.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s already full.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a signed business card from Beverly Moore.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "\u0027\u0027Moore Or Less - Talent agency to the adequate.\u0027\u0027",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Half a slab of unsalted butter. I think it\u0027s slowly melting in my pocket.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "UseHandCreamOnButter",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryButterHandCream\u003ed__2.MoveNext"
+    },
+    {
+        "En":  "The blade is sufficiently lubricated, and rather hard to handle.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "UseSlipperyMixtureOnKnife",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryKnifeSlipperyMixture\u003ed__2.MoveNext"
+    },
+    {
+        "En":  "I\u0027m rich! Although, are these chips even real?",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a set of heavy-duty chains!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a heavy-duty set of prison chains!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a pile of heavy chains.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It’s the cover page I tore from Dirk Chiselton’s manuscript.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a lump of coal!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a steaming hot cup of coffee. It kind of burns!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I sshould shpeak to Mr Masson first.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "UseBudLiteFirst",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "UsingBudLite",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "UseMouthwashFirst",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "UsingMouthWash",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "MouthwashPutAway",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Now that it\u0027s sealed, it makes a pretty cool, if not gross, container!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "UseCorkingDevice",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a \u0027\u0027FULL-STOP\u0027\u0027 brand recorker. \u0027\u0027The last word in cork plugging.\u0027\u0027",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "The water and sawdust have combined into a thick, sticky paste.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I\u0027m not quite sure what this is, but the bottle is neat!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a vial of enigmatic liquid, I can hear it gently fizzing in my suit jacket pocket.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I doubt the truth spray is potent enough, but I love the bottle!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "This stuff worked wonders on Bergmann, it just needs a little kick-start to get going.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "For a toy badge, it\u0027s quite convincing.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Jian Liu had this in his pocket.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Looks like Don booked the honeymoon suite. Room 303!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "These little pods transport items throughout the whole tube system!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s empty! That\u0027s not much use to me.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s sloshing about with precious fuel!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "UseWireReel",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryWireReelArthur\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "UseWireReelOnDevice",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryWireReelArthur\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "Hey, it fits!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryWireReelArthur\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "Nice, that looks like it\u0027s worked.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryWireReelArthur\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "PutWireReelAway",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryWireReelArthur\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "Aha, a perfect fit!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryWireReelHerman\u003ed__2.MoveNext"
+    },
+    {
+        "En":  "It\u0027s just the right size, that was lucky.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryWireReelDiana\u003ed__3.MoveNext"
+    },
+    {
+        "En":  "InventoryEmptyRecorderOnUseBergmannRecording",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryBergmannRecording\u003ed__4.MoveNext"
+    },
+    {
+        "En":  "I don\u0027t want to risk recording over Bergmann\u0027s reel.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryBergmannRecording\u003ed__4.MoveNext"
+    },
+    {
+        "En":  "I\u0027ll need another wire reel to record anything new.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryBergmannRecording\u003ed__4.MoveNext"
+    },
+    {
+        "En":  "It\u0027s Don\u0027s recording device. It\u0027s not much use to me without another wire reel, though.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__5.MoveNext"
+    },
+    {
+        "En":  "We could record something with this if we found another wire reel.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__5.MoveNext"
+    },
+    {
+        "En":  "This portable recording device could be useful if it wasn\u0027t empty.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__5.MoveNext"
+    },
+    {
+        "En":  "At first glance, this looks like a Dirk Chiselton manuscript!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "puzzle_progress",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "CombineFan",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Huh, I guess this model is battery powered.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "UseSawdustOnCupWater",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryFilledCupSawdust\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "I\u0027ve filled the cup with plenty of drinking water.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__2.MoveNext"
+    },
+    {
+        "En":  "It\u0027s an excellent forgery, Donny did a great job!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "This should make the desk fan significantly more powerful.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Lady Unterwald recorded her own album of songs!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I\u0027ll mix some of this fuel with the gunpowder.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "UseGunpowderOnSiphonKit",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s explosive powder I cut from the pencil!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "Just one of these peppers would make any dish unbearably hot.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a highly moisturising hand repair cream. For dry, cracked and injured hands.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s an idol, no doubt modelled after Lady Unterwald\u0027s own hand!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I think this hardened blob was Lady Unterwald\u0027s wax seal.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "The wax has cooled down and hardened.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a hardened ball of wax.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "The liquid would pour straight through.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I\u0027m sure there\u0027s a good reason why I\u0027d need an old lady\u0027s hearing aid.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventoryArthur\u003ed__2.MoveNext"
+    },
+    {
+        "En":  "Although, I can\u0027t think of one just yet.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventoryArthur\u003ed__2.MoveNext"
+    },
+    {
+        "En":  "It’s the horn that Arista instructed me to repair.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventoryHerman\u003ed__3.MoveNext"
+    },
+    {
+        "En":  "These must be Herman\u0027s keys, Room 304.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventoryActOne\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "My own private quarters, room 304.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventoryActTwo\u003ed__2.MoveNext"
+    },
+    {
+        "En":  "I\u0027d like to think Lady Unterwald would want me to have this.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "UseBudLiteSecond",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryBudLite\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "FaceCamera",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryBudLite\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "FaceCameraEnter",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryBudLite\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "It\u0027s an overpowering blend of cheap perfume, plant life and ethanol!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryBudLite\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "FaceCameraExit",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryBudLite\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "It\u0027s full of minty fresh mouthwash!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__2.MoveNext"
+    },
+    {
+        "En":  "UseMouthwashSecond",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryMouthwash\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "Mixing",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryMouthwash\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "I\u0027ve poured the Bud-Lite in here, but for a stronger kick, I\u0027ll need to add a potent alcoholic mixer.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__2.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a dangerous concoction of fuel and high octane explosives!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I should use the one I took before taking another.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "OnTakeInventoryIncendiaryPencil",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a case of explosives, disguised as harmless stationary.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s Dr Phogg\u0027s Guide to Invis-Ability!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "\u0027\u0027Apply gentle heat to the paper to reveal messages written in invisible ink.\u0027\u0027",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "\u0027\u0027Avoid using candles, matches, or any open flames, they might just send your message up in smoke.\u0027\u0027",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Hmm, maybe I can find what I\u0027m looking for in the kitchen?",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Herman Merman, you\u0027ve done it again! I should be able to get on the roof with these.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I\u0027ve successfully attached a suction cup to one of the boots.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a kitchen plunger, great for unblocking clogged sinks!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I\u0027m a little too familiar with how sharp this blade is.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "UseButterOnKnife",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryKnifeButter\u003ed__2.MoveNext"
+    },
+    {
+        "En":  "UseHandCreamOnKnife",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventoryKnifeHandCream\u003ed__3.MoveNext"
+    },
+    {
+        "En":  "Lady Unterwald asked me to deliver this to Arthur Ackerman!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a harmless lemon.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Now, this is an exciting piece of high-end stationary!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "This letter opener looks like it\u0027d slice through more than paper.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I wouldn\u0027t trust either of those two with something this sharp.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s the last correspondence I received from Lady Unterwald.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a letter from Lady Unterwald, asking me to wear the suit she provided.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventoryActOne\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a letter from Lady Unterwald, she\u0027d like to meet in her quarters.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventoryActOne\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "I\u0027m supposed to deliver this letter to Mr Ackerman.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventoryActTwo\u003ed__2.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a toy set lock pick. Likely effective against only the weakest of locks.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "My memory of getting these keys is a little fuzzy.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Owning a magnet this large has its positives and negatives.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventoryActOne\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "Don could move this up to three spaces with his watch.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventoryActOne\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "That\u0027s the magnetic ball Donny used to rig his roulette games!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventoryActThree\u003ed__2.MoveNext"
+    },
+    {
+        "En":  "It looks like a roulette ball from the casino.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventoryActThree\u003ed__2.MoveNext"
+    },
+    {
+        "En":  "That\u0027s odd, what\u0027s a roulette ball doing here?",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventoryActThree\u003ed__2.MoveNext"
+    },
+    {
+        "En":  "Hmm, the magnification is very strong!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s an odd looking plunger.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s my trusty prison cell plunger!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a plunger made from a rusty metal pole.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s Doctor Hirsch\u0027s medical bag. I assume it\u0027s full of doctorly things.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventoryActOne\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "It\u0027s Doctor Hirsch\u0027s medical bag.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventoryActTwo\u003ed__2.MoveNext"
+    },
+    {
+        "En":  "Ooh, that\u0027s hot!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "The wax must have melted from the heat. It looks malleable!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Versatile, flexible, durable. The best kind of hanger!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s all of the sugar, and none of the fun!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "She ate all my pocket cheese!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "Are you alright in there, little one?",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "\u0027\u0027Rinse after brushing. Contains alcohol, do not ingest solution.\u0027\u0027",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I was sure Diana wrote something on this napkin, but it\u0027s blank!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I think there\u0027s something here but it\u0027s not quite legible.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "UseSpiritNapkin",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s the napkin that I grabbed from the bar.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "\u0027\u0027IT\u0027S THE END OF THE LINE\u0027\u0027",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "\u0027\u0027The Unterwald empire came to a grisly end last night, when the wealthy heiress was unexpectedly assassinated aboard her own train.\u0027\u0027",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "\u0027\u0027Three suspects are currently held in custody, awaiting questioning.\u0027\u0027",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "The doll\u0027s looking a little scrawny without all that packing sawdust.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "You can withstand the heat with a pair of these oven gloves!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "UseLetterOpenerOnPackage",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "UseLetterOpenerOnPackageEnter",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "ActTwoHermanKnowsAboutTheManuscript",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Dirk Chiselton sent over a manuscript?",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Sorry, Dirk, I need it more than you do.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "UseLetterOpenerOnPackageExit",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s weighty. Could be 70,000 words by my estimate.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "Popcorn isn\u0027t just delicious, it doubles as a cheap packing material.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "UseSawdustOnEmptyCup",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a paper cup I swiped from the water cooler.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a genuine pearl necklace.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "The craftsmanship of this fountain pen is exquisite!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Nah.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__4.MoveNext"
+    },
+    {
+        "En":  "Nope.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__4.MoveNext"
+    },
+    {
+        "En":  "I can break the tip off this incendiary pencil, to retrieve the gunpowder inside.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__4.MoveNext"
+    },
+    {
+        "En":  "UseWireCuttersOnPencil",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__4.MoveNext"
+    },
+    {
+        "En":  "It looks harmless enough.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__5.MoveNext"
+    },
+    {
+        "En":  "It\u0027ll cost a fortune to get the smell of cheap perfume out of this jacket.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "They smell quite fragrant!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s Lady Unterwald\u0027s voice, from beyond the grave!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I should get one of these to take notes on the fly.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s not as discreet as a phone tap, but it gets the job done.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s the suction cup from a plunger!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s the business end of a plunger.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It looks like a suction cup to me.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It looks like Don\u0027s been practicing poetry.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "There\u0027s no way I\u0027m reading that.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "UseLetterOpenerOnDoll",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "This looks very familiar.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "Donny was using this device to record Bergmann!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s loaded up with a fresh wire reel, ready for recording.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It’s the romance novel I retrieved from the bin.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Perhaps I should have left it there.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Slowdown",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003c\u003ec.\u003cOnLookAtInventory\u003eb__0_0"
+    },
+    {
+        "En":  "UseRosebud",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "UseRosebudEnter",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "DrunkRosebud",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "UseRosebudExit",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "DrunkRosebudEnter",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Hmm.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I don\u0027t feel any different.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "DrunkRosebudExit",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "event:/Music/Locations/Train/train_all",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "event:/Ambient/raining",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "event:/Ambient/train_movement",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s Donny\u0027s recipe for a powerful drink.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s the rubber tubing I cut from the car.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Looks like a rusty metal pole.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It seems to be some sort of metal pole.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "A rusty metal pole might be useful in our current circumstances.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "UsePlungerCupOnRustyPole",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnUseInvInventory\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a pile of sawdust I removed from the doll.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I placed sawdust in the bottom of the cup.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "The heat revealed the number 306. How mysterious!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "This would surely lubricate anything it touches.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I\u0027ve concocted the world\u0027s spiciest soup.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a \u0027\u0027Mega-Stich\u0027\u0027 brand heavy duty stapler. This thing can staple through 250 sheets!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I\u0027ve assembled a working pair of suction boots!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a powerful cleaning solvent. This stuff would remove pretty much anything!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I\u0027ve soaked the napkin in turpentine.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Probably best not to dwell on the horrors this plunger has seen.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a toy badge, but it should still provide an air of authority.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s bad luck to open an umbrella indoors, but maybe I can find a use for it.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Thank you for calling the Reuss Express onboard service.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "This call may be recorded for training purposes.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "UseHangerOnWalkingCane",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnCombineBrokenHanger\u003ed__1.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a wax impression of a fingerprint.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a wax impression of Lady Unterwald\u0027s fingerprint.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a fingerprint impression made from wax.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a wax seal from the Unterwald estate.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "This is the last wax seal I\u0027ll receive from Lady Unterwald.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "This seal has been on quite the adventure, eh? I feel strangely attached to it.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s one of Lady Unterwald\u0027s wax seals, malleable and quite soft to the touch.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a wax seal, embossed with the emblem of the Wald-Bahn empire.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s an official field agent wiring kit!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "I can put this wire reel into a recording device to record something.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s an empty wire reel, handy if I need to record something.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "Lord Unterwald planned to use this to document his astronomical observations.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "It\u0027s a little dusty, but I\u0027m sure it would still record audio.",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    },
+    {
+        "En":  "A classic wooden hanger. The second best kind of hanger, in my opinion!",
+        "Fr":  "",
+        "Category":  "Item",
+        "Source":  "\u003cOnLookAtInventory\u003ed__0.MoveNext"
+    }
+]

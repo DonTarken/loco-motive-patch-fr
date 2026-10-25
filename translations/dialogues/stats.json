@@ -1,0 +1,234 @@
+﻿{
+    "TotalLines":  7590,
+    "ExtractedAt":  "2026-10-25T22:48:16.7383510+01:00",
+    "Characters":  [
+                       {
+                           "Name":  "Arthur",
+                           "Count":  1666
+                       },
+                       {
+                           "Name":  "Herman",
+                           "Count":  1369
+                       },
+                       {
+                           "Name":  "Diana",
+                           "Count":  660
+                       },
+                       {
+                           "Name":  "Chiselton",
+                           "Count":  309
+                       },
+                       {
+                           "Name":  "Hirsch",
+                           "Count":  244
+                       },
+                       {
+                           "Name":  "Arista",
+                           "Count":  241
+                       },
+                       {
+                           "Name":  "Don",
+                           "Count":  201
+                       },
+                       {
+                           "Name":  "Narrator/Unknown",
+                           "Count":  181
+                       },
+                       {
+                           "Name":  "LadyUnterwald",
+                           "Count":  168
+                       },
+                       {
+                           "Name":  "Bergmann",
+                           "Count":  166
+                       },
+                       {
+                           "Name":  "Susanne",
+                           "Count":  138
+                       },
+                       {
+                           "Name":  "Gunter",
+                           "Count":  130
+                       },
+                       {
+                           "Name":  "JianLiu",
+                           "Count":  129
+                       },
+                       {
+                           "Name":  "April",
+                           "Count":  126
+                       },
+                       {
+                           "Name":  "Hagen",
+                           "Count":  120
+                       },
+                       {
+                           "Name":  "ChefFrancois",
+                           "Count":  104
+                       },
+                       {
+                           "Name":  "Bartender",
+                           "Count":  101
+                       },
+                       {
+                           "Name":  "HandshakeLeader",
+                           "Count":  97
+                       },
+                       {
+                           "Name":  "Masson",
+                           "Count":  91
+                       },
+                       {
+                           "Name":  "ChefRemy",
+                           "Count":  88
+                       },
+                       {
+                           "Name":  "BrotherJared",
+                           "Count":  80
+                       },
+                       {
+                           "Name":  "StageManager",
+                           "Count":  79
+                       },
+                       {
+                           "Name":  "Pierre",
+                           "Count":  77
+                       },
+                       {
+                           "Name":  "Byron",
+                           "Count":  74
+                       },
+                       {
+                           "Name":  "PublisherFrank",
+                           "Count":  71
+                       },
+                       {
+                           "Name":  "BrotherBrian",
+                           "Count":  70
+                       },
+                       {
+                           "Name":  "Lamont",
+                           "Count":  69
+                       },
+                       {
+                           "Name":  "ChefAntoine",
+                           "Count":  67
+                       },
+                       {
+                           "Name":  "SisterGretchen",
+                           "Count":  65
+                       },
+                       {
+                           "Name":  "PublisherFlorence",
+                           "Count":  63
+                       },
+                       {
+                           "Name":  "PublisherThomas",
+                           "Count":  59
+                       },
+                       {
+                           "Name":  "PhilatelyStamp",
+                           "Count":  49
+                       },
+                       {
+                           "Name":  "Kid",
+                           "Count":  48
+                       },
+                       {
+                           "Name":  "Board",
+                           "Count":  40
+                       },
+                       {
+                           "Name":  "Ron",
+                           "Count":  40
+                       },
+                       {
+                           "Name":  "Bailey",
+                           "Count":  40
+                       },
+                       {
+                           "Name":  "Guard",
+                           "Count":  31
+                       },
+                       {
+                           "Name":  "Jimmy",
+                           "Count":  25
+                       },
+                       {
+                           "Name":  "BandSaxophone",
+                           "Count":  24
+                       },
+                       {
+                           "Name":  "BandDrummer",
+                           "Count":  24
+                       },
+                       {
+                           "Name":  "Quartermaster",
+                           "Count":  23
+                       },
+                       {
+                           "Name":  "WaiterTwo",
+                           "Count":  18
+                       },
+                       {
+                           "Name":  "Cashier",
+                           "Count":  17
+                       },
+                       {
+                           "Name":  "Shelly",
+                           "Count":  16
+                       },
+                       {
+                           "Name":  "Isaac",
+                           "Count":  14
+                       },
+                       {
+                           "Name":  "James",
+                           "Count":  11
+                       },
+                       {
+                           "Name":  "CasinoEnforcerOne",
+                           "Count":  9
+                       },
+                       {
+                           "Name":  "Executor",
+                           "Count":  9
+                       },
+                       {
+                           "Name":  "CasinoEnforcerTwo",
+                           "Count":  9
+                       },
+                       {
+                           "Name":  "Maurice",
+                           "Count":  7
+                       },
+                       {
+                           "Name":  "Harold",
+                           "Count":  7
+                       },
+                       {
+                           "Name":  "Conductor",
+                           "Count":  6
+                       },
+                       {
+                           "Name":  "Belle",
+                           "Count":  6
+                       },
+                       {
+                           "Name":  "Edna",
+                           "Count":  4
+                       },
+                       {
+                           "Name":  "Ruth",
+                           "Count":  4
+                       },
+                       {
+                           "Name":  "Mary",
+                           "Count":  3
+                       },
+                       {
+                           "Name":  "ElusiveHand",
+                           "Count":  3
+                       }
+                   ]
+}
