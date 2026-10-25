@@ -367,3 +367,72 @@ Would you be a dear and open the window? It's getting quite hot in here, I need 
 0	LadyUnterwald	Arthur, please!	Arthur, par pitié !	RoomUnterwaldCarriage/<OnLookAtPropPetalLeafPrologueUnterwald>d__130	
 0	Arthur	It's the model 3 WHISPERNOTE, with patented quiet tap technology.	C'est le modèle 3 WHISPERNOTE, avec technologie brevetée de frappe silencieuse.	RoomUnterwaldCarriage/<OnLookAtPropTypewriterPrologueUnterwald>d__136	
 0	Bailey	So, what really happened?	Alors, que s'est-il réellement passé ?	RoomInterrogation	MoveNext
+0	Arthur	*Gulp*	*Gloups*	DialogOption	Choice
+0	Arthur	Still waiting to be seated, huh?	Toujours en attente d'une table, hein ?	DialogOption	Choice
+0	Arthur	I believe I'm entitled to a phone call?	Je crois que j'ai droit à un coup de fil ?	DialogOption	Choice
+0	Arthur	Which one of you was the favourite, again?	Lequel de vous deux était son chouchou, déjà ?	DialogOption	Choice
+0	Arthur	Did Lady Unterwald have any enemies?	Lady Unterwald avait-elle des ennemis ?	DialogOption	Choice
+0	Arthur	I noticed the empty plates. Lost your appetite?	J'ai remarqué les assiettes vides. Perdu l'appétit ?	DialogOption	Choice
+0	Arthur	You know, it'd make an incredible drinking horn!	Vous savez, ça ferait une corne à boire incroyable !	DialogOption	Choice
+0	Arthur	With a minor criminal offence!	Par une infraction pénale mineure !	DialogOption	Choice
+0	Arthur	I'm warning you, I'm an ugly crier.	Je vous préviens, je suis hideux quand je pleure.	DialogOption	Choice
+0	Arthur	What's your position on viaducts?	Quelle est votre position sur les viaducs ?	DialogOption	Choice
+0	Arthur	Were you close enough to witness what happened?	Étiez-vous assez près pour voir ce qui s'est passé ?	DialogOption	Choice
+0	Arthur	About your question... I think I'd like to change my answer!	À propos de votre question... J'aimerais changer de réponse !	DialogOption	Choice
+0	Arthur	Looking forward to Lady Unterwald's speech?	Hâte d'entendre le discours de Lady Unterwald ?	DialogOption	Choice
+0	Arthur	Any chance I can borrow it?	Une chance que je puisse vous l'emprunter ?	DialogOption	Choice
+0	Arthur	Do those twins always argue with each other?	Ces deux jumeaux se disputent-ils toujours ?	DialogOption	Choice
+0	Arthur	I tried to observe the handshake, but it was too fast!	J'ai essayé d'observer la poignée de main, mais c'était trop rapide !	DialogOption	Choice
+0	Arthur	With a series of gratuitous establishing shots!	Par une série de plans d'ensemble totalement gratuits !	DialogOption	Choice
+0	Arthur	Are you both waiting for something?	Vous attendez quelque chose tous les deux ?	DialogOption	Choice
+0	Arthur	So, what's behind the red curtain?	Alors, qu'y a-t-il derrière le rideau rouge ?	DialogOption	Choice
+0	Arthur	Does it actually improve your hearing?	Est-ce que ça améliore vraiment votre ouïe ?	DialogOption	Choice
+0	Arthur	Is this a bad time to say I don't have it?	C'est un mauvais moment pour avouer que je ne l'ai pas ?	DialogOption	Choice
+0	Arthur	Hey, aren't you the Gudrun twins?	Dites, vous ne seriez pas les jumeaux Gudrun ?	DialogOption	Choice
+0	Arthur	Can I ask about your missing briefcase?	Puis-je vous poser une question sur votre mallette ?	DialogOption	Choice
+0	Arthur	Were you at all close to Lady Unterwald?	Étiez-vous proche de Lady Unterwald ?	DialogOption	Choice
+0	Arthur	About your hearing device...	À propos de votre appareil auditif...	DialogOption	Choice
+0	Arthur	A chance encounter with a minor celebrity!	Une rencontre fortuite avec une célébrité de seconde zone !	DialogOption	Choice
+0	Arthur	Got any leads on whom the killer could be?	Avez-vous une piste sur l'identité du tueur ?	DialogOption	Choice
+0	Arthur	I'll bet it was full of doctorly equipment!	Je parie qu'elle était remplie de matériel médical !	DialogOption	Choice
+0	Arthur	The man behind the curtain seems kind of rude.	L'homme derrière le rideau a l'air plutôt rustre.	DialogOption	Choice
+0	Arthur	I'm sure you have other evidence, though, right?	Je suis sûr que vous avez d'autres preuves, pas vrai ?	DialogOption	Choice
+0	Arthur	Did you lose track of your hearing horn?	Vous avez égaré votre cornet acoustique ?	DialogOption	Choice
+0	Arthur	Do you remember where you last saw your briefcase?	Vous rappelez-vous où vous l'avez vue pour la dernière fois ?	DialogOption	Choice
+0	Arthur	Actually, that's enough information.	En fait, cela me suffit amplement.	DialogOption	Choice
+0	Arthur	Did you also have a job in the family business?	Travailliez-vous aussi dans l'entreprise familiale ?	DialogOption	Choice
+0	Arthur	You're not going to believe this, but...	Vous n'allez pas me croire, mais...	DialogOption	Choice
+0	Arthur	That's all for now, Doctor.	Ce sera tout pour le moment, docteur.	DialogOption	Choice
+0	Arthur	You mentioned a missing briefcase?	Vous avez mentionné une mallette égarée ?	DialogOption	Choice
+0	Arthur	Could you show me that secret handshake again?	Pourriez-vous me remontrer cette poignée de main secrète ?	DialogOption	Choice
+0	Arthur	Tunnels! I prefer to face obstacles head on.	Les tunnels ! Je préfère affronter les obstacles de front.	DialogOption	Choice
+0	Arthur	What's that thing you're holding?	Qu'est-ce que vous tenez là ?	DialogOption	Choice
+0	Arthur	You said you worked on the Reuss Express?	Vous disiez avoir travaillé sur le Reuss Express ?	DialogOption	Choice
+0	Arthur	You know, it's just so hard to pick a favourite.	Vous savez, c'est tellement dur de choisir son préféré.	DialogOption	Choice
+0	Arthur	Actually, I think that's everything.	En fait, je crois que ce sera tout.	DialogOption	Choice
+0	Arthur	I'd like to sign up! How do I become a member?	J'aimerais m'inscrire ! Comment devient-on membre ?	DialogOption	Choice
+0	Arthur	I should get going.	Je devrais y aller.	DialogOption	Choice
+0	Arthur	I'm sure Lady Unterwald spoke highly of you both.	Je suis sûr que Lady Unterwald disait grand bien de vous deux.	DialogOption	Choice
+0	Arthur	Why haven't you looked for it yourself?	Pourquoi ne la cherchez-vous pas vous-même ?	DialogOption	Choice
+0	Arthur	Who would want to harm Lady Unterwald?	Qui aurait pu vouloir du mal à Lady Unterwald ?	DialogOption	Choice
+0	Arthur	Did it contain any of Lady Unterwald's personal details?	Contenait-elle des informations personnelles sur Lady Unterwald ?	DialogOption	Choice
+0	Arthur	Where did you say I could find Lady Unterwald?	Où m'aviez-vous dit que je pouvais trouver Lady Unterwald ?	DialogOption	Choice
+0	Arthur	My hands are clean, I didn't kill Lady Unterwald!	J'ai les mains propres, je n'ai pas tué Lady Unterwald !	DialogOption	Choice
+0	Arthur	Do you know the Gudrun twins?	Connaissez-vous les jumeaux Gudrun ?	DialogOption	Choice
+0	Arthur	Did Lady Unterwald have any adversaries?	Lady Unterwald avait-elle des adversaires ?	DialogOption	Choice
+0	Arthur	An ambiguously European locale!	Un décor européen au charme ambigu !	DialogOption	Choice
+0	Arthur	Was Lady Unterwald in poor health at all?	Lady Unterwald était-elle en mauvaise santé ?	DialogOption	Choice
+0	Arthur	About this secret society of yours...	À propos de votre société secrète...	DialogOption	Choice
+0	Arthur	Can you teach me the secret handshake?	Pouvez-vous m'apprendre la poignée de main secrète ?	DialogOption	Choice
+0	Arthur	What's a steam turbine locomotive?	Qu'est-ce qu'une locomotive à turbine à vapeur ?	DialogOption	Choice
+0	Arthur	You said they're located behind a red curtain?	Vous disiez qu'ils se trouvent derrière un rideau rouge ?	DialogOption	Choice
+0	Arthur	Where did you say you left it again?	Où aviez-vous dit que vous l'aviez laissée, déjà ?	DialogOption	Choice
+0	Arthur	Did you spend much time with Lady Unterwald?	Passiez-vous beaucoup de temps avec Lady Unterwald ?	DialogOption	Choice
+0	Arthur	I'm an estate lawyer, my clients have to pass on eventually.	Je suis notaire de succession, mes clients finissent bien par mourir un jour.	DialogOption	Choice
+0	Arthur	You're Arista Gudrun, aren't you?	Vous êtes bien Arista Gudrun ?	DialogOption	Choice
+0	Arthur	Here, I happened to capture the handshakes already!	Tenez, j'ai justement déjà capturé la poignée de main !	DialogOption	Choice
+0	Arthur	I should probably go!	Je devrais sans doute m'en aller !	DialogOption	Choice
+0	Arthur	Do you know where I can find Lady Unterwald?	Savez-vous où je peux trouver Lady Unterwald ?	DialogOption	Choice
+0	Arthur	Do you think they could be behind Lady Unterwald's murder?	Pensez-vous qu'ils puissent être derrière le meurtre de Lady Unterwald ?	DialogOption	Choice
+0	Arthur	Do you have any hypotheses about the murder weapon?	Avez-vous des hypothèses sur l'arme du crime ?	DialogOption	Choice
+0	Arthur	Bridges! I often work around my problems.	Les ponts ! Je contourne souvent mes problèmes.	DialogOption	Choice

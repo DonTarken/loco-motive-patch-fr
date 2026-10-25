@@ -69,6 +69,14 @@ namespace LocoMotiveFR
                 new Type[] { typeof(string), typeof(bool) },
                 typeof(Patch_TMP_Text_SetText), "Prefix", null);
 
+            PatchMethod(harmony, typeof(PowerTools.Quest.DialogOption), "get_Text", 
+                Type.EmptyTypes,
+                typeof(Patch_DialogOption_get_Text), null, "Postfix");
+
+            PatchMethod(harmony, typeof(PowerTools.Quest.DialogOption), "get_Description", 
+                Type.EmptyTypes,
+                typeof(Patch_DialogOption_get_Description), null, "Postfix");
+
             Logger.LogInfo(string.Format("=== [Loco Motive FR] Patch actif ! {0} entrées de texte chargées. ===", TextByEnglish.Count));
         }
 
@@ -367,6 +375,28 @@ namespace LocoMotiveFR
         public static void Prefix(ref string sourceText)
         {
             sourceText = LocoMotiveFRPlugin.TranslateString(sourceText);
+        }
+    }
+
+    public static class Patch_DialogOption_get_Text
+    {
+        public static void Postfix(ref string __result)
+        {
+            if (!string.IsNullOrEmpty(__result))
+            {
+                __result = LocoMotiveFRPlugin.TranslateString(__result);
+            }
+        }
+    }
+
+    public static class Patch_DialogOption_get_Description
+    {
+        public static void Postfix(ref string __result)
+        {
+            if (!string.IsNullOrEmpty(__result))
+            {
+                __result = LocoMotiveFRPlugin.TranslateString(__result);
+            }
         }
     }
 }
