@@ -9,12 +9,11 @@ using TMPro;
 
 namespace LocoMotiveFR
 {
-    [BepInPlugin("org.dontarken.locomotive.fr", "Loco Motive Patch FR", "1.1.0")]
+    [BepInPlugin("org.dontarken.locomotive.fr", "Loco Motive Patch FR", "1.2.0")]
     public class LocoMotiveFRPlugin : BaseUnityPlugin
     {
         public static LocoMotiveFRPlugin Instance;
         public static BepInEx.Logging.ManualLogSource Log;
-        public static Dictionary<int, string> DialoguesById = new Dictionary<int, string>();
         public static Dictionary<string, string> TextByEnglish = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
         public static string TranslationDir;
 
@@ -28,7 +27,7 @@ namespace LocoMotiveFR
                 TranslationDir = Path.Combine(Paths.GameRootPath, "Translations_FR");
             }
 
-            Logger.LogInfo("=== [Loco Motive FR] Initialisation du patch v1.1.0... ===");
+            Logger.LogInfo("=== [Loco Motive FR] Initialisation du patch v1.2.0... ===");
             LoadTranslations();
 
             var harmony = new Harmony("org.dontarken.locomotive.fr");
@@ -70,7 +69,7 @@ namespace LocoMotiveFR
                 new Type[] { typeof(string), typeof(bool) },
                 typeof(Patch_TMP_Text_SetText), "Prefix", null);
 
-            Logger.LogInfo(string.Format("=== [Loco Motive FR] Patch actif ! {0} répliques (ID) et {1} entrées de texte chargées. ===", DialoguesById.Count, TextByEnglish.Count));
+            Logger.LogInfo(string.Format("=== [Loco Motive FR] Patch actif ! {0} entrées de texte chargées. ===", TextByEnglish.Count));
         }
 
         private static void PatchMethod(Harmony harmony, Type targetType, string methodName, Type[] parameters, Type patchType, string prefixName, string postfixName)
@@ -110,7 +109,6 @@ namespace LocoMotiveFR
 
         public static void LoadTranslations()
         {
-            DialoguesById.Clear();
             TextByEnglish.Clear();
 
             if (!Directory.Exists(TranslationDir))
@@ -134,7 +132,7 @@ namespace LocoMotiveFR
 
             if (Log != null)
             {
-                Log.LogInfo(string.Format("Chargement terminé : {0} répliques par ID, {1} textes par chaîne.", DialoguesById.Count, TextByEnglish.Count));
+                Log.LogInfo(string.Format("Chargement terminé : {0} textes chargés en mémoire.", TextByEnglish.Count));
             }
         }
 
@@ -147,26 +145,22 @@ namespace LocoMotiveFR
                 while ((line = reader.ReadLine()) != null)
                 {
                     if (string.IsNullOrWhiteSpace(line)) continue;
-                    if (isFirst && line.StartsWith("Id\t")) { isFirst = false; continue; }
+                    if (isFirst && (line.StartsWith("Id\t") || line.StartsWith("Character\t"))) { isFirst = false; continue; }
                     isFirst = false;
 
                     string[] parts = line.Split('\t');
                     if (parts.Length >= 4)
                     {
-                        int id;
-                        int.TryParse(parts[0].Trim(), out id);
+                        string character = parts[1].Trim();
                         string en = parts[2].Trim().Replace(" \\n ", "\n");
                         string fr = parts[3].Trim().Replace(" \\n ", "\n");
 
-                        if (!string.IsNullOrEmpty(fr))
+                        if (!string.IsNullOrEmpty(en) && !string.IsNullOrEmpty(fr))
                         {
-                            if (id > 0)
+                            TextByEnglish[en] = fr;
+                            if (!string.IsNullOrEmpty(character))
                             {
-                                DialoguesById[id] = fr;
-                            }
-                            if (!string.IsNullOrEmpty(en))
-                            {
-                                TextByEnglish[en] = fr;
+                                TextByEnglish[character + "::" + en] = fr;
                             }
                         }
                     }
@@ -183,31 +177,44 @@ namespace LocoMotiveFR
             }
         }
 
-        public static string TranslateString(string input)
+        public static string TranslateString(string input, string character = null)
         {
             if (string.IsNullOrEmpty(input)) return input;
 
             string fr;
-            // 1. Recherche directe (insensible à la casse)
+            string trimmed = input.Trim();
+
+            // 1. Recherche par (Personnage::Texte)
+            if (!string.IsNullOrEmpty(character))
+            {
+                string charKey = character + "::" + trimmed;
+                if (TextByEnglish.TryGetValue(charKey, out fr) && !string.IsNullOrEmpty(fr))
+                {
+                    return PreserveSpaces(input, fr);
+                }
+            }
+
+            // 2. Recherche par texte direct
             if (TextByEnglish.TryGetValue(input, out fr) && !string.IsNullOrEmpty(fr))
             {
                 return fr;
             }
 
-            // 2. Recherche avec rognage des espaces
-            string trimmed = input.Trim();
+            // 3. Recherche par texte rogné
             if (TextByEnglish.TryGetValue(trimmed, out fr) && !string.IsNullOrEmpty(fr))
             {
-                if (input != trimmed)
-                {
-                    int startSpaces = input.Length - input.TrimStart().Length;
-                    int endSpaces = input.Length - input.TrimEnd().Length;
-                    return input.Substring(0, startSpaces) + fr + input.Substring(input.Length - endSpaces);
-                }
-                return fr;
+                return PreserveSpaces(input, fr);
             }
 
             return input;
+        }
+
+        private static string PreserveSpaces(string original, string translated)
+        {
+            int startSpaces = original.Length - original.TrimStart().Length;
+            int endSpaces = original.Length - original.TrimEnd().Length;
+            if (startSpaces == 0 && endSpaces == 0) return translated;
+            return original.Substring(0, startSpaces) + translated + original.Substring(original.Length - endSpaces);
         }
     }
 
@@ -215,20 +222,13 @@ namespace LocoMotiveFR
     {
         public static bool Prefix(ref string __result, string defaultText, int id, string characterName, bool isPlayer)
         {
-            string fr;
-            if (id > 0 && LocoMotiveFRPlugin.DialoguesById.TryGetValue(id, out fr) && !string.IsNullOrEmpty(fr))
+            if (string.IsNullOrEmpty(defaultText)) return true;
+
+            string fr = LocoMotiveFRPlugin.TranslateString(defaultText, characterName);
+            if (fr != defaultText)
             {
                 __result = fr;
                 return false;
-            }
-            if (!string.IsNullOrEmpty(defaultText))
-            {
-                string trans = LocoMotiveFRPlugin.TranslateString(defaultText);
-                if (trans != defaultText)
-                {
-                    __result = trans;
-                    return false;
-                }
             }
             return true;
         }
@@ -238,20 +238,13 @@ namespace LocoMotiveFR
     {
         public static bool Prefix(ref string __result, string defaultText, int id, string characterName)
         {
-            string fr;
-            if (id > 0 && LocoMotiveFRPlugin.DialoguesById.TryGetValue(id, out fr) && !string.IsNullOrEmpty(fr))
+            if (string.IsNullOrEmpty(defaultText)) return true;
+
+            string fr = LocoMotiveFRPlugin.TranslateString(defaultText, characterName);
+            if (fr != defaultText)
             {
                 __result = fr;
                 return false;
-            }
-            if (!string.IsNullOrEmpty(defaultText))
-            {
-                string trans = LocoMotiveFRPlugin.TranslateString(defaultText);
-                if (trans != defaultText)
-                {
-                    __result = trans;
-                    return false;
-                }
             }
             return true;
         }
@@ -261,20 +254,13 @@ namespace LocoMotiveFR
     {
         public static bool Prefix(ref string __result, string defaultText, int id, string characterName)
         {
-            string fr;
-            if (id > 0 && LocoMotiveFRPlugin.DialoguesById.TryGetValue(id, out fr) && !string.IsNullOrEmpty(fr))
+            if (string.IsNullOrEmpty(defaultText)) return true;
+
+            string fr = LocoMotiveFRPlugin.TranslateString(defaultText, characterName);
+            if (fr != defaultText)
             {
                 __result = fr;
                 return false;
-            }
-            if (!string.IsNullOrEmpty(defaultText))
-            {
-                string trans = LocoMotiveFRPlugin.TranslateString(defaultText);
-                if (trans != defaultText)
-                {
-                    __result = trans;
-                    return false;
-                }
             }
             return true;
         }

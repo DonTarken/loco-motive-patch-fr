@@ -175,3 +175,195 @@ Would you be a dear and open the window? It's getting quite hot in here, I need 
 20	Bailey	This is the sort of detail that could be very compelling to a jury.	C'est le genre de détail qui fait mouche auprès d'un jury.	RoomInterrogation+<OnEnterRoomAfterFadeActThreeOpeningScene>d__50	MoveNext
 5	Diana	Fine, I can tell you aren't going to stop asking. But it won't do you any good, you know!	D'accord, je vois bien que vous ne lâcherez pas l'affaire. Mais ça ne vous avancera à rien, je vous préviens !	RoomInterrogation+<OnEnterRoomAfterFadeActThreeOpeningScene>d__50	MoveNext
 21	Bailey	Start at the beginning.	Commencez par le début.	RoomInterrogation+<OnEnterRoomAfterFadeActThreeOpeningScene>d__50	MoveNext
+0	Arista	WHAT?	Quoi ?	CharacterArista/<OnInteractPrologueDrunk>d__19	
+0	Gunter	Hello.	Bonjour.	CharacterGunter/<OnInteractPrologueFirstOccurrence>d__17	
+0	Gunter	Both of us? At once?	À nous deux ? En même temps ?	CharacterGunter/<OnInteractPrologueFirstOccurrence>d__17	
+0	Shelly	A little birdie told me that Lady Unterwald plans to retire.	Mon petit doigt m'a dit que Lady Unterwald comptait prendre sa retraite.	CharacterShelly/<OnInteractPrologue>d__6	
+0	Shelly	They're saying the Gudrun twins are in line to take over next.	On raconte que les jumeaux Gudrun sont les prochains sur la liste.	CharacterShelly/<OnInteractPrologue>d__6	
+0	Shelly	I heard the galley was shut down after a routine health inspection.	J'ai ouï dire que les cuisines ont fermé après un contrôle sanitaire de routine.	CharacterShelly/<OnInteractPrologue>d__6	
+0	Shelly	Now I hear they have themselves a rodent problem!	Et maintenant, il paraît qu'ils ont un problème de rongeurs !	CharacterShelly/<OnInteractPrologue>d__6	
+0	Shelly	Did you know the Lady has a gentleman caller?	Savais-tu que la Lady reçoit un soupirant ?	CharacterShelly/<OnInteractPrologue>d__6	
+0	Isaac	Oh ho ho! Pray tell!	Oh ho ho ! Raconte, je t'en prie !	CharacterShelly/<OnInteractPrologue>d__6	
+0	Isaac	Sounds like he aims to mix business with pleasure!	On dirait bien qu'il compte joindre l'utile à l'agréable !	CharacterShelly/<OnInteractPrologue>d__6	
+0	Shelly	Excuse me! This is a private conversation!	Pardonnez-moi ! C'est une conversation privée !	CharacterShelly/<OnInteractPrologue>d__6	
+0	Arthur	It would be rude to eavesdrop any further.	Ce serait impoli d'écouter aux portes plus longtemps.	CharacterShelly/<OnInteractPrologue>d__6	
+0	Arthur	Although it's hard to resist such tantalising gossip!	Bien qu'il soit difficile de résister à des ragots aussi croustillants !	CharacterShelly/<OnInteractPrologue>d__6	
+0	Bailey	Herman!	Herman !	RoomArthurQuarters/<OnUseInvPropHangerBlueSuit>d__29	
+0	Herman	What? This is exactly how I remember it!	Quoi ? C'est exactement ainsi que je m'en souviens !	RoomArthurQuarters/<OnUseInvPropHangerBlueSuit>d__29	
+0	Herman	There's a letter for you on the dresser.	Il y a une lettre pour vous sur la commode.	RoomArthurQuarters/<OnUseInvPropHangerBlueSuit>d__29	
+0	Herman	It's a 'much needed change of attire'.	Un « changement de tenue plus que nécessaire ».	RoomArthurQuarters/<OnUseInvPropHangerBlueSuit>d__29	
+0	Jimmy	Just thought I'd check if our guest needs anything.	Je venais juste voir si notre invité avait besoin de quelque chose.	RoomInterrogation/<OnActOneInternEntrance>d__39	
+0	Jimmy	Perhaps I can get a coffee for our interviewee?	Je pourrais peut-être apporter un café à notre candidat ?	RoomInterrogation/<OnActOneInternEntrance>d__39	
+0	Lamont	NO.	NON.	RoomInterrogation/<OnActOneInternEntrance>d__39	
+0	Jimmy	Tea?	Un thé ?	RoomInterrogation/<OnActOneInternEntrance>d__39	
+0	Arthur	He seems nice.	Il a l'air gentil.	RoomInterrogation/<OnActOneInternEntrance>d__39	
+0	Arthur	Exercises?	Des exercices ?	RoomInterrogation/<OnActOneInternLeaves>d__40	
+0	Lamont	I AM CONFIDENT.	J'AI CONFIANCE EN MOI.	RoomInterrogation/<OnActOneInternLeaves>d__40	
+0	Lamont	I HAVE VALUE.	J'AI DE LA VALEUR.	RoomInterrogation/<OnActOneInternLeaves>d__40	
+0	Arthur	I wasn't.	Ce n'était pas le cas.	RoomInterrogation/<OnActOneInternLeaves>d__40	
+0	Arthur	Looks like I'm chained to the desk!	On dirait bien que je suis enchaîné au bureau !	RoomInterrogation/<OnActOneEscapeAttempt>d__41	
+0	Arthur	Drat! I think they're coming back.	Zut ! Je crois qu'ils reviennent.	RoomInterrogation/<OnActOneEscapeAttemptFoiled>d__43	
+0	Arthur	That's not how it happened.	Ce n'est pas ainsi que ça s'est passé.	RoomInterrogation/<OnEnterRoomAfterFadeActOneFailedToHideFromDon>d__45	
+0	Bailey	What really happened?	Que s'est-il réellement passé ?	RoomInterrogation/<OnEnterRoomAfterFadeActOneFailedToHideFromDon>d__45	
+0	Arthur	Those keys are tantalisingly close.	Ces clés sont tellement tentantes, à portée de main.	RoomInterrogation/<OnActOnePostKeyCloseup>d__54	
+0	Arthur	I wonder if they'd unlock these shackles?	Je me demande si elles ouvriraient ces fers ?	RoomInterrogation/<OnActOnePostKeyCloseup>d__54	
+0	Arthur	If only my arms were longer!	Si seulement j'avais des bras plus longs !	RoomInterrogation/<OnActOnePostKeyCloseup>d__54	
+0	Arthur	Damn!	Flûte !	RoomInterrogation/<OnPrologueUseFanOnCoat>d__55	
+0	Arthur	It's slightly too weak.	C'est un tout petit peu trop faible.	RoomInterrogation/<OnPrologueUseFanOnCoat>d__55	
+0	Arthur	Maybe I could funnel the airflow?	Peut-être pourrais-je canaliser le flux d'air ?	RoomInterrogation/<OnPrologueUseFanOnCoat>d__55	
+0	Arthur	That's taken care of.	Voilà qui est fait.	RoomInterrogation/<OnUseInvPropKeys>d__58	
+0	Arthur	But I still need to find a way out of here!	Mais je dois encore trouver un moyen de sortir d'ici !	RoomInterrogation/<OnUseInvPropKeys>d__58	
+0	Arthur	It sounds like Bailey is preoccupied with Lamont.	On dirait que Bailey a fort à faire avec Lamont.	RoomInterrogation/<OnLookAtPropDoor>d__61	
+0	Lamont	Why don't we have a lock on that blasted door!	Pourquoi n'y a-t-il pas de verrou sur cette maudite porte !	RoomInterrogation/<OnLookAtPropDoor>d__61	
+0	Arthur	I think they'd see me if I escaped that way.	Je pense qu'ils me verraient si je m'échappais par là.	RoomInterrogation/<OnLookAtPropDoor>d__61	
+0	Arthur	It's providing a nice cool breeze.	Ça produit une agréable brise rafraîchissante.	RoomInterrogation/<OnLookAtPropFan>d__63	
+0	Arthur	I now regret never memorising anyone's phone number.	Je regrette désormais de n'avoir jamais mémorisé aucun numéro de téléphone.	RoomInterrogation/<OnLookAtPropPhone>d__64	
+0	Arthur	There's nothing more reliable than print media!	Rien n'est plus fiable que la presse écrite !	RoomInterrogation/<OnInteractPropNewspaper>d__65	
+0	Arthur	There's a front page story about Lady Unterwald!	Il y a un article en une sur Lady Unterwald !	RoomInterrogation/<OnLookAtPropNewspaper>d__66	
+0	Arthur	It's full of cigarette butts.	C'est rempli de mégots de cigarettes.	RoomInterrogation/<OnLookAtPropAshtray>d__67	
+0	Arthur	I bet those keys would unlock these shackles.	Je parie que ces clés ouvriraient ces fers.	RoomInterrogation/<OnLookAtPropCoatstand>d__68	
+0	Arthur	There's nothing in there that I want.	Il n'y a rien là-dedans qui m'intéresse.	RoomInterrogation/<OnLookAtPropTrashCan>d__72	
+0	Arthur	It's standing no more!	Elle ne tient plus debout !	RoomInterrogation/<OnLookAtPropCoatstandFloor>d__73	
+0	Arthur	I should probably grab those keys before they come back.	Je ferais mieux d'attraper ces clés avant leur retour.	RoomInterrogation/<OnLookAtPropCoatstandFloor>d__73	
+0	Arthur	It's a standard issue umbrella.	C'est un parapluie réglementaire tout à fait standard.	RoomInterrogation/<OnLookAtPropUmbrella>d__75	
+0	Arthur	Looks like Lamont won an award. It's a level three in 'Athletic Prowess'.	On dirait que Lamont a gagné un prix. Niveau trois en « Prouesses athlétiques ».	RoomInterrogation/<OnLookAtPropWallCertificate>d__77	
+0	Arthur	It's an article from Lamont and Bailey's first big case.	C'est un article sur la première grande affaire de Lamont et Bailey.	RoomInterrogation/<OnLookAtPropWallClipping>d__78	
+0	Arthur	''LUMBERING FLATFOOT GOES TOE TO TOE WITH SOLE CRIMINAL.''	« UN FLIC EMPOTÉ COIFFE AU POTEAU LE VOLEUR DE SEMELLES. »	RoomInterrogation/<OnLookAtPropWallClipping>d__78	
+0	Arthur	''3RD PLACE RUNNER UP - MOST IMPROVED POLICING AWARD''	« 3E PRIX D'HONNEUR - POLICIER EN PLUS NETTE PROGRESSION »	RoomInterrogation/<OnLookAtPropGoldenTrophy>d__80	
+0	Arthur	That's probably not a good sign.	Ce n'est probablement pas bon signe.	RoomInterrogation/<OnLookAtPropSuspectBoard>d__81	
+0	Arthur	If I could just get out of these shackles.	Si seulement je pouvais me débarrasser de ces fers.	RoomInterrogation/<OnLookAtPropWindow>d__82	
+0	Arthur	It's a lamp used for interrogating suspects.	C'est une lampe destinée à interroger les suspects.	RoomInterrogation/<OnLookAtPropDeskLamp>d__83	
+0	Arthur	I can still see the lights when I close my eyes.	Je vois encore les taches de lumière quand je ferme les yeux.	RoomInterrogation/<OnLookAtPropDeskLamp>d__83	
+0	Arthur	It's a bunch of guide books on interrogation techniques.	Une pile de manuels sur les techniques d'interrogatoire.	RoomInterrogation/<OnInteractPropBooks>d__86	
+0	Arthur	''HAMMER AND CHISEL''	« LE MARTEAU ET LE BURIN »	RoomInterrogation/<OnInteractPropBooks>d__86	
+0	Arthur	''Get your suspects squealing fast with the patented Dirk Chiselton methodology.''	« Faites rapidement passer vos suspects aux aveux grâce à la méthode brevetée de Dirk Chiselton. »	RoomInterrogation/<OnInteractPropBooks>d__86	
+0	Arthur	''An essential self-help guide for the struggling detective.''	« Le guide de développement personnel indispensable pour détective en détresse. »	RoomInterrogation/<OnInteractPropBooks>d__86	
+0	Arthur	''THE CHAINING MANUAL''	« LE MANUEL DU MENOTTAGE »	RoomInterrogation/<OnInteractPropBooks>d__86	
+0	Arthur	''Everything you need to know about restraining and retaining your suspects.''	« Tout ce que vous devez savoir pour ligoter et retenir vos suspects. »	RoomInterrogation/<OnInteractPropBooks>d__86	
+0	Arthur	I felt like the world was my oyster...	J'avais le sentiment que le monde m'appartenait...	RoomIntroCarriage/<OnEnterRoomAfterFade>d__4	
+0	Arthur	I'm just looking for Lady Unterwald.	Je cherche simplement Lady Unterwald.	RoomKitchenCarriage/<OnEnterRoomAfterFadeActOnePrologue>d__57	
+0	ChefRemy	La madame is the other way.	La madame, c'est par l'autre côté !	RoomKitchenCarriage/<OnEnterRoomAfterFadeActOnePrologue>d__57	
+0	Gunter	I do hope it's one of mine!	J'espère bien que c'est l'un des miens !	RoomLoungeCarriage/<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	
+0	LadyUnterwald	to--	à...	RoomLoungeCarriage/<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	
+0	LadyUnterwald	-AcCKkk!	- ArGhh !	RoomLoungeCarriage/<OnEnterAfterFadePrologueUnterwaldMurderScene>d__36	
+0	Bergmann	Heavens above!	Grands dieux !	RoomLoungeCarriage/<OnEnterAfterFadePrologueUnterwaldMurderScene>d__36	
+0	Arthur	I think Lady Unterwald's carriage is the other way.	Je crois que le wagon de Lady Unterwald est de l'autre côté.	RoomSleeperCarriage/<OnEnterRegionToKitchenCarriagePrologue>d__34	
+0	Arthur	It's a long way down. Perhaps that dumpster could break my fall.	C'est une sacrée chute. Cette benne à ordures pourrait peut-être amortir ma réception.	RoomStationExterior/<OnEnterRoomAfterFadePrologue>d__10	
+0	LadyUnterwald	Pierre should take but a--	Pierre n'en a plus que pour une...	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	LadyUnterwald	--moment!	... seconde !	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	LadyUnterwald	We don't want anyone thinking I've got THIS many wrinkles!	Il ne faudrait pas qu'on s'imagine que j'ai AUTANT de rides !	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	Pierre	As you wish!	Comme il vous plaira !	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	LadyUnterwald	You'll have to accept my apologies for all the cloak and dagger theatrics.	Vous devrez me pardonner tout ce cérémonial digne d'un roman d'espionnage.	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	Arthur	Ma'am?	Madame ?	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	LadyUnterwald	It's going to ruffle some feathers. But do you think any of them are cut out to take over the reins?	Ça va en froisser plus d'un. Mais croyez-vous qu'un seul d'entre eux soit taillé pour reprendre les rênes ?	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	Arthur	It's a genuine BUREAU-BOY™ briefcase!	C'est une authentique mallette BUREAU-BOY™ !	RoomUnterwaldCarriage/<OnLookAtPropBriefcasePrologueUnterwald>d__71	
+0	Arthur	I knew I should have upgraded to the anti-gust model!	Je savais que j'aurais dû prendre le modèle résistant aux bourrasques !	RoomUnterwaldCarriage/<OnLookAtPropBriefcasePrologueSolo>d__72	
+0	Arthur	How could I have been so irresponsible?	Comment ai-je pu être aussi irresponsable ?	RoomUnterwaldCarriage/<OnLookAtPropBriefcasePrologueSolo>d__72	
+0	Arthur	They're mostly business guides and self-help books.	Ce sont surtout des manuels de commerce et de développement personnel.	RoomUnterwaldCarriage/<OnLookAtPropBooksPrologueUnterwald>d__79	
+0	Arthur	There's a lot of guides and self-help books here.	Il y a beaucoup de manuels et de livres de développement personnel ici.	RoomUnterwaldCarriage/<OnLookAtPropBooksPrologueSolo>d__80	
+0	Arthur	I didn't know Lady Unterwald played an instrument.	J'ignorais que Lady Unterwald jouait d'un instrument.	RoomUnterwaldCarriage/<OnLookAtPropInstrumentCasePrologueSolo>d__86	
+0	Arthur	That's a lot of bouquets.	Ça fait beaucoup de bouquets.	RoomUnterwaldCarriage/<OnLookAtPropFlowersPrologueUnterwald>d__99	
+0	LadyUnterwald	Adoring fans.	Des admirateurs transis.	RoomUnterwaldCarriage/<OnLookAtPropFlowersPrologueUnterwald>d__99	
+0	LadyUnterwald	You know...	Vous savez...	RoomUnterwaldCarriage/<OnLookAtPropFlowersPrologueUnterwald>d__99	
+0	LadyUnterwald	suck-ups!	... des lèche-bottes !	RoomUnterwaldCarriage/<OnLookAtPropFlowersPrologueUnterwald>d__99	
+0	Arthur	There's a lot of bouquets here.	Il y a une belle quantité de bouquets ici.	RoomUnterwaldCarriage/<OnLookAtPropFlowersPrologueSolo>d__100	
+0	Arthur	I'm starting to think I should have brought a gift.	Je commence à me dire que j'aurais dû apporter un présent.	RoomUnterwaldCarriage/<OnLookAtPropFlowersPrologueSolo>d__100	
+0	Arthur	Just a glance at that fiery plant is enough to make my eyes water!	Rien qu'un regard à cette plante flamboyante suffit à me faire larmoyer !	RoomUnterwaldCarriage/<OnLookAtPropChilliPlantPrologueUnterwald>d__107	
+0	Arthur	I love the balloons!	J'adore les ballons !	RoomUnterwaldCarriage/<OnLookAtPropBalloonPrologueUnterwald>d__115	
+0	LadyUnterwald	Really? I've always hated the noise they make.	Vraiment ? J'ai toujours détesté le bruit qu'ils font.	RoomUnterwaldCarriage/<OnLookAtPropBalloonPrologueUnterwald>d__115	
+0	Arthur	The balloons are a nice touch.	Les ballons apportent une touche sympathique.	RoomUnterwaldCarriage/<OnLookAtPropBalloonPrologueSolo>d__116	
+0	Arthur	Lady Unterwald's wardrobe seems to consist entirely of feathered hats and thick winter coats.	La garde-robe de Lady Unterwald semble se résumer à des chapeaux à plumes et d'épais manteaux d'hiver.	RoomUnterwaldCarriage/<OnLookAtPropWardrobePrologueUnterwald>d__122	
+0	Arthur	Let's hope all these coats are made from faux fur.	Espérons que tous ces manteaux soient en fausse fourrure.	RoomUnterwaldCarriage/<OnLookAtPropWardrobePrologueSolo>d__123	
+0	LadyUnterwald	Can't you see I'm red enough already?	Ne voyez-vous pas que je suis déjà assez rouge comme ça ?	RoomUnterwaldCarriage/<OnLookAtPropPetalLeafPrologueUnterwald>d__130	
+0	Arthur	These petals smell quite fragrant!	Ces pétales sentent particulièrement bon !	RoomUnterwaldCarriage/<OnLookAtPropPetalLeafPrologueSolo>d__131	
+0	LadyUnterwald	Worth every penny. I can't stand all that mechanical clacking!	Il vaut chaque sou. Je ne supporte pas tout ce cliquetis mécanique !	RoomUnterwaldCarriage/<OnLookAtPropTypewriterPrologueUnterwald>d__136	
+0	Arthur	Who's Jian?	Qui est Jian ?	RoomUnterwaldCarriage/<OnLookAtPropCardPrologueUnterwald>d__143	
+0	Arthur	The card was signed from a Mr Jian Liu.	La carte était signée par un certain monsieur Jian Liu.	RoomUnterwaldCarriage/<OnLookAtPropCardPrologueSolo>d__144	
+0	Arista	No, really.	Non, vraiment.	CharacterArista/<OnInteractPrologueDrunk>d__19	
+0	Arthur	The name's Arthur Ackerman, pleased to meet you!	Je m'appelle Arthur Ackerman, ravi de faire votre connaissance !	CharacterGunter/<OnInteractPrologueFirstOccurrence>d__17	
+0	Gunter	Stop butting in, Hagen! He was talking to me.	Arrête d'intervenir, Hagen ! C'est à moi qu'il parlait.	CharacterGunter/<OnInteractPrologueFirstOccurrence>d__17	
+0	Hagen	No, he was clearly talking to me, Gunter.	Non, il s'adressait clairement à moi, Gunter.	CharacterGunter/<OnInteractPrologueFirstOccurrence>d__17	
+0	Arthur	Well, I guess I was talking to both of you.	Eh bien, je suppose que je m'adressais à vous deux.	CharacterGunter/<OnInteractPrologueFirstOccurrence>d__17	
+0	Hagen	Well, what is it?	Bon, qu'y a-t-il ?	CharacterGunter/<OnInteractPrologueFirstOccurrence>d__17	
+0	Isaac	Aha, and how did you happen upon that little nugget of information, my sweet?	Aha, et comment as-tu déniché cette croustillante information, ma douce ?	CharacterShelly/<OnInteractPrologue>d__6	
+0	Shelly	You know I can't reveal my sources, darling.	Tu sais bien que je ne révèle jamais mes sources, mon trésor.	CharacterShelly/<OnInteractPrologue>d__6	
+0	Isaac	Well, I shan't be stepping foot on any train under their control.	Eh bien, je ne mettrai jamais les pieds dans un train sous leur contrôle.	CharacterShelly/<OnInteractPrologue>d__6	
+0	Shelly	Heaven forbid, it'll be carnage!	Grand Dieu ne plaise, ce serait un vrai carnage !	CharacterShelly/<OnInteractPrologue>d__6	
+0	Isaac	Oh, don't tell me that, I just ate!	Oh, ne me dis pas ça, je viens tout juste de manger !	CharacterShelly/<OnInteractPrologue>d__6	
+0	Isaac	Stop, stop right this minute!	Arrête, arrête immédiatement !	CharacterShelly/<OnInteractPrologue>d__6	
+0	Shelly	He's some high-flying tycoon, with a penchant for the finer things.	C'est un grand magnat de la haute, avec un penchant pour le grand luxe.	CharacterShelly/<OnInteractPrologue>d__6	
+0	Herman	I can't leave now, I've got a job to do!	Je ne peux pas partir maintenant, j'ai une mission à accomplir !	RoomArthurQuarters/<OnEnterRegionToSleeperCarriage>d__21	
+0	Arthur	I knew it, Herman Merman! I'm such a huge fan!	Je le savais, Herman Merman ! Je suis un immense fan !	RoomArthurQuarters/<OnUseInvPropHangerBlueSuit>d__29	
+0	Herman	Ah, so you're familiar with my cases!	Ah, vous connaissez donc mes enquêtes !	RoomArthurQuarters/<OnUseInvPropHangerBlueSuit>d__29	
+0	Bailey	Just stick to your story, stop embellishing.	Tenez-vous-en aux faits, cessez d'enjoliver.	RoomArthurQuarters/<OnUseInvPropHangerBlueSuit>d__29	
+0	Herman	Those were Lady Unterwald's words, of course.	Ce sont les propres mots de Lady Unterwald, bien entendu.	RoomArthurQuarters/<OnUseInvPropHangerBlueSuit>d__29	
+0	Jimmy	There you are, Mr Ackerman!	Vous voilà, monsieur Ackerman !	RoomInterrogation/<OnActOneInternEntrance>d__39	
+0	Lamont	Kid, are you blind? We're trying to create an atmosphere here!	Gamin, t'es aveugle ? On essaie d'instaurer une ambiance, là !	RoomInterrogation/<OnActOneInternEntrance>d__39	
+0	Bailey	Our suspect, Jimmy. And we're in the middle of an interview.	Notre suspect, Jimmy. Et nous sommes en plein interrogatoire.	RoomInterrogation/<OnActOneInternEntrance>d__39	
+0	Jimmy	Oh, how exciting!	Oh, comme c'est palpitant !	RoomInterrogation/<OnActOneInternEntrance>d__39	
+0	Jimmy	I hope you land the job, Mr Ackerman. I'm rooting for you!	J'espère que vous décrocherez le poste, monsieur Ackerman. Je suis de tout cœur avec vous !	RoomInterrogation/<OnActOneInternEntrance>d__39	
+0	Lamont	Get out, kid!	Dehors, le gamin !	RoomInterrogation/<OnActOneInternEntrance>d__39	
+0	Lamont	Ugh, that damn coffee boy has thrown off the whole vibe!	Pff, ce maudit loufeteau a complètement ruiné l'ambiance !	RoomInterrogation/<OnActOneInternLeaves>d__40	
+0	Lamont	It's not as simple as it looks, you know!	Ce n'est pas si simple que ça en a l'air, vous savez !	RoomInterrogation/<OnActOneInternLeaves>d__40	
+0	Bailey	Remember the exercises, Lamont.	Rappelle-toi tes exercices, Lamont.	RoomInterrogation/<OnActOneInternLeaves>d__40	
+0	Lamont	HE WAS ABOUT TO CRACK, I COULD FEEL IT.	IL ÉTAIT SUR LE POINT DE CRAQUER, JE LE SENTAIS.	RoomInterrogation/<OnActOneInternLeaves>d__40	
+0	Bailey	Stay there, Arthur.	Reste là, Arthur.	RoomInterrogation/<OnActOneInternLeaves>d__40	
+0	Arthur	Sure thing, I'll be right here when you get back.	Bien sûr, je vous attends sagement ici.	RoomInterrogation/<OnActOneInternLeaves>d__40	
+0	Arthur	What do they take me for, a common criminal?	Pour qui me prennent-ils, un vulgaire malfrat ?	RoomInterrogation/<OnActOneEscapeAttempt>d__41	
+0	Bailey	Let's try this again, Arthur.	Reprenons depuis le début, Arthur.	RoomInterrogation/<OnActOneEscapeAttemptFoiled>d__43	
+0	Bailey	The whole story, from the top.	Toute l'histoire, sans rien omettre.	RoomInterrogation/<OnActOneEscapeAttemptFoiled>d__43	
+0	Arthur	Well, it began, as all good stories do.	Eh bien, tout a commencé comme toutes les bonnes histoires.	RoomInterrogation/<OnActOneEscapeAttemptFoiled>d__43	
+0	Lamont	With a hard-boiled, yet handsome detective?	Par un détective endurci, mais au charme ravageur ?	RoomInterrogation/<OnActOneEscapeAttemptFoiled>d__43	
+0	Lamont	So, Don caught you sneaking around in his room?	Alors, Don t'a surpris en train de fouiner dans sa chambre ?	RoomInterrogation/<OnEnterRoomAfterFadeActOneFailedToHideFromDon>d__45	
+0	Arthur	Uh, no.	Euh, non.	RoomInterrogation/<OnEnterRoomAfterFadeActOneFailedToHideFromDon>d__45	
+0	Bailey	Don't waste our time, Arthur.	Ne nous faites pas perdre de temps, Arthur.	RoomInterrogation/<OnEnterRoomAfterFadeActOneFailedToHideFromDon>d__45	
+0	Lamont	Don't make me hit the desk again, Arthur.	Ne me force pas à frapper du poing sur la table, Arthur.	RoomInterrogation/<OnEnterRoomAfterFadeActOneFailedToHideFromDon>d__45	
+0	Arthur	Oh, sorry. I must be misremembering.	Oh, pardon. Ma mémoire doit me jouer des tours.	RoomInterrogation/<OnEnterRoomAfterFadeActOneFailedToHideFromDon>d__45	
+0	Lamont	You're right, Bailey. I just have to breathe.	Tu as raison, Bailey. Il faut juste que je respire.	RoomInterrogation/<OnLookAtPropDoor>d__61	
+0	Lamont	I can't go back in there, it's embarrassing!	Je ne peux pas retourner là-dedans, c'est trop humiliant !	RoomInterrogation/<OnLookAtPropDoor>d__61	
+0	Arthur	Ah, that's better.	Ah, voilà qui est mieux.	RoomInterrogation/<OnLookAtPropFan>d__63	
+0	Arthur	No thanks, I can smell it from here.	Non merci, je sens l'odeur d'ici.	RoomInterrogation/<OnLookAtPropAshtray>d__67	
+0	Arthur	I know things look bad, but I'm not rooting through trash just yet.	La situation est grave, mais je ne vais pas encore fouiller dans les poubelles.	RoomInterrogation/<OnLookAtPropTrashCan>d__72	
+0	Arthur	It's a photo of a very large Lamont, behind the wheel of a very small car.	C'est une photo d'un imposant Lamont, au volant d'une minuscule voiture.	RoomInterrogation/<OnLookAtPropWallPhoto>d__76	
+0	Arthur	''A petty thief at the shoe emporium was quickly brought to heel this morning by Lex Lamont, and his partner Justice Bailey.''	« Un voleur à la tire du magasin de chaussures a été promptement remis au pas ce matin par Lex Lamont et son équipier Justice Bailey. »	RoomInterrogation/<OnLookAtPropWallClipping>d__78	
+0	Arthur	It's every bureaucrat's dream, a box of neatly organised paperwork.	Le rêve de tout bureaucrate : un carton de paperasse impeccablement classée.	RoomInterrogation/<OnLookAtPropDocuments>d__79	
+0	Arthur	There's a photo of me, surrounded by a significant amount of red yarn.	Il y a une photo de moi, entourée d'une quantité impressionnante de fil rouge.	RoomInterrogation/<OnLookAtPropSuspectBoard>d__81	
+0	Arthur	I'm not the only suspect on the board, at least.	Au moins, je ne suis pas le seul suspect sur le tableau.	RoomInterrogation/<OnLookAtPropSuspectBoard>d__81	
+0	Arthur	Hmm, better not. I don't want to draw any unwanted attention.	Hmm, mieux vaut éviter. Je ne voudrais pas attirer l'attention.	RoomInterrogation/<OnInteractPropLightSwitch>d__84	
+0	Arthur	You won't catch me incriminating myself, tiny machine!	Ce n'est pas toi qui me feras m'incriminer, sale petite machine !	RoomInterrogation/<OnLookAtPropRecorderDesk>d__85	
+0	Arthur	''GOOD COP, GLAD COP''	« BON FLIC, FLIC RAVI »	RoomInterrogation/<OnInteractPropBooks>d__86	
+0	ChefFrancois	Va t'en, avocat !	Va-t'en, avocat !	RoomKitchenCarriage/<OnEnterRoomAfterFadeActOnePrologue>d__57	
+0	Arthur	Okay, okay I'm going!	D'accord, d'accord, je m'en vais !	RoomKitchenCarriage/<OnEnterRoomAfterFadeActOnePrologue>d__57	
+0	Hirsch	It looks like we're approaching a tunnel, ma'am!	On dirait qu'on approche d'un tunnel, madame !	RoomLoungeCarriage/<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	
+0	Gunter	Auntie, NO!	Ma tante, NON !	RoomLoungeCarriage/<OnEnterAfterFadePrologueUnterwaldMurderScene>d__36	
+0	Arthur	Also, I don't want to get yelled at again.	Et puis, je n'ai pas envie de me faire encore crier dessus.	RoomSleeperCarriage/<OnEnterRegionToKitchenCarriagePrologue>d__34	
+0	LadyUnterwald	Are you nearly ready? I'm not getting any younger, dear.	Avez-vous bientôt terminé ? Je ne rajeunis pas, mon cher.	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	Pierre	Alas, you cannot rush perfection.	Hélas, on ne saurait bousculer la perfection.	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	Arthur	My apologies, am I interrupting?	Toutes mes excuses, est-ce que je vous dérange ?	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	LadyUnterwald	Not at all, Arthur! I'll be with you shortly.	Pas du tout, Arthur ! Je suis à vous dans un instant.	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	LadyUnterwald	Oh, tremendous! I see even Arthur made an appearance.	Oh, sensationnel ! Je vois que même Arthur figure sur la toile.	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	Pierre	I capture every detail in the frame, madame. Exactly as I see it.	Je capture chaque détail dans le cadre, madame. Exactement tel que je le vois.	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	LadyUnterwald	Well, I do wish you'd take some creative liberties, dear.	Eh bien, j'aurais apprécié que vous preniez quelques libertés artistiques, mon cher.	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	LadyUnterwald	We can attempt another portrait during my speech, if you like.	Nous pourrons tenter un autre portrait durant mon discours, si vous voulez.	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	LadyUnterwald	Arthur, I've just signed another amendment to my will. It's by the window.	Arthur, je viens de signer un nouvel avenant à mon testament. Il est près de la fenêtre.	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	Arthur	Of course, I'll keep it safe in the briefcase for now.	Bien entendu, je vais le mettre en sécurité dans la mallette pour l'instant.	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	LadyUnterwald	I must confess, I'm a little nervous about the speech tonight.	Je dois confesser que je suis un peu nerveuse à propos du discours de ce soir.	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	LadyUnterwald	Bickering sycophants, the lot of them!	Une bande de courtisans querelleurs, jusqu'au dernier !	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	LadyUnterwald	They're just waiting for me to kick the bucket, you know?	Ils n'attendent qu'une chose : que je passe l'arme à gauche, vous savez ?	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	LadyUnterwald	Ohh, it makes my blood boil just thinking about it!	Ohh, rien que d'y penser, ça me fait bouillir le sang !	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	LadyUnterwald	Would you be a dear and open the window? It's getting quite hot in here, I need some air!	Seriez-vous un amour et pourriez-vous ouvrir la fenêtre ? Il fait une chaleur étouffante ici, j'ai besoin d'air !	RoomUnterwaldCarriage/<OnEnterRoomAfterFadePrologueUnterwaldPaintingScene>d__39	
+0	Arthur	''Take the office, wherever you go!''	« Emportez le bureau partout avec vous ! »	RoomUnterwaldCarriage/<OnLookAtPropBriefcasePrologueUnterwald>d__71	
+0	LadyUnterwald	I trust you don't need a guide on opening the window, dear?	J'ose espérer que vous n'avez pas besoin d'un guide pour ouvrir une fenêtre, mon cher ?	RoomUnterwaldCarriage/<OnLookAtPropBooksPrologueUnterwald>d__79	
+0	Arthur	I didn't know you played an instrument, Lady Unterwald?	J'ignorais que vous jouiez d'un instrument, Lady Unterwald ?	RoomUnterwaldCarriage/<OnLookAtPropInstrumentCasePrologueUnterwald>d__85	
+0	LadyUnterwald	Never mind that now, Arthur. I'm overheating!	Ne vous occupez pas de ça maintenant, Arthur. J'étouffe !	RoomUnterwaldCarriage/<OnLookAtPropInstrumentCasePrologueUnterwald>d__85	
+0	LadyUnterwald	Besides, it's fragile and expensive, so don't you be touching it!	En plus, c'est fragile et fort coûteux, alors pas touche !	RoomUnterwaldCarriage/<OnLookAtPropInstrumentCasePrologueUnterwald>d__85	
+0	Arthur	A secret admirer, perhaps?	Un admirateur secret, peut-être ?	RoomUnterwaldCarriage/<OnLookAtPropFlowersPrologueUnterwald>d__99	
+0	LadyUnterwald	Ah, just well-wishers..	Ah, de simples sympathisants...	RoomUnterwaldCarriage/<OnLookAtPropFlowersPrologueUnterwald>d__99	
+0	LadyUnterwald	It's getting rather hot in here, Arthur.	Il commence à faire drôlement chaud ici, Arthur.	RoomUnterwaldCarriage/<OnLookAtPropChilliPlantPrologueUnterwald>d__107	
+0	LadyUnterwald	This isn't the time to be shopping for a new outfit, Arthur!	Ce n'est pas le moment de renouveler votre garde-robe, Arthur !	RoomUnterwaldCarriage/<OnLookAtPropWardrobePrologueUnterwald>d__122	
+0	LadyUnterwald	Your suit is more than adequate, I assure you!	Votre costume est amplement convenable, je vous assure !	RoomUnterwaldCarriage/<OnLookAtPropWardrobePrologueUnterwald>d__122	
+0	Arthur	Petals on the bed, aye?	Des pétales sur le lit, dis donc ?	RoomUnterwaldCarriage/<OnLookAtPropPetalLeafPrologueUnterwald>d__130	
+0	Arthur	Is there romance on the horizon for you, Lady Unterwald?	Y aurait-il de la romance dans l'air pour vous, Lady Unterwald ?	RoomUnterwaldCarriage/<OnLookAtPropPetalLeafPrologueUnterwald>d__130	
+0	LadyUnterwald	Arthur, please!	Arthur, par pitié !	RoomUnterwaldCarriage/<OnLookAtPropPetalLeafPrologueUnterwald>d__130	
+0	Arthur	It's the model 3 WHISPERNOTE, with patented quiet tap technology.	C'est le modèle 3 WHISPERNOTE, avec technologie brevetée de frappe silencieuse.	RoomUnterwaldCarriage/<OnLookAtPropTypewriterPrologueUnterwald>d__136	
+0	Bailey	So, what really happened?	Alors, que s'est-il réellement passé ?	RoomInterrogation	MoveNext
