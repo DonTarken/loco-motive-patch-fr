@@ -1,6 +1,7 @@
 using System;
 using System.IO;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Collections.Generic;
 using BepInEx;
 using HarmonyLib;
@@ -9,7 +10,7 @@ using TMPro;
 
 namespace LocoMotiveFR
 {
-    [BepInPlugin("org.dontarken.locomotive.fr", "Loco Motive Patch FR", "1.4.0")]
+    [BepInPlugin("org.dontarken.locomotive.fr", "Loco Motive Patch FR", "1.5.0")]
     public class LocoMotiveFRPlugin : BaseUnityPlugin
     {
         public static LocoMotiveFRPlugin Instance;
@@ -30,7 +31,7 @@ namespace LocoMotiveFR
                 TranslationDir = Path.Combine(Paths.GameRootPath, "Translations_FR");
             }
 
-            Logger.LogInfo("=== [Loco Motive FR] Initialisation du patch v1.4.0 (Multilingue & Choix FR)... ===");
+            Logger.LogInfo("=== [Loco Motive FR] Initialisation du patch v1.5.0 (UI, Tutoriels & Interactions)... ===");
             LoadTranslations();
 
             var harmony = new Harmony("org.dontarken.locomotive.fr");
@@ -82,6 +83,58 @@ namespace LocoMotiveFR
                 Type.EmptyTypes,
                 typeof(Patch_DialogOption_get_Description), null, "Postfix");
 
+            // Hooks pour le menu Pause & Boîtes de dialogue de confirmation (PromptBuilder)
+            PatchMethod(harmony, typeof(PromptBuilder), "SetHeading",
+                new Type[] { typeof(string) },
+                typeof(Patch_PromptBuilder_SetHeading), "Prefix", null);
+
+            PatchMethod(harmony, typeof(PromptBuilder), "SetLabel",
+                new Type[] { typeof(string) },
+                typeof(Patch_PromptBuilder_SetLabel), "Prefix", null);
+
+            PatchMethod(harmony, typeof(PromptBuilder), "AddButton",
+                new Type[] { typeof(string), typeof(Action) },
+                typeof(Patch_PromptBuilder_AddButton), "Prefix", null);
+
+            // Hooks pour les bulles de tutoriel (GuiTutorial)
+            PatchMethod(harmony, typeof(GuiTutorial), "Show",
+                new Type[] { typeof(string), typeof(Vector2) },
+                typeof(Patch_GuiTutorial_Show), "Prefix", null);
+
+            PatchMethod(harmony, typeof(GuiTutorial), "Refresh",
+                new Type[] { typeof(string), typeof(Vector2) },
+                typeof(Patch_GuiTutorial_Refresh), "Prefix", null);
+
+            // Hooks pour les infobulles d'interactions (Tooltips & Slots)
+            PatchConstructor(harmony, typeof(PowerTools.QuestGui.TooltipInfo),
+                new Type[] { typeof(string), typeof(string) },
+                typeof(Patch_TooltipInfo_ctor), "Prefix");
+
+            PatchMethod(harmony, typeof(PowerTools.QuestGui.TooltipSlot), "Show",
+                new Type[] { typeof(string) },
+                typeof(Patch_TooltipSlot_Show), "Prefix", null);
+
+            // Hooks pour les descriptions d'objets, éléments interactifs et personnages
+            PatchMethod(harmony, typeof(PowerTools.Quest.Prop), "get_InteractDescription",
+                Type.EmptyTypes,
+                typeof(Patch_Prop_get_InteractDescription), null, "Postfix");
+
+            PatchMethod(harmony, typeof(PowerTools.Quest.Prop), "get_LookDescription",
+                Type.EmptyTypes,
+                typeof(Patch_Prop_get_LookDescription), null, "Postfix");
+
+            PatchMethod(harmony, typeof(PowerTools.Quest.Prop), "get_Description",
+                Type.EmptyTypes,
+                typeof(Patch_Prop_get_Description), null, "Postfix");
+
+            PatchMethod(harmony, typeof(PowerTools.Quest.Hotspot), "get_Description",
+                Type.EmptyTypes,
+                typeof(Patch_Hotspot_get_Description), null, "Postfix");
+
+            PatchMethod(harmony, typeof(PowerTools.Quest.Character), "get_Description",
+                Type.EmptyTypes,
+                typeof(Patch_Character_get_Description), null, "Postfix");
+
             // Hooks pour le sélecteur de langue des Paramètres (4 langues)
             PatchMethod(harmony, typeof(GuiSettings), "OptTextLanguageL", 
                 Type.EmptyTypes,
@@ -96,6 +149,26 @@ namespace LocoMotiveFR
                 typeof(Patch_GuiSettings_RefreshTextLanguageDisplay), "Prefix", null);
 
             Logger.LogInfo(string.Format("=== [Loco Motive FR] Patch actif ! {0} entrées de texte chargées. ===", TextByEnglish.Count));
+        }
+
+        private static void PatchConstructor(Harmony harmony, Type targetType, Type[] parameters, Type patchType, string prefixName)
+        {
+            try
+            {
+                var target = AccessTools.Constructor(targetType, parameters);
+                if (target == null)
+                {
+                    if (Log != null) Log.LogWarning(string.Format("Constructeur introuvable pour patch : {0}", targetType.Name));
+                    return;
+                }
+                HarmonyMethod prefix = prefixName != null ? new HarmonyMethod(patchType, prefixName) : null;
+                harmony.Patch(target, prefix, null);
+                if (Log != null) Log.LogInfo(string.Format("-> Patch Harmony appliqué sur constructeur : {0}", targetType.Name));
+            }
+            catch (Exception ex)
+            {
+                if (Log != null) Log.LogError(string.Format("Erreur patch constructeur {0} : {1}", targetType.Name, ex.Message));
+            }
         }
 
         private static void PatchMethod(Harmony harmony, Type targetType, string methodName, Type[] parameters, Type patchType, string prefixName, string postfixName)
@@ -297,6 +370,41 @@ namespace LocoMotiveFR
             if (TextByEnglish.TryGetValue(trimmed, out fr) && !string.IsNullOrEmpty(fr))
             {
                 return PreserveSpaces(text, fr);
+            }
+
+            // 4. Détection et extraction des balises <sprite...> (ex: icônes boutons souris/manette)
+            if (trimmed.Contains("<sprite"))
+            {
+                var sprites = new List<string>();
+                string template = Regex.Replace(trimmed, @"<sprite[^>]*>", match => {
+                    sprites.Add(match.Value);
+                    return "{" + (sprites.Count - 1) + "}";
+                });
+
+                if (TextByEnglish.TryGetValue(template.Trim(), out fr) && !string.IsNullOrEmpty(fr))
+                {
+                    for (int i = 0; i < sprites.Count; i++)
+                    {
+                        fr = fr.Replace("{" + i + "}", sprites[i]);
+                    }
+                    return PreserveSpaces(text, fr);
+                }
+            }
+
+            // 5. Détection des balises de début <font=...> et <size=...>
+            if (trimmed.StartsWith("<font=") || trimmed.StartsWith("<size="))
+            {
+                var match = Regex.Match(trimmed, @"^(<font=[^>]+>|<size=[^>]+>)+");
+                if (match.Success)
+                {
+                    string prefix = match.Value;
+                    string inner = trimmed.Substring(prefix.Length);
+                    string translatedInner = TranslateString(inner, character);
+                    if (translatedInner != inner)
+                    {
+                        return PreserveSpaces(text, prefix + translatedInner);
+                    }
+                }
             }
 
             return input;
@@ -555,6 +663,126 @@ namespace LocoMotiveFR
                 if (LocoMotiveFRPlugin.Log != null) LocoMotiveFRPlugin.Log.LogWarning("Erreur RefreshTextLanguageDisplay : " + ex.Message);
             }
             return true;
+        }
+    }
+
+    public static class Patch_PromptBuilder_SetHeading
+    {
+        public static void Prefix(ref string heading)
+        {
+            if (string.IsNullOrEmpty(heading)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+            heading = LocoMotiveFRPlugin.TranslateString(heading);
+        }
+    }
+
+    public static class Patch_PromptBuilder_SetLabel
+    {
+        public static void Prefix(ref string label)
+        {
+            if (string.IsNullOrEmpty(label)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+            label = LocoMotiveFRPlugin.TranslateString(label);
+        }
+    }
+
+    public static class Patch_PromptBuilder_AddButton
+    {
+        public static void Prefix(ref string label)
+        {
+            if (string.IsNullOrEmpty(label)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+            label = LocoMotiveFRPlugin.TranslateString(label);
+        }
+    }
+
+    public static class Patch_GuiTutorial_Show
+    {
+        public static void Prefix(ref string text)
+        {
+            if (string.IsNullOrEmpty(text)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+            text = LocoMotiveFRPlugin.TranslateString(text);
+        }
+    }
+
+    public static class Patch_GuiTutorial_Refresh
+    {
+        public static void Prefix(ref string text)
+        {
+            if (string.IsNullOrEmpty(text)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+            text = LocoMotiveFRPlugin.TranslateString(text);
+        }
+    }
+
+    public static class Patch_TooltipInfo_ctor
+    {
+        public static void Prefix(ref string label, ref string sprite)
+        {
+            if (string.IsNullOrEmpty(label)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+            label = LocoMotiveFRPlugin.TranslateString(label);
+        }
+    }
+
+    public static class Patch_TooltipSlot_Show
+    {
+        public static void Prefix(ref string text)
+        {
+            if (string.IsNullOrEmpty(text)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+            text = LocoMotiveFRPlugin.TranslateString(text);
+        }
+    }
+
+    public static class Patch_Prop_get_InteractDescription
+    {
+        public static void Postfix(ref string __result)
+        {
+            if (string.IsNullOrEmpty(__result)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+            __result = LocoMotiveFRPlugin.TranslateString(__result);
+        }
+    }
+
+    public static class Patch_Prop_get_LookDescription
+    {
+        public static void Postfix(ref string __result)
+        {
+            if (string.IsNullOrEmpty(__result)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+            __result = LocoMotiveFRPlugin.TranslateString(__result);
+        }
+    }
+
+    public static class Patch_Prop_get_Description
+    {
+        public static void Postfix(ref string __result)
+        {
+            if (string.IsNullOrEmpty(__result)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+            __result = LocoMotiveFRPlugin.TranslateString(__result);
+        }
+    }
+
+    public static class Patch_Hotspot_get_Description
+    {
+        public static void Postfix(ref string __result)
+        {
+            if (string.IsNullOrEmpty(__result)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+            __result = LocoMotiveFRPlugin.TranslateString(__result);
+        }
+    }
+
+    public static class Patch_Character_get_Description
+    {
+        public static void Postfix(ref string __result)
+        {
+            if (string.IsNullOrEmpty(__result)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+            __result = LocoMotiveFRPlugin.TranslateString(__result);
         }
     }
 }
