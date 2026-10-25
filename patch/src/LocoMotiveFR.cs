@@ -17,7 +17,7 @@ namespace LocoMotiveFR
         public static Dictionary<string, string> TextByEnglish = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
         public static string TranslationDir;
 
-        public static readonly int[] AvailableLanguageIds = new int[] { 0, 1, 3, 4 };
+        public static readonly int[] AvailableLanguageIds = new int[] { 0, 3, 1, 4 };
         public static int FrenchLanguageIndex = 4;
 
         void Awake()
@@ -529,8 +529,8 @@ namespace LocoMotiveFR
                     int langId = pq.Settings.LanguageId;
                     string label = "ENGLISH (UK)";
                     if (langId == 0) label = "ENGLISH (UK)";
-                    else if (langId == 1) label = "ENGLISH (US)";
-                    else if (langId == 3) label = "DEUTSCH";
+                    else if (langId == 3) label = "ENGLISH (US)";
+                    else if (langId == 1) label = "DEUTSCH";
                     else if (langId == LocoMotiveFRPlugin.FrenchLanguageIndex || langId == 4) label = "FRANÇAIS";
                     else
                     {
