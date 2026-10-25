@@ -9,13 +9,16 @@ using TMPro;
 
 namespace LocoMotiveFR
 {
-    [BepInPlugin("org.dontarken.locomotive.fr", "Loco Motive Patch FR", "1.2.0")]
+    [BepInPlugin("org.dontarken.locomotive.fr", "Loco Motive Patch FR", "1.4.0")]
     public class LocoMotiveFRPlugin : BaseUnityPlugin
     {
         public static LocoMotiveFRPlugin Instance;
         public static BepInEx.Logging.ManualLogSource Log;
         public static Dictionary<string, string> TextByEnglish = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
         public static string TranslationDir;
+
+        public static readonly int[] AvailableLanguageIds = new int[] { 0, 1, 3, 4 };
+        public static int FrenchLanguageIndex = 4;
 
         void Awake()
         {
@@ -27,12 +30,12 @@ namespace LocoMotiveFR
                 TranslationDir = Path.Combine(Paths.GameRootPath, "Translations_FR");
             }
 
-            Logger.LogInfo("=== [Loco Motive FR] Initialisation du patch v1.2.0... ===");
+            Logger.LogInfo("=== [Loco Motive FR] Initialisation du patch v1.4.0 (Multilingue & Choix FR)... ===");
             LoadTranslations();
 
             var harmony = new Harmony("org.dontarken.locomotive.fr");
 
-            // Application manuelle et isolée de chaque patch pour une robustesse maximale
+            // Hooks pour les textes et dialogues
             PatchMethod(harmony, typeof(PowerTools.Quest.SystemText), "GetDisplayText", 
                 new Type[] { typeof(string), typeof(int), typeof(string), typeof(bool) },
                 typeof(Patch_SystemText_GetDisplayText), "Prefix", null);
@@ -49,6 +52,7 @@ namespace LocoMotiveFR
                 Type.EmptyTypes,
                 typeof(Patch_SystemText_Awake), null, "Postfix");
 
+            // Hooks pour les composants UI et textes
             PatchMethod(harmony, typeof(PowerTools.Quest.QuestTextPro), "SetText", 
                 new Type[] { typeof(string) },
                 typeof(Patch_QuestTextPro_SetText), "Prefix", null);
@@ -69,6 +73,7 @@ namespace LocoMotiveFR
                 new Type[] { typeof(string), typeof(bool) },
                 typeof(Patch_TMP_Text_SetText), "Prefix", null);
 
+            // Hooks pour les options de choix de dialogues
             PatchMethod(harmony, typeof(PowerTools.Quest.DialogOption), "get_Text", 
                 Type.EmptyTypes,
                 typeof(Patch_DialogOption_get_Text), null, "Postfix");
@@ -76,6 +81,19 @@ namespace LocoMotiveFR
             PatchMethod(harmony, typeof(PowerTools.Quest.DialogOption), "get_Description", 
                 Type.EmptyTypes,
                 typeof(Patch_DialogOption_get_Description), null, "Postfix");
+
+            // Hooks pour le sélecteur de langue des Paramètres (4 langues)
+            PatchMethod(harmony, typeof(GuiSettings), "OptTextLanguageL", 
+                Type.EmptyTypes,
+                typeof(Patch_GuiSettings_OptTextLanguageL), "Prefix", null);
+
+            PatchMethod(harmony, typeof(GuiSettings), "OptTextLanguageR", 
+                Type.EmptyTypes,
+                typeof(Patch_GuiSettings_OptTextLanguageR), "Prefix", null);
+
+            PatchMethod(harmony, typeof(GuiSettings), "RefreshTextLanguageDisplay", 
+                Type.EmptyTypes,
+                typeof(Patch_GuiSettings_RefreshTextLanguageDisplay), "Prefix", null);
 
             Logger.LogInfo(string.Format("=== [Loco Motive FR] Patch actif ! {0} entrées de texte chargées. ===", TextByEnglish.Count));
         }
@@ -112,6 +130,56 @@ namespace LocoMotiveFR
             {
                 Logger.LogInfo("[Loco Motive FR] Rechargement à chaud des traductions (touche F5)...");
                 LoadTranslations();
+            }
+        }
+
+        public static bool IsFrenchActive()
+        {
+            try
+            {
+                var pq = PowerTools.Quest.PowerQuest.Get;
+                if (pq != null && pq.Settings != null)
+                {
+                    return pq.Settings.LanguageId == FrenchLanguageIndex;
+                }
+            }
+            catch {}
+            return true;
+        }
+
+        public static void CycleLanguage(GuiSettings guiSettings, int direction)
+        {
+            try
+            {
+                var pq = PowerTools.Quest.PowerQuest.Get;
+                if (pq == null || pq.Settings == null) return;
+
+                int currentId = pq.Settings.LanguageId;
+                int currentIndex = Array.IndexOf(AvailableLanguageIds, currentId);
+                if (currentIndex < 0) currentIndex = AvailableLanguageIds.Length - 1;
+
+                int nextIndex = (currentIndex + direction + AvailableLanguageIds.Length) % AvailableLanguageIds.Length;
+                int nextId = AvailableLanguageIds[nextIndex];
+
+                pq.Settings.LanguageId = nextId;
+
+                var globalScript = global::GlobalScriptBase<GlobalScript>.Script;
+                if (globalScript != null)
+                {
+                    globalScript.OnLanguageChanged();
+                }
+
+                var saveMethod = AccessTools.Method(typeof(GuiSettings), "SaveLanguageSelection");
+                if (saveMethod != null) saveMethod.Invoke(guiSettings, null);
+
+                var refreshMethod = AccessTools.Method(typeof(GuiSettings), "Refresh");
+                if (refreshMethod != null) refreshMethod.Invoke(guiSettings, null);
+
+                if (Log != null) Log.LogInfo(string.Format("-> Langue changée vers ID {0} (index {1})", nextId, nextIndex));
+            }
+            catch (Exception ex)
+            {
+                if (Log != null) Log.LogError("Erreur CycleLanguage : " + ex.Message);
             }
         }
 
@@ -188,9 +256,26 @@ namespace LocoMotiveFR
         public static string TranslateString(string input, string character = null)
         {
             if (string.IsNullOrEmpty(input)) return input;
+            if (!IsFrenchActive()) return input;
 
+            string text = input;
+
+            // Détection et suppression des tags ID de PowerQuest du style &403
+            if (text.Length > 0 && text[0] == '&')
+            {
+                int spaceIdx = text.IndexOf(' ');
+                if (spaceIdx > 1)
+                {
+                    int dummyId;
+                    if (int.TryParse(text.Substring(1, spaceIdx - 1), out dummyId))
+                    {
+                        text = text.Substring(spaceIdx + 1);
+                    }
+                }
+            }
+
+            string trimmed = text.Trim();
             string fr;
-            string trimmed = input.Trim();
 
             // 1. Recherche par (Personnage::Texte)
             if (!string.IsNullOrEmpty(character))
@@ -198,12 +283,12 @@ namespace LocoMotiveFR
                 string charKey = character + "::" + trimmed;
                 if (TextByEnglish.TryGetValue(charKey, out fr) && !string.IsNullOrEmpty(fr))
                 {
-                    return PreserveSpaces(input, fr);
+                    return PreserveSpaces(text, fr);
                 }
             }
 
             // 2. Recherche par texte direct
-            if (TextByEnglish.TryGetValue(input, out fr) && !string.IsNullOrEmpty(fr))
+            if (TextByEnglish.TryGetValue(text, out fr) && !string.IsNullOrEmpty(fr))
             {
                 return fr;
             }
@@ -211,7 +296,7 @@ namespace LocoMotiveFR
             // 3. Recherche par texte rogné
             if (TextByEnglish.TryGetValue(trimmed, out fr) && !string.IsNullOrEmpty(fr))
             {
-                return PreserveSpaces(input, fr);
+                return PreserveSpaces(text, fr);
             }
 
             return input;
@@ -231,6 +316,7 @@ namespace LocoMotiveFR
         public static bool Prefix(ref string __result, string defaultText, int id, string characterName, bool isPlayer)
         {
             if (string.IsNullOrEmpty(defaultText)) return true;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return true;
 
             string fr = LocoMotiveFRPlugin.TranslateString(defaultText, characterName);
             if (fr != defaultText)
@@ -247,6 +333,7 @@ namespace LocoMotiveFR
         public static bool Prefix(ref string __result, string defaultText, int id, string characterName)
         {
             if (string.IsNullOrEmpty(defaultText)) return true;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return true;
 
             string fr = LocoMotiveFRPlugin.TranslateString(defaultText, characterName);
             if (fr != defaultText)
@@ -263,6 +350,7 @@ namespace LocoMotiveFR
         public static bool Prefix(ref string __result, string defaultText, int id, string characterName)
         {
             if (string.IsNullOrEmpty(defaultText)) return true;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return true;
 
             string fr = LocoMotiveFRPlugin.TranslateString(defaultText, characterName);
             if (fr != defaultText)
@@ -311,8 +399,9 @@ namespace LocoMotiveFR
                         fi.SetValue(__instance, newLangs.ToArray());
                         if (LocoMotiveFRPlugin.Log != null) LocoMotiveFRPlugin.Log.LogInfo("-> Langue 'Français' ajoutée avec succès au menu des langues de SystemText !");
                     }
+                    LocoMotiveFRPlugin.FrenchLanguageIndex = frIndex;
 
-                    // Activer le Français par défaut si la langue était sur 0 (English)
+                    // Définir le français par défaut si le jeu était sur 0
                     try
                     {
                         var pq = PowerTools.Quest.PowerQuest.Get;
@@ -321,19 +410,16 @@ namespace LocoMotiveFR
                             if (pq.Settings.LanguageId == 0)
                             {
                                 pq.Settings.LanguageId = frIndex;
-                                if (LocoMotiveFRPlugin.Log != null) LocoMotiveFRPlugin.Log.LogInfo(string.Format("-> Langue active définie sur Français (index {0}) !", frIndex));
+                                if (LocoMotiveFRPlugin.Log != null) LocoMotiveFRPlugin.Log.LogInfo(string.Format("-> Langue active initialisée sur Français (index {0}) !", frIndex));
                             }
                         }
                     }
-                    catch (Exception ex)
-                    {
-                        if (LocoMotiveFRPlugin.Log != null) LocoMotiveFRPlugin.Log.LogWarning("Impossible de forcer la langue active : " + ex.Message);
-                    }
+                    catch {}
                 }
             }
             catch (Exception ex)
             {
-                if (LocoMotiveFRPlugin.Log != null) LocoMotiveFRPlugin.Log.LogError("Erreur lors de l'ajout du Français dans SystemText.m_languages : " + ex.Message);
+                if (LocoMotiveFRPlugin.Log != null) LocoMotiveFRPlugin.Log.LogError("Erreur SystemText.Awake : " + ex.Message);
             }
         }
     }
@@ -342,6 +428,7 @@ namespace LocoMotiveFR
     {
         public static void Prefix(ref string text)
         {
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
             text = LocoMotiveFRPlugin.TranslateString(text);
         }
     }
@@ -350,6 +437,7 @@ namespace LocoMotiveFR
     {
         public static void Prefix(ref string value)
         {
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
             value = LocoMotiveFRPlugin.TranslateString(value);
         }
     }
@@ -358,6 +446,7 @@ namespace LocoMotiveFR
     {
         public static void Prefix(ref string value)
         {
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
             value = LocoMotiveFRPlugin.TranslateString(value);
         }
     }
@@ -366,6 +455,7 @@ namespace LocoMotiveFR
     {
         public static void Prefix(ref string value)
         {
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
             value = LocoMotiveFRPlugin.TranslateString(value);
         }
     }
@@ -374,6 +464,7 @@ namespace LocoMotiveFR
     {
         public static void Prefix(ref string sourceText)
         {
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
             sourceText = LocoMotiveFRPlugin.TranslateString(sourceText);
         }
     }
@@ -382,9 +473,13 @@ namespace LocoMotiveFR
     {
         public static void Postfix(ref string __result)
         {
-            if (!string.IsNullOrEmpty(__result))
+            if (string.IsNullOrEmpty(__result)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+
+            string trans = LocoMotiveFRPlugin.TranslateString(__result);
+            if (trans != __result)
             {
-                __result = LocoMotiveFRPlugin.TranslateString(__result);
+                __result = trans;
             }
         }
     }
@@ -393,10 +488,70 @@ namespace LocoMotiveFR
     {
         public static void Postfix(ref string __result)
         {
-            if (!string.IsNullOrEmpty(__result))
+            if (string.IsNullOrEmpty(__result)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+
+            string trans = LocoMotiveFRPlugin.TranslateString(__result);
+            if (trans != __result)
             {
-                __result = LocoMotiveFRPlugin.TranslateString(__result);
+                __result = trans;
             }
+        }
+    }
+
+    public static class Patch_GuiSettings_OptTextLanguageL
+    {
+        public static bool Prefix(GuiSettings __instance)
+        {
+            LocoMotiveFRPlugin.CycleLanguage(__instance, -1);
+            return false;
+        }
+    }
+
+    public static class Patch_GuiSettings_OptTextLanguageR
+    {
+        public static bool Prefix(GuiSettings __instance)
+        {
+            LocoMotiveFRPlugin.CycleLanguage(__instance, 1);
+            return false;
+        }
+    }
+
+    public static class Patch_GuiSettings_RefreshTextLanguageDisplay
+    {
+        public static bool Prefix(GuiSettings __instance)
+        {
+            try
+            {
+                var pq = PowerTools.Quest.PowerQuest.Get;
+                if (pq != null && pq.Settings != null)
+                {
+                    int langId = pq.Settings.LanguageId;
+                    string label = "ENGLISH (UK)";
+                    if (langId == 0) label = "ENGLISH (UK)";
+                    else if (langId == 1) label = "ENGLISH (US)";
+                    else if (langId == 3) label = "DEUTSCH";
+                    else if (langId == LocoMotiveFRPlugin.FrenchLanguageIndex || langId == 4) label = "FRANÇAIS";
+                    else
+                    {
+                        var data = pq.Settings.LanguageData;
+                        if (data != null && !string.IsNullOrEmpty(data.m_description))
+                            label = data.m_description.ToUpperInvariant();
+                    }
+
+                    var opt = __instance.Option("OptTextLanguage");
+                    if (opt != null)
+                    {
+                        opt.Label = label;
+                        return false;
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                if (LocoMotiveFRPlugin.Log != null) LocoMotiveFRPlugin.Log.LogWarning("Erreur RefreshTextLanguageDisplay : " + ex.Message);
+            }
+            return true;
         }
     }
 }
