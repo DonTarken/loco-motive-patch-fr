@@ -527,16 +527,19 @@ namespace LocoMotiveFR
                 if (pq != null && pq.Settings != null)
                 {
                     int langId = pq.Settings.LanguageId;
-                    string label = "ENGLISH (UK)";
-                    if (langId == 0) label = "ENGLISH (UK)";
-                    else if (langId == 3) label = "ENGLISH (US)";
-                    else if (langId == 1) label = "DEUTSCH";
-                    else if (langId == LocoMotiveFRPlugin.FrenchLanguageIndex || langId == 4) label = "FRANÇAIS";
+                    string label = "FRANÇAIS";
+                    if (langId == LocoMotiveFRPlugin.FrenchLanguageIndex || langId == 4)
+                    {
+                        label = "FRANÇAIS";
+                    }
                     else
                     {
                         var data = pq.Settings.LanguageData;
                         if (data != null && !string.IsNullOrEmpty(data.m_description))
                             label = data.m_description.ToUpperInvariant();
+                        else if (langId == 0) label = "ENGLISH (UK)";
+                        else if (langId == 3) label = "ENGLISH (US)";
+                        else if (langId == 1) label = "DEUTSCH";
                     }
 
                     var opt = __instance.Option("OptTextLanguage");

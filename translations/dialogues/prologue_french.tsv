@@ -1,4 +1,4 @@
-Id	Character	English	French	Class	Method
+﻿Id	Character	English	French	Class	Method
 0	LadyUnterwald	Alright, chop chop. Let's begin, shall we?	Bien, au pas de course. Commençons, voulez-vous ?	RoomEstablishingShot+<BackgroundSubtitleDisplay>d__5	MoveNext
 Somewhere in Europe	Quelque part en Europe
 On the Reuss Express	À bord du Reuss Express
@@ -436,3 +436,82 @@ Would you be a dear and open the window? It's getting quite hot in here, I need 
 0	Arthur	Do you think they could be behind Lady Unterwald's murder?	Pensez-vous qu'ils puissent être derrière le meurtre de Lady Unterwald ?	DialogOption	Choice
 0	Arthur	Do you have any hypotheses about the murder weapon?	Avez-vous des hypothèses sur l'arme du crime ?	DialogOption	Choice
 0	Arthur	Bridges! I often work around my problems.	Les ponts ! Je contourne souvent mes problèmes.	DialogOption	Choice
+0	Lamont	I've got bad news for you, kid.	J'ai une mauvaise nouvelle pour vous, mon garçon.	Manual	Added
+0	Lamont	Just take a look at those clammy, murderous hands!	Regardez-moi un peu ces mains moites d'assassin !	Manual	Added
+0	Arthur	Clammy?	Moites ?	Manual	Added
+0	Lamont	Those are textbook murder mittens, worst case I've ever seen.	C'est un cas d'école de paluches de criminel, le pire que j'aie jamais vu.	Manual	Added
+0	Lamont	And how many more have to die on your watch, before that lust for murder is satiated?	Et combien d'autres devront mourir sous votre garde avant que cette soif de sang ne soit étanchée ?	Manual	Added
+0	Lamont	Yet unable to shed a single tear for your client.	Et pourtant incapable de verser la moindre larme pour votre cliente.	Manual	Added
+0	Lamont	A sweet old lady, tragically cut down in her prime!	Une adorable vieille dame, tragiquement fauchée dans la fleur de l'âge !	Manual	Added
+0	Arthur	She was eighty-nine years old!	Elle avait quatre-vingt-neuf ans !	Manual	Added
+0	Lamont	Don't you try and wriggle out of this one with your fancy lawyer talk!	N'essayez pas de vous défiler avec votre baratin d'homme de loi !	Manual	Added
+0	Arthur	I just need to reach a little further!	Je dois juste tendre le bras un tout petit peu plus loin !	Manual	Added
+0	Arthur	If only I could reach a little further!	Si seulement je pouvais tendre le bras un peu plus loin !	Manual	Added
+0	Arthur	''IT'S THE END OF THE LINE''	« TERMINUS TOUT LE MONDE DESCEND »	Manual	Added
+0	Arthur	''The Unterwald empire came to a grisly end last night, when the wealthy heiress was unexpectedly assassinated aboard her own train.''	« L'empire Unterwald a connu une fin macabre hier soir, lorsque la richissime héritière a été assassinée à bord de son propre train. »	Manual	Added
+0	Arthur	''Three suspects are currently held in custody, awaiting questioning.''	« Trois suspects sont actuellement placés en garde à vue, dans l'attente de leur interrogatoire. »	Manual	Added
+0	Arthur	I've got all the classics.	J'ai tous les grands classiques.	Manual	Added
+0	Arthur	''The Art of Law''	« L'Art du Droit »	Manual	Added
+0	Arthur	''Letters Of The Law''	« L'Esprit des Lois »	Manual	Added
+0	Arthur	Even ''Coleslaw!''	Et même « Coleslaw ! »	Manual	Added
+0	Arthur	Although that one's just a collection of recipes.	Bien que celui-ci ne soit qu'un recueil de recettes de salades.	Manual	Added
+0	Arthur	It's a stack of files regarding Lady Unterwald's estate.	C'est une pile de dossiers concernant la succession de Lady Unterwald.	Manual	Added
+0	Arthur	Each one needs checking over before receiving that sweet stamp of approval.	Chacun d'eux doit être scrupuleusement vérifié avant de recevoir le doux tampon officiel.	Manual	Added
+0	Arthur	This baby can hold up to 1500 case files!	Ce petit bijou peut contenir jusqu'à 1500 dossiers juridiques !	Manual	Added
+0	Arthur	1550 if I only pack two pairs of socks.	1550 si je n'emporte que deux paires de chaussettes.	Manual	Added
+0	Arthur	A portrait of Lady Unterwald in every room, that's the Reuss Express promise.	Un portrait de Lady Unterwald dans chaque compartiment, voilà la promesse du Reuss Express.	Manual	Added
+0	Arthur	Lady Unterwald's eyes follow me around the room.	Les yeux de Lady Unterwald me suivent partout dans la pièce.	Manual	Added
+0	Arthur	It's giving me the heebie-jeebies!	Ça me donne carrément la chair de poule !	Manual	Added
+0	Arthur	What's better than comfy slippers, a tall glass of milk...	Qu'y a-t-il de meilleur que de confortables pantoufles, un grand verre de lait...	Manual	Added
+0	Arthur	and an even taller stack of paperwork?	et une pile de paperasse encore plus haute ?	Manual	Added
+0	Arthur	One of my only stipulations for travelling long distances.	L'une de mes rares exigences pour les voyages au long cours.	Manual	Added
+0	Herman	It's a collection of legal books.	C'est une collection d'ouvrages juridiques.	Manual	Added
+0	Herman	There's one here titled ''Coleslaw!'' but I think that's a recipe book.	Il y en a un intitulé « Coleslaw ! », mais j'ai bien l'impression que c'est un livre de recettes.	Manual	Added
+0	Herman	I'd almost feel sorry for Mr Ackerman, if I didn't suspect him of murdering Lady Unterwald.	J'aurais presque de la peine pour M. Ackerman, si je ne le soupçonnais pas d'avoir assassiné Lady Unterwald.	Manual	Added
+0	Herman	It looks neatly organised.	Ça a l'air impeccablement rangé.	Manual	Added
+0	Herman	I wish Lady Unterwald hadn't dragged me into this mess.	Si seulement Lady Unterwald ne m'avait pas entraîné dans ce pétrin.	Manual	Added
+0	Herman	It's almost as if Lady Unterwald is staring right through me.	C'est presque comme si Lady Unterwald lisait en moi à travers ce tableau.	Manual	Added
+0	Herman	All too tempting to slip them on, but I need to focus on the case!	Bien trop tentant de les enfiler, mais je dois me concentrer sur l'enquête !	Manual	Added
+0	Herman	I wouldn't mind writing my next novella on one of these.	Je ne serais pas contre écrire mon prochain roman sur un engin pareil.	Manual	Added
+0	Herman	Exactly the sort of attire you'd expect from a paper pushing lawyer.	Exactement le genre de costume qu'on attend d'un gratte-papier des tribunaux.	Manual	Added
+0	Herman	This was supposed to be your big break, Herman!	C'était censé être ton heure de gloire, Herman !	Manual	Added
+0	Herman	Now you're hiding bodies and breaking into people's rooms?	Et voilà que tu caches des cadavres et que tu forces des compartiments privés ?	Manual	Added
+0	Herman	How did it come to this?	Comment as-tu pu en arriver là ?	Manual	Added
+0	Herman	It's quite soothing, all things considered.	C'est plutôt apaisant, tout bien considéré.	Manual	Added
+0	Herman	Hmm, I'd rather not draw attention to myself.	Hmm, je préfère ne pas attirer l'attention sur moi.	Manual	Added
+0	Herman	I'm not here to rifle through Mr Ackerman's unmentionables.	Je ne suis pas venu ici pour fouiller dans les sous-vêtements de M. Ackerman.	Manual	Added
+0	Herman	I'm not sure that I need to look at the plumbing.	Je doute d'avoir besoin de jeter un œil à la tuyauterie.	Manual	Added
+0	Herman	Sturdy enough to hold a jacket, but not my interest.	Assez solide pour porter une veste, mais pas pour retenir mon attention.	Manual	Added
+0	Herman	Must be the strong stuff, it's full of Ethanol.	Ça doit être du costaud, c'est bourré d'éthanol.	Manual	Added
+0	Herman	I'm sure Mr Ackerman spends a great deal of time under this lamp.	Je suis persuadé que M. Ackerman passe un temps considérable sous cette lampe.	Manual	Added
+0	Bailey	Can you tell us your earliest memory from that day, Herman?	Pouvez-vous nous raconter votre tout premier souvenir de cette journée, Herman ?	Manual	Added
+0	Herman	Let me think...	Laissez-moi réfléchir...	Manual	Added
+0	Herman	I believe it all began at my publishers office, I'd just pitched my latest novel, you see.	Je crois que tout a commencé au bureau de mon éditeur, je venais de présenter mon dernier polar, vous voyez.	Manual	Added
+0	Herman	It was going down an absolute storm!	Le succès était absolument fulgurant !	Manual	Added
+0	Diana	*Sigh*	*Soupir*	Manual	Added
+0	Lamont	Alright, so that explains how you got on the train...	Très bien, ça explique donc comment vous êtes montée à bord du train...	Manual	Added
+0	Diana	I believe you're well aware of what happened next...	Je crois que vous savez parfaitement ce qui s'est passé ensuite...	Manual	Added
+0	Lamont	Indulge us.	Faites-nous le plaisir de nous rafraîchir la mémoire.	Manual	Added
+0	Diana	Well, it all got a bit complicated.	Eh bien, les choses se sont un peu compliquées.	Manual	Added
+0	Diana	I stuck to my orders, and made contact with the informant.	J'ai respecté mes ordres et pris contact avec l'informateur.	Manual	Added
+0	Bailey	Are we sure any of them actually did it, Lamont?	Est-on vraiment certains que l'un d'eux est le meurtrier, Lamont ?	Manual	Added
+0	Lamont	There's a lot of string here, Bailey. Are you really going to doubt the yarn?	Il y a beaucoup de ficelle rouge ici, Bailey. Tu vas vraiment douter de la pelote ?	Manual	Added
+0	Lamont	Besides, they freely admitted to multiple other crimes!	Et puis, ils ont spontanément avoué de multiples autres crimes !	Manual	Added
+0	Bailey	I suppose, we-	J'imagine, mais nous...	Manual	Added
+0	Bailey	What's that noise?	Quel est ce bruit ?	Manual	Added
+0	Lamont	No, they can't be...	Non, ça ne peut pas être...	Manual	Added
+0	Lamont	The prisoners!	Les prisonniers !	Manual	Added
+0	Jimmy	I'm in.	Je suis à l'intérieur.	Manual	Added
+0	April	Good work, Agent. You know what you have to do.	Beau travail, Agent. Vous savez ce qu'il vous reste à faire.	Manual	Added
+0	April	Leave no trace.	Ne laissez aucune trace.	Manual	Added
+0	Jimmy	Yes, Ma'am.	Bien, Madame.	Manual	Added
+0	Herman	I'd almost feel sorry for Mr Ackerman, if I didn't suspect he enjoyed this stuff.	J'aurais presque pitié de M. Ackerman, si je ne soupçonnais pas qu'il prend plaisir à ce genre de choses.	Manual	Added
+0	Arthur	A portrait of Lady Unterwald in every room, that's the Reuss Express guarantee!	Un portrait de Lady Unterwald dans chaque compartiment, voilà la garantie du Reuss Express !	Manual	Added
+0	Herman	All too tempting to slip them on, but I need to focus on the task at hand.	Bien trop tentant de les enfiler, mais je dois me concentrer sur la tâche présente.	Manual	Added
+0	Arthur	You've got to have access to a trusty typewriter.	Il faut impérativement avoir accès à une fidèle machine à écrire.	Manual	Added
+0	Herman	Exactly the sort of attire you'd expect from a paper pushing bureaucrat.	Exactement le genre de tenue qu'on attend d'un bureaucrate gratte-papier.	Manual	Added
+0	Lamont	Alright, so that explains how you got on the train. What happened next?	Très bien, cela explique comment vous êtes montée à bord. Que s'est-il passé ensuite ?	Manual	Added
+0	Diana	I believe you're well aware of what happened next, detective.	Je crois que vous savez pertinemment ce qui s'est passé ensuite, inspecteur.	Manual	Added
+0	Diana	I stuck to my orders, and made contact with the informant. Or so I thought...	J'ai obéi aux ordres et pris contact avec l'informateur. Du moins, c'est ce que je croyais...	Manual	Added
+0	Lamont	There's a lot of string here, Bailey. Are you really going to argue with all this red string?	Il y a beaucoup de ficelle rouge ici, Bailey. Tu vas vraiment oser contredire toute cette ficelle rouge ?	Manual	Added
+0	Lamont	Besides, they freely admitted to multiple other crimes in their own testimonies!	Et puis, ils ont spontanément avoué de multiples autres crimes dans leurs propres dépositions !	Manual	Added
