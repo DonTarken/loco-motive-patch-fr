@@ -1,0 +1,69 @@
+Id	Character	English	French	Class	Method
+1512	Herman	One of the other inmates has an item I need!		DialogHintLineChapterSix+<Option1>d__5	MoveNext
+307	Chiselton	There's likely something that connects your cells, take a look around.		DialogHintLineChapterSix+<Option1>d__5	MoveNext
+1513	Herman	I need another hint about trading items.		DialogHintLineChapterSix+<Option1a>d__6	MoveNext
+308	Chiselton	What about using the plumbing system? It's not ideal, but it'd probably work!		DialogHintLineChapterSix+<Option1a>d__6	MoveNext
+1514	Herman	I need another hint about trading items.		DialogHintLineChapterSix+<Option1b>d__7	MoveNext
+309	Chiselton	You can send items to each other by flushing them through the plumbing system.		DialogHintLineChapterSix+<Option1b>d__7	MoveNext
+1515	Herman	The water is flowing the wrong way, what gives?		DialogHintLineChapterSix+<Option2>d__8	MoveNext
+310	Chiselton	There should be a way to adjust the flow direction, do you see anything?		DialogHintLineChapterSix+<Option2>d__8	MoveNext
+1516	Herman	I need another hint about trading items.		DialogHintLineChapterSix+<Option2a>d__9	MoveNext
+311	Chiselton	I'll bet one of you has something that can reverse the flow direction.		DialogHintLineChapterSix+<Option2a>d__9	MoveNext
+1517	Herman	I need another hint about trading items.		DialogHintLineChapterSix+<Option2b>d__10	MoveNext
+312	Chiselton	Arthur can reverse the flow with that valve in his cell, give it a try!		DialogHintLineChapterSix+<Option2b>d__10	MoveNext
+1518	Herman	They confiscated our possessions, what now?		DialogHintLineChapterSix+<Option3>d__11	MoveNext
+313	Chiselton	If you want those items back, you'll need to find out where they're stashed.		DialogHintLineChapterSix+<Option3>d__11	MoveNext
+1519	Herman	I need another hint about getting our stuff back.		DialogHintLineChapterSix+<Option3a>d__12	MoveNext
+314	Chiselton	Those items are in a lockbox, does anyone have anything that would extend their reach?		DialogHintLineChapterSix+<Option3a>d__12	MoveNext
+1520	Herman	I need another hint about getting our stuff back.		DialogHintLineChapterSix+<Option3b>d__13	MoveNext
+315	Chiselton	Arthur's umbrella could extend their reach. I'd try and use that to open the lockbox.		DialogHintLineChapterSix+<Option3b>d__13	MoveNext
+1521	Herman	We need that magnetic ball, but it's just out of reach!		DialogHintLineChapterSix+<Option4>d__14	MoveNext
+316	Chiselton	I'm sure one of you has something that'd be attracted to it.		DialogHintLineChapterSix+<Option4>d__14	MoveNext
+1522	Herman	I need another hint about the magnetic ball.		DialogHintLineChapterSix+<Option4a>d__15	MoveNext
+317	Chiselton	It's a shiny object, it might even look valuable to some!		DialogHintLineChapterSix+<Option4a>d__15	MoveNext
+1523	Herman	I need another hint about the magnetic ball.		DialogHintLineChapterSix+<Option4b>d__16	MoveNext
+318	Chiselton	Isn't that mouse attracted to shiny objects? It could grab that ball for you.		DialogHintLineChapterSix+<Option4b>d__16	MoveNext
+1524	Herman	We've got the magnetic ball, now what?		DialogHintLineChapterSix+<Option5>d__17	MoveNext
+319	Chiselton	Perhaps it's time to reunite that ball with its original owner?		DialogHintLineChapterSix+<Option5>d__17	MoveNext
+1525	Herman	I need something to wrap around these bars.		DialogHintLineChapterSix+<Option6>d__18	MoveNext
+320	Chiselton	Trying to create some leverage, aye? It'd need to be strong enough to take the pressure.		DialogHintLineChapterSix+<Option6>d__18	MoveNext
+1526	Herman	I need another hint about the jail bars!		DialogHintLineChapterSix+<Option6a>d__19	MoveNext
+321	Chiselton	For the right leverage, you'll need something strong, but flexible.		DialogHintLineChapterSix+<Option6a>d__19	MoveNext
+1527	Herman	I need another hint about the jail bars.		DialogHintLineChapterSix+<Option6b>d__20	MoveNext
+322	Chiselton	Perhaps those metal chains would work?		DialogHintLineChapterSix+<Option6b>d__20	MoveNext
+1528	Herman	Diana found a chain, but it's locked to itself.		DialogHintLineChapterSix+<Option7>d__21	MoveNext
+323	Chiselton	You're not getting that chain off the wall without a key!		DialogHintLineChapterSix+<Option7>d__21	MoveNext
+1529	Herman	I need another hint about unlocking the chain.		DialogHintLineChapterSix+<Option7a>d__22	MoveNext
+324	Chiselton	Didn't one of you have a key for that kind of chain?		DialogHintLineChapterSix+<Option7a>d__22	MoveNext
+1530	Herman	I need another hint about unlocking the chain.		DialogHintLineChapterSix+<Option7b>d__23	MoveNext
+325	Chiselton	Arthur found a key to escape his chains, he may still have it!		DialogHintLineChapterSix+<Option7b>d__23	MoveNext
+1531	Herman	We need to create a distraction, any ideas?		DialogHintLineChapterSix+<Option8>d__24	MoveNext
+326	Chiselton	Perhaps you can make some noise?		DialogHintLineChapterSix+<Option8>d__24	MoveNext
+1532	Herman	I need another hint about the distraction.		DialogHintLineChapterSix+<Option8a>d__25	MoveNext
+327	Chiselton	If you flushed something heavy, it'd probably make a loud enough noise!		DialogHintLineChapterSix+<Option8a>d__25	MoveNext
+1533	Herman	I need another hint about the distraction.		DialogHintLineChapterSix+<Option8b>d__26	MoveNext
+328	Chiselton	Flushing those chains could cause quite the distraction. Give that a try!		DialogHintLineChapterSix+<Option8b>d__26	MoveNext
+1534	Herman	That chain is stuck in the toilet, any ideas?		DialogHintLineChapterSix+<Option9>d__27	MoveNext
+329	Chiselton	You got anything on you that might create a vacuum?		DialogHintLineChapterSix+<Option9>d__27	MoveNext
+1535	Herman	I need another hint about retrieving the chain.		DialogHintLineChapterSix+<Option9a>d__28	MoveNext
+330	Chiselton	You'll need to provide suction, if only you had a plunger!		DialogHintLineChapterSix+<Option9a>d__28	MoveNext
+1536	Herman	I need another hint about retrieving the chain.		DialogHintLineChapterSix+<Option9b>d__29	MoveNext
+331	Chiselton	Those boots still have suction cups on the bottom, right? You should be able to remove them.		DialogHintLineChapterSix+<Option9b>d__29	MoveNext
+1537	Herman	I need another hint about retrieving the chain.		DialogHintLineChapterSix+<Option9c>d__30	MoveNext
+332	Chiselton	You could remove the suction cups with the letter opener!		DialogHintLineChapterSix+<Option9c>d__30	MoveNext
+1538	Herman	I can't get any leverage with this suction cup.		DialogHintLineChapterSix+<Option10>d__31	MoveNext
+333	Chiselton	You'd need a handle in order to get the right leverage.		DialogHintLineChapterSix+<Option10>d__31	MoveNext
+1539	Herman	I need another hint about the suction cup.		DialogHintLineChapterSix+<Option10a>d__32	MoveNext
+334	Chiselton	There must be something that could work as a make-shift handle?		DialogHintLineChapterSix+<Option10a>d__32	MoveNext
+1541	Herman	I need another hint about the suction cup.		DialogHintLineChapterSix+<Option10b>d__33	MoveNext
+336	Chiselton	You could combine the pole with the suction cup to fashion a make-shift plunger!		DialogHintLineChapterSix+<Option10b>d__33	MoveNext
+1542	Herman	I've retrieved the chains, what next?		DialogHintLineChapterSix+<Option11>d__35	MoveNext
+337	Chiselton	I'd wrap those chains around those bars and make a break for freedom!		DialogHintLineChapterSix+<Option11>d__35	MoveNext
+1543	Herman	I'll take it from here, thanks.		DialogHintLineChapterSix+<Option12>d__36	MoveNext
+37	Bailey	Are we sure any of them actually did it, Lamont?		RoomInterrogation+<OnEnterRoomAfterFadeChapterSixJailbreak>d__50	MoveNext
+59	Lamont	There's a lot of string here, Bailey. Are you really going to argue with all this red string?		RoomInterrogation+<OnEnterRoomAfterFadeChapterSixJailbreak>d__50	MoveNext
+60	Lamont	Besides, they freely admitted to multiple other crimes in their own testimonies!		RoomInterrogation+<OnEnterRoomAfterFadeChapterSixJailbreak>d__50	MoveNext
+38	Bailey	I suppose, we-		RoomInterrogation+<OnEnterRoomAfterFadeChapterSixJailbreak>d__50	MoveNext
+39	Bailey	What's that noise?		RoomInterrogation+<OnEnterRoomAfterFadeChapterSixJailbreak>d__50	MoveNext
+61	Lamont	No, they can't be...		RoomInterrogation+<OnEnterRoomAfterFadeChapterSixJailbreak>d__50	MoveNext
+62	Lamont	The prisoners!		RoomInterrogation+<OnEnterRoomAfterFadeChapterSixJailbreak>d__50	MoveNext

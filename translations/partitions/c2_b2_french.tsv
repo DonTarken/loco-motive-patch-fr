@@ -1,0 +1,66 @@
+﻿Id	Character	English	French	Class	Method
+277	Herman	Just a little further...	Encore un tout petit effort...	RoomHermanRooftop+<OnEnterRoomAfterFadeActTwo>d__3	MoveNext
+278	Herman	Herman, you genius, is that the missing will?	Herman, espèce de génie, ne serait-ce pas le testament égaré ?	RoomHermanRooftop+<OnEnterRoomAfterFadeActTwo>d__3	MoveNext
+279	Herman	If I can grab hold of it, we'll be one step closer to solving this thing!	Si je réussis à l'attraper, nous aurons fait un pas de géant vers la résolution du mystère !	RoomHermanRooftop+<OnEnterRoomAfterFadeActTwo>d__3	MoveNext
+58	Herman	Oh my god!	Bonté divine !	RoomHermanRooftop+<OnEnterRoomAfterFadeActTwo>d__3	MoveNext
+59	Herman	That sneaky little rat stole my keys!	Ce maudit rat sournois a chipé mes clés !	RoomHermanRooftop+<OnEnterRoomAfterFadeActTwo>d__3	MoveNext
+61	Herman	Just wait until I get my hands on them!	Attends un peu que je mette la main dessus !	RoomHermanRooftop+<OnEnterRoomAfterFadeActTwo>d__3	MoveNext
+0	PublisherFrank	Thank you, Herman, what an interesting pitch.	Merci Herman, quelle présentation fort intéressante.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+14	PublisherThomas	And what a title!	Et quel titre marquant !	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+0	PublisherFlorence	And we just think it's so brave of you to come here and pitch us another crime novel.	Et nous trouvons cela tellement courageux de venir nous présenter un autre roman policier.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+1	PublisherFrank	Especially considering the current landscape.	Surtout compte tenu du marché actuel.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+1076	Herman	Thank you! But what do you mean?	Merci ! Mais que voulez-vous dire par là ?	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+14	PublisherFrank	Well, there's no easy way to say this...	Eh bien, il n'y a pas de façon délicate de vous l'annoncer...	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+12	PublisherFlorence	The data indicates a sharp decline in your particular brand of fiction.	Les chiffres indiquent une chute vertigineuse pour votre genre particulier de fiction.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+18	PublisherThomas	We've also run into some problems with your branding deals.	Nous rencontrons aussi de sérieux déboires avec vos produits dérivés.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+1077	Herman	Surely not the Herman Merman dolls? You assured me they'd be a hit!	Pas les poupées Herman Merman tout de même ? Vous m'aviez garanti un carton absolu !	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+23	PublisherFrank	I'm afraid so, Herman.	J'en ai bien peur, Herman.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+1	PublisherThomas	We can't even give these away!	On n'arrive même pas à les donner gratuitement !	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+2	PublisherThomas	Stop that! I don't like it!	Arrêtez ça ! Ça ne me plaît pas du tout !	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+1078	Herman	Well, what do you suggest we do?	Alors, que suggérez-vous qu'on fasse ?	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+19	PublisherThomas	Not to worry.	Ne vous en faites pas.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+24	PublisherThomas	We're already prototyping an exciting line of Dirk Chiselton products!	Nous concevons déjà les prototypes d'une formidable gamme de produits Dirk Chiselton !	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+17	PublisherFlorence	Ahem! This is just a prototype, of course.	Ahem ! Ce n'est qu'un prototype, évidemment.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+24	PublisherFrank	Very much still in the early development phase.	Nous n'en sommes qu'aux balbutiements du développement.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+1079	Herman	So that's it then, I've been replaced?	C'est donc ça ? On m'a déjà remplacé ?	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+26	PublisherThomas	Nobody said you're being replaced, Herman.	Personne n'a dit que vous étiez remplacé, Herman.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+25	PublisherFrank	We're simply... How do we say this?	Nous sommes simplement... comment dire cela diplomatiquement ?	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+19	PublisherFlorence	Exploring new avenues!	En train d'explorer de nouvelles voies !	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+33	PublisherFrank	Yes, that's it!	Oui, c'est exactement ça !	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+1080	Herman	I do feel you're making a big mistake here.	J'ai la nette impression que vous commettez une grossière erreur.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+1081	Herman	Herman Merman And The Suburban Burden is a goldmine!	Herman Merman et le Fardeau de Banlieue est une véritable mine d'or !	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+36	PublisherFrank	I'm afraid it's ultimately out of our hands, Herman.	Hélas, cela ne dépend plus de nous, Herman.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+37	PublisherFrank	But if you feel strongly about this idea, we could always petition the board.	Mais si vous y tenez tant, nous pouvons toujours soumettre votre idée au Conseil.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+1082	Herman	The board?	Le Conseil ?	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+35	Board	PITCH TO ME, IF YOU DARE!	PRÉSENTE TON PROJET, SI TU L'OSES !	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+4	Board	BEHOLD!	REGARDEZ ET TREMBLEZ !	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+8	Board	I ALONE CONTROL THE MEANS OF PRODUCTION!	MOI SEUL CONTRÔLE LES MOYENS DE PRODUCTION !	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+28	PublisherFlorence	Go ahead, Herman.	Allez-y, Herman.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+30	PublisherThomas	Just place your manuscript into the slot, and we'll give the ol' algorithm a spin!	Insérez simplement votre manuscrit dans la fente, et laissons tourner le vieil algorithme !	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+36	Board	DETERMINING MARKET VALUE.	ÉVALUATION DE LA VALEUR MARCHANDE EN COURS.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+37	Board	UNAPPEALING PROTAGONIST.	PROTAGONISTE DÉPOURVU DE CHARISME.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+38	Board	MARGINS BELOW THRESHOLD.	MARGES INFÉRIEURES AU SEUIL DE RENTABILITÉ.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+39	Board	UNSATISFACTORY TARGET DEMOGRAPHIC.	CIBLE DÉMOGRAPHIQUE DÉFAVORABLE.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+40	Board	MANUSCRIPT DENIED.	MANUSCRIT REJETÉ.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+38	PublisherFrank	Ah. Well, there you have it!	Ah. Eh bien, voilà qui est clair !	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+32	PublisherThomas	We all really enjoyed your pitch, but the board doesn't seem to agree.	Nous avons tous adoré votre projet, mais le Conseil ne semble pas de cet avis.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+38	PublisherFlorence	If you have anything else to pitch, we'd be glad to hear it, though!	Si vous avez une autre idée à nous soumettre, nous serions ravis de l'écouter !	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+41	Board	DON'T QUIT YOUR DAY JOB.	NE DÉMISSIONNE PAS DE TON VRAI TRAVAIL.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+1083	Herman	Wait, you want me to pitch something else?	Attendez, vous voulez que je vous propose autre chose ?	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+39	PublisherFrank	You're a valued client, Herman!	Vous êtes un auteur précieux pour nous, Herman !	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+40	PublisherFrank	Just let us know when you're ready.	Faites-nous signe dès que vous êtes prêt.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+11	PublisherThomas	Alright, Herman, we can certainly check with you know who...	Très bien, Herman, nous pouvons toujours vérifier avec vous-savez-qui...	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoHidInWardrobe>d__22	MoveNext
+62	Board	AAAAARGHHHHH.	AAAAARGHHHHH.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoHidInWardrobe>d__22	MoveNext
+12	PublisherThomas	Ah. I'm afraid they're quite insistent that you deliver.	Ah. J'ai bien peur qu'ils insistent lourdement pour que vous livriez la marchandise.	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoHidInWardrobe>d__22	MoveNext
+10	PublisherFlorence	If there's anything we can do to help, just let us know!	Si nous pouvons faire quoi que ce soit pour vous aider, faites-le nous savoir !	RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoHidInWardrobe>d__22	MoveNext
+71	Herman	Wait, where are my keys? Blast!	Attendez, où sont mes clés ? Bon sang de bois !	RoomSleeperCarriage+<OnInteractPropHermanDoorActTwo>d__82	MoveNext
+72	Herman	I'm locked out without my room keys.	Je suis enfermé dehors sans les clés de ma cabine.	RoomSleeperCarriage+<OnInteractPropHermanDoorActTwo>d__82	MoveNext
+73	Herman	Who knows what sinister plotting they're doing in there?	Qui sait quelles machinations diaboliques ils fomentent là-dedans ?	RoomSleeperCarriage+<OnInteractPropHermanDoorActTwo>d__82	MoveNext
+74	Herman	Oh nothing, darling.	Oh rien du tout, mon trésor.	RoomSleeperCarriage+<OnInteractPropHermanDoorActTwo>d__82	MoveNext
+191	Herman	Lady Unterwald, what is the meaning of this?	Lady Unterwald, que signifie tout cela ?	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActTwoUnterwaldHermanIntroduction>d__41	MoveNext
+192	Herman	Indeed?	Vraiment ?	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActTwoUnterwaldHermanIntroduction>d__41	MoveNext
+355	Herman	I assumed you required the services of a world-famous detective?	Je supposais que vous aviez besoin des services d'un détective de renommée mondiale ?	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActTwoUnterwaldHermanIntroduction>d__41	MoveNext
+195	Herman	I'll do it! Herman Merman never backs away from a case!	Je m'en charge ! Jamais Herman Merman ne recule devant une affaire !	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActTwoUnterwaldHermanIntroduction>d__41	MoveNext
+197	Herman	You think Mr Liu has an ulterior motive?	Vous pensez que M. Liu a une idée derrière la tête ?	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActTwoUnterwaldHermanIntroduction>d__41	MoveNext
+198	Herman	I'll certainly do my best, Lady Unterwald!	Je ferai de mon mieux, Lady Unterwald !	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActTwoUnterwaldHermanIntroduction>d__41	MoveNext
+199	Herman	Of course, Herman Merman won't let you down!	Bien sûr, Herman Merman ne vous décevra pas !	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActTwoUnterwaldHermanIntroduction>d__41	MoveNext

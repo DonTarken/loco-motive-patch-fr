@@ -1,0 +1,7 @@
+﻿Id	Character	English	French	Class	Method
+11	JianLiu	What?		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+29	ChefFrancois	Non mais, et puis quoi encore !		RoomKitchenCarriage+<OnEnterRoomAfterFadeActTwoReachedHatchedAPlan>d__79	MoveNext
+9	JianLiu	Jian Liu.		RoomLoungeCarriage+<OnEnterAfterFadeActTwoJianLiuEnterGreenRoom>d__60	MoveNext
+16	PublisherThomas	‘Herman Merman and the Suburban Burden'		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+62	Board	AAAAARGHHHHH.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoHidInWardrobe>d__22	MoveNext
+196	Herman	*GASP*		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActTwoUnterwaldHermanIntroduction>d__41	MoveNext

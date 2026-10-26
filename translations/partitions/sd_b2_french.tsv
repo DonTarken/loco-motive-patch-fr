@@ -1,0 +1,411 @@
+﻿Id	Character	English	French	Class	Method
+109	Arista	It's a hearing aid. It helps me to hear all your inane questions!	C'est un appareil auditif. Il m'aide à entendre toutes vos inepties de questions !	DialogTalkToArista+<Option4>d__9	MoveNext
+110	Arista	What could you possibly need it for?	À quoi cela pourrait-il bien vous servir ?	DialogTalkToArista+<Option5a>d__11	MoveNext
+1249	Arthur	I'm not sure just yet, but it calls to me.	Je ne le sais pas encore très bien, mais cet objet m'appelle.	DialogTalkToArista+<Option5a>d__11	MoveNext
+111	Arista	You keep those hands off, if you want to keep them!	Gardez vos pattes loin de là, si vous tenez à les conserver !	DialogTalkToArista+<Option5a>d__11	MoveNext
+112	Arista	Oh, I can hear you just fine, despite my best efforts.	Oh, je vous entends cinq sur cinq, en dépit de mes constants efforts.	DialogTalkToArista+<Option5b>d__12	MoveNext
+113	Arista	Do you fancy yourself as some sort of Viking warrior?	Vous vous prenez pour une sorte de guerrier viking ?	DialogTalkToArista+<Option5c>d__13	MoveNext
+114	Arista	It's a hearing aid, it's not built for chugging mead!	C'est un cornet acoustique, ce n'est pas fait pour siffler de l'hydromel !	DialogTalkToArista+<Option5c>d__13	MoveNext
+116	Arista	Why? What do you know about its disappearance, boy?	Pourquoi ? Que savez-vous de sa disparition, jeune homme ?	DialogTalkToArista+<Option6>d__15	MoveNext
+1082	Arthur	Sorry, I didn't see anything.	Pardon, je n'ai absolument rien vu.	DialogTalkToArista+<Option6>d__15	MoveNext
+117	Arista	What kind of person would deprive a helpless old lady of her hearing aid?	Quel genre de monstre priverait une pauvre vieille dame sans défense de son appareil auditif ?	DialogTalkToArista+<Option6>d__15	MoveNext
+1083	Arthur	Maybe they just really needed it. For the greater good and all that!	Peut-être en avait-on un besoin impérieux. Pour la cause publique et tout le reste !	DialogTalkToArista+<Option6>d__15	MoveNext
+118	Arista	Hrmph.	Hrmph.	DialogTalkToArista+<Option6>d__15	MoveNext
+119	Arista	Considering I brought them into this world, I certainly hope so!	Étant donné que je les ai mis au monde, j'ose espérer que oui !	DialogTalkToArista+<Option7>d__16	MoveNext
+120	Arista	You should introduce yourself, you might find it easier conversing with those of similar intellect.	Vous devriez aller vous présenter, vous aurez plus de facilité à converser avec des esprits de même calibre intellectuel.	DialogTalkToArista+<Option7>d__16	MoveNext
+121	Arista	Their constant one up-manship is incredibly tiresome.	Leur surenchère permanente est d'une lassitude sans nom.	DialogTalkToArista+<Option7a>d__17	MoveNext
+122	Arista	Only last week, they tried to lay claim to a designer sports bag.	La semaine dernière encore, ils ont voulu s'approprier un sac de sport de grand couturier.	DialogTalkToArista+<Option7a>d__17	MoveNext
+1085	Arthur	It didn't go well?	Ça s'est mal passé ?	DialogTalkToArista+<Option7a>d__17	MoveNext
+123	Arista	Oh, they argued back and forth for hours, tugging at it viciously.	Oh, ils se sont chamaillés pendant des heures en tirant dessus comme des chiffonniers.	DialogTalkToArista+<Option7a>d__17	MoveNext
+124	Arista	You should've seen their faces when I told them it was a cheap fake, ha ha!	Vous auriez dû voir leurs têtes quand je leur ai appris que c'était une contrefaçon bon marché, ha ha !	DialogTalkToArista+<Option7a>d__17	MoveNext
+125	Arista	Of course, by then the bag was in tatters.	Évidemment, à ce moment-là, le sac était en lambeaux.	DialogTalkToArista+<Option7a>d__17	MoveNext
+126	Arista	Farewell.	Adieu.	DialogTalkToArista+<Option8>d__18	MoveNext
+1308	Herman	Can't you get this hearing horn fixed yourself?	Ne pouvez-vous pas faire réparer ce cornet acoustique vous-même ?	DialogTalkToAristaAboutHorn+<Option1>d__3	MoveNext
+191	Arista	Don't you think I tried that already?	Ne croyez-vous pas que j'ai déjà essayé ?	DialogTalkToAristaAboutHorn+<Option1>d__3	MoveNext
+192	Arista	That upstart stage manager wouldn't let me through.	Cet insolent de régisseur n'a jamais voulu me laisser passer.	DialogTalkToAristaAboutHorn+<Option1>d__3	MoveNext
+193	Arista	I saw your name has made it onto the guest list, however.	J'ai vu que votre nom figurait sur la liste des invités, en revanche.	DialogTalkToAristaAboutHorn+<Option1>d__3	MoveNext
+1309	Herman	How does repairing the horn help your boys?	En quoi réparer ce cornet aidera-t-il vos garçons ?	DialogTalkToAristaAboutHorn+<Option1a>d__4	MoveNext
+194	Arista	No doubt they've got into some pointless argument again.	Ils sont sans nul doute embourbés dans une dispute stérile une fois de plus.	DialogTalkToAristaAboutHorn+<Option1a>d__4	MoveNext
+195	Arista	Blowing into this horn is the only way to break their endless back-and-forth.	Souffler dans ce cornet est l'unique moyen de briser leur crêpage de chignon incessant.	DialogTalkToAristaAboutHorn+<Option1a>d__4	MoveNext
+196	Arista	Otherwise, they'll just bicker indefinitely.	Sans cela, ils continueront de se chamailler jusqu'à la fin des temps.	DialogTalkToAristaAboutHorn+<Option1a>d__4	MoveNext
+1310	Herman	Why did you send your boys into the ventilation system?	Pourquoi avoir envoyé vos fils dans le système de ventilation ?	DialogTalkToAristaAboutHorn+<Option2>d__5	MoveNext
+197	Arista	I don't have to explain myself to you!	Je n'ai pas à me justifier devant vous !	DialogTalkToAristaAboutHorn+<Option2>d__5	MoveNext
+198	Arista	They were merely attempting some minor repairs!	Ils tentaient simplement d'effectuer de menus raccordements !	DialogTalkToAristaAboutHorn+<Option2>d__5	MoveNext
+1311	Herman	Are you sure you didn't send them in there to eavesdrop?	Êtes-vous bien sûre de ne pas les avoir envoyés là-dedans pour espionner ?	DialogTalkToAristaAboutHorn+<Option2a>d__6	MoveNext
+199	Arista	Ohh, I've been a terrible mother!	Ohh, j'ai été une mère indigne !	DialogTalkToAristaAboutHorn+<Option2a>d__6	MoveNext
+200	Arista	But I needed to know what my dear sister's intentions were.	Mais je devais savoir quelles étaient les intentions de ma chère sœur.	DialogTalkToAristaAboutHorn+<Option2a>d__6	MoveNext
+201	Arista	It goes directly over her quarters, I'm sure they'd be able to hear something!	Le conduit passe juste au-dessus de sa cabine, ils pouvaient forcément entendre quelque chose !	DialogTalkToAristaAboutHorn+<Option2a>d__6	MoveNext
+202	Arista	Perhaps I've been too hard on them, they're emotionally stunted after all!	Peut-être ai-je été trop dure avec eux, ils sont affectivement limités après tout !	DialogTalkToAristaAboutHorn+<Option2a>d__6	MoveNext
+1312	Herman	I'm sure they'll be able to figure it out themselves.	Je suis convaincu qu'ils trouveront la sortie par eux-mêmes.	DialogTalkToAristaAboutHorn+<Option2b>d__7	MoveNext
+203	Arista	Now isn't the time for jokes, detective!	L'heure n'est pas à la plaisanterie, détective !	DialogTalkToAristaAboutHorn+<Option2b>d__7	MoveNext
+16	Arista	Please hurry! My boys, they have no sense of direction!	De grâce, dépêchez-vous ! Mes garçons n'ont aucun sens de l'orientation !	DialogTalkToAristaAboutHorn+<Option2b>d__7	MoveNext
+1313	Herman	How can I repair this hearing horn?	Comment puis-je réparer ce cornet acoustique ?	DialogTalkToAristaAboutHorn+<Option3>d__8	MoveNext
+205	Arista	Weren't you listening?	Vous n'écoutiez donc pas ?	DialogTalkToAristaAboutHorn+<Option3>d__8	MoveNext
+206	Arista	I blew out the mouthpiece on my horn, so I can't call my boys back.	L'embout de mon cornet a rendu l'âme, je ne peux plus rappeler mes petits.	DialogTalkToAristaAboutHorn+<Option3>d__8	MoveNext
+207	Arista	Get those musician friends of yours to have a look at it!	Demandez à vos amis musiciens d'y jeter un coup d'œil !	DialogTalkToAristaAboutHorn+<Option3>d__8	MoveNext
+1314	Herman	You mean Balboa Swing?	Vous voulez parler du Balboa Swing ?	DialogTalkToAristaAboutHorn+<Option3>d__8	MoveNext
+208	Arista	They're always blowing into their brass instruments, they'll know what to do!	Ils soufflent à longueur de journée dans leurs cuivres, ils sauront quoi faire !	DialogTalkToAristaAboutHorn+<Option3>d__8	MoveNext
+1315	Herman	I'll speak to you later.	Je vous reparlerai plus tard.	DialogTalkToAristaAboutHorn+<Option4a>d__11	MoveNext
+209	Arista	Just remember, time is of the essence!	N'oubliez pas que chaque seconde compte !	DialogTalkToAristaAboutHorn+<Option4a>d__11	MoveNext
+612	Herman	I don't know if that's an appropriate use of a hearing aid.	Je ne sais pas si c'est un usage très catholique pour un appareil auditif.	DialogTalkToAristaTwins+<Option1>d__3	MoveNext
+141	Arista	Oh yeah? Well, it's the only thing that works on these boneheads!	Ah oui ? Eh bien, c'est la seule méthode efficace avec ces deux têtes de mule !	DialogTalkToAristaTwins+<Option1>d__3	MoveNext
+613	Herman	Were you listening in on our conversation?	Étiez-vous en train d'écouter notre conversation ?	DialogTalkToAristaTwins+<Option2>d__4	MoveNext
+143	Arista	My boys were just... repairing the ventilation system!	Mes garçons étaient juste... en train de réparer le système de ventilation !	DialogTalkToAristaTwins+<Option2>d__4	MoveNext
+144	Arista	Any scheming they may or may not have overheard was completely accidental.	Toute manigance qu'ils auraient pu entendre n'était que purement fortuite.	DialogTalkToAristaTwins+<Option2>d__4	MoveNext
+105	Hagen	It's a dirty job, and we get to do it!	C'est un sale boulot, et c'est pour notre pomme !	DialogTalkToAristaTwins+<Option2>d__4	MoveNext
+614	Herman	Have you seen any unscrupulous businessmen around?	Avez-vous aperçu des hommes d'affaires sans scrupules dans les parages ?	DialogTalkToAristaTwins+<Option3>d__5	MoveNext
+145	Arista	Hey now, unscrupulous businessmen are our main clientele!	Hé là, les requins sans scrupules constituent notre clientèle de prédilection !	DialogTalkToAristaTwins+<Option3>d__5	MoveNext
+106	Hagen	''Unscroopalous'' isn't a real word, is it?	« Sans scru-poule », ça existe pas comme mot, si ?	DialogTalkToAristaTwins+<Option3>d__5	MoveNext
+146	Arista	Not when you say it, you dunderheaded freak!	Pas quand ça sort de ta bouche d'andouille, triple buse !	DialogTalkToAristaTwins+<Option3>d__5	MoveNext
+1002	Herman	Can you tell me anything about Mr Liu?	Pouvez-vous me dire quoi que ce soit sur M. Liu ?	DialogTalkToAristaTwins+<Option3a>d__6	MoveNext
+183	Arista	Well, aside from being head over heels in love with my sister, I hear he's also incredibly wealthy! Ha!	Eh bien, en plus d'être fou amoureux de ma sœur, j'ai ouï dire qu'il est richissime ! Ha !	DialogTalkToAristaTwins+<Option3a>d__6	MoveNext
+151	Gunter	Is Mister Liu going to be our new father?	M'sieur Liu va être notre nouveau papa ?	DialogTalkToAristaTwins+<Option3a>d__6	MoveNext
+184	Arista	I should be so lucky!	Si seulement le ciel pouvait m'accorder cette grâce !	DialogTalkToAristaTwins+<Option3a>d__6	MoveNext
+107	Hagen	We've got our eyes on you, mister! Both pairs of them!	On vous a à l'œil, m'sieur ! Avec nos deux paires d'yeux !	DialogTalkToAristaTwins+<Option4>d__7	MoveNext
+517	Herman	Now, where was I?	Bien, où en étais-je ?	DialogTalkToAristaTwins+<Option4>d__7	MoveNext
+616	Herman	I suppose that's true.	J'imagine que c'est exact.	DialogTalkToAristaTwins+<Option4a>d__8	MoveNext
+579	Diana	Sorry if I dragged you into this mess, Arthur.	Désolée de vous avoir entraîné dans ce pétrin, Arthur.	DialogTalkToArthurJail+<Option1>d__3	MoveNext
+1639	Arthur	You know, Lady Unterwald wrote me a letter telling me to be more adventurous.	Vous savez, Lady Unterwald m'avait écrit une lettre m'incitant à être plus aventureux.	DialogTalkToArthurJail+<Option1>d__3	MoveNext
+1640	Arthur	If only she could see me now!	Si seulement elle pouvait me voir maintenant !	DialogTalkToArthurJail+<Option1>d__3	MoveNext
+580	Diana	You think Lady Unterwald would have approved?	Vous pensez que Lady Unterwald aurait approuvé ?	DialogTalkToArthurJail+<Option1a>d__4	MoveNext
+1641	Arthur	I'd like to think so.	J'aime à le croire.	DialogTalkToArthurJail+<Option1a>d__4	MoveNext
+1642	Arthur	I don't think she would've approved of the whole dying part, of course.	Elle n'aurait sans doute pas approuvé le passage où elle se fait tuer, bien sûr.	DialogTalkToArthurJail+<Option1a>d__4	MoveNext
+581	Diana	I suppose not.	J'imagine que non.	DialogTalkToArthurJail+<Option1a>d__4	MoveNext
+582	Diana	What do you make of your new, adventurous lifestyle?	Que pensez-vous de votre nouvelle vie pleine d'aventures ?	DialogTalkToArthurJail+<Option1b>d__5	MoveNext
+1643	Arthur	I think I'd still prefer the safe, predictable world of drab suits and bureaucracy.	Je crois que je préférerais toujours le monde sûr et prévisible des costumes austères et de la paperasse.	DialogTalkToArthurJail+<Option1b>d__5	MoveNext
+1644	Arthur	The adventure isn't over just yet, though.	L'aventure n'est pas encore terminée pour autant.	DialogTalkToArthurJail+<Option1b>d__5	MoveNext
+583	Diana	Is there anything in your cell that could help us out?	Y a-t-il quoi que ce soit dans votre cellule qui pourrait nous aider ?	DialogTalkToArthurJail+<Option2>d__6	MoveNext
+1645	Arthur	No, but I swiped some stuff from the interrogation room.	Non, mais j'ai fauché deux ou trois bricoles dans la salle d'interrogatoire.	DialogTalkToArthurJail+<Option2>d__6	MoveNext
+584	Diana	Really? Why didn't I think of that?	Vraiment ? Pourquoi n'y ai-je pas pensé ?	DialogTalkToArthurJail+<Option2>d__6	MoveNext
+1646	Arthur	Oh, there's also a big valve in here. Do you have a valve?	Oh, il y a aussi une grosse vanne ici. Avez-vous une vanne ?	DialogTalkToArthurJail+<Option2>d__6	MoveNext
+585	Diana	Can you describe that valve to me, Arthur?	Pouvez-vous me décrire cette vanne, Arthur ?	DialogTalkToArthurJail+<Option2a>d__7	MoveNext
+1647	Arthur	It's just an ordinary valve. I think it's connected to the plumbing in some way, though.	C'est une vanne ordinaire. Mais je crois qu'elle est reliée à la plomberie d'une certaine façon.	DialogTalkToArthurJail+<Option2a>d__7	MoveNext
+586	Diana	Hmm. See if you can experiment a little, maybe we can use that to our benefit!	Hmm. Faites quelques essais, on pourrait peut-être en tirer profit !	DialogTalkToArthurJail+<Option2a>d__7	MoveNext
+587	Diana	Any luck with that valve, Arthur?	Du nouveau avec cette vanne, Arthur ?	DialogTalkToArthurJail+<Option2b>d__8	MoveNext
+1648	Arthur	The valve is definitely connected to the plumbing system.	La vanne est indubitablement raccordée au réseau d'évacuation.	DialogTalkToArthurJail+<Option2b>d__8	MoveNext
+1649	Arthur	I need to experiment a little further, I think.	Je dois poursuivre mes expérimentations, je crois.	DialogTalkToArthurJail+<Option2b>d__8	MoveNext
+588	Diana	Keep trying!	Continuez d'essayer !	DialogTalkToArthurJail+<Option2b>d__8	MoveNext
+1650	Arthur	The valve seems to change the flow of the plumbing system!	La vanne semble inverser le sens d'écoulement de la tuyauterie !	DialogTalkToArthurJail+<Option2c>d__9	MoveNext
+1651	Arthur	It means we can trade items between each other with a simple flush!	Ça veut dire qu'on peut s'échanger des objets en tirant simplement la chasse !	DialogTalkToArthurJail+<Option2c>d__9	MoveNext
+590	Diana	That's genius!	C'est du pur génie !	DialogTalkToArthurJail+<Option2c>d__9	MoveNext
+591	Diana	Why didn't you tell me you weren't the informant?	Pourquoi ne m'avez-vous pas dit que vous n'étiez pas l'indicateur ?	DialogTalkToArthurJail+<Option3>d__10	MoveNext
+1652	Arthur	I thought Lady Unterwald had planned the whole thing, I didn't want to go against her last wishes.	Je pensais que Lady Unterwald avait tout orchestré, je ne voulais pas trahir ses dernières volontés.	DialogTalkToArthurJail+<Option3>d__10	MoveNext
+1653	Arthur	Besides, it sounded like you had a lot riding on this mission of yours.	Et puis, votre mission semblait avoir une importance capitale à vos yeux.	DialogTalkToArthurJail+<Option3>d__10	MoveNext
+592	Diana	I had everything riding on this, but I didn't expect to see the inside of a cell.	J'y jouais ma carrière entière, mais je ne m'attendais pas à finir au fond d'un cachot.	DialogTalkToArthurJail+<Option3>d__10	MoveNext
+593	Diana	Do you think Mr Liu is alright?	Pensez-vous que M. Liu aille bien ?	DialogTalkToArthurJail+<Option3a>d__11	MoveNext
+1654	Arthur	Can anyone truly be alright if they hit a brick wall at 100 miles per hour?	Peut-on vraiment bien se porter après avoir heurté un mur de briques à 160 kilomètres à l'heure ?	DialogTalkToArthurJail+<Option3a>d__11	MoveNext
+594	Diana	No, I don't imagine so.	Non, j'imagine que non.	DialogTalkToArthurJail+<Option3a>d__11	MoveNext
+1655	Arthur	Then I guess you have my answer.	Dans ce cas, vous avez ma réponse.	DialogTalkToArthurJail+<Option3a>d__11	MoveNext
+595	Diana	Okay, back to formulating a plan.	Bien, retour à l'élaboration du plan d'évasion.	DialogTalkToArthurJail+<Option4>d__12	MoveNext
+870	Arthur	Can I order a drink?	Puis-je commander une boisson ?	DialogTalkToBartender+<Option1>d__6	MoveNext
+32	Bartender	Sure, what did you have in mind?	Bien sûr, qu'avez-vous en tête ?	DialogTalkToBartender+<Option1>d__6	MoveNext
+871	Arthur	One non-alcoholic cocktail, please!	Un cocktail sans alcool, s'il vous plaît !	DialogTalkToBartender+<Option2>d__7	MoveNext
+33	Bartender	Sure, one mocktail coming right up!	Ça marche, un cocktail sans alcool arrive tout de suite !	DialogTalkToBartender+<Option2>d__7	MoveNext
+923	Arthur	Can I get another non-alcoholic cocktail?	Puis-je avoir un autre cocktail sans alcool ?	DialogTalkToBartender+<Option2b>d__8	MoveNext
+34	Bartender	You'd like another mocktail?	Vous voulez un autre cocktail ?	DialogTalkToBartender+<Option2b>d__8	MoveNext
+924	Arthur	Oh, I forgot that I'm holding onto one already.	Oh, j'avais oublié que j'en tenais déjà un à la main.	DialogTalkToBartender+<Option2b>d__8	MoveNext
+872	Arthur	I need a strong cup of coffee!	J'ai besoin d'une tasse de café bien serré !	DialogTalkToBartender+<Option3>d__9	MoveNext
+35	Bartender	One steaming hot cup of coffee coming right up!	Une bonne tasse de café bien chaud, une !	DialogTalkToBartender+<Option3>d__9	MoveNext
+874	Arthur	I hope this suit isn't a rental.	J'espère que ce costume n'est pas de location.	DialogTalkToBartender+<Option3>d__9	MoveNext
+925	Arthur	I need another cup of coffee!	J'ai besoin d'une autre tasse de café !	DialogTalkToBartender+<Option3b>d__10	MoveNext
+36	Bartender	You need another refill?	Vous voulez une autre recharge ?	DialogTalkToBartender+<Option3b>d__10	MoveNext
+926	Arthur	Never mind, I just realised I've already got plenty of coffee.	Laissez tomber, je viens de réaliser que j'en ai déjà bien assez.	DialogTalkToBartender+<Option3b>d__10	MoveNext
+875	Arthur	Just give me something brimming with alcohol!	Donnez-moi simplement quelque chose qui déborde d'alcool !	DialogTalkToBartender+<Option4>d__11	MoveNext
+37	Bartender	Have you got any identification?	Avez-vous une pièce d'identité ?	DialogTalkToBartender+<Option4>d__11	MoveNext
+927	Arthur	Are you sure you can't serve me alcohol?	Êtes-vous sûr de ne pas pouvoir me servir d'alcool ?	DialogTalkToBartender+<Option4b>d__12	MoveNext
+38	Bartender	That depends, did you bring any identification yet?	Ça dépend, avez-vous apporté vos papiers cette fois ?	DialogTalkToBartender+<Option4b>d__12	MoveNext
+876	Arthur	No, but my moustache is coming through any day now!	Non, mais ma moustache pousse, elle sera là d'un jour à l'autre !	DialogTalkToBartender+<Option5>d__13	MoveNext
+39	Bartender	I'm sure you'll have a full beard one day, kid.	Je suis sûr que vous aurez une splendide barbe un jour, fiston.	DialogTalkToBartender+<Option5>d__13	MoveNext
+40	Bartender	...but I can't serve you without ID.	...mais je ne peux rien vous servir sans papiers.	DialogTalkToBartender+<Option5>d__13	MoveNext
+877	Arthur	I may look young, but I'm a full-grown attorney!	J'ai l'air jeune peut-être, mais je suis un juriste diplômé en bonne et due forme !	DialogTalkToBartender+<Option6>d__14	MoveNext
+41	Bartender	Then you know the law. I can't serve you!	Alors vous connaissez la loi. Je n'ai pas le droit de vous servir !	DialogTalkToBartender+<Option6>d__14	MoveNext
+878	Arthur	Uhh, I must have left it in my other suit jacket.	Euh, j'ai dû la laisser dans la poche de mon autre veste.	DialogTalkToBartender+<Option7>d__15	MoveNext
+42	Bartender	Alright. Come back when you have some ID.	C'est ça. Revenez quand vous aurez votre carte.	DialogTalkToBartender+<Option7>d__15	MoveNext
+879	Arthur	Oh, I don't carry identification.	Oh, je n'ai pas de papiers sur moi.	DialogTalkToBartender+<Option8>d__16	MoveNext
+43	Bartender	Can't serve you alcohol without identification.	Impossible de vous servir de l'alcool sans pièce d'identité.	DialogTalkToBartender+<Option8>d__16	MoveNext
+880	Arthur	What can you tell me about the Rosebud?	Que pouvez-vous me dire sur le Rosebud ?	DialogTalkToBartender+<Option9>d__17	MoveNext
+44	Bartender	It's an almost lethal combination of ethanol, rose petals and cocktail perfume.	C'est un mélange quasi léthal d'éthanol pur, de pétales de rose et de parfum à cocktail.	DialogTalkToBartender+<Option9>d__17	MoveNext
+881	Arthur	Can I have one?	Puis-je en avoir un ?	DialogTalkToBartender+<Option9>d__17	MoveNext
+45	Bartender	Sorry, we're fresh out of the ingredients.	Désolé, nous sommes à court d'ingrédients.	DialogTalkToBartender+<Option9>d__17	MoveNext
+46	Bartender	It's been a popular drink request this evening.	Ce cocktail a eu un franc succès ce soir.	DialogTalkToBartender+<Option9>d__17	MoveNext
+882	Arthur	What if I get you the ingredients for the Rosebud?	Et si je vous dégotais les ingrédients pour le Rosebud ?	DialogTalkToBartender+<Option10>d__18	MoveNext
+47	Bartender	Well, I might be able to whip something up for you.	Dans ce cas, je pourrais sans doute vous concocter ça.	DialogTalkToBartender+<Option10>d__18	MoveNext
+883	Arthur	Great!	Formidable !	DialogTalkToBartender+<Option10>d__18	MoveNext
+884	Arthur	What ingredients do I need for the Rosebud?	De quels ingrédients ai-je besoin pour le Rosebud ?	DialogTalkToBartender+<Option11>d__19	MoveNext
+48	Bartender	I'm all out of rose petals.	Je n'ai plus de pétales de rose.	DialogTalkToBartender+<Option11>d__19	MoveNext
+49	Bartender	I'm all out of cocktail perfume.	Je n'ai plus de parfum à cocktail.	DialogTalkToBartender+<Option11>d__19	MoveNext
+50	Bartender	I'm all out of rose petals and cocktail perfume.	Je suis à sec de pétales de rose et de parfum à cocktail.	DialogTalkToBartender+<Option11>d__19	MoveNext
+51	Bartender	If you can find me something like that, I could create an approximation.	Si vous me trouvez des équivalents, je pourrais en improviser une version approchée.	DialogTalkToBartender+<Option11>d__19	MoveNext
+885	Arthur	Actually, I don't need a drink.	En fait, je n'ai pas besoin de boire.	DialogTalkToBartender+<Option12>d__20	MoveNext
+886	Arthur	How'd you learn those fancy tricks?	Où avez-vous appris tous ces tours spectaculaires ?	DialogTalkToBartender+<Option13>d__21	MoveNext
+53	Bartender	Hah, you're looking at two weeks of bartending school.	Hah, vous admirez deux semaines intensives d'école de barman.	DialogTalkToBartender+<Option13>d__21	MoveNext
+887	Arthur	Woah. Worth every penny!	Ouah. Ça valait chaque centime !	DialogTalkToBartender+<Option13>d__21	MoveNext
+54	Bartender	My parents would disagree with you.	Mes parents ne seraient pas de cet avis.	DialogTalkToBartender+<Option13>d__21	MoveNext
+1192	Arthur	What's the most difficult part of being a bartender?	Quel est le plus dur dans le métier de barman ?	DialogTalkToBartender+<Option13a>d__22	MoveNext
+55	Bartender	To be a great bartender, one must master the art of multitasking and recalling information quickly.	Pour être un grand barman, il faut maîtriser la polyvalence et la mémorisation éclair.	DialogTalkToBartender+<Option13a>d__22	MoveNext
+1194	Arthur	I thought it'd be all the broken glass you have to sweep up.	Je pensais que c'étaient les débris de verre brisé à ramasser.	DialogTalkToBartender+<Option13a>d__22	MoveNext
+929	Arthur	Have you seen Lady Unterwald around here?	Avez-vous vu Lady Unterwald dans les parages ?	DialogTalkToBartender+<Option14>d__23	MoveNext
+56	Bartender	Keep walking down the carriages, you can't miss her.	Continuez d'avancer le long des voitures, vous ne pouvez pas la rater.	DialogTalkToBartender+<Option14>d__23	MoveNext
+930	Arthur	Where can I find Lady Unterwald again?	Où puis-je retrouver Lady Unterwald, déjà ?	DialogTalkToBartender+<Option14a>d__24	MoveNext
+57	Bartender	Keep making your way through the carriages, she's just ahead.	Poursuivez à travers les wagons, elle est juste un peu plus loin.	DialogTalkToBartender+<Option14a>d__24	MoveNext
+889	Arthur	Can I ask for your advice, barkeep?	Puis-je vous demander un conseil, l'ami ?	DialogTalkToBartender+<Option15>d__25	MoveNext
+58	Bartender	A bartender is always happy to lend a sympathetic ear.	Un barman prête toujours une oreille compatissante.	DialogTalkToBartender+<Option15>d__25	MoveNext
+59	Bartender	What's troubling you?	Qu'est-ce qui vous tracasse ?	DialogTalkToBartender+<Option15>d__25	MoveNext
+890	Arthur	I need to find out who killed Lady Unterwald!	Je dois découvrir qui a tué Lady Unterwald !	DialogTalkToBartender+<Option16>d__26	MoveNext
+60	Bartender	Well, that's a little above my pay grade.	Eh bien, cela dépasse quelque peu mes compétences salordiales.	DialogTalkToBartender+<Option16>d__26	MoveNext
+61	Bartender	I suggest you keep exploring, and make sure you speak to everyone.	Je vous conseille de continuer à fouiller et de parler à chaque passager.	DialogTalkToBartender+<Option16>d__26	MoveNext
+62	Bartender	The clues will come to you eventually.	Les indices finiront bien par se manifester.	DialogTalkToBartender+<Option16>d__26	MoveNext
+1462	Arthur	I found a hidden safe, but I'm not sure how to open it!	J'ai trouvé un coffre-fort secret, mais je ne sais pas comment l'ouvrir !	DialogTalkToBartender+<Option16a>d__27	MoveNext
+63	Bartender	Not sure if I'll be much help to you there.	Pas sûr de pouvoir vous être d'une grande aide là-dessus.	DialogTalkToBartender+<Option16a>d__27	MoveNext
+64	Bartender	If it's a combination lock, it could be something personal.	Si c'est un cadenas à combinaison, c'est peut-être lié à un détail intime.	DialogTalkToBartender+<Option16a>d__27	MoveNext
+1463	Arthur	Personal? Like an important date?	Intime ? Du genre une date marquante ?	DialogTalkToBartender+<Option16a>d__27	MoveNext
+65	Bartender	Well, that's what I'd do.	En tout cas, c'est ce que je ferais.	DialogTalkToBartender+<Option16a>d__27	MoveNext
+1464	Arthur	I'll keep that in mind.	Je garde ça dans un coin de ma tête.	DialogTalkToBartender+<Option16a>d__27	MoveNext
+893	Arthur	I may have accidentally lost Lady Unterwald's will.	J'ai peut-être malencontreusement égaré le testament de Lady Unterwald.	DialogTalkToBartender+<Option17>d__28	MoveNext
+66	Bartender	I'm no expert, but that document sounds pretty important.	Je ne suis pas juriste, mais ce document a l'air diablement important.	DialogTalkToBartender+<Option17>d__28	MoveNext
+67	Bartender	Are you working towards getting it back?	Faites-vous tout pour remettre la main dessus ?	DialogTalkToBartender+<Option17>d__28	MoveNext
+894	Arthur	I think I can, but it always seems just out of reach.	Je pense pouvoir y arriver, mais il m'échappe toujours de peu.	DialogTalkToBartender+<Option17>d__28	MoveNext
+68	Bartender	Patience might be in order. I'm sure you'll get your opportunity.	La patience est de mise. L'occasion finira par se présenter.	DialogTalkToBartender+<Option17>d__28	MoveNext
+895	Arthur	Thanks.	Merci.	DialogTalkToBartender+<Option17>d__28	MoveNext
+1465	Arthur	I still haven't located Lady Unterwald's will!	Je n'ai toujours pas localisé le testament de Lady Unterwald !	DialogTalkToBartender+<Option17a>d__29	MoveNext
+69	Bartender	Maybe the opportunity just hasn't presented itself yet.	L'opportunité ne s'est peut-être simplement pas encore présentée.	DialogTalkToBartender+<Option17a>d__29	MoveNext
+70	Bartender	You'll get your chance in due time, I'm sure.	Vous aurez votre chance au moment opportun, j'en suis persuadé.	DialogTalkToBartender+<Option17a>d__29	MoveNext
+1466	Arthur	You really think so?	Vous le pensez vraiment ?	DialogTalkToBartender+<Option17a>d__29	MoveNext
+71	Bartender	Of course.	Évidemment.	DialogTalkToBartender+<Option17a>d__29	MoveNext
+896	Arthur	I don't really know what I should be doing!	Je ne sais pas vraiment ce que je devrais faire !	DialogTalkToBartender+<Option18>d__30	MoveNext
+1467	Arthur	I'm not sure what I should be doing!	Je ne suis pas très sûr de la marche à suivre !	DialogTalkToBartender+<Option18a>d__31	MoveNext
+1469	Arthur	How can I read the message on this napkin?	Comment lire le message inscrit sur cette serviette ?	DialogTalkToBartender+<Option18b>d__32	MoveNext
+76	Bartender	Are we talking about invisible ink?	Parle-t-on d'encre invisible ?	DialogTalkToBartender+<Option18b>d__32	MoveNext
+1470	Arthur	Maybe. If there's something there, I can't see it.	Peut-être. S'il y a quelque chose, je n'y vois goutte.	DialogTalkToBartender+<Option18b>d__32	MoveNext
+77	Bartender	I'm sure there are ways to reveal hidden messages.	Il existe des tas de méthodes pour faire apparaître des écrits cachés.	DialogTalkToBartender+<Option18b>d__32	MoveNext
+78	Bartender	You might want to do some reading up on the topic.	Vous devriez vous documenter sur la question.	DialogTalkToBartender+<Option18b>d__32	MoveNext
+898	Arthur	Actually, that's enough advice for now.	En fait, ça ira pour les conseils pour l'instant.	DialogTalkToBartender+<Option19>d__33	MoveNext
+1169	Arthur	What do you think happened to Herman Merman?	D'après vous, qu'est-il arrivé à Herman Merman ?	DialogTalkToBergmann+<Option1>d__7	MoveNext
+74	Bergmann	I'm not sure. Perhaps he fled once he realised he'd painted a target on his back?	Je l'ignore. Il a peut-être fui en comprenant qu'il s'était peint une cible dans le dos ?	DialogTalkToBergmann+<Option1>d__7	MoveNext
+75	Bergmann	Surely the killer would be working to address any threats, tie up any loose ends.	Le meurtrier cherchera assurément à éliminer toute menace et faire disparaître les témoins gênants.	DialogTalkToBergmann+<Option1>d__7	MoveNext
+76	Bergmann	You're looking like a particularly loose end, if you don't mind me saying.	Et vous avez tout l'air d'un témoin particulièrement gênant, si vous me permettez l'expression.	DialogTalkToBergmann+<Option1>d__7	MoveNext
+1170	Arthur	Because I was handling Lady Unterwald's will and testament?	Parce que j'avais en charge le testament de Lady Unterwald ?	DialogTalkToBergmann+<Option1>d__7	MoveNext
+1171	Arthur	Who'd want to bring harm to Lady Unterwald?	Qui aurait bien pu vouloir faire du mal à Lady Unterwald ?	DialogTalkToBergmann+<Option2>d__8	MoveNext
+78	Bergmann	Well, when you generate as much wealth, power and influence as she did...	Eh bien, lorsqu'on amasse autant de richesses, de pouvoir et d'influence qu'elle...	DialogTalkToBergmann+<Option2>d__8	MoveNext
+79	Bergmann	You naturally create a few adversaries along the way, no?	On s'attire immanquablement quelques ennemis en chemin, n'est-ce pas ?	DialogTalkToBergmann+<Option2>d__8	MoveNext
+1172	Arthur	Any guesses as to who the killer could be?	Une petite idée sur l'identité du meurtrier ?	DialogTalkToBergmann+<Option3>d__9	MoveNext
+80	Bergmann	I'm sure there are many aboard this train who felt spurned by Lady Unterwald.	Beaucoup de passagers à bord ont dû se sentir méprisés par Lady Unterwald.	DialogTalkToBergmann+<Option3>d__9	MoveNext
+81	Bergmann	But I'm hoping to stay out of these proceedings, where possible.	Mais je préfère rester en dehors de tout cela, dans la mesure du possible.	DialogTalkToBergmann+<Option3>d__9	MoveNext
+82	Bergmann	I wouldn't want to make a target of myself with a killer on the loose.	Je ne voudrais pas me désigner en cible alors qu'un tueur court dans les couloirs.	DialogTalkToBergmann+<Option3>d__9	MoveNext
+1176	Arthur	Tell me about Donny's gambling scheme.	Parlez-moi de la combine de jeu de Donny.	DialogTalkToBergmann+<Option8>d__11	MoveNext
+84	Bergmann	You have to stop him, Arthur!	Il faut l'arrêter, Arthur !	DialogTalkToBergmann+<Option8>d__11	MoveNext
+1177	Arthur	What's Donny's gambling scheme again?	C'était quoi déjà, la combine de Donny ?	DialogTalkToBergmann+<Option9>d__12	MoveNext
+1178	Arthur	You mentioned you're the treasurer to the estate?	Vous disiez être le trésorier du domaine ?	DialogTalkToBergmann+<Option10>d__13	MoveNext
+87	Bergmann	That's right, I handle all the finances of the Wald-Bahn company.	Tout à fait, je gère les finances de la compagnie ferroviaire Wald-Bahn.	DialogTalkToBergmann+<Option10>d__13	MoveNext
+1179	Arthur	How exciting! I've always been fascinated with expenditure control.	Passionnant ! J'ai toujours adoré le contrôle de gestion et la maîtrise des dépenses.	DialogTalkToBergmann+<Option10>d__13	MoveNext
+1180	Arthur	What's it like working with the Gudrun twins?	Comment se passe la collaboration avec les jumeaux Gudrun ?	DialogTalkToBergmann+<Option11>d__14	MoveNext
+88	Bergmann	It can be a challenge, they're not the most diplomatic pair.	C'est une épreuve, ils ne brillent guère par leur sens de la diplomatie.	DialogTalkToBergmann+<Option11>d__14	MoveNext
+1181	Arthur	I can see that.	J'ai pu m'en apercevoir.	DialogTalkToBergmann+<Option11>d__14	MoveNext
+89	Bergmann	Oh, I'm sure they consider me a push-over.	Oh, ils doivent me considérer comme une chiffe molle.	DialogTalkToBergmann+<Option11>d__14	MoveNext
+90	Bergmann	There's only so many times I can say no to their bloated infrastructure budget.	Je ne peux pas m'opposer indéfiniment à leurs budgets d'infrastructure délirants.	DialogTalkToBergmann+<Option11>d__14	MoveNext
+1182	Arthur	How are the estate finances, is everything in order?	Comment se portent les finances du domaine, tout est d'équerre ?	DialogTalkToBergmann+<Option12>d__15	MoveNext
+91	Bergmann	Well, I... Why do you ask?	Eh bien, je... Pourquoi cette question ?	DialogTalkToBergmann+<Option12>d__15	MoveNext
+1183	Arthur	Just curious!	Simple curiosité !	DialogTalkToBergmann+<Option12>d__15	MoveNext
+92	Bergmann	They're all perfectly in order, I can assure you.	Tout est parfaitement en ordre, soyez-en certain.	DialogTalkToBergmann+<Option12>d__15	MoveNext
+1184	Arthur	Was Donny trying to blackmail you?	Donny tentait-il de vous faire chanter ?	DialogTalkToBergmann+<Option13>d__16	MoveNext
+93	Bergmann	He recorded the whole thing, Arthur.	Il a tout enregistré, Arthur.	DialogTalkToBergmann+<Option13>d__16	MoveNext
+94	Bergmann	If I walk away from Donny, he'll use those recordings against me.	Si je laisse tomber Donny, il utilisera ces bandes pour me détruire.	DialogTalkToBergmann+<Option13>d__16	MoveNext
+1174	Arthur	Doesn't this give you a clear motive for killing Lady Unterwald?	Cela ne vous donne-t-il pas un mobile évident pour éliminer Lady Unterwald ?	DialogTalkToBergmann+<Option13a>d__17	MoveNext
+95	Bergmann	No! I would never do such a thing!	Non ! Jamais je ne commettrais une telle atrocité !	DialogTalkToBergmann+<Option13a>d__17	MoveNext
+96	Bergmann	Donny may be a bully, a swindler and a cheat. But he's no killer.	Donny a beau être un voyou, un arnaqueur et un tricheur, ce n'est pas un assassin.	DialogTalkToBergmann+<Option13a>d__17	MoveNext
+1185	Arthur	Is the Unterwald estate in financial trouble?	Le domaine Unterwald est-il en difficulté financière ?	DialogTalkToBergmann+<Option14>d__18	MoveNext
+97	Bergmann	The truth is the coffers are almost empty, Arthur.	La triste vérité est que les caisses sont presque vides, Arthur.	DialogTalkToBergmann+<Option14>d__18	MoveNext
+98	Bergmann	I thought I could use Donny's connections to replenish the funds.	Je pensais pouvoir tirer parti des relations de Donny pour renflouer les comptes.	DialogTalkToBergmann+<Option14>d__18	MoveNext
+99	Bergmann	Rather foolish of me, in retrospect.	Idée bien sotte et naïve avec le recul.	DialogTalkToBergmann+<Option14>d__18	MoveNext
+100	Bergmann	Take care, Arthur.	Prenez soin de vous, Arthur.	DialogTalkToBergmann+<Option15>d__19	MoveNext
+101	Bergmann	Alright, Arthur.	Très bien, Arthur.	DialogTalkToBergmann+<Option16>d__20	MoveNext
+1548	Arthur	How are you going to fix the estate's finances?	Comment comptez-vous redresser les finances du domaine ?	DialogTalkToBergmann+<Option17>d__21	MoveNext
+104	Bergmann	I don't know if there's a quick fix for this one, Arthur.	Je ne sais pas s'il existe une solution miracle, Arthur.	DialogTalkToBergmann+<Option17>d__21	MoveNext
+115	Bergmann	But with Donny out of the picture, I can begin the work to set things right.	Mais Donny étant hors-jeu, je vais pouvoir commencer à assainir la situation.	DialogTalkToBergmann+<Option17>d__21	MoveNext
+116	Bergmann	Thanks again.	Merci encore.	DialogTalkToBergmann+<Option17>d__21	MoveNext
+1549	Arthur	You mentioned the doctor wanted to speak to me?	Vous disiez que le docteur souhaitait m'entretenir ?	DialogTalkToBergmann+<Option18>d__22	MoveNext
+117	Bergmann	Yes, I believe he's in Lady Unterwald's quarters, just up ahead.	Oui, je crois qu'il se trouve dans la cabine de Lady Unterwald, juste devant.	DialogTalkToBergmann+<Option18>d__22	MoveNext
+1550	Arthur	What can you tell me about Lady Unterwald's hidden safe?	Que savez-vous du coffre dissimulé de Lady Unterwald ?	DialogTalkToBergmann+<Option18a>d__23	MoveNext
+118	Bergmann	A hidden safe?	Un coffre caché ?	DialogTalkToBergmann+<Option18a>d__23	MoveNext
+1551	Arthur	It came out of the floor, in her quarters!	Il a surgi directement du plancher de sa chambre !	DialogTalkToBergmann+<Option18a>d__23	MoveNext
+119	Bergmann	Goodness. I'm afraid to say I didn't know about that.	Bonté divine. J'avoue que j'ignorais son existence.	DialogTalkToBergmann+<Option18a>d__23	MoveNext
+120	Bergmann	It would've made a much better hiding spot for my ledger, in hindsight.	Ç'aurait été une bien meilleure cachette pour mon registre, à la réflexion.	DialogTalkToBergmann+<Option18a>d__23	MoveNext
+121	Bergmann	Hm, you're right. Perhaps it's too soon for jokes on the matter.	Hm, vous avez raison. Il est sans doute trop tôt pour plaisanter là-dessus.	DialogTalkToBergmann+<Option18a>d__23	MoveNext
+1552	Arthur	Do you think Herman was right about the will?	Pensez-vous qu'Herman avait raison au sujet du testament ?	DialogTalkToBergmann+<Option19>d__24	MoveNext
+122	Bergmann	That it would point the finger at Lady Unterwald's killer?	Qu'il désignerait du doigt l'assassin de Lady Unterwald ?	DialogTalkToBergmann+<Option19>d__24	MoveNext
+123	Bergmann	I'm not sure, but I'd have thought you'd know better than anyone on that subject.	Je l'ignore, mais je pensais que vous en sauriez plus que quiconque à ce propos.	DialogTalkToBergmann+<Option19>d__24	MoveNext
+124	Bergmann	You were her estate attorney, after all?	Vous étiez son notaire attitré, après tout ?	DialogTalkToBergmann+<Option19>d__24	MoveNext
+1553	Arthur	There were just so many amendments, it was hard to keep track.	Il y avait tellement d'avenants et d'amendements qu'il était ardu de s'y retrouver.	DialogTalkToBergmann+<Option19>d__24	MoveNext
+630	Diana	Tell me, why are you destroying those documents?	Dites-moi, pourquoi détruisez-vous ces documents ?	DialogTalkToBergmannAfterTruthSpray+<Option1>d__3	MoveNext
+162	Bergmann	Because this is evidence! I need to protect myself from liability.	Parce que ce sont des preuves ! Je dois me protéger de toute poursuite judiciaire.	DialogTalkToBergmannAfterTruthSpray+<Option1>d__3	MoveNext
+163	Bergmann	What's happening, man, pull yourself together!	Mais que m'arrive-t-il, ressaisis-toi, bon sang !	DialogTalkToBergmannAfterTruthSpray+<Option1>d__3	MoveNext
+631	Diana	Do you know it's a crime to destroy financial documents?	Savez-vous que détruire des pièces comptables est passible de prison ?	DialogTalkToBergmannAfterTruthSpray+<Option1a>d__4	MoveNext
+164	Bergmann	I... I do know!	Je... oui, je le sais !	DialogTalkToBergmannAfterTruthSpray+<Option1a>d__4	MoveNext
+165	Bergmann	Oh, I've been a terrible treasurer! I've gambled away estate funds!	Oh, j'ai été un trésorier lamentable ! J'ai dilapidé l'argent de la succession au jeu !	DialogTalkToBergmannAfterTruthSpray+<Option1a>d__4	MoveNext
+632	Diana	Burning the evidence, will you ever take responsibility?	Brûler les preuves, assumerez-vous vos actes un jour ?	DialogTalkToBergmannAfterTruthSpray+<Option1b>d__5	MoveNext
+166	Bergmann	No more, I'm begging you!	Pitié, pas un mot de plus, je vous en supplie !	DialogTalkToBergmannAfterTruthSpray+<Option1b>d__5	MoveNext
+633	Diana	Do you know who killed Lady Unterwald?	Savez-vous qui a tué Lady Unterwald ?	DialogTalkToBergmannAfterTruthSpray+<Option2>d__6	MoveNext
+168	Bergmann	I have no idea, and that terrifies me!	Je n'en ai pas la moindre idée, et cela me terrifie au plus haut point !	DialogTalkToBergmannAfterTruthSpray+<Option2>d__6	MoveNext
+634	Diana	Did Lady Unterwald know about your gambling problem?	Lady Unterwald était-elle au courant de votre addiction au jeu ?	DialogTalkToBergmannAfterTruthSpray+<Option2a>d__7	MoveNext
+169	Bergmann	No, I don't think so. I never had the heart to tell her!	Non, je ne crois pas. Je n'ai jamais eu le courage de le lui avouer !	DialogTalkToBergmannAfterTruthSpray+<Option2a>d__7	MoveNext
+170	Bergmann	And now she's gone!	Et maintenant, elle n'est plus de ce monde !	DialogTalkToBergmannAfterTruthSpray+<Option2a>d__7	MoveNext
+635	Diana	Lady Unterwald entrusted you. She'd be so disappointed!	Lady Unterwald vous faisait confiance. Elle serait si déçue !	DialogTalkToBergmannAfterTruthSpray+<Option2b>d__8	MoveNext
+171	Bergmann	T-That's right, I know it's true.	C-C'est vrai, je sais bien que c'est la vérité.	DialogTalkToBergmannAfterTruthSpray+<Option2b>d__8	MoveNext
+172	Bergmann	Please, no more!	De grâce, arrêtez !	DialogTalkToBergmannAfterTruthSpray+<Option2b>d__8	MoveNext
+636	Diana	I'll have to report you to my superiors at Inland Revenue!	Je vais devoir vous signaler à mes supérieurs du fisc !	DialogTalkToBergmannAfterTruthSpray+<Option3>d__9	MoveNext
+173	Bergmann	Y-You wouldn't dare!	V-Vous n'oseriez pas !	DialogTalkToBergmannAfterTruthSpray+<Option3>d__9	MoveNext
+174	Bergmann	But if you did, that would be devastating for me!	Mais si vous le faisiez, ce serait ma ruine absolue !	DialogTalkToBergmannAfterTruthSpray+<Option3>d__9	MoveNext
+175	Bergmann	Did I say that out loud? Oh, no!	Est-ce que je viens de dire ça à voix haute ? Oh non !	DialogTalkToBergmannAfterTruthSpray+<Option3>d__9	MoveNext
+637	Diana	Stealing from a poor old lady, this doesn't look great for you.	Voler une pauvre vieille dame, ça ne plaide pas vraiment en votre faveur.	DialogTalkToBergmannAfterTruthSpray+<Option3a>d__10	MoveNext
+176	Bergmann	It wasn't like that!	Ce n'était pas comme ça !	DialogTalkToBergmannAfterTruthSpray+<Option3a>d__10	MoveNext
+177	Bergmann	I'm telling the truth!	Je vous dis la stricte vérité !	DialogTalkToBergmannAfterTruthSpray+<Option3a>d__10	MoveNext
+638	Diana	You're going to have to face the consequences at some point!	Il va bien falloir assumer les conséquences de vos actes un jour ou l'autre !	DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+178	Bergmann	Please! I can't go to prison, I'd never last in there!	Pitié ! Je ne peux pas aller en prison, je n'y survivrais pas un seul jour !	DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+179	Bergmann	Nobody has to know!	Personne n'est obligé de le savoir !	DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+180	Bergmann	I know deep down that I play the victim because...	Je sais bien qu'au fond je joue les victimes parce que...	DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+639	Diana	Because?	Parce que ?	DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+181	Bergmann	B-Because I can't own up to my mistakes!	P-Parce que je suis incapable d'assumer mes erreurs !	DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+182	Bergmann	The truth is that I-I'm a wretched creature, a weak little man!	La vérité, c'est que je... je suis un être misérable, un pauvre lâche sans envergure !	DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+640	Diana	There, there. I'm sure it will be okay.	Allons, allons. Tout ira bien, voyons.	DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+183	Bergmann	Forgive me, for I cannot forgive myself!	Pardonnez-moi, car moi-même je ne peux me pardonner !	DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+641	Diana	It's a white-collar crime, Bergmann. It's serious, but it's not like you killed anyone.	C'est un crime en col blanc, Bergmann. C'est grave, mais vous n'avez tué personne.	DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+184	Bergmann	No! I deserve to be locked up! I'm a danger to society!	Non ! Je mérite d'être enfermé ! Je suis un danger public pour la société !	DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+642	Diana	Oh dear, I think that truth spray broke him.	Eh bien, je crois que le spray de vérité l'a complètement détraqué.	DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+644	Diana	You wait right here.	Vous ne bougez pas d'ici.	DialogTalkToBergmannAfterTruthSpray+<Option4>d__12	MoveNext
+185	Bergmann	I'm not going anywhere!	Je ne vais nulle part !	DialogTalkToBergmannAfterTruthSpray+<Option4>d__12	MoveNext
+621	Diana	Are those financial documents you're burning?	Sont-ce des pièces comptables que vous brûlez ?	DialogTalkToBergmannBeforeTruthSpray+<Option1>d__3	MoveNext
+146	Bergmann	W-what! I would do no such thing!	Q-Quoi ! Jamais je ne ferais une chose pareille !	DialogTalkToBergmannBeforeTruthSpray+<Option1>d__3	MoveNext
+147	Bergmann	These are merely old birthday cards...	Ce ne sont que de vieilles cartes d'anniversaire...	DialogTalkToBergmannBeforeTruthSpray+<Option1>d__3	MoveNext
+148	Bergmann	Nothing the tax office would be concerned with, I assure you!	Rien qui puisse intéresser l'administration fiscale, croyez-moi !	DialogTalkToBergmannBeforeTruthSpray+<Option1>d__3	MoveNext
+622	Diana	Stop what you're doing, right now!	Cessez ce que vous faites immédiatement !	DialogTalkToBergmannBeforeTruthSpray+<Option1a>d__4	MoveNext
+149	Bergmann	As the treasurer, I'm at liberty to destroy unwanted documentation!	En tant que trésorier, je suis tout à fait libre de détruire les archives obsolètes !	DialogTalkToBergmannBeforeTruthSpray+<Option1a>d__4	MoveNext
+623	Diana	That's not true!	C'est absolument faux !	DialogTalkToBergmannBeforeTruthSpray+<Option1a>d__4	MoveNext
+150	Bergmann	Even so, you didn't see anything!	Même si c'était vrai, vous n'avez rien vu !	DialogTalkToBergmannBeforeTruthSpray+<Option1a>d__4	MoveNext
+624	Diana	That's it, you're under arrest!	Ça suffit, vous êtes en état d'arrestation !	DialogTalkToBergmannBeforeTruthSpray+<Option1b>d__5	MoveNext
+151	Bergmann	Just a few more to go!	Plus que quelques feuillets à jeter au feu !	DialogTalkToBergmannBeforeTruthSpray+<Option1b>d__5	MoveNext
+625	Diana	Out of the way, I need to stop this train!	Hors de mon chemin, je dois stopper ce train !	DialogTalkToBergmannBeforeTruthSpray+<Option2>d__6	MoveNext
+152	Bergmann	Stop the train? Are you mad?	Arrêter le train ? Vous avez perdu la tête ?	DialogTalkToBergmannBeforeTruthSpray+<Option2>d__6	MoveNext
+153	Bergmann	No, no, we must keep going!	Non, non, nous devons continuer de rouler !	DialogTalkToBergmannBeforeTruthSpray+<Option2>d__6	MoveNext
+154	Bergmann	We mustn't give the opportunity for Lady Unterwald's killer to disembark!	Nous ne pouvons pas laisser au meurtrier de Lady Unterwald l'occasion de s'enfuir !	DialogTalkToBergmannBeforeTruthSpray+<Option2>d__6	MoveNext
+626	Diana	I need to get past, Arthur is in trouble!	Laissez-moi passer, Arthur est en danger !	DialogTalkToBergmannBeforeTruthSpray+<Option2a>d__7	MoveNext
+155	Bergmann	Then you should go and help him!	Dans ce cas, courez donc à son secours !	DialogTalkToBergmannBeforeTruthSpray+<Option2a>d__7	MoveNext
+156	Bergmann	I'll stay here and keep watch!	Je reste ici pour faire le guet !	DialogTalkToBergmannBeforeTruthSpray+<Option2a>d__7	MoveNext
+627	Diana	What did you do to the train driver?	Qu'avez-vous fait au conducteur du train ?	DialogTalkToBergmannBeforeTruthSpray+<Option3>d__8	MoveNext
+157	Bergmann	Oh, they'll be fine.	Oh, il s'en remettra très bien.	DialogTalkToBergmannBeforeTruthSpray+<Option3>d__8	MoveNext
+158	Bergmann	I'm sure it's nothing more than a mild concussion.	Ce n'est rien de plus qu'une toute petite commotion cérébrale, sans gravité.	DialogTalkToBergmannBeforeTruthSpray+<Option3>d__8	MoveNext
+628	Diana	The train can't operate without a driver, Bergmann!	Le train ne peut pas rouler sans conducteur, Bergmann !	DialogTalkToBergmannBeforeTruthSpray+<Option3a>d__9	MoveNext
+159	Bergmann	Well, the Reuss Express seems to be operating just fine for now.	Eh bien, le Reuss Express semble très bien s'en sortir pour le moment.	DialogTalkToBergmannBeforeTruthSpray+<Option3a>d__9	MoveNext
+160	Bergmann	As long as I keep this fire roaring, we can go all night!	Tant que j'alimente ce brasier, nous pouvons rouler jusqu'au bout de la nuit !	DialogTalkToBergmannBeforeTruthSpray+<Option3a>d__9	MoveNext
+629	Diana	I've had enough of this conversation.	J'en ai assez entendu.	DialogTalkToBergmannBeforeTruthSpray+<Option4>d__10	MoveNext
+161	Bergmann	Can't talk now, I've got paper to burn!	Pas le temps de bavarder, j'ai de la paperasse à flamber !	DialogTalkToBergmannBeforeTruthSpray+<Option4>d__10	MoveNext
+1657	Arthur	What should we do?	Que devrions-nous faire ?	DialogTalkToDianaJailArthur+<Option1>d__3	MoveNext
+596	Diana	We'll need to be smart about this, and use everything we can to our advantage.	Il va falloir faire preuve d'astuce et tourner chaque élément à notre avantage.	DialogTalkToDianaJailArthur+<Option1>d__3	MoveNext
+597	Diana	I must admit, I don't have a lot to work with on my end.	Je dois avouer que je n'ai pas grand-chose sous la main de mon côté.	DialogTalkToDianaJailArthur+<Option1>d__3	MoveNext
+599	Diana	See if there's anything in our environment that could be of use!	Regardez si vous trouvez quoi que ce soit d'utile dans votre environnement !	DialogTalkToDianaJailArthur+<Option1a>d__4	MoveNext
+1659	Arthur	What's our escape plan?	Quel est notre plan d'évasion ?	DialogTalkToDianaJailArthur+<Option1b>d__5	MoveNext
+600	Diana	There's a chain near my cell, but I'll need an anklet key!	Il y a une chaîne près de ma cellule, mais il me faudrait la clé des fers !	DialogTalkToDianaJailArthur+<Option1b>d__5	MoveNext
+1660	Arthur	You know, I think I might have one!	Vous savez quoi, je crois bien que j'en ai une !	DialogTalkToDianaJailArthur+<Option1b>d__5	MoveNext
+1661	Arthur	I need you to cause a distraction!	J'ai besoin que vous fassiez diversion !	DialogTalkToDianaJailArthur+<Option1c>d__6	MoveNext
+601	Diana	Hmm, leave it with me.	Hmm, laissez-moi faire.	DialogTalkToDianaJailArthur+<Option1c>d__6	MoveNext
+602	Diana	I'll see what I can do.	Je vais voir ce que je peux faire.	DialogTalkToDianaJailArthur+<Option1c>d__6	MoveNext
+1662	Arthur	Do you think Jimmy will be okay?	Pensez-vous que Jimmy s'en remettra ?	DialogTalkToDianaJailArthur+<Option1d>d__7	MoveNext
+603	Diana	I'm sure it's just a concussion, he'll be back on his feet in no time.	Ce n'est qu'une commotion sans gravité, il sera sur pied en un rien de temps.	DialogTalkToDianaJailArthur+<Option1d>d__7	MoveNext
+604	Diana	We need to focus on our own issues right now!	Nous devons nous concentrer sur notre propre sort pour le moment !	DialogTalkToDianaJailArthur+<Option1d>d__7	MoveNext
+1663	Arthur	I don't suppose you have any spy tech that could break us out?	J'imagine que vous n'avez aucun gadget d'espionnage pour nous évader d'ici ?	DialogTalkToDianaJailArthur+<Option2>d__8	MoveNext
+605	Diana	I'm afraid not, unless you count Agent M!	Hélas non, à moins de compter l'Agent M !	DialogTalkToDianaJailArthur+<Option2>d__8	MoveNext
+606	Diana	Still, I managed to hold onto a few things before they were confiscated.	J'ai tout de même réussi à dissimuler quelques bricoles avant qu'on ne me fouille.	DialogTalkToDianaJailArthur+<Option2>d__8	MoveNext
+608	Diana	Perhaps I should have aborted the mission as soon as things went awry.	J'aurais sans doute dû avorter la mission dès que la situation a dégénéré.	DialogTalkToDianaJailArthur+<Option3>d__9	MoveNext
+1665	Arthur	I should get back to it.	Je devrais m'y remettre.	DialogTalkToDianaJailArthur+<Option4>d__10	MoveNext
+1358	Herman	There's some lady outside asking after you.	Il y a une dame dehors qui demande après vous.	DialogTalkToDianaJailHerman+<Option1>d__3	MoveNext
+645	Diana	April?! She's here?	April ?! Elle est ici ?	DialogTalkToDianaJailHerman+<Option1>d__3	MoveNext
+646	Diana	What did she say?	Qu'a-t-elle dit ?	DialogTalkToDianaJailHerman+<Option1>d__3	MoveNext
+1359	Herman	She wants to break us out of here.	Elle veut nous faire évader d'ici.	DialogTalkToDianaJailHerman+<Option1>d__3	MoveNext
+1360	Herman	Do you have anything that could bend these window bars?	Avez-vous de quoi tordre les barreaux de cette fenêtre ?	DialogTalkToDianaJailHerman+<Option1a>d__4	MoveNext
+647	Diana	There must be something around here, leave it with me!	Il doit bien y avoir quelque chose par ici, comptez sur moi !	DialogTalkToDianaJailHerman+<Option1a>d__4	MoveNext
+1361	Herman	Did you find anything that could bend these window bars?	Avez-vous trouvé de quoi tordre ces barreaux de fenêtre ?	DialogTalkToDianaJailHerman+<Option1b>d__5	MoveNext
+648	Diana	I found a metal chain, but it'd cause a scene if I tried to flush it.	J'ai trouvé une chaîne en métal, mais ça ferait un raffut du diable si j'essayais de l'évacuer par la cuvette.	DialogTalkToDianaJailHerman+<Option1b>d__5	MoveNext
+649	Diana	We'd need to deal with that pesky intern before I sent it your way.	Il faudrait d'abord neutraliser ce maudit stagiaire avant que je ne vous l'envoie.	DialogTalkToDianaJailHerman+<Option1b>d__5	MoveNext
+1362	Herman	Hmm, understood.	Hmm, bien compris.	DialogTalkToDianaJailHerman+<Option1b>d__5	MoveNext
+1363	Herman	The chain is stuck in the toilet!	La chaîne est coincée dans les toilettes !	DialogTalkToDianaJailHerman+<Option1c>d__6	MoveNext
+650	Diana	Suction! You'll need to form a seal over the bowl to create a vacuum!	L'aspiration ! Vous devez sceller la cuvette pour créer un appel d'air sous vide !	DialogTalkToDianaJailHerman+<Option1c>d__6	MoveNext
+1364	Herman	I'll see what I can do!	Je vais voir ce que je peux faire !	DialogTalkToDianaJailHerman+<Option1c>d__6	MoveNext
+1365	Herman	I managed to get the chain out of the toilet!	J'ai réussi à déloger la chaîne de la cuvette !	DialogTalkToDianaJailHerman+<Option1d>d__7	MoveNext
+651	Diana	Well, what are you waiting for! Wrap it around the bars, and perhaps we can get out of here!	Eh bien, qu'attendez-vous ! Enroulez-la autour des barreaux et nous pourrons enfin décamper !	DialogTalkToDianaJailHerman+<Option1d>d__7	MoveNext
+1366	Herman	Is there anything in your cell that might prove useful?	Y a-t-il quoi que ce soit d'utile dans votre cellule ?	DialogTalkToDianaJailHerman+<Option2>d__8	MoveNext
+652	Diana	I'll have a look around and see what I can find.	Je vais jeter un œil autour de moi pour voir.	DialogTalkToDianaJailHerman+<Option2>d__8	MoveNext
+1367	Herman	Is there anything in your cell that might prove useful?	Y a-t-il quoi que ce soit d'utile dans votre cellule ?	DialogTalkToDianaJailHerman+<Option2a>d__9	MoveNext
+653	Diana	There's a chain on the wall, but I'll need a key.	Il y a une chaîne fixée au mur, mais il me faut une clé.	DialogTalkToDianaJailHerman+<Option2a>d__9	MoveNext
+1368	Herman	Blast, I don't have one of those!	Misère, je n'ai pas ça sur moi !	DialogTalkToDianaJailHerman+<Option2a>d__9	MoveNext
+1369	Herman	Is there anything in your cell that might prove useful?	Y a-t-il quoi que ce soit d'utile dans votre cellule ?	DialogTalkToDianaJailHerman+<Option2b>d__10	MoveNext
+1370	Herman	Is there anything in your cell that might prove useful?	Y a-t-il quoi que ce soit d'utile dans votre cellule ?	DialogTalkToDianaJailHerman+<Option2c>d__11	MoveNext
+655	Diana	I'll have a look around and see what I can find.	Je vais jeter un œil autour de moi pour voir.	DialogTalkToDianaJailHerman+<Option2c>d__11	MoveNext
+1371	Herman	Did you find anything useful in your cell?	Avez-vous trouvé quelque chose d'utile dans votre cellule ?	DialogTalkToDianaJailHerman+<Option2d>d__12	MoveNext
+656	Diana	You should have everything you need in there!	Vous devriez avoir tout le nécessaire là-dedans !	DialogTalkToDianaJailHerman+<Option2d>d__12	MoveNext
+1372	Herman	What happened to Mr Liu?	Qu'est-il arrivé à M. Liu ?	DialogTalkToDianaJailHerman+<Option3>d__13	MoveNext
+657	Diana	I'm not sure, but it likely wasn't good.	Je l'ignore, mais ça ne devait pas être beau à voir.	DialogTalkToDianaJailHerman+<Option3>d__13	MoveNext
+658	Diana	Okay!	D'accord !	DialogTalkToDianaJailHerman+<Option4>d__14	MoveNext
+1102	Herman	Sorry, I think you have me confused with someone else.	Désolé, je crois que vous me confondez avec quelqu'un d'autre.	DialogTalkToDon+<Option1>d__1	MoveNext
+218	Don	You ain't fooling anyone by denying it. I heard you were on the scene, snooping around.	Tu ne trompes personne en niant. J'ai entendu dire que tu fouinais sur les lieux.	DialogTalkToDon+<Option1>d__1	MoveNext
+1103	Herman	I prefer the term ‘investigating'.	Je préfère le terme « enquêter ».	DialogTalkToDon+<Option1>d__1	MoveNext
+720	Herman	An intriguing deduction, what gave it away?	Déduction fascinante, qu'est-ce qui m'a trahi ?	DialogTalkToDon+<Option2>d__2	MoveNext
+127	Don	You've got that trademark air of superiority about you, I can practically smell it.	Tu te trimballes avec cet air hautain caractéristique, ça se sent à dix mètres.	DialogTalkToDon+<Option2>d__2	MoveNext
+1104	Herman	That's probably just my aftershave.	C'est sans doute juste mon eau de Cologne.	DialogTalkToDon+<Option2>d__2	MoveNext
+219	Don	What, they're bottling arrogance, now?	Quoi, ils mettent l'arrogance en bouteille maintenant ?	DialogTalkToDon+<Option2>d__2	MoveNext
+722	Herman	Perhaps, I'm not really at liberty to say.	Peut-être bien, je ne suis pas vraiment libre d'en parler.	DialogTalkToDon+<Option3>d__3	MoveNext
+220	Don	I had you clocked as soon as I saw the detective getup you're wearing.	Je t'avais repéré dès que j'ai vu ta panoplie de détective du dimanche.	DialogTalkToDon+<Option3>d__3	MoveNext
+221	Don	The fedora? That eccentric little moustache?	Le feutre mou ? Cette petite moustache extravagante ?	DialogTalkToDon+<Option3>d__3	MoveNext
+222	Don	Come on, you ain't fooling nobody.	Allez, tu ne trompes personne, mon pote.	DialogTalkToDon+<Option3>d__3	MoveNext
+724	Herman	'Tis I, Herman Merman, detective extraordinaire!	C'est bien moi, Herman Merman, détective hors pair !	DialogTalkToDon+<Option4>d__4	MoveNext
+223	Don	I can see you're very proud of that.	Je vois que tu en tires une immense fierté.	DialogTalkToDon+<Option4>d__4	MoveNext
+1106	Herman	Indeed I am!	Absolument, oui !	DialogTalkToDon+<Option4>d__4	MoveNext
+1119	Herman	It's for the green room, I need my name on that list!	C'est pour le salon des artistes, mon nom doit figurer sur cette liste !	DialogTalkToDonForgery+<Option1>d__1	MoveNext
+243	Don	That snot-nosed stage manager giving you trouble, aye?	Ce morveux de régisseur te mène la vie dure, hein ?	DialogTalkToDonForgery+<Option1>d__1	MoveNext
+244	Don	I'll get you backstage, but I need you to do us a favour first.	Je t'emmène en coulisses, mais il te faudra d'abord nous rendre un petit service.	DialogTalkToDonForgery+<Option1>d__1	MoveNext
+1120	Herman	Research purposes, for my latest crime novel!	Pour des recherches documentaires, pour mon prochain roman policier !	DialogTalkToDonForgery+<Option2>d__2	MoveNext
+245	Don	Sure it is, we can stick to that story if it makes you feel better.	Mais oui, bien sûr, tenons-nous-en à cette version si ça te chante.	DialogTalkToDonForgery+<Option2>d__2	MoveNext
+1121	Herman	I'd prefer not to divulge that information.	Je préfère ne pas divulguer cette information.	DialogTalkToDonForgery+<Option3>d__3	MoveNext
+246	Don	Playing it cautious, I get that. But I still need to know what it's for.	On la joue prudent, je pige. Mais j'ai quand même besoin de savoir à quoi ça sert.	DialogTalkToDonForgery+<Option3>d__3	MoveNext
+1122	Herman	On second thought, I've changed my mind.	À la réflexion, j'ai changé d'avis.	DialogTalkToDonForgery+<Option4>d__4	MoveNext
+247	Don	Alright, let me know when you reconsider.	Ça marche, fais-moi signe quand tu auras changé d'idée.	DialogTalkToDonForgery+<Option4>d__4	MoveNext
+1715	Arthur	We've been accused of murdering Lady Unterwald!	Nous sommes accusés d'avoir assassiné Lady Unterwald !	DialogTalkToDonJailCell+<Option1>d__2	MoveNext
+207	Don	Woah, that's ice-cold, pal. I really underestimated you!	Ouh là, c'est du brutal, mon pote. Je t'avais drôlement sous-estimé !	DialogTalkToDonJailCell+<Option1>d__2	MoveNext
+281	Don	You don't seem like the killing type.	Tu n'as pourtant pas le profil d'un tueur.	DialogTalkToDonJailCell+<Option1>d__2	MoveNext
+1616	Arthur	I might've derailed the Reuss Express.	J'ai peut-être fait dérailler le Reuss Express.	DialogTalkToDonJailCell+<Option2>d__3	MoveNext
+282	Don	Wait, are you telling me you did that?!	Attends, tu es en train de me dire que c'est ton œuvre ?!	DialogTalkToDonJailCell+<Option2>d__3	MoveNext
+283	Don	Alright, kid. You know, I'm impressed!	Pas mal, fiston. Franchement, je suis bluffé !	DialogTalkToDonJailCell+<Option2>d__3	MoveNext
+1617	Arthur	The casino accused me of cheating at roulette!	Le casino m'a accusé d'avoir triché à la roulette !	DialogTalkToDonJailCell+<Option3>d__4	MoveNext
+209	Don	Wait, what? That's crazy. You'd need like a whole scheme to pull something like that off!	Attends, quoi ? C'est insensé. Il faudrait toute une machination pour réussir un coup pareil !	DialogTalkToDonJailCell+<Option3>d__4	MoveNext
+1618	Arthur	I didn't do anything wrong, I'm innocent!	Je n'ai rien fait de mal, je suis innocent !	DialogTalkToDonJailCell+<Option4>d__5	MoveNext
+210	Don	That's it, pal! You should never confess to your crimes.	C'est bien, mon gars ! Il ne faut jamais passer aux aveux, règle numéro un.	DialogTalkToDonJailCell+<Option4>d__5	MoveNext
+1704	Arthur	How'd you end up here in jail?	Comment as-tu atterri ici en prison ?	DialogTalkToDonJailbreak+<Option1>d__3	MoveNext
+260	Don	I got jumped by those goons from the casino, they barged right into my room!	Je me suis fait agresser par ces brutes du casino, ils ont déboulé dans ma cabine !	DialogTalkToDonJailbreak+<Option1>d__3	MoveNext
+1705	Arthur	No, really?	Non, sans blague ?	DialogTalkToDonJailbreak+<Option1>d__3	MoveNext
+261	Don	They accused me of using counterfeit chips, can you believe that?	Ils m'ont accusé d'utiliser de faux jetons, tu te rends compte ?	DialogTalkToDonJailbreak+<Option1>d__3	MoveNext
+1706	Arthur	Huh.	Tiens donc.	DialogTalkToDonJailbreak+<Option1>d__3	MoveNext
+1707	Arthur	What happened between you and those casino enforcers?	Que s'est-il passé entre toi et les gorilles du casino ?	DialogTalkToDonJailbreak+<Option1a>d__4	MoveNext
+262	Don	Ehh, they were spouting off all sorts of theories. You wouldn't believe it!	Bof, ils déblatéraient des théories abracadabrantes. Tu n'y croirais pas !	DialogTalkToDonJailbreak+<Option1a>d__4	MoveNext
+263	Don	They just couldn't stand to see a guy like me on a winning streak!	Ils ne supportaient pas de voir un gars comme moi rafler la mise à chaque coup !	DialogTalkToDonJailbreak+<Option1a>d__4	MoveNext
+264	Don	Next thing I know, they're throwing punches, and I'm getting tied up!	Et la seconde d'après, les bourre-pifs volaient et je me retrouvais saucissonné !	DialogTalkToDonJailbreak+<Option1a>d__4	MoveNext
+1708	Arthur	Sounds like you took a beating!	On dirait que tu as pris une sacrée dérouillée !	DialogTalkToDonJailbreak+<Option1b>d__5	MoveNext
+265	Don	No don't get me wrong, kid. I put up a fair fight, y'know? But it was two against one!	Te méprends pas, fiston. J'ai riposté comme un chef ! Mais c'était du deux contre un !	DialogTalkToDonJailbreak+<Option1b>d__5	MoveNext
+266	Don	I'd like to see them go one-on-one with ol' Donny! Yeah, it would've been a very different story then!	J'aimerais bien les voir en duel à la loyale face au père Donny ! La musique n'aurait pas été la même !	DialogTalkToDonJailbreak+<Option1b>d__5	MoveNext
+1709	Arthur	So what happened next?	Et que s'est-il passé ensuite ?	DialogTalkToDonJailbreak+<Option1c>d__6	MoveNext
+267	Don	Some dame came in, a beauty like you wouldn't believe!	Une poupée est entrée, une vraie beauté comme tu n'en as jamais vue !	DialogTalkToDonJailbreak+<Option1c>d__6	MoveNext
+268	Don	I tried to convince her to let me loose, but she wasn't buying it.	J'ai bien essayé de l'amadouer pour qu'elle me détache, mais elle n'a rien voulu savoir.	DialogTalkToDonJailbreak+<Option1c>d__6	MoveNext
+1710	Arthur	Why didn't you escape when you had the chance?	Pourquoi ne t'es-tu pas fait la malle quand tu en avais l'occasion ?	DialogTalkToDonJailbreak+<Option2>d__7	MoveNext
+269	Don	Hey, you ever been punched in the ribs, kid? Yeah, I wasn't going anywhere fast!	Hé, tu t'es déjà pris un pain dans les côtes, toi ? Autant te dire que je n'allais pas courir un marathon !	DialogTalkToDonJailbreak+<Option2>d__7	MoveNext
+270	Don	I thought I'd hit the jackpot when the train came off the rails, even managed to land safely in some foliage!	J'ai cru toucher le pactole au déraillement, j'ai même atterri en douceur dans des buissons !	DialogTalkToDonJailbreak+<Option2>d__7	MoveNext
+271	Don	But as you can see, I didn't get very far!	Mais comme tu peux le constater, je ne suis pas allé bien loin !	DialogTalkToDonJailbreak+<Option2>d__7	MoveNext
+1711	Arthur	Do you have any ideas for how we can break out of here?	Tu as une idée de comment nous pourrions nous évader d'ici ?	DialogTalkToDonJailbreak+<Option3>d__8	MoveNext
+272	Don	Ah, plotting a jailbreak, eh? Well you can count ol' Donny in!	Ah, on mijote une petite évasion ? Tu peux compter sur le vieux Donny !	DialogTalkToDonJailbreak+<Option3>d__8	MoveNext
+273	Don	If I still had my magnetic ball, I may have been able to pull off some magic with my watch.	Si j'avais encore ma bille aimantée, j'aurais pu faire un tour de magie avec ma montre.	DialogTalkToDonJailbreak+<Option3>d__8	MoveNext
+274	Don	I'm pretty sure I lost it when those casino goons jumped me, though!	Mais je suis quasiment sûr de l'avoir perdue quand ces brutes du casino m'ont sauté dessus !	DialogTalkToDonJailbreak+<Option3>d__8	MoveNext
+1712	Arthur	I got the magnetic ball, now what?	J'ai la bille aimantée, et maintenant ?	DialogTalkToDonJailbreak+<Option3a>d__9	MoveNext
+275	Don	I'll need one of you to distract that bozo outside.	Il me faudra l'un de vous pour distraire ce nigaud dehors.	DialogTalkToDonJailbreak+<Option3a>d__9	MoveNext
+191	Don	Maybe you can make some noise to get his attention?	Peut-être pourriez-vous faire du boucan pour attirer son regard ?	DialogTalkToDonJailbreak+<Option3a>d__9	MoveNext
+1713	Arthur	What's our escape plan?	Quel est notre plan d'évasion ?	DialogTalkToDonJailbreak+<Option3b>d__10	MoveNext
+1714	Arthur	I've got some plotting to do!	J'ai un plan d'évasion à peaufiner !	DialogTalkToDonJailbreak+<Option4>d__11	MoveNext
+206	Don	Get to it, kid.	Au boulot, fiston.	DialogTalkToDonJailbreak+<Option4>d__11	MoveNext
+1130	Herman	If I do this favour, you promise to get me backstage?	Si je vous rends ce service, vous me promettez un accès aux coulisses ?	DialogTalkToDonMasson+<Option1>d__3	MoveNext
+248	Don	Oh, of course! We have a gentleman's agreement, after all.	Mais naturellement ! Nous avons un pacte de gentilshommes après tout.	DialogTalkToDonMasson+<Option1>d__3	MoveNext
+1131	Herman	Mmmh.	Mmmh.	DialogTalkToDonMasson+<Option1>d__3	MoveNext

@@ -1,0 +1,65 @@
+277	Herman	Just a little further...		RoomHermanRooftop+<OnEnterRoomAfterFadeActTwo>d__3	MoveNext
+278	Herman	Herman, you genius, is that the missing will?		RoomHermanRooftop+<OnEnterRoomAfterFadeActTwo>d__3	MoveNext
+279	Herman	If I can grab hold of it, we'll be one step closer to solving this thing!		RoomHermanRooftop+<OnEnterRoomAfterFadeActTwo>d__3	MoveNext
+58	Herman	Oh my god!		RoomHermanRooftop+<OnEnterRoomAfterFadeActTwo>d__3	MoveNext
+59	Herman	That sneaky little rat stole my keys!		RoomHermanRooftop+<OnEnterRoomAfterFadeActTwo>d__3	MoveNext
+61	Herman	Just wait until I get my hands on them!		RoomHermanRooftop+<OnEnterRoomAfterFadeActTwo>d__3	MoveNext
+0	PublisherFrank	Thank you, Herman, what an interesting pitch.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+14	PublisherThomas	And what a title!		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+0	PublisherFlorence	And we just think it's so brave of you to come here and pitch us another crime novel.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+1	PublisherFrank	Especially considering the current landscape.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+1076	Herman	Thank you! But what do you mean?		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+14	PublisherFrank	Well, there's no easy way to say this...		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+12	PublisherFlorence	The data indicates a sharp decline in your particular brand of fiction.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+18	PublisherThomas	We've also run into some problems with your branding deals.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+1077	Herman	Surely not the Herman Merman dolls? You assured me they'd be a hit!		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+23	PublisherFrank	I'm afraid so, Herman.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+1	PublisherThomas	We can't even give these away!		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+2	PublisherThomas	Stop that! I don't like it!		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+1078	Herman	Well, what do you suggest we do?		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+19	PublisherThomas	Not to worry.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+24	PublisherThomas	We're already prototyping an exciting line of Dirk Chiselton products!		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+17	PublisherFlorence	Ahem! This is just a prototype, of course.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+24	PublisherFrank	Very much still in the early development phase.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+1079	Herman	So that's it then, I've been replaced?		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+26	PublisherThomas	Nobody said you're being replaced, Herman.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+25	PublisherFrank	We're simply... How do we say this?		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+19	PublisherFlorence	Exploring new avenues!		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+33	PublisherFrank	Yes, that's it!		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+1080	Herman	I do feel you're making a big mistake here.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+1081	Herman	Herman Merman And The Suburban Burden is a goldmine!		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+36	PublisherFrank	I'm afraid it's ultimately out of our hands, Herman.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+37	PublisherFrank	But if you feel strongly about this idea, we could always petition the board.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+1082	Herman	The board?		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+35	Board	PITCH TO ME, IF YOU DARE!		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+4	Board	BEHOLD!		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+8	Board	I ALONE CONTROL THE MEANS OF PRODUCTION!		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+28	PublisherFlorence	Go ahead, Herman.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+30	PublisherThomas	Just place your manuscript into the slot, and we'll give the ol' algorithm a spin!		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+36	Board	DETERMINING MARKET VALUE.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+37	Board	UNAPPEALING PROTAGONIST.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+38	Board	MARGINS BELOW THRESHOLD.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+39	Board	UNSATISFACTORY TARGET DEMOGRAPHIC.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+40	Board	MANUSCRIPT DENIED.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+38	PublisherFrank	Ah. Well, there you have it!		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+32	PublisherThomas	We all really enjoyed your pitch, but the board doesn't seem to agree.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+38	PublisherFlorence	If you have anything else to pitch, we'd be glad to hear it, though!		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+41	Board	DON'T QUIT YOUR DAY JOB.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+1083	Herman	Wait, you want me to pitch something else?		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+39	PublisherFrank	You're a valued client, Herman!		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+40	PublisherFrank	Just let us know when you're ready.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoMeetThePublishers>d__21	MoveNext
+11	PublisherThomas	Alright, Herman, we can certainly check with you know who...		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoHidInWardrobe>d__22	MoveNext
+62	Board	AAAAARGHHHHH.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoHidInWardrobe>d__22	MoveNext
+12	PublisherThomas	Ah. I'm afraid they're quite insistent that you deliver.		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoHidInWardrobe>d__22	MoveNext
+10	PublisherFlorence	If there's anything we can do to help, just let us know!		RoomPublisherOffice+<OnEnterRoomAfterFadeActTwoHidInWardrobe>d__22	MoveNext
+71	Herman	Wait, where are my keys? Blast!		RoomSleeperCarriage+<OnInteractPropHermanDoorActTwo>d__82	MoveNext
+72	Herman	I'm locked out without my room keys.		RoomSleeperCarriage+<OnInteractPropHermanDoorActTwo>d__82	MoveNext
+73	Herman	Who knows what sinister plotting they're doing in there?		RoomSleeperCarriage+<OnInteractPropHermanDoorActTwo>d__82	MoveNext
+74	Herman	Oh nothing, darling.		RoomSleeperCarriage+<OnInteractPropHermanDoorActTwo>d__82	MoveNext
+191	Herman	Lady Unterwald, what is the meaning of this?		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActTwoUnterwaldHermanIntroduction>d__41	MoveNext
+192	Herman	Indeed?		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActTwoUnterwaldHermanIntroduction>d__41	MoveNext
+355	Herman	I assumed you required the services of a world-famous detective?		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActTwoUnterwaldHermanIntroduction>d__41	MoveNext
+195	Herman	I'll do it! Herman Merman never backs away from a case!		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActTwoUnterwaldHermanIntroduction>d__41	MoveNext
+197	Herman	You think Mr Liu has an ulterior motive?		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActTwoUnterwaldHermanIntroduction>d__41	MoveNext
+198	Herman	I'll certainly do my best, Lady Unterwald!		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActTwoUnterwaldHermanIntroduction>d__41	MoveNext
+199	Herman	Of course, Herman Merman won't let you down!		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActTwoUnterwaldHermanIntroduction>d__41	MoveNext

@@ -1,0 +1,69 @@
+﻿Id	Character	English	French	Class	Method
+1512	Herman	One of the other inmates has an item I need!	L'un des autres détenus a un objet dont j'ai besoin !	DialogHintLineChapterSix+<Option1>d__5	MoveNext
+307	Chiselton	There's likely something that connects your cells, take a look around.	Il y a sûrement un conduit reliant vos cellules, regardez bien autour de vous.	DialogHintLineChapterSix+<Option1>d__5	MoveNext
+1513	Herman	I need another hint about trading items.	J'ai besoin d'un autre indice sur le troc d'objets.	DialogHintLineChapterSix+<Option1a>d__6	MoveNext
+308	Chiselton	What about using the plumbing system? It's not ideal, but it'd probably work!	Et si vous passiez par la tuyauterie ? Ce n'est pas très ragoutant, mais ça marchera sûrement !	DialogHintLineChapterSix+<Option1a>d__6	MoveNext
+1514	Herman	I need another hint about trading items.	J'ai besoin d'un autre indice sur le troc d'objets.	DialogHintLineChapterSix+<Option1b>d__7	MoveNext
+309	Chiselton	You can send items to each other by flushing them through the plumbing system.	Vous pouvez vous faire passer des objets en tirant la chasse d'eau dans les canalisations.	DialogHintLineChapterSix+<Option1b>d__7	MoveNext
+1515	Herman	The water is flowing the wrong way, what gives?	L'eau coule dans le mauvais sens, pourquoi donc ?	DialogHintLineChapterSix+<Option2>d__8	MoveNext
+310	Chiselton	There should be a way to adjust the flow direction, do you see anything?	Il doit y avoir un moyen d'inverser le sens du courant, vous voyez quelque chose ?	DialogHintLineChapterSix+<Option2>d__8	MoveNext
+1516	Herman	I need another hint about trading items.	J'ai besoin d'un autre indice sur le troc d'objets.	DialogHintLineChapterSix+<Option2a>d__9	MoveNext
+311	Chiselton	I'll bet one of you has something that can reverse the flow direction.	Je parie que l'un de vous possède un moyen d'inverser le flux.	DialogHintLineChapterSix+<Option2a>d__9	MoveNext
+1517	Herman	I need another hint about trading items.	J'ai besoin d'un autre indice sur le troc d'objets.	DialogHintLineChapterSix+<Option2b>d__10	MoveNext
+312	Chiselton	Arthur can reverse the flow with that valve in his cell, give it a try!	Arthur peut inverser l'écoulement grâce à la vanne dans sa cellule, essayez voir !	DialogHintLineChapterSix+<Option2b>d__10	MoveNext
+1518	Herman	They confiscated our possessions, what now?	Ils ont confisqué nos affaires, que faire ?	DialogHintLineChapterSix+<Option3>d__11	MoveNext
+313	Chiselton	If you want those items back, you'll need to find out where they're stashed.	Si vous voulez récupérer vos biens, vous devez trouver où ils ont été planqués.	DialogHintLineChapterSix+<Option3>d__11	MoveNext
+1519	Herman	I need another hint about getting our stuff back.	J'ai besoin d'un autre indice pour récupérer nos affaires.	DialogHintLineChapterSix+<Option3a>d__12	MoveNext
+314	Chiselton	Those items are in a lockbox, does anyone have anything that would extend their reach?	Ces objets sont dans un coffret. Quelqu'un a-t-il de quoi rallonger sa portée ?	DialogHintLineChapterSix+<Option3a>d__12	MoveNext
+1520	Herman	I need another hint about getting our stuff back.	J'ai besoin d'un autre indice pour récupérer nos affaires.	DialogHintLineChapterSix+<Option3b>d__13	MoveNext
+315	Chiselton	Arthur's umbrella could extend their reach. I'd try and use that to open the lockbox.	Le parapluie d'Arthur pourrait lui servir de rallonge. J'essaierais de l'utiliser pour ouvrir le coffret.	DialogHintLineChapterSix+<Option3b>d__13	MoveNext
+1521	Herman	We need that magnetic ball, but it's just out of reach!	Nous avons besoin de cette bille aimantée, mais elle est hors de portée !	DialogHintLineChapterSix+<Option4>d__14	MoveNext
+316	Chiselton	I'm sure one of you has something that'd be attracted to it.	Je suis sûr que l'un de vous a quelque chose qui pourrait l'attirer.	DialogHintLineChapterSix+<Option4>d__14	MoveNext
+1522	Herman	I need another hint about the magnetic ball.	J'ai besoin d'un autre indice sur la bille aimantée.	DialogHintLineChapterSix+<Option4a>d__15	MoveNext
+317	Chiselton	It's a shiny object, it might even look valuable to some!	C'est un objet brillant, ça pourrait même passer pour un trésor aux yeux de certains !	DialogHintLineChapterSix+<Option4a>d__15	MoveNext
+1523	Herman	I need another hint about the magnetic ball.	J'ai besoin d'un autre indice sur la bille aimantée.	DialogHintLineChapterSix+<Option4b>d__16	MoveNext
+318	Chiselton	Isn't that mouse attracted to shiny objects? It could grab that ball for you.	Cette souris n'est-elle pas friande de babioles brillantes ? Elle pourrait aller la chercher pour vous.	DialogHintLineChapterSix+<Option4b>d__16	MoveNext
+1524	Herman	We've got the magnetic ball, now what?	On a la bille aimantée, quelle est la suite ?	DialogHintLineChapterSix+<Option5>d__17	MoveNext
+319	Chiselton	Perhaps it's time to reunite that ball with its original owner?	Il est peut-être temps de rendre cette bille à son légitime propriétaire ?	DialogHintLineChapterSix+<Option5>d__17	MoveNext
+1525	Herman	I need something to wrap around these bars.	J'ai besoin de quelque chose à enrouler autour de ces barreaux.	DialogHintLineChapterSix+<Option6>d__18	MoveNext
+320	Chiselton	Trying to create some leverage, aye? It'd need to be strong enough to take the pressure.	Vous cherchez à faire levier, hein ? Il faudra quelque chose d'assez résistant pour encaisser la tension.	DialogHintLineChapterSix+<Option6>d__18	MoveNext
+1526	Herman	I need another hint about the jail bars!	J'ai besoin d'un autre indice sur les barreaux de la cellule !	DialogHintLineChapterSix+<Option6a>d__19	MoveNext
+321	Chiselton	For the right leverage, you'll need something strong, but flexible.	Pour obtenir un bon bras de levier, il vous faut quelque chose de robuste, mais souple.	DialogHintLineChapterSix+<Option6a>d__19	MoveNext
+1527	Herman	I need another hint about the jail bars.	J'ai besoin d'un autre indice sur les barreaux.	DialogHintLineChapterSix+<Option6b>d__20	MoveNext
+322	Chiselton	Perhaps those metal chains would work?	Peut-être que ces chaînes métalliques feraient l'affaire ?	DialogHintLineChapterSix+<Option6b>d__20	MoveNext
+1528	Herman	Diana found a chain, but it's locked to itself.	Diana a trouvé une chaîne, mais elle est cadenassée sur elle-même.	DialogHintLineChapterSix+<Option7>d__21	MoveNext
+323	Chiselton	You're not getting that chain off the wall without a key!	Vous ne décrocherez pas cette chaîne du mur sans une clé !	DialogHintLineChapterSix+<Option7>d__21	MoveNext
+1529	Herman	I need another hint about unlocking the chain.	J'ai besoin d'un autre indice pour déverrouiller la chaîne.	DialogHintLineChapterSix+<Option7a>d__22	MoveNext
+324	Chiselton	Didn't one of you have a key for that kind of chain?	L'un de vous n'avait-il pas une clé pour ce modèle de chaîne ?	DialogHintLineChapterSix+<Option7a>d__22	MoveNext
+1530	Herman	I need another hint about unlocking the chain.	J'ai besoin d'un autre indice pour déverrouiller la chaîne.	DialogHintLineChapterSix+<Option7b>d__23	MoveNext
+325	Chiselton	Arthur found a key to escape his chains, he may still have it!	Arthur a trouvé une clé pour se libérer de ses fers, il l'a peut-être encore sur lui !	DialogHintLineChapterSix+<Option7b>d__23	MoveNext
+1531	Herman	We need to create a distraction, any ideas?	Nous devons faire diversion, une idée ?	DialogHintLineChapterSix+<Option8>d__24	MoveNext
+326	Chiselton	Perhaps you can make some noise?	Peut-être pourriez-vous faire du boucan ?	DialogHintLineChapterSix+<Option8>d__24	MoveNext
+1532	Herman	I need another hint about the distraction.	J'ai besoin d'un autre indice pour la diversion.	DialogHintLineChapterSix+<Option8a>d__25	MoveNext
+327	Chiselton	If you flushed something heavy, it'd probably make a loud enough noise!	Si vous évacuiez quelque chose de lourd par les toilettes, ça ferait un vacarme suffisant !	DialogHintLineChapterSix+<Option8a>d__25	MoveNext
+1533	Herman	I need another hint about the distraction.	J'ai besoin d'un autre indice pour la diversion.	DialogHintLineChapterSix+<Option8b>d__26	MoveNext
+328	Chiselton	Flushing those chains could cause quite the distraction. Give that a try!	Tirer la chasse sur ces chaînes ferait une diversion parfaite. Essayez donc !	DialogHintLineChapterSix+<Option8b>d__26	MoveNext
+1534	Herman	That chain is stuck in the toilet, any ideas?	La chaîne est coincée dans la cuvette, une idée ?	DialogHintLineChapterSix+<Option9>d__27	MoveNext
+329	Chiselton	You got anything on you that might create a vacuum?	Avez-vous sur vous de quoi faire ventouse ?	DialogHintLineChapterSix+<Option9>d__27	MoveNext
+1535	Herman	I need another hint about retrieving the chain.	J'ai besoin d'un autre indice pour récupérer la chaîne.	DialogHintLineChapterSix+<Option9a>d__28	MoveNext
+330	Chiselton	You'll need to provide suction, if only you had a plunger!	Il vous faut une aspiration digne de ce nom. Si seulement vous aviez une ventouse !	DialogHintLineChapterSix+<Option9a>d__28	MoveNext
+1536	Herman	I need another hint about retrieving the chain.	J'ai besoin d'un autre indice pour récupérer la chaîne.	DialogHintLineChapterSix+<Option9b>d__29	MoveNext
+331	Chiselton	Those boots still have suction cups on the bottom, right? You should be able to remove them.	Ces bottes ont toujours des ventouses dessous, non ? Vous devriez pouvoir les détacher.	DialogHintLineChapterSix+<Option9b>d__29	MoveNext
+1537	Herman	I need another hint about retrieving the chain.	J'ai besoin d'un autre indice pour récupérer la chaîne.	DialogHintLineChapterSix+<Option9c>d__30	MoveNext
+332	Chiselton	You could remove the suction cups with the letter opener!	Vous pourriez décoller les ventouses à l'aide de l'ouvre-lettres !	DialogHintLineChapterSix+<Option9c>d__30	MoveNext
+1538	Herman	I can't get any leverage with this suction cup.	Je n'ai aucune prise avec cette ventouse seule.	DialogHintLineChapterSix+<Option10>d__31	MoveNext
+333	Chiselton	You'd need a handle in order to get the right leverage.	Il vous faudrait un manche pour obtenir une vraie prise.	DialogHintLineChapterSix+<Option10>d__31	MoveNext
+1539	Herman	I need another hint about the suction cup.	J'ai besoin d'un autre indice sur la ventouse.	DialogHintLineChapterSix+<Option10a>d__32	MoveNext
+334	Chiselton	There must be something that could work as a make-shift handle?	Il y a sûrement un objet pouvant faire office de manche de fortune ?	DialogHintLineChapterSix+<Option10a>d__32	MoveNext
+1541	Herman	I need another hint about the suction cup.	J'ai besoin d'un autre indice sur la ventouse.	DialogHintLineChapterSix+<Option10b>d__33	MoveNext
+336	Chiselton	You could combine the pole with the suction cup to fashion a make-shift plunger!	Vous pourriez combiner la tringle avec la ventouse pour confectionner un déboucheur improvisé !	DialogHintLineChapterSix+<Option10b>d__33	MoveNext
+1542	Herman	I've retrieved the chains, what next?	J'ai repêché les chaînes, et maintenant ?	DialogHintLineChapterSix+<Option11>d__35	MoveNext
+337	Chiselton	I'd wrap those chains around those bars and make a break for freedom!	Enroulez ces chaînes autour des barreaux et faites route vers la liberté !	DialogHintLineChapterSix+<Option11>d__35	MoveNext
+1543	Herman	I'll take it from here, thanks.	Je prends le relais à partir d'ici, merci.	DialogHintLineChapterSix+<Option12>d__36	MoveNext
+37	Bailey	Are we sure any of them actually did it, Lamont?	Est-on vraiment certains que l'un d'eux est le meurtrier, Lamont ?	RoomInterrogation+<OnEnterRoomAfterFadeChapterSixJailbreak>d__50	MoveNext
+59	Lamont	There's a lot of string here, Bailey. Are you really going to argue with all this red string?	Il y a beaucoup de ficelle rouge ici, Bailey. Tu vas vraiment oser contredire toute cette ficelle rouge ?	RoomInterrogation+<OnEnterRoomAfterFadeChapterSixJailbreak>d__50	MoveNext
+60	Lamont	Besides, they freely admitted to multiple other crimes in their own testimonies!	Et puis, ils ont spontanément avoué de multiples autres crimes dans leurs propres dépositions !	RoomInterrogation+<OnEnterRoomAfterFadeChapterSixJailbreak>d__50	MoveNext
+38	Bailey	I suppose, we-	J'imagine, mais nous...	RoomInterrogation+<OnEnterRoomAfterFadeChapterSixJailbreak>d__50	MoveNext
+39	Bailey	What's that noise?	Quel est ce bruit ?	RoomInterrogation+<OnEnterRoomAfterFadeChapterSixJailbreak>d__50	MoveNext
+61	Lamont	No, they can't be...	Non, ça ne peut pas être...	RoomInterrogation+<OnEnterRoomAfterFadeChapterSixJailbreak>d__50	MoveNext
+62	Lamont	The prisoners!	Les prisonniers !	RoomInterrogation+<OnEnterRoomAfterFadeChapterSixJailbreak>d__50	MoveNext

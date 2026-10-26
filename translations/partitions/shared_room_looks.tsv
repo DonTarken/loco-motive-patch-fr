@@ -1,0 +1,301 @@
+﻿Id	Character	English	French	Class	Method
+733	Diana	I'm not sure if I'm furious or just feel sorry for the wretched man.		CharacterBergmann+<OnLookAt>d__51	MoveNext
+696	Arthur	He seems to be doing well.		CharacterDon+<OnLookAt>d__64	MoveNext
+697	Arthur	Too well.		CharacterDon+<OnLookAt>d__64	MoveNext
+698	Arthur	It looks like he's manipulating the outcome, somehow.		CharacterDon+<OnLookAt>d__64	MoveNext
+856	Arthur	It's a lump of coal!		InventoryCoal+<OnLookAtInventory>d__0	MoveNext
+1383	Arthur	I don't feel any different.		InventoryRosebud+<OnLookAtInventory>d__0	MoveNext
+321	Narrator/Unknown	Is someone there?		RoomCasinoCarriage+<OnLookAtPropCurtain>d__75	MoveNext
+761	Arthur	That's quite the handshake!		RoomCasinoCarriage+<OnLookAtPropHandshake>d__76	MoveNext
+1494	Arthur	It's too fast, I can't get a good look at it!		RoomCasinoCarriage+<OnLookAtPropHandshake>d__76	MoveNext
+1495	Arthur	I'll need to learn the handshake to get behind that curtain.		RoomCasinoCarriage+<OnLookAtPropHandshake>d__76	MoveNext
+473	Narrator/Unknown	It's the magnet I used to foil Don's scheme!		RoomCasinoCarriage+<OnLookAtPropMagnet>d__78	MoveNext
+1591	Arthur	It's an empty toilet bowl. What a relief!		RoomCell+<OnLookAtPropArthurToiletEmpty>d__111	MoveNext
+1676	Arthur	Nothing floating in there. Let's keep it that way.		RoomCell+<OnLookAtPropArthurToiletEmpty>d__111	MoveNext
+1677	Arthur	It's empty!		RoomCell+<OnLookAtPropArthurToiletEmpty>d__111	MoveNext
+1678	Arthur	Nothing in there.		RoomCell+<OnLookAtPropArthurToiletEmpty>d__111	MoveNext
+1592	Arthur	There's something in here!		RoomCell+<OnLookAtPropArthurToiletFull>d__112	MoveNext
+1679	Arthur	There's something floating in there!		RoomCell+<OnLookAtPropArthurToiletFull>d__112	MoveNext
+1680	Arthur	There's something in there. I should probably fish it out!		RoomCell+<OnLookAtPropArthurToiletFull>d__112	MoveNext
+271	Diana	It's an empty toilet bowl.		RoomCell+<OnLookAtPropDianaToiletEmpty>d__124	MoveNext
+278	Diana	They don't give you much privacy, do they?		RoomCell+<OnLookAtPropDianaToiletEmpty>d__124	MoveNext
+279	Diana	It actually looks rather clean.		RoomCell+<OnLookAtPropDianaToiletEmpty>d__124	MoveNext
+280	Diana	There's something in here already.		RoomCell+<OnLookAtPropDianaToiletFull>d__125	MoveNext
+281	Diana	There's an item floating in here. I should retrieve it, carefully.		RoomCell+<OnLookAtPropDianaToiletFull>d__125	MoveNext
+282	Diana	Hmm, there's something in here.		RoomCell+<OnLookAtPropDianaToiletFull>d__125	MoveNext
+324	Herman	Hmm. There's a set of chains stuck down there.		RoomCell+<OnLookAtPropHermanToiletFlushedChains>d__139	MoveNext
+712	Herman	It's mercifully empty.		RoomCell+<OnLookAtPropHermanToiletEmpty>d__140	MoveNext
+713	Herman	There's nothing in the bowl.		RoomCell+<OnLookAtPropHermanToiletEmpty>d__140	MoveNext
+729	Herman	The toilet is empty.		RoomCell+<OnLookAtPropHermanToiletEmpty>d__140	MoveNext
+730	Herman	Ah, what's this?		RoomCell+<OnLookAtPropHermanToiletFull>d__141	MoveNext
+732	Herman	Well, I'm not writing this part down.		RoomCell+<OnLookAtPropHermanToiletFull>d__141	MoveNext
+733	Herman	This doesn't seem very hygienic.		RoomCell+<OnLookAtPropHermanToiletFull>d__141	MoveNext
+734	Herman	In for a penny.		RoomCell+<OnLookAtPropHermanToiletFull>d__141	MoveNext
+740	Herman	Oh good, more toilet water.		RoomCell+<OnLookAtPropHermanToiletFull>d__141	MoveNext
+1594	Arthur	Yep, it's locked. It was worth a try!		RoomCell+<OnLookAtPropArthurCellDoor>d__147	MoveNext
+311	Diana	It's locked, unsurprisingly.		RoomCell+<OnLookAtPropDianaCellDoor>d__148	MoveNext
+775	Herman	Well, I'm not getting out that way.		RoomCell+<OnLookAtPropHermanCellDoor>d__149	MoveNext
+776	Herman	I guess I'm supposed to just sleep on the floor?		RoomCell+<OnLookAtPropHermanBed>d__150	MoveNext
+1688	Arthur	Hmm, they haven't cleaned these sheets in a while.		RoomCell+<OnLookAtPropArthurBed>d__151	MoveNext
+312	Diana	It's all rusted and broken.		RoomCell+<OnLookAtPropDianaBedFrame>d__152	MoveNext
+313	Diana	I'm definitely not sleeping here.		RoomCell+<OnLookAtPropDianaBed>d__153	MoveNext
+323	Diana	This place is falling apart!		RoomCell+<OnLookAtPropDianaPipe>d__155	MoveNext
+357	Diana	Those chains are secured to the wall.		RoomCellExterior+<OnLookAtPropChain>d__29	MoveNext
+358	Diana	I'll need a key to unfasten them.		RoomCellExterior+<OnLookAtPropChain>d__29	MoveNext
+1695	Arthur	It's so close, but just out of reach!		RoomCellExterior+<OnLookAtPropLockbox>d__38	MoveNext
+1517	Arthur	Hmm, it won't budge.		RoomDianaQuarters+<OnLookAtPropCloset>d__20	MoveNext
+217	Arthur	I don't understand any of this, but it looks expensive.		RoomDianaQuarters+<OnLookAtPropPanel>d__21	MoveNext
+1518	Arthur	What does this panel do?		RoomDianaQuarters+<OnLookAtPropPanel>d__21	MoveNext
+445	Diana	That's classified, I'm afraid. My lips are sealed.		RoomDianaQuarters+<OnLookAtPropPanel>d__21	MoveNext
+1519	Arthur	Aha! You don't know, do you?		RoomDianaQuarters+<OnLookAtPropPanel>d__21	MoveNext
+459	Diana	That's not relevant!		RoomDianaQuarters+<OnLookAtPropPanel>d__21	MoveNext
+460	Diana	Please don't touch that, Arthur.		RoomDianaQuarters+<OnLookAtPropRadioPanel1>d__22	MoveNext
+461	Diana	It's sensitive equipment.		RoomDianaQuarters+<OnLookAtPropRadioPanel1>d__22	MoveNext
+449	Arthur	Does this wire recorder have playback functionality?		RoomDianaQuarters+<OnLookAtPropMonitoringEquipment>d__25	MoveNext
+200	Diana	It does indeed.		RoomDianaQuarters+<OnLookAtPropMonitoringEquipment>d__25	MoveNext
+1520	Arthur	These low-hanging wires are a trip hazard, you know?		RoomDianaQuarters+<OnLookAtPropWires>d__26	MoveNext
+462	Diana	So I'd be careful if I was you.		RoomDianaQuarters+<OnLookAtPropWires>d__26	MoveNext
+1521	Arthur	I don't think Diana would let me take any more.		RoomDianaQuarters+<OnLookAtPropWireReels>d__27	MoveNext
+1522	Arthur	It's a confusing mix of knobs and dials.		RoomDianaQuarters+<OnLookAtPropEquipment>d__28	MoveNext
+463	Diana	Maybe to you, Arthur!		RoomDianaQuarters+<OnLookAtPropEquipment>d__28	MoveNext
+304	Arthur	Don didn't even finish his meal, what a waste!		RoomDiningCarriage+<OnLookAtPropDonMeal>d__50	MoveNext
+319	Arthur	I can make out the labels on a few of these bottles.		RoomDiningCarriage+<OnLookAtPropBottlesR>d__53	MoveNext
+320	Arthur	''Express Reserve''		RoomDiningCarriage+<OnLookAtPropBottlesR>d__53	MoveNext
+445	Arthur	''Diamond Line''		RoomDiningCarriage+<OnLookAtPropBottlesR>d__53	MoveNext
+446	Arthur	''Steam Whistle''		RoomDiningCarriage+<OnLookAtPropBottlesR>d__53	MoveNext
+447	Arthur	''Rail Baron''		RoomDiningCarriage+<OnLookAtPropBottlesR>d__53	MoveNext
+448	Arthur	''Pullmans''		RoomDiningCarriage+<OnLookAtPropBottlesR>d__53	MoveNext
+610	Herman	I'm not sure I'm used to this much natural light.		RoomDiningCarriage+<OnLookAtPropSunset>d__55	MoveNext
+611	Herman	My eyes are burning, but I just can't look away.		RoomDiningCarriage+<OnLookAtPropSunset>d__55	MoveNext
+617	Herman	I don't think my optometrist would approve.		RoomDiningCarriage+<OnLookAtPropSunset>d__55	MoveNext
+1003	Herman	I can make out the labels on a few of these bottles.		RoomDiningCarriage+<OnLookAtPropBottlesL>d__56	MoveNext
+1004	Herman	''Dead Heading''		RoomDiningCarriage+<OnLookAtPropBottlesL>d__56	MoveNext
+1005	Herman	''Embankment Ale''		RoomDiningCarriage+<OnLookAtPropBottlesL>d__56	MoveNext
+1006	Herman	''Brakeman's Choice''		RoomDiningCarriage+<OnLookAtPropBottlesL>d__56	MoveNext
+1007	Herman	''Ballast Blend''		RoomDiningCarriage+<OnLookAtPropBottlesL>d__56	MoveNext
+262	Arthur	It's the recording device that Donny was using to blackmail Bergmann!		RoomDonQuarters+<OnLookAtPropRecorder>d__92	MoveNext
+263	Arthur	It's a magnetised ball that Donny was using to cheat at Roulette!		RoomDonQuarters+<OnLookAtPropMagneticBall>d__93	MoveNext
+190	Arthur	I'll never fit in there!		RoomDonQuarters+<OnLookAtPropSuitcase>d__94	MoveNext
+191	Arthur	Everything's just been thrown in here!		RoomDonQuarters+<OnLookAtPropSuitcase>d__94	MoveNext
+197	Arthur	I'd like to see a mouse get through there now!		RoomDonQuarters+<OnLookAtPropCorkedMouseHole>d__95	MoveNext
+208	Arthur	I've cleared out Don's stash, this should be enough to foil his scheme.		RoomDonQuarters+<OnLookAtPropSecretPanel>d__96	MoveNext
+1037	Herman	How odd, there's a section here that looks like it's been altered.		RoomHandshakeClub+<OnLookAtPropPaintOver>d__32	MoveNext
+1038	Herman	So, Lady Unterwald originally held out a single finger in this painting.		RoomHandshakeClub+<OnLookAtPropOriginalGesture>d__41	MoveNext
+1039	Herman	I wonder why they'd paint over it?		RoomHandshakeClub+<OnLookAtPropOriginalGesture>d__41	MoveNext
+539	Arthur	It's so close, but just out of reach!		RoomHermanExterior+<OnLookAtPropWill>d__8	MoveNext
+219	Arthur	That might be our best bet, if we could only get out of these binds.		RoomHermanQuarters+<OnLookAtPropWindowArthur>d__62	MoveNext
+38	Diana	That could work, but these ropes need loosening first.		RoomHermanQuarters+<OnLookAtPropWindowDiana>d__63	MoveNext
+143	Hagen	Oh, no, no! That's off limits!		RoomHermanQuarters+<OnLookAtPropWindowDiana>d__63	MoveNext
+58	Diana	Bow ties and silly hats, not particularly useful.		RoomHermanQuarters+<OnLookAtPropLuggageDiana>d__64	MoveNext
+59	Diana	I don't think we have time to pore over paperwork.		RoomHermanQuarters+<OnLookAtPropManuscriptsDiana>d__65	MoveNext
+175	Diana	Hello, cutie! What are you doing here?		RoomInlandRevenueHQ+<OnLookAtPropMouse>d__41	MoveNext
+12	PhilatelyStamp	Ah, I see you've met Agent M? She was to be your partner.		RoomInlandRevenueHQ+<OnLookAtPropMouse>d__41	MoveNext
+176	Diana	Wait, THIS is Agent M? You told me she was a field agent!		RoomInlandRevenueHQ+<OnLookAtPropMouse>d__41	MoveNext
+13	PhilatelyStamp	No, I believe I said she's from a field.		RoomInlandRevenueHQ+<OnLookAtPropMouse>d__41	MoveNext
+202	Diana	Canisters are loaded here, before being dispatched across the headquarters.		RoomInlandRevenueHQ+<OnLookAtPropPneumaticDoor>d__43	MoveNext
+144	Diana	These levers seem to control where the items are dispatched.		RoomInlandRevenueHQ+<OnLookAtPropPneumaticStation>d__44	MoveNext
+208	Diana	Yup, it still smells like fuel. Now, how do I go about retrieving it?		RoomInlandRevenueHQ+<OnLookAtPropFiller>d__46	MoveNext
+155	Diana	It's all fuelled up, but I still need to get that wiring fixed.		RoomInlandRevenueHQ+<OnLookAtPropMotorbike>d__49	MoveNext
+156	Diana	I've rewired the bike, but it's still out of fuel.		RoomInlandRevenueHQ+<OnLookAtPropMotorbike>d__49	MoveNext
+157	Diana	Damn, no wonder they left it here. Bike's all out of fuel, and the wiring has seen better days.		RoomInlandRevenueHQ+<OnLookAtPropMotorbike>d__49	MoveNext
+158	Diana	I'll need to refuel it, and get that wiring fixed if we're going to ride it out here.		RoomInlandRevenueHQ+<OnLookAtPropMotorbike>d__49	MoveNext
+159	Diana	I've rewired the bike and topped up the fuel. We should be ready to go!		RoomInlandRevenueHQ+<OnLookAtPropMotorbike>d__49	MoveNext
+167	Diana	This rubber tubing must've held windscreen washer fluid at some point.		RoomInlandRevenueHQ+<OnLookAtPropRubberTubingBeforeSiphonedFuel>d__56	MoveNext
+298	Diana	With the hose attached, I can syphon fuel into the canister!		RoomInlandRevenueHQ+<OnLookAtPropRubberTubingBeforeSiphonedFuel>d__56	MoveNext
+209	Diana	I must have syphoned the last of it.		RoomInlandRevenueHQ+<OnLookAtPropRubberTubingAfterSiphonedFuel>d__57	MoveNext
+265	Diana	Is that a wire kit? That looks like it could be useful.		RoomInlandRevenueHQ+<OnLookAtPropWiringKitFirstTime>d__59	MoveNext
+0	Quartermaster	Ah, that'll be the official field agent wiring kit.		RoomInlandRevenueHQ+<OnLookAtPropWiringKitFirstTime>d__59	MoveNext
+266	Diana	Sounds perfect, I'll take one!		RoomInlandRevenueHQ+<OnLookAtPropWiringKitFirstTime>d__59	MoveNext
+22	Quartermaster	Are you heading out on a mission?		RoomInlandRevenueHQ+<OnLookAtPropWiringKitFirstTime>d__59	MoveNext
+272	Diana	Well, my mission was postponed... indefinitely.		RoomInlandRevenueHQ+<OnLookAtPropWiringKitFirstTime>d__59	MoveNext
+23	Quartermaster	Mm-hmm. I can't give it to you then, sorry.		RoomInlandRevenueHQ+<OnLookAtPropWiringKitFirstTime>d__59	MoveNext
+361	Diana	Could I please have one of those wiring kits?		RoomInlandRevenueHQ+<OnLookAtPropWiringKitBeforeAgentM>d__60	MoveNext
+24	Quartermaster	I wish I could help, really!		RoomInlandRevenueHQ+<OnLookAtPropWiringKitBeforeAgentM>d__60	MoveNext
+362	Diana	Ugh!		RoomInlandRevenueHQ+<OnLookAtPropWiringKitBeforeAgentM>d__60	MoveNext
+464	Diana	They must be used to dispatch items across the headquarters.		RoomInlandRevenueHQ+<OnLookAtPropPipes>d__64	MoveNext
+677	Diana	Red tape got in the way, yet again.		RoomInlandRevenueHQ+<OnLookAtPropMissionBoard>d__65	MoveNext
+678	Diana	No, I can do this. I'm not one to give up that easily!		RoomInlandRevenueHQ+<OnLookAtPropDoor>d__66	MoveNext
+679	Diana	It's so unfair, field agents always get the coolest gadgets!		RoomInlandRevenueHQ+<OnLookAtPropEngineBlock>d__67	MoveNext
+680	Diana	I'm too late, it's already been cleaned out.		RoomInlandRevenueHQ+<OnLookAtPropToolCabinet>d__68	MoveNext
+681	Diana	Let's see what we're working with here.		RoomInlandRevenueHQ+<OnLookAtPropCar>d__69	MoveNext
+684	Diana	Henchmen-grade stun guns? Sign me up!		RoomInlandRevenueHQ+<OnLookAtPropRubbishPile>d__70	MoveNext
+685	Diana	Oh, of course, the boxes are all empty.		RoomInlandRevenueHQ+<OnLookAtPropRubbishPile>d__70	MoveNext
+686	Diana	It's an empty deck of ''Cheater's Choice'' playing cards.		RoomInlandRevenueHQ+<OnLookAtPropRubbishPile>d__70	MoveNext
+687	Diana	There's blood on the box.		RoomInlandRevenueHQ+<OnLookAtPropRubbishPile>d__70	MoveNext
+688	Diana	As expected, it's more rubbish.		RoomInlandRevenueHQ+<OnLookAtPropRubbishPile>d__70	MoveNext
+689	Diana	It's premium mouse feed.		RoomInlandRevenueHQ+<OnLookAtPropFoodPacket>d__71	MoveNext
+690	Diana	Huh. It kind of looks like muesli.		RoomInlandRevenueHQ+<OnLookAtPropFoodPacket>d__71	MoveNext
+691	Diana	“Agent M - Experiment Results”		RoomInlandRevenueHQ+<OnLookAtPropNotes>d__72	MoveNext
+692	Diana	“Subject demonstrated unusual attraction to shiny objects”		RoomInlandRevenueHQ+<OnLookAtPropNotes>d__72	MoveNext
+693	Diana	“Subject demonstrated a predictable fondness for cheese.”		RoomInlandRevenueHQ+<OnLookAtPropNotes>d__72	MoveNext
+694	Diana	“Subject attempted to bite examiner when stolen goods were removed from cage.”		RoomInlandRevenueHQ+<OnLookAtPropNotes>d__72	MoveNext
+695	Diana	There's nothing in there that I can use.		RoomInlandRevenueHQ+<OnLookAtPropToolbox>d__73	MoveNext
+696	Diana	It looks fairly robust. You wouldn't want to get hit in the head with this.		RoomInlandRevenueHQ+<OnLookAtPropToolbox>d__73	MoveNext
+525	Arthur	I've plugged the mouse burrow.		RoomKitchenCarriage+<OnLookAtPropCorkedMouseHole>d__105	MoveNext
+526	Arthur	This is top of the range stuff.		RoomKitchenCarriage+<OnLookAtPropStove>d__106	MoveNext
+229	Herman	I guess those oysters won't be shucked any time soon.		RoomKitchenCarriage+<OnLookAtPropOysterBag>d__116	MoveNext
+230	Herman	A sack of oysters, ready for shucking.		RoomKitchenCarriage+<OnLookAtPropOysterBag>d__116	MoveNext
+1074	Herman	The canister routes gas to the stove, but it seems empty.		RoomKitchenCarriage+<OnLookAtPropGasCanister>d__119	MoveNext
+328	Herman	It’s the entrance to the pantry. It seems to be locked shut for now.		RoomKitchenCarriage+<OnLookAtPropPantryClosed>d__139	MoveNext
+1499	Arthur	It's a harsh reminder of where Lady Unterwald fell.		RoomLoungeCarriage+<OnLookAtPropBlood>d__81	MoveNext
+655	Arthur	I can't quite explain why Lady Unterwald burst like a Piñata. Perhaps the reality of the situation proved too overwhelming.		RoomLoungeCarriage+<OnLookAtPropConfetti>d__82	MoveNext
+712	Arthur	That's a hefty looking ear trumpet!		RoomLoungeCarriage+<OnLookAtPropHearingHorn>d__83	MoveNext
+482	Diana	This painting looks worthy of closer inspection.		RoomMansionInterior+<OnLookAtPropStudyPainting>d__68	MoveNext
+483	Diana	Aha! The last will and testament must be stored inside this safe!		RoomMansionInterior+<OnLookAtPropStudyPainting>d__68	MoveNext
+707	Diana	Lady Unterwald must have used this to send small items between rooms.		RoomMansionInterior+<OnLookAtPropStudyPneumaticTubeEmpty>d__70	MoveNext
+484	Diana	The light is blinking, there must be a package ready to request.		RoomMansionInterior+<OnLookAtPropStudyPneumaticTubeFull>d__71	MoveNext
+720	Diana	What mansion would be complete without a set of swords adorning the walls?		RoomMansionInterior+<OnLookAtPropStudySwords>d__79	MoveNext
+721	Diana	Lord Unterwald must have taken this as a souvenir.		RoomMansionInterior+<OnLookAtPropStudyBullMask>d__80	MoveNext
+722	Diana	This piece deserved more than languishing in this dusty study, what a pity.		RoomMansionInterior+<OnLookAtPropStudyFuneraryMask>d__81	MoveNext
+723	Diana	I wonder who made this, before it found its way into Lord Unterwald's possession.		RoomMansionInterior+<OnLookAtPropStudyMask>d__82	MoveNext
+724	Diana	They're souvenirs from Lord Unterwald's extensive travels.		RoomMansionInterior+<OnLookAtPropStudyMasks>d__83	MoveNext
+725	Diana	Lord Unterwald had an extensive collection of travel guides.		RoomMansionInterior+<OnLookAtPropStudyBooks>d__84	MoveNext
+726	Diana	It's a weathered cigar box, adorned with intricate carvings.		RoomMansionInterior+<OnLookAtPropStudyCigarBox>d__85	MoveNext
+727	Diana	It's an itinerary for a global expedition spanning multiple countries.		RoomMansionInterior+<OnLookAtPropStudyMap>d__86	MoveNext
+728	Diana	I wonder if Lord Unterwald completed his trip.		RoomMansionInterior+<OnLookAtPropStudyMap>d__86	MoveNext
+729	Diana	It details Lord Unterwald embarking on one of his many expeditions.		RoomMansionInterior+<OnLookAtPropStudyExpeditionPainting>d__87	MoveNext
+730	Diana	This scenic oil painting captures the beauty of some distant mountain range.		RoomMansionInterior+<OnLookAtPropStudyScenicPainting>d__88	MoveNext
+1716	Arthur	I think this was used to send up Lady Unterwald's meals from the kitchen.		RoomMansionInterior+<OnLookAtPropLibraryPneumaticTubeEmptyFirstOccurrence>d__90	MoveNext
+1717	Arthur	I can use this to transport items to Diana and Herman!		RoomMansionInterior+<OnLookAtPropLibraryPneumaticTubeEmpty>d__91	MoveNext
+1718	Arthur	That flashing light means there's an item in the system.		RoomMansionInterior+<OnLookAtPropLibraryPneumaticTubeFull>d__92	MoveNext
+1733	Arthur	I'd love to have a play with this, but it looks delicate and expensive.		RoomMansionInterior+<OnLookAtPropLibraryTelescope>d__100	MoveNext
+1734	Arthur	I've always wanted one of these, but filled with stationery!		RoomMansionInterior+<OnLookAtPropLibraryDrinksGlobe>d__101	MoveNext
+1735	Arthur	It's quite cosy!		RoomMansionInterior+<OnLookAtPropLibraryFireplace>d__102	MoveNext
+1736	Arthur	I feel the bear wouldn't have approved.		RoomMansionInterior+<OnLookAtPropLibraryRug>d__103	MoveNext
+1737	Arthur	I believe it's a painting of Lord Unterwald.		RoomMansionInterior+<OnLookAtPropLibraryLargePainting>d__104	MoveNext
+1738	Arthur	The rumour goes that he just mysteriously vanished one day.		RoomMansionInterior+<OnLookAtPropLibraryLargePainting>d__104	MoveNext
+1739	Arthur	Lady Unterwald didn't like to talk about it.		RoomMansionInterior+<OnLookAtPropLibraryLargePainting>d__104	MoveNext
+1740	Arthur	Huh. It's a painting of Hagen as a child.		RoomMansionInterior+<OnLookAtPropLibrarySmallPainting>d__105	MoveNext
+1741	Arthur	Maybe he really was the favourite!		RoomMansionInterior+<OnLookAtPropLibrarySmallPainting>d__105	MoveNext
+1742	Arthur	It's an oil study of the mansion grounds.		RoomMansionInterior+<OnLookAtPropLibraryOilPainting>d__106	MoveNext
+1743	Arthur	It's Lady Unterwald on the first train she ever had commissioned!		RoomMansionInterior+<OnLookAtPropLibraryLadyPainting>d__107	MoveNext
+1744	Arthur	It's a painting of an old man. There's a certain sadness in his eyes.		RoomMansionInterior+<OnLookAtPropLibrarySadPainting>d__108	MoveNext
+1745	Arthur	Lord and Lady Unterwald were certainly a formidable duo.		RoomMansionInterior+<OnLookAtPropLibraryMediumPainting>d__109	MoveNext
+1746	Arthur	It's a newspaper clipping of an article about The Reuss Express.		RoomMansionInterior+<OnLookAtPropLibraryNewspaperClipping>d__110	MoveNext
+1747	Arthur	''The Unterwald empire has unveiled the world's first steam turbine locomotive, promising to transform the landscape of railway transportation.''		RoomMansionInterior+<OnLookAtPropLibraryNewspaperClipping>d__110	MoveNext
+1748	Arthur	Hey, it's about Lord Unterwald!		RoomMansionInterior+<OnLookAtPropLibraryNewspaperExcerpt>d__111	MoveNext
+1749	Arthur	''The esteemed nobleman has returned from his successful voyage around the world with tales of riches that verge on the farcical.''		RoomMansionInterior+<OnLookAtPropLibraryNewspaperExcerpt>d__111	MoveNext
+1750	Arthur	Hey, I think one of Herman's novels is in here!		RoomMansionInterior+<OnLookAtPropLibraryBooksL>d__112	MoveNext
+1751	Arthur	A few of these are dedicated to mansion upkeep.		RoomMansionInterior+<OnLookAtPropLibraryBooksL>d__112	MoveNext
+1752	Arthur	Hmm, Lady Unterwald owns all the classics.		RoomMansionInterior+<OnLookAtPropLibraryBooksL>d__112	MoveNext
+1753	Arthur	I see a few worn looking history books. These could be artefacts in their own right.		RoomMansionInterior+<OnLookAtPropLibraryBooksR>d__113	MoveNext
+1754	Arthur	These look rare and expensive, I probably shouldn't touch them.		RoomMansionInterior+<OnLookAtPropLibraryBooksR>d__113	MoveNext
+1755	Arthur	I wonder how many of these have been read?		RoomMansionInterior+<OnLookAtPropLibraryBooksR>d__113	MoveNext
+1756	Arthur	Aw, it's a set of horse head statues!		RoomMansionInterior+<OnLookAtPropLibraryBookends>d__114	MoveNext
+1757	Arthur	'Three Long Years - The Riches Brothers''		RoomMansionInterior+<OnLookAtPropLibraryGramophoneRecord>d__115	MoveNext
+1758	Arthur	''Huey Blues & His Orchestra''		RoomMansionInterior+<OnLookAtPropLibraryGramophoneRecord>d__115	MoveNext
+1759	Arthur	''Balboa Swing: The Jazziest Hits''		RoomMansionInterior+<OnLookAtPropLibraryGramophoneRecord>d__115	MoveNext
+1760	Arthur	''Before You've Gone - Bill Vacation''		RoomMansionInterior+<OnLookAtPropLibraryGramophoneRecord>d__115	MoveNext
+1357	Arthur	That's Lady Unterwald's voice!		RoomMansionInterior+<OnLookAtPropLibraryGramophoneBeforeUsedRecord>d__118	MoveNext
+1356	Arthur	It was reassuring to hear Lady Unterwald again.		RoomMansionInterior+<OnLookAtPropLibraryGramophoneBeforeUsedRecord>d__118	MoveNext
+1353	Arthur	I wonder what music Lady Unterwald liked to listen to.		RoomMansionInterior+<OnLookAtPropLibraryGramophoneBeforeUsedRecord>d__118	MoveNext
+489	Diana	It's a safe with a combination wheel lock.		RoomMansionInterior+<OnLookAtPropStudyBigSafe>d__129	MoveNext
+490	Diana	If I can listen to the mechanism, I should be able to crack it!		RoomMansionInterior+<OnLookAtPropStudyBigSafe>d__129	MoveNext
+498	Diana	It's a smaller safe, with another two locking mechanisms.		RoomMansionInterior+<OnLookAtPropStudySafe>d__132	MoveNext
+923	Herman	Let's see if the doctor had anything on his person.		RoomMansionInterior+<OnLookAtPropBasementBody>d__148	MoveNext
+924	Herman	The only thing he had was this weird syringe.		RoomMansionInterior+<OnLookAtPropBasementBody>d__148	MoveNext
+342	Herman	There's a very faint heartbeat, could the doctor still be alive?		RoomMansionInterior+<OnLookAtPropBasementBody>d__148	MoveNext
+925	Herman	The only thing he had on him was that weird syringe.		RoomMansionInterior+<OnLookAtPropBasementBody>d__148	MoveNext
+830	Herman	It seems Lord Unterwald was keeping a record of his astronomy observations.		RoomMansionInterior+<OnLookAtPropBasementNotebook>d__153	MoveNext
+831	Herman	I wonder if the estate would let me have one of these.		RoomMansionInterior+<OnLookAtPropBasementFrames>d__154	MoveNext
+281	Hirsch	I think that will depend on who's running things!		RoomMansionInterior+<OnLookAtPropBasementFrames>d__154	MoveNext
+832	Herman	This has been down here a while, it's covered in a fine layer of dust.		RoomMansionInterior+<OnLookAtPropBasementCoveredStatue>d__155	MoveNext
+282	Hirsch	Don't think I've seen that one before. It must have been down here a while.		RoomMansionInterior+<OnLookAtPropBasementCoveredStatue>d__155	MoveNext
+833	Herman	I wonder where my next adventure will take me?		RoomMansionInterior+<OnLookAtPropBasementGlobe>d__156	MoveNext
+867	Herman	Hopefully somewhere with a warmer climate.		RoomMansionInterior+<OnLookAtPropBasementGlobe>d__156	MoveNext
+283	Hirsch	Already planning your next epic? Oh, I can hardly wait!		RoomMansionInterior+<OnLookAtPropBasementGlobe>d__156	MoveNext
+869	Herman	Good for stargazing, but mostly used for spying.		RoomMansionInterior+<OnLookAtPropBasementTelescope>d__157	MoveNext
+870	Herman	There's some dusty old hunting books here.		RoomMansionInterior+<OnLookAtPropBasementBooks>d__158	MoveNext
+284	Hirsch	Lady Unterwald had them moved down here after her husband's disappearance.		RoomMansionInterior+<OnLookAtPropBasementBooks>d__158	MoveNext
+946	Herman	It's full of silver cutlery, this must be worth a small fortune!		RoomMansionInterior+<OnLookAtPropBasementBox>d__159	MoveNext
+286	Hirsch	Ah, the guest dinnerware! That hasn't been used in a while.		RoomMansionInterior+<OnLookAtPropBasementBox>d__159	MoveNext
+1073	Herman	I suppose it wouldn't be a creepy murder basement without a shallow grave.		RoomMansionInterior+<OnLookAtPropBasementGrave>d__160	MoveNext
+293	Hirsch	I hope it isn't intended for me!		RoomMansionInterior+<OnLookAtPropBasementGrave>d__160	MoveNext
+1390	Herman	Is that a skull?		RoomMansionInterior+<OnLookAtPropBasementPoisonBarrels>d__161	MoveNext
+1391	Herman	Well, that doesn't bode well.		RoomMansionInterior+<OnLookAtPropBasementPoisonBarrels>d__161	MoveNext
+534	Herman	It's fairly warm, but I'd like it to be warmer.		RoomMansionInterior+<OnLookAtPropBasementBoilerBeforeOvertime>d__165	MoveNext
+1392	Herman	Ah, that's better!		RoomMansionInterior+<OnLookAtPropBasementBoilerReachedOvertime>d__166	MoveNext
+1393	Herman	It's a delivery system, I'd imagine it links to the other rooms in the house.		RoomMansionInterior+<OnLookAtPropBasementPneumaticTubeEmptyFirstOccurrence>d__174	MoveNext
+1394	Herman	I can send items to Arthur and Diana with this.		RoomMansionInterior+<OnLookAtPropBasementPneumaticTubeEmpty>d__175	MoveNext
+1395	Herman	Ah, there's a package ready to be requested.		RoomMansionInterior+<OnLookAtPropBasementPneumaticTubeFull>d__176	MoveNext
+830	Arthur	The rope is connected to the chandelier hoist.		RoomMansionLobby+<OnLookAtPropRope>d__48	MoveNext
+902	Herman	It's keeping the chandelier attached to the ceiling.		RoomMansionLobby+<OnLookAtPropRope>d__48	MoveNext
+395	Diana	That rope helps suspend the chandelier from the ceiling.		RoomMansionLobby+<OnLookAtPropRope>d__48	MoveNext
+945	Herman	Lady Unterwald must have disapproved of this likeness.		RoomMansionStatue+<OnLookAtPropStatue>d__10	MoveNext
+285	Hirsch	I remember that was a particularly wrinkly piece.		RoomMansionStatue+<OnLookAtPropStatue>d__10	MoveNext
+1293	Arthur	It's a big wheel of Parmesan!		RoomPantry+<OnLookAtPropCheese>d__12	MoveNext
+1294	Arthur	That's a dozen eggs.		RoomPantry+<OnLookAtPropEggs>d__13	MoveNext
+1295	Arthur	It's a huge sack of flour.		RoomPantry+<OnLookAtPropFlour>d__14	MoveNext
+1296	Arthur	Those are some beautiful baguettes.		RoomPantry+<OnLookAtPropBaguettes>d__15	MoveNext
+1297	Arthur	There's a tantalising selection of fruit compotes, jellies and relishes.		RoomPantry+<OnLookAtPropPreserves>d__16	MoveNext
+1298	Arthur	It seems like we're well stocked on pickles.		RoomPantry+<OnLookAtPropPickleJars>d__17	MoveNext
+1299	Arthur	I'll bet you could put a lot of meat in there!		RoomPantry+<OnLookAtPropFreezer>d__18	MoveNext
+292	Herman	The boxes seem to be filled with popcorn.		RoomPublisherOffice+<OnLookAtPropPopcorn>d__53	MoveNext
+65	PublisherThomas	It's a great loose-fill packaging material, you know!		RoomPublisherOffice+<OnLookAtPropPopcorn>d__53	MoveNext
+48	PublisherFlorence	It's also the cheapest thing we could find.		RoomPublisherOffice+<OnLookAtPropPopcorn>d__53	MoveNext
+331	Herman	It's a pile of recalled Herman Merman merchandise.		RoomPublisherOffice+<OnLookAtPropMerch>d__55	MoveNext
+66	PublisherThomas	Closer to a towering stack, if you ask me!		RoomPublisherOffice+<OnLookAtPropMerch>d__55	MoveNext
+49	PublisherFlorence	I was thinking it's more of a monument to rejection.		RoomPublisherOffice+<OnLookAtPropMerch>d__55	MoveNext
+332	Herman	Thanks for the input.		RoomPublisherOffice+<OnLookAtPropMerch>d__55	MoveNext
+334	Herman	I have a great deal of sympathy for the pigeon.		RoomPublisherOffice+<OnLookAtPropPigeon>d__56	MoveNext
+335	Herman	Misunderstood, not particularly popular, considered a nuisance more than anything.		RoomPublisherOffice+<OnLookAtPropPigeon>d__56	MoveNext
+50	PublisherFlorence	You know, a lot of our focus testing said the same thing about you, Herman.		RoomPublisherOffice+<OnLookAtPropPigeon>d__56	MoveNext
+336	Herman	This board is the only thing standing between me and my next published work!		RoomPublisherOffice+<OnLookAtPropWheelBeforeSabotagedMachine>d__58	MoveNext
+337	Herman	I'll need to disable it, somehow.		RoomPublisherOffice+<OnLookAtPropWheelBeforeSabotagedMachine>d__58	MoveNext
+338	Herman	Looks like you'll be out of commission for a while.		RoomPublisherOffice+<OnLookAtPropWheelAfterSabotagedMachine>d__59	MoveNext
+65	Board	GRAAAAAGHHH!		RoomPublisherOffice+<OnLookAtPropWheelAfterSabotagedMachine>d__59	MoveNext
+339	Herman	It's a handy slot for receiving manuscripts.		RoomPublisherOffice+<OnLookAtPropSlot>d__60	MoveNext
+340	Herman	The paste has hardened and completely filled the inside.		RoomPublisherOffice+<OnLookAtPropBlockage>d__61	MoveNext
+341	Herman	I don't think it'll be taking any more manuscripts.		RoomPublisherOffice+<OnLookAtPropBlockage>d__61	MoveNext
+349	Herman	It certainly looks refreshing.		RoomPublisherOffice+<OnLookAtPropWaterCooler>d__62	MoveNext
+28	PublisherFrank	We infuse the water with a hint of lemon, you know!		RoomPublisherOffice+<OnLookAtPropWaterCooler>d__62	MoveNext
+367	Herman	I'm assuming this doubles as the ‘Out' tray.		RoomPublisherOffice+<OnLookAtPropRubbish>d__63	MoveNext
+393	Herman	There's a rejected manuscript in here already.		RoomPublisherOffice+<OnLookAtPropRubbish>d__63	MoveNext
+419	Herman	I don't need to call anyone right now.		RoomPublisherOffice+<OnLookAtPropTelephone>d__64	MoveNext
+455	Herman	I see a letter opener, and a mini stapler.		RoomPublisherOffice+<OnLookAtPropStationeryKit>d__65	MoveNext
+457	Herman	What does he have that I haven't got?		RoomPublisherOffice+<OnLookAtPropBillboard>d__66	MoveNext
+67	PublisherThomas	An adoring fanbase?		RoomPublisherOffice+<OnLookAtPropBillboard>d__66	MoveNext
+62	PublisherFrank	Critical acclaim?		RoomPublisherOffice+<OnLookAtPropBillboard>d__66	MoveNext
+51	PublisherFlorence	Upper body strength?		RoomPublisherOffice+<OnLookAtPropBillboard>d__66	MoveNext
+458	Herman	One crank of that lever and the board will spring into action.		RoomPublisherOffice+<OnLookAtPropLever>d__69	MoveNext
+462	Herman	Another typically overcast day in London.		RoomPublisherOffice+<OnLookAtPropCityscape>d__70	MoveNext
+396	Herman	Eugh.		RoomPublisherOffice+<OnLookAtPropAshtray>d__78	MoveNext
+333	Herman	These boxes likely contain manuscripts from my peers.		RoomPublisherOffice+<OnLookAtPropBox>d__80	MoveNext
+350	Arthur	Those goons really did a number on Don's door.		RoomSleeperCarriage+<OnLookAtPropBrokenDoor>d__49	MoveNext
+133	Herman	The lock on this panel looks quite flimsy.		RoomSleeperCarriage+<OnLookAtPropFusebox>d__155	MoveNext
+709	Arthur	I don't want it back after little mouse paws have been all over it.		RoomStorageRoom+<OnLookAtPropCheese>d__28	MoveNext
+1041	Herman	Perhaps now is not a good time to confront my nyctophobia.		RoomStorageRoom+<OnLookAtPropDarkness>d__31	MoveNext
+1610	Arthur	I might be in trouble here!		RoomTrainFront+<OnLookAtPropDamage>d__19	MoveNext
+1611	Arthur	I was hoping those shots were blanks!		RoomTrainFront+<OnLookAtPropDamage>d__19	MoveNext
+1612	Arthur	I don't think the train is insured for battle damage!		RoomTrainFront+<OnLookAtPropDamage>d__19	MoveNext
+1613	Arthur	At least I'm getting some fresh air!		RoomTrainFront+<OnLookAtPropScenery>d__20	MoveNext
+178	JianLiu	Ugh, your optimism is nauseating!		RoomTrainFront+<OnLookAtPropScenery>d__20	MoveNext
+697	Diana	I really don't think you should be burning these!		RoomTrainFront+<OnLookAtPropPapersBeforeBergmannDefeated>d__29	MoveNext
+102	Bergmann	Don't look in there! T-They're not important!		RoomTrainFront+<OnLookAtPropPapersBeforeBergmannDefeated>d__29	MoveNext
+698	Diana	I think I managed to salvage some of them.		RoomTrainFront+<OnLookAtPropPapersAfterBergmannDefeated>d__30	MoveNext
+1614	Arthur	I hope Diana is having better luck than me.		RoomTrainFront+<OnLookAtPropEngineRoom>d__31	MoveNext
+699	Diana	I think this controls the whistle.		RoomTrainFront+<OnLookAtPropWhistleCord>d__32	MoveNext
+700	Diana	It's a mess of levers, and nothing is marked!		RoomTrainFront+<OnLookAtPropLevers>d__33	MoveNext
+701	Diana	This looks like a pressure gauge?		RoomTrainFront+<OnLookAtPropInstruments>d__34	MoveNext
+702	Diana	I wasn't trained for this!		RoomTrainFront+<OnLookAtPropInstruments>d__34	MoveNext
+703	Diana	I'm not sure what these do.		RoomTrainFront+<OnLookAtPropDials>d__35	MoveNext
+704	Diana	I hope Arthur is alright back there.		RoomTrainFront+<OnLookAtPropWindow>d__36	MoveNext
+705	Diana	Those papers really went up in flames!		RoomTrainFront+<OnLookAtPropAshes>d__37	MoveNext
+606	Arthur	That's odd, has this been moved recently?		RoomUnterwaldCarriage+<OnLookAtPropRug>d__65	MoveNext
+208	Hirsch	The rug? I don't believe so.		RoomUnterwaldCarriage+<OnLookAtPropRug>d__65	MoveNext
+467	Arthur	It wasn't like Lady Unterwald to leave things out of place.		RoomUnterwaldCarriage+<OnLookAtPropRug>d__65	MoveNext
+1055	Arthur	Aha, a hidden hatch.		RoomUnterwaldCarriage+<OnLookAtPropRug>d__65	MoveNext
+210	Hirsch	Careful, Arthur. We don't know what we're dealing with here.		RoomUnterwaldCarriage+<OnLookAtPropRug>d__65	MoveNext
+646	Arthur	A hidden safe!		RoomUnterwaldCarriage+<OnLookAtPropRug>d__65	MoveNext
+211	Hirsch	Why would Lady Unterwald need to hide something like this?		RoomUnterwaldCarriage+<OnLookAtPropRug>d__65	MoveNext
+474	Arthur	In hindsight, Lady Unterwald was right to have trust issues.		RoomUnterwaldCarriage+<OnLookAtPropRug>d__65	MoveNext
+212	Hirsch	The safe could hold the answers we're looking for, Arthur.		RoomUnterwaldCarriage+<OnLookAtPropRug>d__65	MoveNext
+647	Arthur	Hmm. But how do we get inside?		RoomUnterwaldCarriage+<OnLookAtPropRug>d__65	MoveNext
+1505	Arthur	The safe has two locking mechanisms.		RoomUnterwaldCarriage+<OnLookAtPropSafe>d__66	MoveNext
+508	Arthur	Sorry I ruined the portrait, Lady Unterwald.		RoomUnterwaldCarriage+<OnLookAtPropPaintingProp>d__67	MoveNext
+509	Arthur	It all happened so fast.		RoomUnterwaldCarriage+<OnLookAtPropPaintingProp>d__67	MoveNext
+103	LadyUnterwald	If only you were as fast at opening windows, dear.		RoomUnterwaldCarriage+<OnLookAtPropPaintingProp>d__67	MoveNext
+510	Arthur	I've never been painted before. It all happened so fast.		RoomUnterwaldCarriage+<OnLookAtPropPaintingProp>d__67	MoveNext
+1050	Herman	There's something in his hand, but it's clenched too tight!		RoomUnterwaldLiuHand+<OnLookAtPropHand>d__10	MoveNext
+595	Arthur	This looks like a listening device. Could this lock be voice activated?		RoomUnterwaldSafeLocks+<OnLookAtPropListeningDevice>d__52	MoveNext
+1506	Arthur	Looks like I'll need to input a six-digit number.		RoomUnterwaldSafeLocks+<OnLookAtPropCombinationLock>d__54	MoveNext

@@ -1,0 +1,85 @@
+Id	Character	English	French	Class	Method
+221	Diana	Morning, Sir!		CharacterPhilatelyStamp+<OnInteractChapterFive>d__1	MoveNext
+68	PhilatelyStamp	Diana.		CharacterPhilatelyStamp+<OnInteractChapterFive>d__1	MoveNext
+754	Diana	I need to refuel the motorbike, any ideas?		DialogHintLineChapterFive+<Option1>d__5	MoveNext
+276	Chiselton	Have another look around, there's probably something you haven't spotted.		DialogHintLineChapterFive+<Option1>d__5	MoveNext
+756	Diana	I need another hint about refuelling the bike.		DialogHintLineChapterFive+<Option1a>d__6	MoveNext
+277	Chiselton	You might be able to find a container for storing fuel nearby.		DialogHintLineChapterFive+<Option1a>d__6	MoveNext
+278	Chiselton	There's an empty fuel canister near the pneumatic station, I'd start there.		DialogHintLineChapterFive+<Option1b>d__7	MoveNext
+757	Diana	I've got the fuel canister, but it's empty. What now?		DialogHintLineChapterFive+<Option2>d__8	MoveNext
+279	Chiselton	Well, you'll need to get fuel from somewhere.		DialogHintLineChapterFive+<Option2>d__8	MoveNext
+758	Diana	I need another hint about refuelling the bike.		DialogHintLineChapterFive+<Option2a>d__9	MoveNext
+280	Chiselton	You should inspect the other vehicles, see if there's any fuel left over.		DialogHintLineChapterFive+<Option2a>d__9	MoveNext
+759	Diana	That rubber tubing looks useful, but it's stuck.		DialogHintLineChapterFive+<Option3>d__10	MoveNext
+281	Chiselton	You might be able to remove it, with the right tool.		DialogHintLineChapterFive+<Option3>d__10	MoveNext
+760	Diana	I need another hint about the rubber tubing.		DialogHintLineChapterFive+<Option3a>d__11	MoveNext
+282	Chiselton	You'll need something sharp to cut that tubing out.		DialogHintLineChapterFive+<Option3a>d__11	MoveNext
+283	Chiselton	That wiring kit looks sharp, have you asked the quartermaster about it?		DialogHintLineChapterFive+<Option3b>d__12	MoveNext
+762	Diana	The quartermaster won't let me have the wiring kit, what now?		DialogHintLineChapterFive+<Option4>d__13	MoveNext
+284	Chiselton	That might be a dead end, she's not going to bend the rules. What else can you see?		DialogHintLineChapterFive+<Option4>d__13	MoveNext
+763	Diana	I need another hint, what should I do?		DialogHintLineChapterFive+<Option4a>d__14	MoveNext
+285	Chiselton	If the quartermaster won't give you that item, maybe you can take it!		DialogHintLineChapterFive+<Option4a>d__14	MoveNext
+764	Diana	I need another hint, what should I do?		DialogHintLineChapterFive+<Option4b>d__15	MoveNext
+286	Chiselton	There's a cage on that desk, have you had a peek inside yet?		DialogHintLineChapterFive+<Option4b>d__15	MoveNext
+765	Diana	I've located Agent M, she's a miniature thief!		DialogHintLineChapterFive+<Option5>d__16	MoveNext
+287	Chiselton	A thief might come in handy! What else can you find?		DialogHintLineChapterFive+<Option5>d__16	MoveNext
+766	Diana	I need another hint, what should I do?		DialogHintLineChapterFive+<Option5a>d__17	MoveNext
+288	Chiselton	With the right equipment, I'm sure you can get Agent M to help you.		DialogHintLineChapterFive+<Option5a>d__17	MoveNext
+767	Diana	I need another hint, what should I do?		DialogHintLineChapterFive+<Option5b>d__18	MoveNext
+289	Chiselton	There's a pile of discarded pneumatic containers, why not take one?		DialogHintLineChapterFive+<Option5b>d__18	MoveNext
+768	Diana	What should I do with this pneumatic container?		DialogHintLineChapterFive+<Option6>d__19	MoveNext
+290	Chiselton	You can put something in there and send it to the quartermaster's booth!		DialogHintLineChapterFive+<Option6>d__19	MoveNext
+769	Diana	I need another hint about the pneumatic container.		DialogHintLineChapterFive+<Option6a>d__20	MoveNext
+291	Chiselton	You'll want to send something to that booth, but what?		DialogHintLineChapterFive+<Option6a>d__20	MoveNext
+770	Diana	I need another hint about the pneumatic container.		DialogHintLineChapterFive+<Option6b>d__21	MoveNext
+292	Chiselton	You can send Agent M through the pipes directly to that quartermaster's booth!		DialogHintLineChapterFive+<Option6b>d__21	MoveNext
+771	Diana	Do you know how the pneumatic station works?		DialogHintLineChapterFive+<Option7>d__22	MoveNext
+293	Chiselton	Those levers should control where the package ends up, try different combinations and see where it goes.		DialogHintLineChapterFive+<Option7>d__22	MoveNext
+772	Diana	I need another hint about the pneumatic station.		DialogHintLineChapterFive+<Option7a>d__23	MoveNext
+294	Chiselton	Have a closer look at the pipes, can you see a pattern?		DialogHintLineChapterFive+<Option7a>d__23	MoveNext
+773	Diana	I need another hint about the pneumatic station.		DialogHintLineChapterFive+<Option7b>d__24	MoveNext
+295	Chiselton	The levers and pipes have symbols on them, match those symbols and you're all set!		DialogHintLineChapterFive+<Option7b>d__24	MoveNext
+774	Diana	I've got the wiring kit, what should I do now?		DialogHintLineChapterFive+<Option8>d__25	MoveNext
+296	Chiselton	I'd be careful with that, it looks pretty sharp, useful for slicing through stuff though.		DialogHintLineChapterFive+<Option8>d__25	MoveNext
+775	Diana	I need another hint about the wiring kit.		DialogHintLineChapterFive+<Option8a>d__26	MoveNext
+297	Chiselton	You can use the wiring kit to snip off the rubber tubing in the car.		DialogHintLineChapterFive+<Option8a>d__26	MoveNext
+776	Diana	I've got the rubber tubing, what should I do now?		DialogHintLineChapterFive+<Option9>d__27	MoveNext
+298	Chiselton	That rubber tubing should help you refuel!		DialogHintLineChapterFive+<Option9>d__27	MoveNext
+299	Chiselton	With the right equipment, you could use that tube to help syphon fuel.		DialogHintLineChapterFive+<Option9a>d__28	MoveNext
+300	Chiselton	If you combine that rubber tubing with the fuel canister, I bet you could make an effective syphoning tool.		DialogHintLineChapterFive+<Option9b>d__29	MoveNext
+779	Diana	I've made the syphon kit, what's next?		DialogHintLineChapterFive+<Option10>d__30	MoveNext
+301	Chiselton	That other vehicle might have some leftover fuel.		DialogHintLineChapterFive+<Option10>d__30	MoveNext
+780	Diana	I need another hint about syphoning the fuel.		DialogHintLineChapterFive+<Option10a>d__31	MoveNext
+302	Chiselton	You should try to syphon the fuel from that vehicle.		DialogHintLineChapterFive+<Option10a>d__31	MoveNext
+781	Diana	I need another hint about syphoning fuel.		DialogHintLineChapterFive+<Option10b>d__32	MoveNext
+303	Chiselton	That vehicle might have some fuel left over, try syphoning it out of the fuel inlet.		DialogHintLineChapterFive+<Option10b>d__32	MoveNext
+782	Diana	I need to fix the faulty wiring on the motorbike.		DialogHintLineChapterFive+<Option11>d__33	MoveNext
+304	Chiselton	You've got a wiring kit, don't you? Try using that.		DialogHintLineChapterFive+<Option11>d__33	MoveNext
+783	Diana	The bike is fixed, what should I do now?		DialogHintLineChapterFive+<Option12>d__34	MoveNext
+305	Chiselton	Nothing left to do but ride out of there in style!		DialogHintLineChapterFive+<Option12>d__34	MoveNext
+306	Chiselton	Good luck on your mission, agent!		DialogHintLineChapterFive+<Option12>d__34	MoveNext
+784	Diana	Well, I'm not officially an a-		DialogHintLineChapterFive+<Option12>d__34	MoveNext
+785	Diana	Oh, he's gone.		DialogHintLineChapterFive+<Option12>d__34	MoveNext
+786	Diana	I've got it from here, thanks.		DialogHintLineChapterFive+<Option13>d__35	MoveNext
+22	Lamont	Look, lady. We just want to know the truth. Can't you just tell us what happened?		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+0	Diana	I'd love to tell you, officer, but I'm afraid it's all classified.		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+1	Diana	Top secret. My lips are sealed.		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+23	Lamont	*Groan*		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+24	Lamont	Bailey, we've been at this for days... I'm not sure if I have it in me any more.		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+17	Bailey	Diana, please. We're all just looking to wrap this up.		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+25	Lamont	Was it money? Vengeance? A burning hatred for the elderly?		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+2	Diana	The tragic death of Lady Unterwald wasn't my doing, in fact it made my mission terribly complicated.		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+26	Lamont	Mission? What mission?		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+18	Bailey	We found you at the scene, Diana. But you weren't on the manifest.		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+19	Bailey	There's no record of you ever boarding the train.		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+3	Diana	Probably just a clerical error. I'm sure it happens all the time.		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+27	Lamont	It's highly suspicious, you have to admit.		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+20	Bailey	This is the sort of detail that could be very compelling to a jury.		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+5	Diana	Fine, I can tell you aren't going to stop asking. But it won't do you any good, you know!		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+21	Bailey	Start at the beginning.		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+28	Lamont	Alright, so that explains how you got on the train. What happened next?		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveFlashback>d__49	MoveNext
+6	Diana	I believe you're well aware of what happened next, detective.		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveFlashback>d__49	MoveNext
+29	Lamont	Indulge us.		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveFlashback>d__49	MoveNext
+7	Diana	*Sigh*		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveFlashback>d__49	MoveNext
+8	Diana	Well, it all got a bit complicated.		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveFlashback>d__49	MoveNext
+45	Diana	I stuck to my orders, and made contact with the informant. Or so I thought...		RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveFlashback>d__49	MoveNext

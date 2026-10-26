@@ -1,0 +1,464 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Text;
+
+class BuildSdB1 {
+    static void Main() {
+        var map = new Dictionary<string, string>();
+
+        // DialogAristaConfessionArthur
+        map["I'll handle this."] = "Je m'en charge.";
+        map["Do you have anything to confess, Arista?"] = "Avez-vous quelque chose à avouer, Arista ?";
+        map["I have nothing to confess, no!"] = "Je n'ai absolument rien à avouer, non !";
+        map["Go back to your cells, where you belong!"] = "Retournez dans vos cellules, c'est là votre vraie place !";
+        map["Come on, you don't want to confess just a little bit?"] = "Allons, vous ne voulez pas confesser ne serait-ce qu'un tout petit quelque chose ?";
+        map["NO! And you should all be behind bars!"] = "NON ! Et vous devriez tous croupir sous les verrous !";
+        map["Come on Arista, confess already!"] = "Allez Arista, passez aux aveux enfin !";
+        map["Why did you try to frame us for murder?"] = "Pourquoi avoir tenté de nous faire porter le chapeau pour ce meurtre ?";
+        map["How dare you come here and accuse me of framing anyone!"] = "Comment osez-vous venir m'accuser d'avoir piégé qui que ce soit !";
+        map["I won't be lectured by a bunch of train destroying fugitives!"] = "Je refuse de recevoir des leçons d'une bande de fugitifs démolisseurs de train !";
+        map["Bergmann mishandled the estate's finances, isn't that right?"] = "Bergmann a tripoté les comptes du domaine, n'est-ce pas ?";
+        map["I say! T-there's no evidence for that, you know!"] = "Pardon ?! I-il n'y a aucune preuve de cela, je vous ferais dire !";
+        map["That would be hard to prove, Arthur!"] = "Ce serait difficile à prouver, Arthur !";
+        map["All those records burned up in that little derailment of yours."] = "Toutes ces archives ont brûlé dans votre charmant petit déraillement.";
+        map["You tried to sell and Lady Unterwald caught onto your scheme, didn't she?"] = "Vous avez voulu vendre et Lady Unterwald a découvert votre combine, pas vrai ?";
+        map["No, that's not true!"] = "Non, c'est faux !";
+        map["Lady Unterwald was leaving you nothing, and you couldn't stand it!"] = "Lady Unterwald ne vous laissait rien, et vous ne pouviez pas le supporter !";
+        map["My d-dear sister would do no such thing!"] = "Ma ch-chère sœur n'aurait jamais fait une chose pareille !";
+        map["You were parading around a phoney document, a forgery!"] = "Vous vous pavaniez avec un document bidon, un faux grossier !";
+        map["Lady Unterwald cut you out of her will, so you killed her!"] = "Lady Unterwald vous a déshéritée de son testament, alors vous l'avez tuée !";
+        map["NO! NO! NO!"] = "NON ! NON ! NON !";
+        map["Did anyone else feel that?"] = "Est-ce que quelqu'un d'autre a senti cette secousse ?";
+        map["You're really testing my patience now!"] = "Vous poussez ma patience à bout, là !";
+        map["Do you even need that hearing horn, Arista?"] = "Avez-vous seulement besoin de ce cornet acoustique, Arista ?";
+        map["Of course I need it!"] = "Bien sûr que j'en ai besoin !";
+        map["I'm a defenceless old lady, who's only crime is being hard of hearing!"] = "Je suis une vieille dame sans défense dont le seul crime est d'être dure de la feuille !";
+        map["You can't help but make baseless accusations, can you?"] = "Vous ne pouvez pas vous empêcher de lancer des accusations sans fondement, n'est-ce pas ?";
+        map["How could you manipulate your own sons into doing your dirty work?"] = "Comment avez-vous pu manipuler vos propres fils pour faire votre sale besogne ?";
+        map["My poor, incompetent boys?"] = "Mes pauvres garçons incompétents ?";
+        map["Come now! They're far too stupid to have criminal intent!"] = "Allons donc ! Ils sont bien trop bêtes pour avoir une quelconque intention criminelle !";
+
+        // DialogAristaConfessionDiana
+        map["You answer to me, now."] = "C'est à moi que vous répondez, maintenant.";
+        map["Inland Revenue will go through the estate with a fine-tooth comb!"] = "Le fisc va passer tout le domaine au peigne fin !";
+        map["Is that right?"] = "Vraiment ?";
+        map["Well, any responsibility will fall to Jian here, just as soon as he signs."] = "Eh bien, toute la responsabilité incombera à notre cher Jian, dès qu'il aura signé.";
+        map["Mmhh! Mmhh!"] = "Mmhh ! Mmhh !";
+        map["You helped to build the Reuss Express, is that correct?"] = "Vous avez aidé à construire le Reuss Express, c'est exact ?";
+        map["That's right, I designed her with my own two hands."] = "Exactement, je l'ai conçue de mes propres mains.";
+        map["The Reuss Express could have been the future of rail transportation!"] = "Le Reuss Express aurait pu être l'avenir du transport ferroviaire !";
+        map["Thanks to you, it's a smouldering wreck!"] = "Et grâce à vous, ce n'est plus qu'une épave fumante !";
+        map["And yet you were willing to throw away your future for a payout?"] = "Et pourtant, vous étiez prête à brader votre avenir pour un simple chèque ?";
+        map["Jian Liu had no intention of using your technology, he just wanted to remove his competition."] = "Jian Liu n'avait aucune intention d'utiliser votre technologie, il voulait juste éliminer un rival.";
+        map["I admire your idealism, but that's business, dear."] = "J'admire votre idéalisme, mais ce sont les affaires, ma chère.";
+        map["That's hardly a crime, it's just capitalism."] = "Ce n'est guère un crime, c'est juste le capitalisme.";
+        map["Lady Unterwald would have never allowed that to happen!"] = "Lady Unterwald n'aurait jamais permis une chose pareille !";
+        map["My dear sister didn't have the stomach to run an empire."] = "Ma chère sœur n'avait pas les tripes pour diriger un empire.";
+        map["Sometimes you have to make the difficult choices, she never understood that!"] = "Il faut parfois faire des choix impitoyables, elle n'a jamais su comprendre cela !";
+        map["You were tired of living in your sister's shadow, weren't you?"] = "Vous en aviez assez de vivre dans l'ombre de votre sœur, pas vrai ?";
+        map["S-Stop it! Stop this at once!"] = "A-Arrêtez ! Cessez immédiatement !";
+        map["It's not true!"] = "Ce n'est pas vrai !";
+        map["Just admit it. You schemed to take her legacy and her life!"] = "Avouez-le. Vous avez comploté pour vous emparer de son héritage et de sa vie !";
+        map["Huh, I felt the ground shake beneath my feet."] = "Tiens, j'ai senti le sol trembler sous mes pieds.";
+        map["Were you and Mr Liu working together on this?"] = "Monsieur Liu et vous étiez-vous de mèche là-dessus ?";
+        map["I don't know what you're talking about!"] = "Je ne vois absolument pas de quoi vous voulez parler !";
+        map["Just look at him, hasn't poor Jian suffered enough?"] = "Regardez-le un peu, ce pauvre Jian n'a-t-il pas assez souffert ?";
+        map["Mmmphf!"] = "Mmmphf !";
+        map["You were aware of Jian's attempts to inform on Lady Unterwald?"] = "Vous étiez au courant des tentatives de Jian de dénoncer Lady Unterwald ?";
+        map["Jian has been nothing but loyal, I only wish my dear sister could have seen that."] = "Jian s'est montré d'une loyauté exemplaire, j'aurais tant voulu que ma chère sœur s'en rende compte.";
+        map["He's even volunteered to take the estate off our hands for a very generous price."] = "Il s'est même proposé de nous racheter le domaine pour une somme tout à fait généreuse.";
+        map["Mmmff!!"] = "Mmmff !!";
+        map["Don't worry, Jian, our agreement is but a signature away!"] = "Ne t'en fais pas, Jian, notre accord ne tient plus qu'à une petite signature !";
+        map["You had to know we wouldn't just go quietly."] = "Vous vous doutiez bien que nous n'allions pas nous laisser faire sans réagir.";
+        map["I'm sure the authorities are already en route."] = "Je suis convaincue que les autorités sont déjà en route.";
+        map["If there is any justice, you'll be back behind bars in no time at all."] = "S'il y a une justice, vous serez de retour sous les verrous en un rien de temps.";
+
+        // DialogAristaConfessionHerman
+        map["Now it's my turn."] = "À mon tour maintenant.";
+        map["You used me to fix your hearing horn, you made me an accessory!"] = "Vous vous êtes servie de moi pour réparer votre cornet, vous avez fait de moi un complice !";
+        map["I have to thank you for your assistance with that, detective."] = "Je me dois de vous remercier pour votre précieuse aide, détective.";
+        map["I couldn't have used my horn otherwise."] = "Je n'aurais pas pu me servir de mon cornet autrement.";
+        map["My poor boys would have been lost in those vents for hours!"] = "Mes pauvres garçons seraient restés coincés des heures dans ces conduits !";
+        map["How deep does this conspiracy go, Arista?"] = "Jusqu'où s'étend cette machination, Arista ?";
+        map["There's no conspiracy, dear!"] = "Il n'y a aucun complot, mon cher !";
+        map["Then how do you explain my publishers denying ''The Suburban Burden''?"] = "Comment expliquez-vous alors le rejet par mes éditeurs du « Fardeau des Faubourgs » ?";
+        map["What's that? What on earth are you talking about?"] = "Qu'est-ce que c'est que ça ? De quoi diable parlez-vous donc ?";
+        map["Herman..."] = "Herman...";
+        map["What? I think we can all agree it was a little suspicious."] = "Quoi ? Nous conviendrons tous que c'était pour le moins suspect.";
+        map["The Order won't stand for this, you know!"] = "L'Ordre ne tolérera pas cela, sachez-le !";
+        map["The Order? Oh please, I set that whole thing up!"] = "L'Ordre ? Je vous en prie, c'est moi qui ai tout monté de toutes pièces !";
+        map["The Order was intended as an advisory board, to nudge my sister in the right direction!"] = "L'Ordre n'était qu'un comité consultatif destiné à aiguiller ma sœur dans la bonne direction !";
+        map["Who do you think was doing the nudging?"] = "Et d'après vous, qui tenait les ficelles ?";
+        map["Wait, you started The Order Of Idle Hands?"] = "Attendez, c'est vous qui avez fondé l'Ordre des Mains Oisives ?";
+        map["Indeed. It was all in my sister's best interest, of course!"] = "En effet. Tout cela dans le seul intérêt de ma sœur, bien évidemment !";
+        map["I found them to be quite persuasive, before they got carried away with their own customs..."] = "Je les trouvais fort persuasifs, avant qu'ils ne se laissent déborder par leurs ridicules coutumes...";
+        map["Alas, by the end, even poor Jian here couldn't get them to do his bidding!"] = "Hélas, sur la fin, même le pauvre Jian n'arrivait plus à leur faire exécuter ses volontés !";
+        map["Mmff."] = "Mmff.";
+        map["Well, now we feel a bit used!"] = "Eh bien, nous nous sentons un peu manipulés d'un coup !";
+        map["When did you last speak to Doctor Hirsch?"] = "À quand remonte votre dernière conversation avec le docteur Hirsch ?";
+        map["I can't recall, It's been a while since I saw him!"] = "Je ne m'en souviens pas, cela fait un bon moment que je ne l'ai pas croisé !";
+        map["Are you sure you haven't seen the doctor?"] = "Êtes-vous certaine de ne pas avoir vu le docteur ?";
+        map["Like I said, I wouldn't have a clue of his whereabouts!"] = "Comme je l'ai dit, je n'ai pas la moindre idée de l'endroit où il se trouve !";
+        map["Now stop asking!"] = "Maintenant, cessez vos questions !";
+        map["Perhaps we should search the estate for Doctor Hirsch?"] = "Peut-être devrions-nous fouiller la propriété à la recherche du docteur Hirsch ?";
+        map["That won't be necessary!"] = "Ce ne sera pas nécessaire !";
+        map["I'm sure he's just been delayed, that's all!"] = "Je suis sûre qu'il a simplement eu un contretemps, voilà tout !";
+        map["I propose we start our search in the basement."] = "Je propose de commencer nos recherches par le sous-sol.";
+        map["The Basement?"] = "Le sous-sol ?";
+        map["No, you can't!"] = "Non, vous n'avez pas le droit !";
+        map["What was that?"] = "Qu'était-ce donc que cela ?";
+        map["There's no need for anyone to venture into the basement, Herman!"] = "Personne n'a besoin d'aller mettre les pieds dans ce sous-sol, Herman !";
+
+        // DialogDescribeIdolEngraving
+        map["''Keep Calm And Carry On''?"] = "« Gardez votre calme et persévérez » ?";
+        map["''Dance Like Nobody's Watching''?"] = "« Dansez comme si personne ne regardait » ?";
+        map["''Live, Laugh, Love''?"] = "« Rire, vivre, aimer » ?";
+        map["Oh, I don't actually know."] = "Oh, en fait je ne le sais pas du tout.";
+        map["''Dedicated to my beloved wife, my dear Moonhog''"] = "« Dédié à mon épouse bien-aimée, ma chère Marmotte »";
+        map["''Dedicated to my beloved wife, my dear Junebug''"] = "« Dédié à mon épouse bien-aimée, ma chère Libellule »";
+        map["''Dedicated to my beloved wife, my dear Prune Club''"] = "« Dédié à mon épouse bien-aimée, ma chère Crapule »";
+        map["Hmm, I'll double-check."] = "Hmm, je vais aller revérifier.";
+
+        // DialogDescribeIdolGesture
+        map["I've heard it was a fist, raised in anger."] = "J'ai entendu dire que c'était un poing levé de fureur.";
+        map["I believe the gesture was a peace sign."] = "Je crois bien que le geste était un signe de paix.";
+        map["It was crossing it fingers, for luck!"] = "Il croisait les doigts, pour conjurer le sort !";
+        map["I'm not sure."] = "Je ne suis pas sûr.";
+        map["It was a single finger being held out."] = "C'était un seul doigt tendu.";
+        map["It was two hands clasped together."] = "C'étaient deux mains jointes l'une dans l'autre.";
+        map["It was an open palm."] = "C'était une paume ouverte.";
+        map["I must have forgotten."] = "J'ai dû oublier.";
+
+        // DialogGainedDianaTrust
+        map["Are you responsible for the death of Lady Unterwald?"] = "Êtes-vous responsable de la mort de Lady Unterwald ?";
+        map["The tragic death of Lady Unterwald will draw attention away from us."] = "La disparition tragique de Lady Unterwald détournera l'attention de notre mission.";
+        map["We must seize this opportunity, Arthur."] = "Nous devons saisir cette opportunité, Arthur.";
+        map["So, did you murder Lady Unterwald?"] = "Alors, avez-vous assassiné Lady Unterwald ?";
+        map["Lady Unterwald's death has proved to be quite the distraction."] = "La mort de Lady Unterwald s'est avérée être une excellente diversion.";
+        map["It's been a blessing for us, Arthur."] = "C'est une aubaine inespérée pour nous, Arthur.";
+        map["What's with all the high-tech monitoring equipment?"] = "À quoi sert tout ce matériel de surveillance dernier cri ?";
+        map["Lady Unterwald's rotten family has been evading us for a long time."] = "L'abominable famille de Lady Unterwald nous échappe depuis trop longtemps.";
+        map["We can only put them behind bars if we have cold hard evidence."] = "Nous ne pourrons les jeter derrière les barreaux qu'avec des preuves solides et irréfutables.";
+        map["Did Lady Unterwald mind you installing all of this gear?"] = "Lady Unterwald ne voyait pas d'inconvénient à ce que vous installiez tout ce barda ?";
+        map["I'm sure HQ briefed you on my mission, Arthur."] = "Je suis certaine que le QG vous a briefé sur ma mission, Arthur.";
+        map["I'll soon figure out who's really running things..."] = "J'aurai bientôt découvert qui tire véritablement les ficelles...";
+        map["What information do you want from me, exactly?"] = "Quels renseignements voulez-vous de ma part, exactement ?";
+        map["I need to see Lady Unterwald's final will and testament."] = "J'ai besoin de consulter les dernières volontés et le testament de Lady Unterwald.";
+        map["I'm already aware it's missing, so we need to work hard on getting it back..."] = "Je sais déjà qu'il a disparu, nous devons donc tout faire pour le récupérer...";
+        map["or finding another copy, if she kept a backup."] = "...ou dénicher un autre exemplaire, si elle en conservait un double.";
+        map["Lady Unterwald might have kept a backup in her quarters."] = "Lady Unterwald en gardait peut-être un double dans ses quartiers.";
+        map["I'll take another look around, and see what I can find."] = "Je vais retourner fouiller les lieux et voir ce que je trouve.";
+        map["Excellent."] = "Excellent.";
+        map["I've found a hidden safe in Lady Unterwald's quarters."] = "J'ai découvert un coffre-fort dissimulé dans les quartiers de Lady Unterwald.";
+        map["Opening it could provide them with more information."] = "L'ouvrir pourrait leur fournir des renseignements précieux.";
+        map["Agreed."] = "D'accord.";
+        map["Get to it then, Arthur."] = "Mettez-vous au travail dans ce cas, Arthur.";
+        map["I'll continue to monitor the situation from here for now."] = "Je continuerai de surveiller la situation depuis mon poste pour le moment.";
+
+        // DialogGiveEvidenceToDiana
+        map["This isn't about Lady Unterwald's murder?"] = "Tout ceci n'a donc rien à voir avec le meurtre de Lady Unterwald ?";
+        map["Lady Unterwald's death was unexpected."] = "La mort de Lady Unterwald était totalement imprévue.";
+        map["However, I have to stay on mission."] = "Néanmoins, je dois m'en tenir à ma mission initiale.";
+        map["Did you know the treasurer was cooking the books?"] = "Saviez-vous que le trésorier truquait les comptes ?";
+        map["I found Bergmann's ledger hidden in a drawer."] = "J'ai trouvé le registre de Bergmann caché au fond d'un tiroir.";
+        map["Is that so? Let me have a look."] = "Vraiment ? Laissez-moi voir ça.";
+        map["If Bergmann was really falsifying these records, this could be exactly the evidence we've been looking for!"] = "Si Bergmann falsifiait bel et bien ces comptes, voilà exactement la preuve que nous cherchions !";
+        map["Maybe I had you wrong, Arthur. You're sharper than you look."] = "J'ai peut-être sous-estimé vos capacités, Arthur. Vous avez l'esprit plus affûté qu'il n'y paraît.";
+        map["Thank you?"] = "Merci... je suppose ?";
+        map["Leave this with me."] = "Laissez-moi ceci.";
+        map["I discovered the treasurer was being blackmailed."] = "J'ai découvert qu'on faisait chanter le trésorier.";
+        map["Blackmailed? By whom?"] = "Chanter ? Par qui ?";
+        map["A mobster by the name of Donny Donato."] = "Un truand répondant au nom de Donny Donato.";
+        map["Interesting. Do you have any evidence?"] = "Intéressant. Avez-vous des preuves ?";
+        map["Ah... no."] = "Euh... non.";
+        map["Donny recorded their conversations, but he kept the tape recorder on him."] = "Donny enregistrait leurs conversations, mais il a gardé le magnétophone sur lui.";
+        map["And where is he now?"] = "Et où est-il à l'heure qu'il est ?";
+        map["I think he had a run in with the casino enforcers."] = "Je crois qu'il a eu une altercation avec les gros bras du casino.";
+        map["Maybe Donny left it behind? Just let me know if you find it."] = "Peut-être Donny l'a-t-il oublié quelque part ? Prévenez-moi si vous mettez la main dessus.";
+        map["I have evidence the treasurer was being blackmailed."] = "J'ai la preuve que le trésorier faisait l'objet d'un chantage.";
+        map["Interesting. Let's give it a listen."] = "Intéressant. Écoutons un peu ça.";
+        map["That's ENOUGH, Donny."] = "Ça SUFFIT, Donny.";
+        map["Not only are you drawing attention to yourself, you're about to bankrupt the damn company!"] = "Non seulement vous attirez tous les regards, mais vous allez mettre cette fichue société en faillite !";
+        map["I didn't tell you to fritter away her fortune, bet by bet."] = "Ce n'est pas moi qui vous ai demandé de dilapider sa fortune pari après pari.";
+        map["Lady Unterwald is dead, don't you think they're going to start digging for a motive?"] = "Lady Unterwald est morte, vous ne croyez pas qu'ils vont se mettre à chercher un mobile ?";
+        map["I've hidden the accounts in her quarters for now, but it's only a matter of time before someone starts snooping."] = "J'ai dissimulé les livres dans sa cabine, mais ce n'est qu'une question de temps avant qu'un fouineur ne tombe dessus.";
+        map["I'll bet the old bat took one look at the numbers in that ledger of yours and the shock killed her!"] = "Je parie que la vieille carne a jeté un œil à vos chiffres et que le choc l'a foudroyée sur place !";
+        map["We'll need to confirm the authenticity of the recording, but this is strong evidence!"] = "Nous devrons confirmer l'authenticité de l'enregistrement, mais c'est un indice accablant !";
+        map["I found a hidden safe in Lady Unterwald's quarters!"] = "J'ai trouvé un coffre-fort dissimulé dans la cabine de Lady Unterwald !";
+        map["A hidden safe? What was inside?"] = "Un coffre secret ? Que contient-il ?";
+        map["I'm not sure, I haven't been able to open it!"] = "Je l'ignore, je n'ai pas réussi à le déverrouiller !";
+        map["We should find a way to open it. It could contain evidence!"] = "Il faut trouver un moyen de l'ouvrir. Il renferme peut-être des preuves capitales !";
+
+        // DialogHandshake
+        map["How low will you go? How high will you jump?"] = "Jusqu'où descendrez-vous ? Jusqu'où sauterez-vous ?";
+        map["Aren't your eyes open? Are you not awake?"] = "N'avez-vous pas les yeux ouverts ? N'êtes-vous point éveillé ?";
+        map["You need to climb lightly, be careful not to slip."] = "Grimpez avec légèreté, prenez garde à ne point glisser.";
+        map["Are you watching closely? Did you see me make my move?"] = "Observez-vous avec attention ? M'avez-vous vu passer à l'action ?";
+        map["Are we shaking hands now?"] = "On se serre la main maintenant ?";
+        map["I'm a little confused."] = "Je suis un peu perdu.";
+        map["I don't understand."] = "Je ne comprends pas.";
+
+        // DialogHintLineArthur, Diana, Herman
+        map["I need a hint!"] = "J'ai besoin d'un indice !";
+        map["How does this work again?"] = "Comment ça fonctionne déjà ?";
+        map["Is this the real Dirk Chiselton?"] = "Est-ce le véritable Dirk Chiselton en personne ?";
+        map["Ah, you're wondering why a world-famous detective would be answering the phones instead of solving crimes?"] = "Ah, tu te demandes pourquoi un détective de renommée mondiale répond au téléphone au lieu de résoudre des crimes ?";
+        map["I was wondering that!"] = "C'est exactement ce que je me demandais !";
+        map["It's because I'm a professional, and I'm an excellent multitasker."] = "C'est parce que je suis un professionnel accompli, et que je maîtrise la polyvalence à merveille.";
+        map["That's right, I'm the real deal, kid."] = "C'est bien moi en chair et en os, fiston.";
+        map["Is this really Dirk Chiselton?"] = "C'est vraiment Dirk Chiselton ?";
+        map["Like I said, I'm the real deal."] = "Comme je l'ai dit, c'est bien l'authentique.";
+        map["Now, do you have a question for me or not?"] = "Alors, as-tu une question à me poser, oui ou non ?";
+        map["Oops, I don't need a hint right now!"] = "Oups, je n'ai pas besoin d'indice pour l'instant !";
+        map["I wouldn't think the I.R.S.S had the budget for Dirk Chiselton."] = "Je n'aurais pas cru que nos services avaient le budget pour s'offrir Dirk Chiselton.";
+        map["I'm an external contractor with competitive rates. What can I say?"] = "Je suis un consultant externe aux tarifs très compétitifs. Que voulez-vous que je vous dise ?";
+        map["Are you going to ask me a question or not?"] = "Allez-vous enfin me poser une question, oui ou non ?";
+        map["I don't suppose you do house calls?"] = "J'imagine que vous ne vous déplacez pas à domicile ?";
+        map["Depends, how big a house are we talking?"] = "Ça dépend, de quelle superficie de demeure parle-t-on ?";
+        map["It's a mansion, if that helps."] = "C'est un manoir seigneurial, si ça peut vous éclairer.";
+        map["Funny that, I'm on my way to a mansion right now."] = "Amusant, je suis justement en route vers un manoir en ce moment même.";
+        map["Wonder if it's the same one!"] = "Je me demande si ce ne serait pas le même !";
+        map["I don't need a hint right now!"] = "Je n'ai pas besoin d'indice pour l'instant !";
+        map["Alright, call back if you change your mind."] = "Très bien, rappelez si vous changez d'avis.";
+        map["I never thought I'd be crawling to Dirk Chiselton for assistance."] = "Je n'aurais jamais cru devoir m'abaisser à implorer l'aide de Dirk Chiselton.";
+        map["Ah, there's no shame in asking for help!"] = "Allons, il n'y a aucune honte à solliciter de l'aide !";
+        map["Let's face it, we all need a hand from time to time."] = "Regardons la vérité en face : tout le monde a besoin d'un coup de main de temps à autre.";
+        map["And these calls are just between you and me, alright?"] = "Et puis cet appel reste strictement entre nous deux, convenu ?";
+        map["On second thought, I can do this all by myself!"] = "À la réflexion, je peux très bien me débrouiller tout seul !";
+        map["Alright, but call back if you change your mind!"] = "Comme vous voudrez, mais rappelez si vous changez d'avis !";
+
+        // DialogIntroductionStageManager
+        map["'Tis I, Herman Merman – detective extraordinaire!"] = "C'est moi, Herman Merman – détective hors pair !";
+        map["Herman Merman? And that's your real name?"] = "Herman Merman ? Et c'est votre vrai nom de famille ?";
+        map["It is indeed!"] = "Absolument, oui !";
+        map["So your parents were trying to make things difficult for you?"] = "Vos parents cherchaient délibérément à vous pourrir la vie, ou bien ?";
+        map["They were both quite eccentric, now that you mention it."] = "Ils étaient tous deux passablement excentriques, maintenant que vous le dites.";
+        map["I don't doubt it."] = "Je n'en doute pas un seul instant.";
+        map["The name is Jian Liu, I think you'll find me on the guest list."] = "Mon nom est Jian Liu, je pense que vous me trouverez sur la liste des invités.";
+        map["Look, pal. You're not the first person to try and pass themselves off as someone on the list, okay?"] = "Écoute, mon pote. Tu n'es pas le premier à tenter de te faire passer pour quelqu'un d'autre sur la liste, d'accord ?";
+        map["Even if I wasn't so good at putting names to faces, I literally watched Jian Liu walk in ahead of you."] = "Même sans ma mémoire d'éléphant pour les visages, j'ai vu Jian Liu entrer juste avant toi en personne.";
+        map["There's no need for these formalities, I'm a man of celebrity status!"] = "Inutile de s'embarrasser de protocoles, je suis une célébrité de premier ordre !";
+        map["Oof. Look, pal, I know talent when I see it."] = "Ouf. Écoute mon pote, je repère le talent au premier coup d'œil.";
+        map["If you were a celebrity, would I be asking for your name?"] = "Si tu étais une célébrité, est-ce que je serais là à te demander ton nom ?";
+        map["Don't you know who I am?"] = "Vous ignorez donc qui je suis ?";
+        map["I'm not sure, am I supposed to know?"] = "Pas la moindre idée, je devrais le savoir ?";
+        map["Herman Merman - detective extraordinaire!"] = "Herman Merman - détective d'exception !";
+        map["And that's you?"] = "Et ce serait vous ?";
+        map["You're absolutely positive that's your real name?"] = "Vous êtes formel, c'est vraiment votre véritable nom ?";
+        map["Yes, Herman Merman!"] = "Oui, Herman Merman !";
+
+        // DialogMrLiuBeltWhip & Showdown
+        map["Objection!"] = "Objection !";
+        map["Prepare to buckle under justice!"] = "Préparez-vous à courber l'échine devant la justice !";
+        map["I have the power of attorney!"] = "J'ai une procuration légale !";
+        map["You betrayed the LAW!"] = "Vous avez trahi la LOI !";
+        map["Who are you, again?"] = "Qui êtes-vous déjà ?";
+        map["What are you talking about?"] = "De quoi parlez-vous ?";
+        map["Don't try to play coy with me, Mr Ackerman!"] = "Ne jouez pas au plus fin avec moi, monsieur Ackerman !";
+        map["No, really, do I know you?"] = "Non, sincèrement, est-ce qu'on se connaît ?";
+        map["Jian Liu!?"] = "Jian Liu !?";
+        map["Uh..."] = "Euh...";
+        map["Wait... Lady Unterwald's suitor?"] = "Attendez... Le prétendant de Lady Unterwald ?";
+        map["Do you know how long it took to get close to Lady Unterwald?"] = "Savez-vous combien de temps il m'a fallu pour approcher Lady Unterwald d'aussi près ?";
+
+        // DialogTalkToAprilTestYard
+        map["What's all this talk about budget cuts?"] = "Pourquoi parle-t-on de coupes budgétaires partout ?";
+        map["It doesn't make any sense, they were happy to spend millions on that R.A.T!"] = "Ça n'a aucun sens, ils ont bien englouti des millions dans ce fichu R.A.T. !";
+        map["You mean the Rodent Agent Training programme?"] = "Tu veux parler du programme d'entraînement des rongeurs espions ?";
+        map["Now that I think about it, that probably explains the money troubles."] = "À la réflexion, cela explique sans doute nos déboires financiers actuels.";
+        map["I hope my equipment is still set up on the Reuss Express"] = "J'espère que mon matériel d'écoute est toujours en place à bord du Reuss Express.";
+        map["I'm sure it is, do you know how slow retrieval is?"] = "Certainement, tu sais combien la logistique de récupération est léthargique ?";
+        map["They've left our kit out in the field for months before."] = "Ils ont déjà abandonné notre équipement sur le terrain pendant des mois par le passé.";
+        map["I thought this was a test yard, what's with all the broken equipment?"] = "Je croyais que c'était un centre d'essais, d'où vient tout ce matériel fracassé ?";
+        map["Our field agents don't always bring their equipment back in one piece."] = "Nos agents de terrain ne rapportent pas toujours leur matériel intact.";
+        map["We're lucky if they bring back anything at all!"] = "On s'estime déjà bien heureux quand ils daignent rapporter quoi que ce soit !";
+        map["From what Phil said, it sounds like they already relocated anything useful."] = "D'après ce qu'a dit Phil, on dirait qu'ils ont déjà rapatrié tout ce qui pouvait servir.";
+        map["What's with the pneumatic tubes?"] = "À quoi riment tous ces tubes pneumatiques ?";
+        map["It's a complete tube network! It's so the executives can send documents and small items down here remotely."] = "C'est un réseau pneumatique complet ! Les directeurs l'utilisent pour nous expédier courriers et petits colis sans bouger de leur fauteuil.";
+        map["I guess they can't risk getting engine grease on their expensive suits."] = "J'imagine qu'ils ne voudraient pas risquer une tache de cambouis sur leurs beaux costumes.";
+        map["You'll usually only find them in banks, hospitals or eccentric people's houses."] = "En général, on n'en trouve que dans les banques, les hôpitaux ou chez les originaux fortunés.";
+        map["Do you know how the tubes work?"] = "Sais-tu comment fonctionnent ces tubes ?";
+        map["It's pretty easy. You just load a canister in the slot, and set the destination on the control panel."] = "C'est un jeu d'enfant. Tu glisses une capsule dans la fente, et tu sélectionnes la destination sur le boîtier.";
+        map["Why? What are you up to?"] = "Pourquoi ? Qu'est-ce que tu mijotes ?";
+        map["Nothing, I was just curious!"] = "Rien, simple curiosité professionnelle !";
+        map["I'll need to get my hands on some gadgets!"] = "Il va falloir que je mette la main sur des gadgets !";
+        map["Well, normally you'd fill in a requisition form and hand it to the Quartermaster."] = "En temps normal, tu rédiges un formulaire de réquisition et tu le donnes à l'Intendante.";
+        map["Although, with everything being shut down, I think you'll need to be a bit more creative!"] = "Mais vu que tout est fermé, il va falloir faire preuve d'un brin d'imagination !";
+        map["The quartermaster won't let me have any gadgets!"] = "L'intendante refuse catégoriquement de me lâcher le moindre gadget !";
+        map["Perhaps you can get what you need without involving the Quartermaster."] = "Peut-être pourrais-tu te procurer ce dont tu as besoin sans passer par elle.";
+        map["You mean, go behind her back?"] = "Tu veux dire, agir dans son dos ?";
+        map["I didn't say that. But hey, that's not a bad idea!"] = "Je n'ai pas dit ça. Mais hé, ce n'est pas une si mauvaise idée !";
+        map["Alright, I think that's everything for now!"] = "Très bien, je crois que j'ai fait le tour pour le moment !";
+        map["Okay, keep up the good work."] = "Parfait, continue comme ça.";
+
+        // DialogTalkToArista
+        map["Yes. Now what of it?"] = "Oui. Et alors, qu'y a-t-il ?";
+        map["Do you make a habit of bothering people and asking them stupid questions?"] = "Avez-vous pour habitude d'importuner les gens avec vos questions stupides ?";
+        map["Of course! She even gave my boys cushy jobs in the family business."] = "Bien entendu ! Elle a même dégoté des planques dorées à mes garçons dans l'entreprise familiale.";
+        map["Have you met them? They're imbeciles!"] = "Les avez-vous rencontrés ? Ce sont de parfaits imbéciles !";
+        map["I did! I never shied away from getting my hands dirty, you see."] = "Tout à fait ! Je n'ai jamais eu peur de me salir les mains, voyez-vous.";
+        map["I'm an engineer at heart, always been fascinated by mechanisms!"] = "J'ai l'âme d'une mécanicienne, j'ai toujours été fascinée par les rouages !";
+        map["You know, I even helped design the Reuss Express."] = "Vous savez, j'ai même participé à la conception du Reuss Express.";
+        map["Oh yes, I know all her little quirks!"] = "Oh oui, je connais le moindre de ses petits caprices !";
+        map["She's not your standard steam engine, you know."] = "Ce n'est pas une vulgaire locomotive à vapeur ordinaire, vous savez.";
+        map["She isn't?"] = "Vraiment ?";
+        map["You're travelling aboard one of the first steam turbine locomotives!"] = "Vous voyagez à bord de l'une des toutes premières locomotives à turbine à vapeur !";
+        map["I'm talking about steam power, boy!"] = "Je vous parle de la puissance de la vapeur, jeune homme !";
+        map["She may be experimental, but you're riding on the future of transportation."] = "Elle a beau être expérimentale, vous roulez à bord de l'avenir du transport.";
+        map["Woah!"] = "Ouah !";
+        map["If you ask me, too many naysayers are betting on diesel."] = "Si vous voulez mon avis, bien trop de sceptiques misent bêtement sur le diesel.";
+        map["They are?"] = "C'est vrai ?";
+        map["The Reuss Express is a real challenge to that notion."] = "Le Reuss Express apporte un cinglant démenti à cette hérésie.";
+        map["Oh, this? You've never seen an ear trumpet before?"] = "Oh, ceci ? Vous n'avez donc jamais vu un cornet acoustique de votre vie ?";
+        map["I don't think so!"] = "Je ne crois pas, non !";
+
+        // sd_b1 additions
+        map["And just when I had her in the palm of my hand."] = "Et pile au moment où je la tenais dans le creux de ma main.";
+        map["Who would show up and ruin the entire scheme but her meddling attorney!"] = "Qui d'autre pour débarquer et saboter tout mon plan que son encombrant d'avocat !";
+        map["I'm not sure why you're mad at me!"] = "Je ne vois pas pourquoi vous m'en voulez à ce point !";
+        map["You not only stole my suit, but the estate I was working so hard to gain control of!"] = "Non seulement vous m'avez volé mon costume, mais aussi ce domaine pour lequel je m'échinais tant !";
+        map["You might have got this far by playing dumb, but it won't help you now!"] = "Vous avez peut-être réussi à faire illusion en jouant les imbéciles, mais ça ne vous sauvera pas cette fois !";
+        map["You're breaking the law, you know!"] = "Vous enfreignez la loi, vous savez !";
+        map["Eugh! You bureaucrats and your archaic rules!"] = "Pouah ! Vous les bureaucrates et vos règlements archaïques !";
+        map["I tried playing things by the book, and look where that got me!"] = "J'ai essayé de jouer selon les règles, et regardez où cela m'a mené !";
+        map["I don't mind breaking a few rules if it means I get what I want!"] = "Enfreindre quelques règles ne me dérange absolument pas si ça me permet d'obtenir ce que je veux !";
+        map["How about we forget this whole thing ever happened?"] = "Et si nous faisions comme si rien de tout cela ne s'était jamais produit ?";
+        map["Unacceptable, Mr Ackerman!"] = "Inadmissible, monsieur Ackerman !";
+        map["I'll be claiming the estate for my own, which makes you collateral damage, I'm afraid."] = "Je vais réclamer ce domaine pour mon propre compte, ce qui fait hélas de vous un dommage collatéral.";
+        map["We can't have you walking around with a claim to my prize, after all!"] = "Après tout, nous ne pouvons pas vous laisser courir les rues avec un droit sur mon précieux butin !";
+        map["Is that a real gun you're holding?"] = "C'est une vraie arme à feu que vous tenez là ?";
+        map["I can assure you it's very real."] = "Je peux vous assurer qu'elle est on ne peut plus réelle.";
+        map["Perhaps I should demonstrate?"] = "Peut-être devrais-je vous en faire une démonstration ?";
+        map["Where were you hiding that pistol?"] = "Où cachiez-vous donc ce pistolet ?";
+        map["Never you mind!"] = "Ça ne vous regarde absolument pas !";
+        map["Actually, I think that's enough questions!"] = "À la réflexion, je crois que j'ai assez répondu à vos questions !";
+        map["Very well..."] = "Très bien...";
+        map["What's the name of the band, then?"] = "Quel est le nom du groupe, alors ?";
+        map["Lucky guess!"] = "Coup de bol !";
+        map["Wrong!"] = "Faux !";
+        map["Nah, that's not right."] = "Non, ce n'est pas ça.";
+        map["That ain't it."] = "C'est pas ça.";
+        map["Nice try, pal."] = "Bien essayé, mon pote.";
+        map["Gin and Bitters?"] = "Gin and Bitters ?";
+        map["Lindy Hop Bop!"] = "Lindy Hop Bop !";
+        map["Charleston Jive?"] = "Charleston Jive ?";
+        map["The Big and Talls!"] = "The Big and Talls !";
+        map["Balboa Sins!"] = "Balboa Sins !";
+        map["Balboa Swing?"] = "Balboa Swing ?";
+        map["Balboa Sings!"] = "Balboa Sings !";
+        map["Balboa Strings?"] = "Balboa Strings ?";
+        map["If you're such a fan, then you know all the songs, right?"] = "Si tu es un tel fan, alors tu connais toutes les chansons, pas vrai ?";
+        map["What song plays before 'Freight Train Blues'?"] = "Quel morceau passe juste avant 'Freight Train Blues' ?";
+        map["Lucky guess."] = "Coup de chance.";
+        map["No, that's not right."] = "Non, ce n'est pas la bonne.";
+        map["Railroad Rhythm."] = "Railroad Rhythm.";
+        map["Whistle Stop Swing."] = "Whistle Stop Swing.";
+        map["Boxcar Boogie."] = "Boxcar Boogie.";
+        map["My Love is on the Line."] = "My Love is on the Line.";
+        map["Freight Train Blues."] = "Freight Train Blues.";
+        map["What song plays after 'Railroad Rhythm'?"] = "Quel morceau passe juste après 'Railroad Rhythm' ?";
+        map["Okay, you know your stuff!"] = "D'accord, tu t'y connais drôlement bien !";
+        map["Here, I've got something for you!"] = "Tiens, j'ai quelque chose pour toi !";
+        map["Is that..."] = "Est-ce là...";
+        map["Here, I'll sign it for you."] = "Tiens, je vais te le dédicacer.";
+        map["''Dear Herman Merman.''"] = "« Cher Herman Merman. »";
+        map["''Thank you for being a fan!''"] = "« Merci d'être un fan inconditionnel ! »";
+        map["What an honour!"] = "Quel insigne honneur !";
+        map["How did you know where to find us?"] = "Comment avez-vous su où nous trouver ?";
+        map["Let's just say we have a man on the inside."] = "Disons simplement que nous avons une taupe à l'intérieur.";
+        map["They were able to alert us when you arrived here for interrogation."] = "Elle a pu nous prévenir dès votre arrivée pour l'interrogatoire.";
+        map["Well? Who's your man on the inside?"] = "Eh bien ? Qui est votre contact à l'intérieur ?";
+        map["What does it matter to you?"] = "Qu'est-ce que ça peut bien vous faire ?";
+        map["Besides, that's classified information."] = "Et puis, c'est une information hautement confidentielle.";
+        map["Is anyone here who they say they are?"] = "Y a-t-il quelqu'un ici qui soit réellement celui qu'il prétend être ?";
+        map["Strong talk from a self-declared detective that's never had a case, hmm?"] = "Paroles bien hardies pour un prétendu détective qui n'a jamais résolu la moindre affaire, hmm ?";
+        map["Point taken, I suppose."] = "C'est de bonne guerre, je suppose.";
+        map["Well, what's your escape plan?"] = "Bien, quel est votre plan d'évasion ?";
+        map["If you can get some leverage on those bars, I'll see if I can use the bike to force them open!"] = "Si vous trouvez un moyen de faire levier sur ces barreaux, j'essaierai d'utiliser la moto pour les arracher !";
+        map["You say you're from the Inland Revenue Secret Service?"] = "Vous prétendez appartenir aux services secrets du fisc ?";
+        map["That's right. The names' April Benelli."] = "C'est exact. Mon nom est April Benelli.";
+        map["And you're one of three framed for murder."] = "Et vous êtes l'un des trois innocents accusés de meurtre.";
+        map["Now that we've exchanged pleasantries, I believe there was a jailbreak in progress?"] = "Maintenant que les politesses sont faites, je crois qu'il y avait une évasion sur le feu ?";
+        map["How do you know we were framed?"] = "Comment savez-vous que c'est un coup monté ?";
+        map["Well, I know Diana didn't do it."] = "Déjà, je sais pertinemment que Diana n'y est pour rien.";
+        map["Are you telling me you killed Lady Unterwald?"] = "Êtes-vous en train de me dire que c'est vous qui avez tué Lady Unterwald ?";
+        map["Well, there you go!"] = "Voilà, vous voyez bien !";
+        map["Tell me, why are you helping us?"] = "Dites-moi, pourquoi nous venez-vous en aide ?";
+        map["They've got my partner locked up in there!"] = "Ils gardent ma partenaire enfermée là-dedans !";
+        map["That's right. But we'll need all three of you if we're going to complete this mission."] = "C'est vrai. Mais nous aurons besoin de vous trois pour mener à bien cette mission.";
+        map["You'll need me for your mission?"] = "Vous aurez besoin de moi pour votre mission ?";
+        map["You've proven yourself capable. At least, you haven't gotten yourself killed."] = "Vous avez fait vos preuves. Du moins, vous avez réussi à rester en vie.";
+        map["There were admittedly a few near misses."] = "Il y a eu quelques moments fort critiques, je l'avoue.";
+        map["Even so, we'll have strength in numbers."] = "Quoi qu'il en soit, l'union fait la force.";
+        map["How am I supposed to bend these bars?"] = "Comment suis-je censé tordre ces barreaux ?";
+        map["You won't be able to bend them with your bare hands, but they're structurally weak."] = "Vous n'y arriverez pas à mains nues, mais leur structure est affaiblie.";
+        map["If you can find something to leverage against them, I think I could get you out of there!"] = "Si vous dénichez de quoi faire levier, je crois bien que je pourrais vous sortir de là !";
+        map["Let me get back to you."] = "Laissez-moi y réfléchir.";
+        map["Fine, but be quick about it!"] = "Très bien, mais faites vite !";
+        map["The bike really can't go any faster?"] = "La moto ne peut vraiment pas aller plus vite ?";
+        map["I'm already going full throttle!"] = "Je suis déjà poignée dans le coin !";
+        map["We're going to have to boost the bike's speed if we stand a chance of catching up to the train!"] = "Il va falloir booster l'allure de la moto si on veut avoir une chance de rattraper ce train !";
+        map["How can I increase our speed if you're going full throttle!"] = "Comment veux-tu que j'augmente notre vitesse si tu es déjà à plein régime ?!";
+        map["Think, Diana! Maybe you have something that can help us out!"] = "Réfléchis, Diana ! Tu as peut-être quelque chose qui pourrait nous dépanner !";
+        map["How are we doing for fuel?"] = "Où en est-on niveau carburant ?";
+        map["We're doing okay, but that petrol you swiped earlier must've been old!"] = "Ça va à peu près, mais cette essence que tu as fauchée tout à l'heure devait dater d'une paie !";
+        map["If only we had some high-octane stuff!"] = "Si seulement on avait du carburant à haut indice d'octane !";
+        map["I just wanted to thank you for getting me here!"] = "Je tenais simplement à te remercier de m'avoir amenée jusqu'ici !";
+        map["Don't mention it! You can thank me when you're on that train!"] = "De rien ! Tu me remercieras quand tu seras à bord de ce train !";
+        map["I think that's enough talk for now!"] = "Je crois que nous avons assez bavardé pour le moment !";
+        map["You're right!"] = "Tu as raison !";
+        map["How's the bike repair looking?"] = "Où en sont les réparations de la moto ?";
+        map["It looks like we're still missing fuel, and the wiring is completely shot."] = "On dirait qu'il nous manque encore de l'essence, et le câblage est totalement fichu.";
+        map["Sorry to say, but we're not going anywhere until we've addressed that."] = "Désolée de te le dire, mais on n'ira nulle part tant qu'on n'aura pas réglé ça.";
+        map["What's the status of the bike repair?"] = "Quel est l'état d'avancement des réparations ?";
+        map["Well, it looks like we're all fuelled up. The tank's looking good!"] = "Eh bien, on a fait le plein. Le réservoir est paré !";
+        map["Not so fast. We'll still need to get all this faulty wiring repaired."] = "Pas si vite. Il faut encore réparer tout ce câblage défectueux.";
+        map["We're not going anywhere until we've addressed that."] = "On n'ira nulle part tant qu'on n'aura pas réglé ça.";
+        map["How's the bike looking now?"] = "À quoi ressemble la moto maintenant ?";
+        map["Our prospects are looking better now that we've replaced the wiring."] = "Nos chances s'améliorent maintenant que le câblage a été remplacé.";
+        map["You know what? I think this old girl may just run again!"] = "Tu sais quoi ? Je crois bien que cette vieille bécane va pouvoir vrombir à nouveau !";
+        map["You're a genius, April!"] = "Tu es un génie, April !";
+        map["Settle down, there's no need to inflate my ego just yet."] = "Du calme, pas la peine de me gonfler les chevilles tout de suite.";
+        map["We're still missing fuel. If the tank is empty, we can't go anywhere!"] = "Il nous manque encore de l'essence. Si le réservoir est à sec, on reste clouées sur place !";
+        map["How's the bike coming along?"] = "Où en est la moto ?";
+        map["We've got a full tank of petrol, and the wiring's all fixed!"] = "Nous avons un réservoir plein d'essence et le câblage est flambant neuf !";
+        map["You know what? I think we've only gone and done it!"] = "Tu sais quoi ? Je crois bien qu'on a réussi notre coup !";
+        map["You're serious? You fixed the bike?"] = "C'est sérieux ? Tu as réparé la moto ?";
+        map["I consider it a team effort, but yes. I've fixed the bike!"] = "C'est un travail d'équipe, mais oui : j'ai remis la moto d'aplomb !";
+        map["Just hop on whenever you're ready, and I'll get us out of here!"] = "Enfourche-la dès que tu es prête, et je nous sors de là !";
+        map["I'm ready to get out of here!"] = "Je suis prête à déguerpir d'ici !";
+        map["Alright! Hop on the back and I'll get the bike started!"] = "Parfait ! Grimpe à l'arrière et je démarre l'engin !";
+        map["I can't believe Mr Stamp cancelled my first mission!"] = "Je n'arrive pas à croire que M. Stamp ait annulé ma première mission !";
+        map["I know! Phil is such a coward."] = "Je sais ! Phil est une telle poule mouillée.";
+        map["You know what they're like upstairs, though. It's all short-term thinking."] = "Tu sais comment ils sont aux étages supérieurs. Ils ne voient jamais plus loin que le bout de leur nez.";
+
+        Process(@"translations\partitions\sd_b1.tsv", @"translations\partitions\sd_b1_french.tsv", map);
+    }
+
+    static void Process(string inPath, string outPath, Dictionary<string, string> map) {
+        if (!File.Exists(inPath)) return;
+        var lines = File.ReadAllLines(inPath, Encoding.UTF8);
+        int count = 0;
+        using (var sw = new StreamWriter(outPath, false, Encoding.UTF8)) {
+            sw.WriteLine("Id\tCharacter\tEnglish\tFrench\tClass\tMethod");
+            for (int i = 1; i < lines.Length; i++) {
+                var l = lines[i];
+                var p = l.Split('\t');
+                if (p.Length < 6) continue;
+                string en = p[2].Trim();
+                string fr = "";
+                if (map.ContainsKey(en)) {
+                    fr = map[en];
+                } else {
+                    Console.WriteLine("Missing in sd_b1: [" + en + "]");
+                    fr = en;
+                }
+                sw.WriteLine(string.Format("{0}\t{1}\t{2}\t{3}\t{4}\t{5}", p[0], p[1], en, fr, p[4], p[5]));
+                if (!string.IsNullOrEmpty(fr)) count++;
+            }
+        }
+        Console.WriteLine(string.Format("Processed {0}: {1} lines translated out of {2}",
+            Path.GetFileName(outPath), count, lines.Length - 1));
+    }
+}

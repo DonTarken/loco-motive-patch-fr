@@ -1,0 +1,235 @@
+Id	Character	English	French	Class	Method
+443	Herman	Greetings.		CharacterBergmann+<OnInteractChapterFour>d__42	MoveNext
+125	Bergmann	You're not with the tax office, are you?		CharacterBergmann+<OnInteractChapterFour>d__42	MoveNext
+1282	Herman	Certainly not!		CharacterBergmann+<OnInteractChapterFour>d__42	MoveNext
+133	Bergmann	Once the sale goes through, it shouldn't be my concern any longer.		CharacterBergmann+<OnInteractChapterFour>d__42	MoveNext
+134	Bergmann	Assuming everything goes to plan, of course.		CharacterBergmann+<OnInteractChapterFour>d__42	MoveNext
+386	Herman	Hello there.		CharacterBergmann+<OnInteractChapterFourWearingDisguise>d__43	MoveNext
+73	Bergmann	Is there something I can help you with?		CharacterBergmann+<OnInteractChapterFourWearingDisguise>d__43	MoveNext
+373	Herman	No, thank you! I'll best be going.		CharacterBergmann+<OnInteractChapterFourWearingDisguise>d__43	MoveNext
+652	Herman	Lady Unterwald?		CharacterLadyUnterwald+<OnInteractChapterFour>d__3	MoveNext
+179	LadyUnterwald	Are you still here?		CharacterLadyUnterwald+<OnInteractChapterFour>d__3	MoveNext
+629	Herman	Hello there.		CharacterRon+<OnInteractChapterFour>d__15	MoveNext
+43	Ron	Sorry, I'm not buying whatever it is you're selling.		CharacterRon+<OnInteractChapterFour>d__15	MoveNext
+39	Susanne	It's you again!		CharacterSusanne+<OnInteractChapterFourFirstOccurrence>d__15	MoveNext
+1158	Herman	I should probably leave you to it.		CharacterSusanne+<OnInteractChapterFourReachedHatchedAPlan>d__16	MoveNext
+1482	Herman	How can I find out the idol gesture?		DialogHintLineChapterFour+<Option1>d__5	MoveNext
+241	Chiselton	Keep an eye out for clues about the gestures Lady Unterwald might make.		DialogHintLineChapterFour+<Option1>d__5	MoveNext
+1483	Herman	I need another hint about the idol gesture.		DialogHintLineChapterFour+<Option1a>d__6	MoveNext
+242	Chiselton	I'd start in The Order Of Idle Hands, does anything look out of place?		DialogHintLineChapterFour+<Option1a>d__6	MoveNext
+1484	Herman	I need another hint about the idol gesture.		DialogHintLineChapterFour+<Option1b>d__7	MoveNext
+243	Chiselton	There's a painting in The Order Of Idle Hands that seems to have been touched up. I wonder what they're hiding?		DialogHintLineChapterFour+<Option1b>d__7	MoveNext
+1485	Herman	I need another hint about the idol gesture.		DialogHintLineChapterFour+<Option1c>d__8	MoveNext
+244	Chiselton	You'd need a strong solvent to remove those layers of paint.		DialogHintLineChapterFour+<Option1c>d__8	MoveNext
+1486	Herman	I need another hint about the idol gesture.		DialogHintLineChapterFour+<Option1d>d__9	MoveNext
+245	Chiselton	The doctor carries surgical spirit in his briefcase, you could try that.		DialogHintLineChapterFour+<Option1d>d__9	MoveNext
+1487	Herman	I need another hint about the idol gesture.		DialogHintLineChapterFour+<Option1e>d__10	MoveNext
+246	Chiselton	Pinch a napkin from the bar, apply some surgical spirit to it, and then figure out what's under that painting.		DialogHintLineChapterFour+<Option1e>d__10	MoveNext
+1488	Herman	How can I find out the idol engraving?		DialogHintLineChapterFour+<Option2>d__11	MoveNext
+247	Chiselton	Seems like it's got something to do with Lady Unterwald, probably some mushy stuff.		DialogHintLineChapterFour+<Option2>d__11	MoveNext
+1489	Herman	I need another hint about the idol engraving.		DialogHintLineChapterFour+<Option2a>d__12	MoveNext
+248	Chiselton	Have you checked everything in the lobby outside Lady Unterwald's room?		DialogHintLineChapterFour+<Option2a>d__12	MoveNext
+1490	Herman	I need another hint about the idol engraving.		DialogHintLineChapterFour+<Option2b>d__13	MoveNext
+249	Chiselton	The model railway in the lobby was dedicated to Lady Unterwald.		DialogHintLineChapterFour+<Option2b>d__13	MoveNext
+1491	Herman	How can I get Mr Masson to vote in the club?		DialogHintLineChapterFour+<Option3>d__14	MoveNext
+250	Chiselton	He's pretty unresponsive after drinking that Rosebud, you'll need to snap him out of his stupor.		DialogHintLineChapterFour+<Option3>d__14	MoveNext
+1492	Herman	I need another hint to get Mr Masson talking.		DialogHintLineChapterFour+<Option3a>d__15	MoveNext
+251	Chiselton	A shock to his system may temporarily bring him to his senses.		DialogHintLineChapterFour+<Option3a>d__15	MoveNext
+1493	Herman	I need another hint to get Mr Masson talking.		DialogHintLineChapterFour+<Option3b>d__16	MoveNext
+252	Chiselton	If Mr Masson drank something potent enough, it may sober him up enough to vote!		DialogHintLineChapterFour+<Option3b>d__16	MoveNext
+1494	Herman	I need another hint to get Mr Masson talking.		DialogHintLineChapterFour+<Option3c>d__17	MoveNext
+253	Chiselton	Top up Mr Masson's glass with the spicy soup from the kitchen. I bet that'd get him talking again!		DialogHintLineChapterFour+<Option3c>d__17	MoveNext
+1495	Herman	I need to get the hearing horn repaired, any ideas?		DialogHintLineChapterFour+<Option4>d__18	MoveNext
+254	Chiselton	Ask the band about the hearing horn, I'm sure they'd be happy to help.		DialogHintLineChapterFour+<Option4>d__18	MoveNext
+1496	Herman	I need to win at the knife game, but he's too good!		DialogHintLineChapterFour+<Option5>d__19	MoveNext
+255	Chiselton	Byron is skilled with a knife, but perhaps you could even the playing field.		DialogHintLineChapterFour+<Option5>d__19	MoveNext
+1497	Herman	I need another hint about the knife game.		DialogHintLineChapterFour+<Option5a>d__20	MoveNext
+256	Chiselton	You have the knife, right? It's slippery business, but perhaps you could tamper with it.		DialogHintLineChapterFour+<Option5a>d__20	MoveNext
+1498	Herman	I need another hint about the knife game.		DialogHintLineChapterFour+<Option5b>d__21	MoveNext
+257	Chiselton	If you can loosen Byron's grip on that knife, he'd surely slip up!		DialogHintLineChapterFour+<Option5b>d__21	MoveNext
+1499	Herman	I need another hint about the knife game.		DialogHintLineChapterFour+<Option5c>d__22	MoveNext
+258	Chiselton	Mix the hand cream with the melted butter to create a slippery concoction. Then apply that to the knife!		DialogHintLineChapterFour+<Option5c>d__22	MoveNext
+1500	Herman	The band repaired the horn for me, now what?		DialogHintLineChapterFour+<Option6>d__23	MoveNext
+259	Chiselton	Nice work. You should return the hearing horn to Arista now.		DialogHintLineChapterFour+<Option6>d__23	MoveNext
+1501	Herman	How can I get Arthur out of his room?		DialogHintLineChapterFour+<Option7>d__24	MoveNext
+260	Chiselton	He's probably neck deep in paperwork, can you tamper with his room to get him out?		DialogHintLineChapterFour+<Option7>d__24	MoveNext
+1502	Herman	I need another hint about distracting Arthur.		DialogHintLineChapterFour+<Option7a>d__25	MoveNext
+261	Chiselton	If the lights went out, he'd probably struggle to get anything done.		DialogHintLineChapterFour+<Option7a>d__25	MoveNext
+1503	Herman	I need another hint about distracting Arthur.		DialogHintLineChapterFour+<Option7b>d__26	MoveNext
+262	Chiselton	There's an electrical panel in the sleeper carriage, open that up and see what you can do.		DialogHintLineChapterFour+<Option7b>d__26	MoveNext
+1504	Herman	I need to get back into my room, what should I do?		DialogHintLineChapterFour+<Option8>d__27	MoveNext
+263	Chiselton	If the door isn't an option, then the next best thing would be to get in through the window.		DialogHintLineChapterFour+<Option8>d__27	MoveNext
+1505	Herman	I need another hint about getting back in my room.		DialogHintLineChapterFour+<Option8a>d__28	MoveNext
+264	Chiselton	You could climb outside the train, but you wouldn't want to do it without the right footwear!		DialogHintLineChapterFour+<Option8a>d__28	MoveNext
+1506	Herman	I need another hint about getting back in my room.		DialogHintLineChapterFour+<Option8b>d__29	MoveNext
+265	Chiselton	You'll need some proper suction to stay on top of the train. Think on your feet, Herman!		DialogHintLineChapterFour+<Option8b>d__29	MoveNext
+1507	Herman	I need another hint about getting back in my room.		DialogHintLineChapterFour+<Option8c>d__30	MoveNext
+266	Chiselton	If you could make a set of suction boots, that would provide enough adhesion to safely walk along the carriage roof.		DialogHintLineChapterFour+<Option8c>d__30	MoveNext
+1508	Herman	I need another hint about getting back in my room.		DialogHintLineChapterFour+<Option8d>d__31	MoveNext
+267	Chiselton	See if you can find a plunger or two. You could use them to whip up a pair of suction boots!		DialogHintLineChapterFour+<Option8d>d__31	MoveNext
+1509	Herman	I need another hint about getting back in my room.		DialogHintLineChapterFour+<Option8e>d__32	MoveNext
+268	Chiselton	There's a plunger in the kitchen, and another in the bathroom! You could use them to whip up a pair of suction boots!		DialogHintLineChapterFour+<Option8e>d__32	MoveNext
+1510	Herman	I have the plunger boots, what now?		DialogHintLineChapterFour+<Option9>d__33	MoveNext
+269	Chiselton	Get to the back of the train and climb that ladder!		DialogHintLineChapterFour+<Option9>d__33	MoveNext
+1511	Herman	I'll take it from here, thanks.		DialogHintLineChapterFour+<Option10>d__34	MoveNext
+1322	Herman	Are you still not performing on stage?		DialogTalkToBandChapterFour+<Option1>d__15	MoveNext
+11	BandSaxophone	Ah, we'll probably get back up there eventually.		DialogTalkToBandChapterFour+<Option1>d__15	MoveNext
+15	BandDrummer	I'm still feeling mighty demoralised, personally!		DialogTalkToBandChapterFour+<Option1>d__15	MoveNext
+56	Byron	Your true-blue determination was truly inspiring, however.		DialogTalkToBandChapterFour+<Option1>d__15	MoveNext
+1323	Herman	Are you saying I managed to inspire you?		DialogTalkToBandChapterFour+<Option1a>d__16	MoveNext
+57	Byron	Too right! You took that knife like a champ.		DialogTalkToBandChapterFour+<Option1a>d__16	MoveNext
+58	Byron	Barely batted an eye before you passed out!		DialogTalkToBandChapterFour+<Option1a>d__16	MoveNext
+59	Byron	Say, I reckon a new song's a-brewing!		DialogTalkToBandChapterFour+<Option1a>d__16	MoveNext
+16	BandDrummer	Yeah, I can feel it!		DialogTalkToBandChapterFour+<Option1a>d__16	MoveNext
+1324	Herman	A song about my bravery, you mean?		DialogTalkToBandChapterFour+<Option1a>d__16	MoveNext
+60	Byron	Yeah, Nah! Listen fellas, how about ''Butterfinger Blues''?		DialogTalkToBandChapterFour+<Option1a>d__16	MoveNext
+27	BandDrummer	That's not bad. I was thinking ''Gutterblade Groove''?		DialogTalkToBandChapterFour+<Option1a>d__16	MoveNext
+12	BandSaxophone	''Slippin' Steel Symphony''?		DialogTalkToBandChapterFour+<Option1a>d__16	MoveNext
+61	Byron	Yeah! Now you're talking!		DialogTalkToBandChapterFour+<Option1a>d__16	MoveNext
+1325	Herman	How's that song coming along?		DialogTalkToBandChapterFour+<Option1b>d__17	MoveNext
+13	BandSaxophone	The creative juices are flowing now!		DialogTalkToBandChapterFour+<Option1b>d__17	MoveNext
+28	BandDrummer	It definitely has legs, I can see the potential!		DialogTalkToBandChapterFour+<Option1b>d__17	MoveNext
+62	Byron	Yeah, right! It's gonna be a ripper of a song!		DialogTalkToBandChapterFour+<Option1b>d__17	MoveNext
+1346	Herman	Where did you learn about Knifey Stab Stab?		DialogTalkToBandChapterFour+<Option2>d__18	MoveNext
+88	Byron	From me ma, of course! We used to play it all the time back home.		DialogTalkToBandChapterFour+<Option2>d__18	MoveNext
+89	Byron	It was a riot! A real bonding moment, ya know!		DialogTalkToBandChapterFour+<Option2>d__18	MoveNext
+90	Byron	Would you believe that's the first time anyone's got hurt playing 'Knifey Stab Stab'?		DialogTalkToBandChapterFour+<Option2>d__18	MoveNext
+1347	Herman	I do find that hard to believe.		DialogTalkToBandChapterFour+<Option2>d__18	MoveNext
+91	Byron	Nah, yeah! Honest!		DialogTalkToBandChapterFour+<Option2>d__18	MoveNext
+92	Byron	Just a couple scratches here and there, of course!		DialogTalkToBandChapterFour+<Option2>d__18	MoveNext
+1326	Herman	Could you have a look at this horn? It's broken.		DialogTalkToBandChapterFour+<Option2a>d__19	MoveNext
+64	Byron	Crikey, Is this a hearing aid?		DialogTalkToBandChapterFour+<Option2a>d__19	MoveNext
+1327	Herman	It seems to produce a sound, regardless.		DialogTalkToBandChapterFour+<Option2a>d__19	MoveNext
+65	Byron	Not any more, check out the reed on this! It's knackered mate.		DialogTalkToBandChapterFour+<Option2a>d__19	MoveNext
+14	BandSaxophone	I reckon you'll need a replacement reed.		DialogTalkToBandChapterFour+<Option2a>d__19	MoveNext
+1328	Herman	Do you have a spare? It's rather urgent.		DialogTalkToBandChapterFour+<Option2a>d__19	MoveNext
+15	BandSaxophone	I've only got the one, and I need it for my sax!		DialogTalkToBandChapterFour+<Option2a>d__19	MoveNext
+1329	Herman	Couldn't I just borrow the reed? I'll bring it back!		DialogTalkToBandChapterFour+<Option2b>d__20	MoveNext
+16	BandSaxophone	You know it goes in your mouth, right? I don't think so.		DialogTalkToBandChapterFour+<Option2b>d__20	MoveNext
+66	Byron	I tell ya what, how about another round of ‘Knifey, Stab, Stab'?		DialogTalkToBandChapterFour+<Option2b>d__20	MoveNext
+1330	Herman	Uhh... I don't think that's such a good ide-		DialogTalkToBandChapterFour+<Option2b>d__20	MoveNext
+67	Byron	If you can beat me at ‘Knifey, Stab, Stab', we'll hand it over.		DialogTalkToBandChapterFour+<Option2b>d__20	MoveNext
+17	BandSaxophone	Byron, what about my sax? I need it!		DialogTalkToBandChapterFour+<Option2b>d__20	MoveNext
+68	Byron	The man said it was urgent, and we're not using it right now.		DialogTalkToBandChapterFour+<Option2b>d__20	MoveNext
+1331	Herman	I accept your challenge, let's play Knifey, Stab, Stab!		DialogTalkToBandChapterFour+<Option2c>d__21	MoveNext
+69	Byron	Good on ya, mate!		DialogTalkToBandChapterFour+<Option2c>d__21	MoveNext
+70	Byron	Uh... did you bring the knife back?		DialogTalkToBandChapterFour+<Option2c>d__21	MoveNext
+71	Byron	It was embedded in yer hand, last I saw it!		DialogTalkToBandChapterFour+<Option2c>d__21	MoveNext
+1332	Herman	Not to worry, I have it right here!		DialogTalkToBandChapterFour+<Option2c>d__21	MoveNext
+1333	Herman	I'd like a rematch!		DialogTalkToBandChapterFour+<Option2d>d__22	MoveNext
+72	Byron	Back for more, eh?		DialogTalkToBandChapterFour+<Option2d>d__22	MoveNext
+73	Byron	You must really want that mouthpiece!		DialogTalkToBandChapterFour+<Option2d>d__22	MoveNext
+1334	Herman	Fancy another round of Knifey, Stab, Stab?		DialogTalkToBandChapterFour+<Option2e>d__23	MoveNext
+74	Byron	This guy's a maniac!		DialogTalkToBandChapterFour+<Option2e>d__23	MoveNext
+29	BandDrummer	You got what you wanted already!		DialogTalkToBandChapterFour+<Option2e>d__23	MoveNext
+18	BandSaxophone	We're just going to stick to card games from now on.		DialogTalkToBandChapterFour+<Option2e>d__23	MoveNext
+1335	Herman	Do you have any leads on your missing set list?		DialogTalkToBandChapterFour+<Option3a>d__25	MoveNext
+20	BandSaxophone	Not yet, but we'll find them!		DialogTalkToBandChapterFour+<Option3a>d__25	MoveNext
+30	BandDrummer	Don't worry, they always return to the scene of the crime.		DialogTalkToBandChapterFour+<Option3a>d__25	MoveNext
+1233	Herman	I'll leave you to your game.		DialogTalkToBandChapterFour+<Option4>d__26	MoveNext
+55	Byron	See ya around.		DialogTalkToBandChapterFour+<Option4>d__26	MoveNext
+75	Byron	As the reigning champ, I'll go first.		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasOrdinaryKnife>d__28	MoveNext
+76	Byron	Watch and learn!		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasOrdinaryKnife>d__28	MoveNext
+0	BandSaxophone	Such speed!		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasOrdinaryKnife>d__28	MoveNext
+1	BandDrummer	Incredible control!		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasOrdinaryKnife>d__28	MoveNext
+77	Byron	I'd like to see ya beat that!		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasOrdinaryKnife>d__28	MoveNext
+1336	Herman	Alright, here goes nothing.		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasOrdinaryKnife>d__28	MoveNext
+22	BandSaxophone	You'll have to do better than that.		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasOrdinaryKnife>d__28	MoveNext
+32	BandDrummer	That was even slower than last time!		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasOrdinaryKnife>d__28	MoveNext
+78	BandDrummer	Unlucky, mate! Better luck next time.		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasOrdinaryKnife>d__28	MoveNext
+268	Herman	If I can't win playing by their rules, it's time to mix things up.		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasOrdinaryKnife>d__28	MoveNext
+23	BandSaxophone	He's so fast!		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+80	Byron	She's a slippery one!		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+33	BandDrummer	He's still got everything under cont-		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+79	Byron	Woahh, Nelly!		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+24	BandSaxophone	*Gasp*		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+35	BandDrummer	*Gasp*		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+81	Byron	CRIKEY!		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+82	Byron	That nearly went through me bleedin' hand!		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+34	BandDrummer	I think we need to stop playing this game, Byron!		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+1337	Herman	So...does that mean I win?		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+83	Byron	You got me on a technicality, but it's fair dinkum.		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+84	Byron	Fix the man's horn, he's won it fair and square.		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+25	BandSaxophone	Fine, give it here. I'll replace the reed.		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+26	BandSaxophone	There we go.		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+1338	Herman	Most appreciated.		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+85	Byron	Right, I think we should call it quits for now.		DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+1339	Herman	Did Mr Liu come back in here?		DialogTalkToBartenderChapterFour+<Option2>d__4	MoveNext
+85	Bartender	Jian? He was here earlier, but didn't stay long.		DialogTalkToBartenderChapterFour+<Option2>d__4	MoveNext
+86	Bartender	Seemed to ask a lot of questions about Lady Unterwald.		DialogTalkToBartenderChapterFour+<Option2>d__4	MoveNext
+1192	Herman	What kind of questions?		DialogTalkToBartenderChapterFour+<Option2>d__4	MoveNext
+87	Bartender	Her likes, dislikes, that kind of thing.		DialogTalkToBartenderChapterFour+<Option2>d__4	MoveNext
+88	Bartender	Between you and me, I think he's smitten!		DialogTalkToBartenderChapterFour+<Option2>d__4	MoveNext
+102	Bartender	Yeah I saw him, he seemed pretty annoyed.		DialogTalkToBartenderChapterFour+<Option2a>d__5	MoveNext
+103	Bartender	He had the doctor in tow, I think he was trying to calm Jian down.		DialogTalkToBartenderChapterFour+<Option2a>d__5	MoveNext
+104	Bartender	They went down the carriage, towards Lady Unterwald's quarters.		DialogTalkToBartenderChapterFour+<Option2a>d__5	MoveNext
+1340	Herman	Thanks!		DialogTalkToBartenderChapterFour+<Option2a>d__5	MoveNext
+817	Herman	What can you tell me about the missing idol?		DialogTalkToHirschChapterFour+<Option1>d__3	MoveNext
+184	Hirsch	It's modelled after Lady Unterwald's own hands, I remember that much.		DialogTalkToHirschChapterFour+<Option1>d__3	MoveNext
+185	Hirsch	We haven't convened a formal meeting for some time, but I'm sure it'll turn up!		DialogTalkToHirschChapterFour+<Option1>d__3	MoveNext
+818	Herman	Is there anything else you can tell me about the missing idol?		DialogTalkToHirschChapterFour+<Option2>d__4	MoveNext
+186	Hirsch	Let's see. I remember the idol feeling heavy in my hands.		DialogTalkToHirschChapterFour+<Option2>d__4	MoveNext
+187	Hirsch	There was definitely some weight to it!		DialogTalkToHirschChapterFour+<Option2>d__4	MoveNext
+819	Herman	Is this the hand idol you were looking for?		DialogTalkToHirschChapterFour+<Option3>d__5	MoveNext
+188	Hirsch	I believe that might be it! Hand it over to the fine gentlemen at the table.		DialogTalkToHirschChapterFour+<Option3>d__5	MoveNext
+820	Herman	What is this place, exactly?		DialogTalkToHirschChapterFour+<Option4>d__6	MoveNext
+189	Hirsch	We are... THE ORDER OF IDLE HANDS.		DialogTalkToHirschChapterFour+<Option4>d__6	MoveNext
+97	JianLiu	The name is appropriate. You can't get anything done!		DialogTalkToHirschChapterFour+<Option4>d__6	MoveNext
+77	HandshakeLeader	Now, now, Mr Liu. We're all trying our best.		DialogTalkToHirschChapterFour+<Option4>d__6	MoveNext
+821	Herman	The Order Of Idle Hands?		DialogTalkToHirschChapterFour+<Option5>d__7	MoveNext
+190	Hirsch	Think of us as the guiding hand of the Unterwald empire.		DialogTalkToHirschChapterFour+<Option5>d__7	MoveNext
+822	Herman	Listen, I don't do cults. Not again, not after last time.		DialogTalkToHirschChapterFour+<Option5>d__7	MoveNext
+191	Hirsch	We exist only to protect Lady Unterwald's interests, and actively work to keep things running smoothly.		DialogTalkToHirschChapterFour+<Option5>d__7	MoveNext
+823	Herman	I see. It all seems a bit... theatrical?		DialogTalkToHirschChapterFour+<Option5>d__7	MoveNext
+192	Hirsch	Yes, well... admittedly, we might have got a bit carried away.		DialogTalkToHirschChapterFour+<Option5>d__7	MoveNext
+824	Herman	What does Lady Unterwald think of the Order?		DialogTalkToHirschChapterFour+<Option6>d__8	MoveNext
+193	Hirsch	We decided it would be best if Lady Unterwald stayed unaware of our activities.		DialogTalkToHirschChapterFour+<Option6>d__8	MoveNext
+825	Herman	Don't you think all this subterfuge risks undermining her?		DialogTalkToHirschChapterFour+<Option6>d__8	MoveNext
+194	Hirsch	I want to be clear that Lady Unterwald still runs the show, we only wish to point her in the right direction.		DialogTalkToHirschChapterFour+<Option6>d__8	MoveNext
+195	Hirsch	I took a risk bringing you here, detective. I trust that you can be discreet? For all our sakes?		DialogTalkToHirschChapterFour+<Option6>d__8	MoveNext
+826	Herman	Hmm.		DialogTalkToHirschChapterFour+<Option6>d__8	MoveNext
+827	Herman	What's Jian Liu doing here?		DialogTalkToHirschChapterFour+<Option7>d__9	MoveNext
+196	Hirsch	Jian is one of us, or at least he was. I thought he'd left our order some time ago.		DialogTalkToHirschChapterFour+<Option7>d__9	MoveNext
+197	Hirsch	Regardless, he's called for a formal meeting and we must abide.		DialogTalkToHirschChapterFour+<Option7>d__9	MoveNext
+828	Herman	Never mind!		DialogTalkToHirschChapterFour+<Option8>d__10	MoveNext
+198	Hirsch	See you around, detective.		DialogTalkToHirschChapterFour+<Option8>d__10	MoveNext
+1349	Herman	How can I get into Arthur's quarters?		DialogTalkToLadyUnterwaldChapterFour+<Option1>d__3	MoveNext
+180	LadyUnterwald	Hm, maybe I shouldn't entrust such an important task to you.		DialogTalkToLadyUnterwaldChapterFour+<Option1>d__3	MoveNext
+1350	Herman	I can do it, I just need a gentle reminder!		DialogTalkToLadyUnterwaldChapterFour+<Option1>d__3	MoveNext
+181	LadyUnterwald	There's a fusebox in the sleeper carriage. You might be able to lure him out that way!		DialogTalkToLadyUnterwaldChapterFour+<Option1>d__3	MoveNext
+1351	Herman	Understood!		DialogTalkToLadyUnterwaldChapterFour+<Option1>d__3	MoveNext
+182	LadyUnterwald	And try to be discreet, will you? For heaven's sake.		DialogTalkToLadyUnterwaldChapterFour+<Option1>d__3	MoveNext
+1352	Herman	This seems rather underhanded, perhaps we should just come clean?		DialogTalkToLadyUnterwaldChapterFour+<Option2>d__4	MoveNext
+183	LadyUnterwald	Don't you start getting all soft on me now, detective!		DialogTalkToLadyUnterwaldChapterFour+<Option2>d__4	MoveNext
+184	LadyUnterwald	It's a temporary measure, we just need to tie up these loose ends.		DialogTalkToLadyUnterwaldChapterFour+<Option2>d__4	MoveNext
+1353	Herman	What about Jian's contact, aren't they going to be suspicious?		DialogTalkToLadyUnterwaldChapterFour+<Option2a>d__5	MoveNext
+185	LadyUnterwald	If you do your job properly, she'll be none the wiser!		DialogTalkToLadyUnterwaldChapterFour+<Option2a>d__5	MoveNext
+1354	Herman	I'm not so sure about this, Lady Unterwald!		DialogTalkToLadyUnterwaldChapterFour+<Option2b>d__6	MoveNext
+186	LadyUnterwald	You keep your mouth closed about this, Herman!		DialogTalkToLadyUnterwaldChapterFour+<Option2b>d__6	MoveNext
+187	LadyUnterwald	Whatever your feelings on the matter, we don't know who's listening!		DialogTalkToLadyUnterwaldChapterFour+<Option2b>d__6	MoveNext
+1355	Herman	It was an accident, you have to believe me!		DialogTalkToLadyUnterwaldChapterFour+<Option3>d__7	MoveNext
+189	LadyUnterwald	Do you think the authorities would find your story believable?		DialogTalkToLadyUnterwaldChapterFour+<Option3>d__7	MoveNext
+1356	Herman	Hm, perhaps not.		DialogTalkToLadyUnterwaldChapterFour+<Option3>d__7	MoveNext
+1357	Herman	I think I should get on with it.		DialogTalkToLadyUnterwaldChapterFour+<Option4>d__8	MoveNext
+190	LadyUnterwald	Make sure you get the job done!		DialogTalkToLadyUnterwaldChapterFour+<Option4>d__8	MoveNext
+1348	Herman	What's next for Balboa Swing?		DialogTalkToSusanneChapterFour+<Option1>d__11	MoveNext
+177	Susanne	Hmm. I don't put an awful lot of faith in planning, myself.		DialogTalkToSusanneChapterFour+<Option1>d__11	MoveNext
+178	Susanne	More often than not it seems you'll just end up disappointed.		DialogTalkToSusanneChapterFour+<Option1>d__11	MoveNext
+179	Susanne	I'm happy to keep making hay while the sun shines.		DialogTalkToSusanneChapterFour+<Option1>d__11	MoveNext
+1341	Herman	Could you have a look at this horn? It's broken.		DialogTalkToSusanneChapterFour+<Option1a>d__12	MoveNext
+168	Susanne	I wouldn't know anything about that, you'd be better off asking the band.		DialogTalkToSusanneChapterFour+<Option1a>d__12	MoveNext
+1342	Herman	I really need that mouthpiece!		DialogTalkToSusanneChapterFour+<Option1b>d__13	MoveNext
+169	Susanne	You're not winning on skill alone, looks like you'll need to elevate your chances!		DialogTalkToSusanneChapterFour+<Option1b>d__13	MoveNext
+1343	Narrator/Unknown	Do you think you could put in a good word for me with Beverly Moore?		DialogTalkToSusanneChapterFour+<Option2b>d__16	MoveNext
+170	Narrator/Unknown	I can certainly try!		DialogTalkToSusanneChapterFour+<Option2b>d__16	MoveNext
+171	Narrator/Unknown	She's not so easily persuaded, I think she prefers to go with her gut.		DialogTalkToSusanneChapterFour+<Option2b>d__16	MoveNext
+1344	Narrator/Unknown	Are you going to sing yet?		DialogTalkToSusanneChapterFour+<Option3>d__17	MoveNext
+172	Susanne	I'll sing alright, but I need my boys on stage with me.		DialogTalkToSusanneChapterFour+<Option3>d__17	MoveNext
+173	Susanne	When do you think you'll be ready, boys?		DialogTalkToSusanneChapterFour+<Option3>d__17	MoveNext
+175	Susanne	When do you think you'll be ready, boys?		DialogTalkToSusanneChapterFour+<Option3>d__17	MoveNext
+41	Byron	Sorry Suze, we're still fuming about our missing set list!		DialogTalkToSusanneChapterFour+<Option3>d__17	MoveNext
+86	Byron	Sorry Suze, we're still fuming about our missing set list!		DialogTalkToSusanneChapterFour+<Option3>d__17	MoveNext
+174	Byron	Looks like it's going to be a while.		DialogTalkToSusanneChapterFour+<Option3>d__17	MoveNext
+1345	Narrator/Unknown	Do you think you'll return to the stage soon?		DialogTalkToSusanneChapterFour+<Option3a>d__18	MoveNext
+87	Byron	Sorry Suze, we're still working out this new song!		DialogTalkToSusanneChapterFour+<Option3a>d__18	MoveNext
+176	Byron	Looks like it's going to be a while.		DialogTalkToSusanneChapterFour+<Option3a>d__18	MoveNext

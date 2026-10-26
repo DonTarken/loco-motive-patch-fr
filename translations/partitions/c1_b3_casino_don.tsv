@@ -1,0 +1,181 @@
+1	Cashier	Good evening, hun.		CharacterCashier+<OnInteractActOnePartOne>d__4	MoveNext
+2	Cashier	Do you have any winnings?		CharacterCashier+<OnInteractActOnePartOne>d__4	MoveNext
+779	Arthur	Oh, no I'm not the gambling type.		CharacterCashier+<OnInteractActOnePartOne>d__4	MoveNext
+3	Cashier	Well, bring any chips to me and I'll convert them into cash for you!		CharacterCashier+<OnInteractActOnePartOne>d__4	MoveNext
+1347	Arthur	As a matter of fact, I do.		CharacterCashier+<OnInteractActOnePartTwoFirstOccurrence>d__5	MoveNext
+6	Cashier	Great! How much do you want to exchange?		CharacterCashier+<OnInteractActOnePartTwoFirstOccurrence>d__5	MoveNext
+8	Cashier	Congratulations again on your big win.		CharacterCashier+<OnInteractActOnePartTwo>d__6	MoveNext
+781	Arthur	Thanks!		CharacterCashier+<OnInteractActOnePartTwo>d__6	MoveNext
+773	Arthur	Are you ignoring me?		CharacterCasinoEnforcerOne+<OnInteractActOneChapterOne>d__9	MoveNext
+774	Arthur	Hey.		CharacterCasinoEnforcerOne+<OnInteractActOneChapterOne>d__9	MoveNext
+5	CasinoEnforcerOne	Buzz off, kid.		CharacterCasinoEnforcerOne+<OnInteractActOneChapterOne>d__9	MoveNext
+6	CasinoEnforcerOne	I won't ask nicely again.		CharacterCasinoEnforcerOne+<OnInteractActOneChapterOne>d__9	MoveNext
+771	Arthur	I'd better not anger him further.		CharacterCasinoEnforcerOne+<OnInteractActOneChapterOne>d__9	MoveNext
+1451	Arthur	What did you do with Donny Donato?		CharacterCasinoEnforcerOne+<OnInteractActOneChapterTwo>d__10	MoveNext
+7	CasinoEnforcerOne	The casino cheat? He's been handled.		CharacterCasinoEnforcerOne+<OnInteractActOneChapterTwo>d__10	MoveNext
+1452	Arthur	Handled? That sounds ominous.		CharacterCasinoEnforcerOne+<OnInteractActOneChapterTwo>d__10	MoveNext
+1453	Arthur	What did you really do with Donny? Is he safe?		CharacterCasinoEnforcerOne+<OnInteractActOneChapterTwo>d__10	MoveNext
+8	CasinoEnforcerOne	You ask too many questions.		CharacterCasinoEnforcerOne+<OnInteractActOneChapterTwo>d__10	MoveNext
+9	CasinoEnforcerOne	Keep talking like that, maybe you'll find out first-hand.		CharacterCasinoEnforcerOne+<OnInteractActOneChapterTwo>d__10	MoveNext
+1455	Arthur	I'd better not.		CharacterCasinoEnforcerOne+<OnInteractActOneChapterTwo>d__10	MoveNext
+776	Arthur	Hi there.		CharacterCasinoEnforcerTwo+<OnInteractActOneChapterOne>d__9	MoveNext
+777	Arthur	Do you not want to talk to me?		CharacterCasinoEnforcerTwo+<OnInteractActOneChapterOne>d__9	MoveNext
+778	Arthur	Hello again, friend.		CharacterCasinoEnforcerTwo+<OnInteractActOneChapterOne>d__9	MoveNext
+8	CasinoEnforcerTwo	Don't push your luck, pal.		CharacterCasinoEnforcerTwo+<OnInteractActOneChapterOne>d__9	MoveNext
+9	CasinoEnforcerTwo	Now I'm starting to get mad.		CharacterCasinoEnforcerTwo+<OnInteractActOneChapterOne>d__9	MoveNext
+775	Arthur	Probably best to leave him alone.		CharacterCasinoEnforcerTwo+<OnInteractActOneChapterOne>d__9	MoveNext
+1456	Arthur	Where are you holding Donny Donato?		CharacterCasinoEnforcerTwo+<OnInteractActOneChapterTwo>d__10	MoveNext
+10	CasinoEnforcerTwo	He won't be a problem for the casino going forward.		CharacterCasinoEnforcerTwo+<OnInteractActOneChapterTwo>d__10	MoveNext
+1457	Arthur	Is Donny still aboard the train, at least?		CharacterCasinoEnforcerTwo+<OnInteractActOneChapterTwo>d__10	MoveNext
+11	CasinoEnforcerTwo	Were you a close associate of this casino cheat?		CharacterCasinoEnforcerTwo+<OnInteractActOneChapterTwo>d__10	MoveNext
+12	CasinoEnforcerTwo	Are you going to be a problem that needs solving?		CharacterCasinoEnforcerTwo+<OnInteractActOneChapterTwo>d__10	MoveNext
+1458	Arthur	No, that won't be necessary!		CharacterCasinoEnforcerTwo+<OnInteractActOneChapterTwo>d__10	MoveNext
+1459	Arthur	I really shouldn't bother them again.		CharacterCasinoEnforcerTwo+<OnInteractActOneChapterTwo>d__10	MoveNext
+83	Don	Beat it kid, can't you see I'm on a winning streak?		CharacterDon+<OnInteractActOneCasinoCarriage>d__33	MoveNext
+108	Don	Hey, while you're here, you could do me a little favour.		CharacterDon+<OnActOneGetPerfumedNote>d__44	MoveNext
+109	Don	You take this note and give it to that dame behind me, will ya?		CharacterDon+<OnActOneGetPerfumedNote>d__44	MoveNext
+683	Arthur	What is it?		CharacterDon+<OnActOneGetPerfumedNote>d__44	MoveNext
+110	Don	It's a proposal of sorts, requesting we both make tracks to my suite.		CharacterDon+<OnActOneGetPerfumedNote>d__44	MoveNext
+111	Don	You get my drift?		CharacterDon+<OnActOneGetPerfumedNote>d__44	MoveNext
+684	Arthur	I don't like the sound of that.		CharacterDon+<OnActOneGetPerfumedNote>d__44	MoveNext
+685	Arthur	Why is it so damp?		CharacterDon+<OnActOneGetPerfumedNote>d__44	MoveNext
+112	Don	I soaked it in perfume. You don't know squat about wooing a dame, do ya?		CharacterDon+<OnActOneGetPerfumedNote>d__44	MoveNext
+686	Arthur	Gross.		CharacterDon+<OnActOneGetPerfumedNote>d__44	MoveNext
+691	Arthur	I wouldn't want him to know that I borrowed it.		CharacterDon+<OnUseInvDonActOneMagnet>d__50	MoveNext
+692	Arthur	But, maybe I can use this to foil his scheme.		CharacterDon+<OnUseInvDonActOneMagnet>d__50	MoveNext
+694	Arthur	Well, I-		CharacterDon+<OnActOneReturnToDon>d__57	MoveNext
+120	Don	'Atta boy!		CharacterDon+<OnActOneReturnToDon>d__57	MoveNext
+121	Don	You just watch and learn now.		CharacterDon+<OnActOneReturnToDon>d__57	MoveNext
+122	Don	So, dollface. How about it?		CharacterDon+<OnActOneReturnToDon>d__57	MoveNext
+123	Don	I don't write love letters for every broad I see, you know. You should be grateful!		CharacterDon+<OnActOneReturnToDon>d__57	MoveNext
+5	Susanne	In that case, allow me to show you my gratitude.		CharacterDon+<OnActOneReturnToDon>d__57	MoveNext
+6	Susanne	See you around, Arthur.		CharacterDon+<OnActOneReturnToDon>d__57	MoveNext
+695	Arthur	Ahh, unrequited love.		CharacterDon+<OnActOneReturnToDon>d__57	MoveNext
+0	Mary	I'm feeling lucky.		CharacterHarold+<OnInteractActOne>d__5	MoveNext
+6	Harold	You said that last time!		CharacterHarold+<OnInteractActOne>d__5	MoveNext
+7	Harold	Trust me, I've got a system.		CharacterHarold+<OnInteractActOne>d__5	MoveNext
+0	Edna	That's what they all say.		CharacterHarold+<OnInteractActOne>d__5	MoveNext
+1	Edna	Who's the suit?		CharacterHarold+<OnInteractActOne>d__5	MoveNext
+1	Mary	You better not be bad luck, mister.		CharacterHarold+<OnInteractActOne>d__5	MoveNext
+314	Arthur	Let's try this one more time.		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+44	Arthur	You know, you're starting to feel like bad luck, kid!		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+45	Arthur	Step away from the table, pronto.		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+46	Don	I ain't messing around no more.		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+47	Don	All on red.		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+48	Don	All on black.		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+0	Harold	Bad luck old chap.		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+1	Harold	Never mind, at least you tried!		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+2	Harold	Oh dear!		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+49	Don	That's not possible!		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+50	Don	Uh, excuse me.		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+129	Don	Eegh!		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDonCaught>d__30	MoveNext
+130	Don	Oooh!		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDonCaught>d__30	MoveNext
+131	Don	Oww!		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDonCaught>d__30	MoveNext
+132	Don	Arghh!		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDonCaught>d__30	MoveNext
+133	Don	Alright, sto-		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDonCaught>d__30	MoveNext
+134	Don	Oooh! Ahhh!		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDonCaught>d__30	MoveNext
+144	Don	Ooh! Not the face!!		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDonCaught>d__30	MoveNext
+315	Arthur	Ouch.		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDonCaught>d__30	MoveNext
+316	Arthur	I guess the house always wins.		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDonCaught>d__30	MoveNext
+0	Narrator/Unknown	Psst.		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDemoEndScene>d__31	MoveNext
+1	Narrator/Unknown	Over here.		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDemoEndScene>d__31	MoveNext
+2	ElusiveHand	Right this way, sir.		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDemoEndScene>d__31	MoveNext
+322	Arthur	Uh, hello?		RoomCasinoCarriage+<OnInteractPropCurtainActOne>d__46	MoveNext
+7	Arthur	Oh boy.		RoomCasinoCarriage+<OnInteractPropCurtainActOne>d__46	MoveNext
+8	Arthur	It's ol' clammy hands again.		RoomCasinoCarriage+<OnInteractPropCurtainActOne>d__46	MoveNext
+0	James	I'm afraid the Reuss Express has been slipping in standards for some time now.		RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+0	James	But to have vermin aboard the train, have things really got so bad?		RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+0	James	I'm telling you, it was as big as a house cat!		RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+0	James	How revolting!		RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+1	James	I heard the Lady took a tumble on stage during her big speech.		RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+1	James	Oh my, I hope she's not too badly hurt!		RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+1	James	Hard to tell, they're keeping it all hush-hush.		RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+2	James	I heard Lady Unterwald's bumbling attorney lost her will and testament!		RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+1	James	Really? How awful!		RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+2	James	It was quite a sight to behold, apparently.		RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+2	James	He was chasing down the carriage after it!		RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+340	Narrator/Unknown	Sleeper Carriage.		RoomCasinoCarriage+<OnLookAtPropSignLActOne>d__84	MoveNext
+341	Narrator/Unknown	Kitchen Carriage.		RoomCasinoCarriage+<OnLookAtPropSignLActOne>d__84	MoveNext
+342	Narrator/Unknown	Kitchen Pantry.		RoomCasinoCarriage+<OnLookAtPropSignLActOne>d__84	MoveNext
+343	Narrator/Unknown	Service Carriages.		RoomCasinoCarriage+<OnLookAtPropSignLActOne>d__84	MoveNext
+327	Narrator/Unknown	I imagine it's a fun way to lose all your savings.		RoomCasinoCarriage+<OnLookAtPropStaticSlotMachineActOne>d__88	MoveNext
+0	Narrator/Unknown	You're half right, I'm not having much fun.		RoomCasinoCarriage+<OnLookAtPropStaticSlotMachineActOne>d__88	MoveNext
+333	Narrator/Unknown	I'm not sure I know the rules.		RoomCasinoCarriage+<OnLookAtPropRouletteTableActOne>d__92	MoveNext
+334	Narrator/Unknown	Besides, it makes me dizzy.		RoomCasinoCarriage+<OnLookAtPropRouletteTableActOne>d__92	MoveNext
+328	Narrator/Unknown	I wouldn't want to be the poor sap who has to dust a moving chandelier.		RoomCasinoCarriage+<OnLookAtPropChandeliersActOne>d__96	MoveNext
+329	Narrator/Unknown	''CHEATING STRICTLY PROHIBITED.''		RoomCasinoCarriage+<OnLookAtPropNoticeActOne>d__100	MoveNext
+330	Narrator/Unknown	''THERE IS TO BE NO: CARD-COUNTING, MONEY LAUNDERING, CHEATING THE SYSTEM, WINNING TOO FREQUENTLY, EXPLOITATION OF EVERYDAY ITEMS AND/OR NATURAL PHENOMENA.''		RoomCasinoCarriage+<OnLookAtPropNoticeActOne>d__100	MoveNext
+331	Narrator/Unknown	''RULE BREAKERS WILL FIND THEMSELVES IMMEDIATELY EJECTED FROM THE PREMISES.''		RoomCasinoCarriage+<OnLookAtPropNoticeActOne>d__100	MoveNext
+332	Cashier	Ejected?		RoomCasinoCarriage+<OnLookAtPropNoticeActOne>d__100	MoveNext
+0	Cashier	Oh yes, hun. Usually they go straight out the window.		RoomCasinoCarriage+<OnLookAtPropNoticeActOne>d__100	MoveNext
+337	Narrator/Unknown	Unterwald Carriages.		RoomCasinoCarriage+<OnLookAtPropSignRActOne>d__104	MoveNext
+153	Arthur	That should be all of them.		RoomDonQuarters+<OnEnterRoomAfterFadeActOneGrabbedDonChips>d__16	MoveNext
+165	Arthur	I better find somewhere to hide, and fast!		RoomDonQuarters+<OnEnterRoomAfterFadeActOneFailedToHideFromDon>d__17	MoveNext
+0	Don	This damn watch must be on the fritz.		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+1	Don	At this rate I'm gonna run out of chips!		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+2	Don	Wait a second...		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+4	Don	No, I've been robbed!		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+5	Don	So this is what it feels like...		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+6	Don	Okay, Don.		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+7	Don	The jig is up.		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+8	Don	I owe a lot of money.		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+9	Don	No need to panic.		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+10	Don	I can jump off at the next bend.		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+11	Don	Yeah, maybe cross at the border.		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+0	CasinoEnforcerOne	Greetings, Mr Donato.		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+0	CasinoEnforcerTwo	Might we ask to have a friendly chat.		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+1	CasinoEnforcerOne	About your most recent gambling activities?		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+12	Don	S-Sure thing.		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+1	CasinoEnforcerTwo	A most unscrupulous individual is gambling with counterfeit chips.		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+13	Don	F-Fake chips?		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+2	CasinoEnforcerOne	We suspect this individual has also taken a creative approach to magnetism.		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+2	CasinoEnforcerTwo	An unsanctioned use of physical phenomena.		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+14	Don	M-Magnetism?		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+3	CasinoEnforcerTwo	The capacity to attract and repulse forces between objects.		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+15	Don	I wouldn't know anything about that.		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+3	CasinoEnforcerOne	Then allow my associate to demonstrate...		RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+16	Don	Hey, who switched off the lights!		RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+18	Don	Between the two of us, I'm not the bad guy, y'hear?		RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+4	Bergmann	Ah, so it's all my fault.		RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+5	Bergmann	I suppose in your mind I bankrupted the company? I killed Lady Unterwald?		RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+6	Bergmann	Don't be so absurd. We're done here.		RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+20	Don	You're not done until I say so.		RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+21	Don	I have a feeling the authorities would find THIS very compelling.		RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+22	Don	...I killed Lady Unterwald.		RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+7	Bergmann	You've been RECORDING?!		RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+23	Don	When you're in my line of work you need a little insurance, y'know? Consider it an incentive to stay in line.		RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+24	Don	Besides, I've got a new scheme in play. I'm telling ya, Bergmann. I won't lose this time!		RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+8	Bergmann	You better be right.		RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+161	Arthur	It sounds like Bergmann has fallen in with the wrong crowd.		RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+162	Arthur	I should get my hands on that ledger in Lady Unterwald's quarters.		RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+171	Arthur	I'd better get out the way again.		RoomDonQuarters+<OnEnterRoomAfterFadeActOneChipStashReveal>d__31	MoveNext
+25	Don	Damn thievin' casino.		RoomDonQuarters+<OnEnterRoomAfterFadeActOneChipStashReveal>d__31	MoveNext
+26	Don	I'm supposed to be stealin' from them!		RoomDonQuarters+<OnEnterRoomAfterFadeActOneChipStashReveal>d__31	MoveNext
+27	Don	Eh, no matter.		RoomDonQuarters+<OnEnterRoomAfterFadeActOneChipStashReveal>d__31	MoveNext
+28	Don	Still got plenty of chips left.		RoomDonQuarters+<OnEnterRoomAfterFadeActOneChipStashReveal>d__31	MoveNext
+29	Don	Should be enough to get my winnings back.		RoomDonQuarters+<OnEnterRoomAfterFadeActOneChipStashReveal>d__31	MoveNext
+30	Don	And then some!		RoomDonQuarters+<OnEnterRoomAfterFadeActOneChipStashReveal>d__31	MoveNext
+158	Arthur	There's nothing in there I need.		RoomDonQuarters+<OnInteractPropCupboardActOne>d__49	MoveNext
+168	Arthur	That's a seriously powerful magnet.		RoomDonQuarters+<OnLookAtPropMagnetizerActOne>d__53	MoveNext
+182	Arthur	Ugh.		RoomDonQuarters+<OnLookAtPropPlateActOne>d__57	MoveNext
+183	Arthur	A bit garish for my taste, but this is the honeymoon suite.		RoomDonQuarters+<OnLookAtPropBedActOne>d__61	MoveNext
+189	Arthur	I guess Don's been winning big at the casino.		RoomDonQuarters+<OnLookAtPropChampagneActOne>d__69	MoveNext
+193	Arthur	I'll bet these look convincing with a lick of paint.		RoomDonQuarters+<OnLookAtPropWoodenChipsActOne>d__73	MoveNext
+210	Arthur	I have no clue what these are for, but I bet Don's up to something shady.		RoomDonQuarters+<OnLookAtPropWoodenChipsActOne>d__73	MoveNext
+264	Arthur	Don must be using these fraudulent chips to cheat in the casino.		RoomDonQuarters+<OnLookAtPropWoodenChipsActOne>d__73	MoveNext
+288	Arthur	Don was gambling with fraudulent chips, what a slimeball!		RoomDonQuarters+<OnLookAtPropWoodenChipsActOne>d__73	MoveNext
+469	Arthur	There are piles of wooden casino chips in these boxes.		RoomDonQuarters+<OnLookAtPropClosetWoodenChipsActOne>d__77	MoveNext
+470	Arthur	Seems like Don is stirring up trouble for the casino.		RoomDonQuarters+<OnLookAtPropClosetWoodenChipsActOne>d__77	MoveNext
+471	Arthur	Bergmann said Don was scamming the casino using magnetism and fake chips.		RoomDonQuarters+<OnLookAtPropClosetWoodenChipsActOne>d__77	MoveNext
+472	Arthur	These are all that's left of Don's gambling scheme.		RoomDonQuarters+<OnLookAtPropClosetWoodenChipsActOne>d__77	MoveNext
+711	Arthur	If I seal up these burrows, I'd have a better chance of catching the mouse.		RoomDonQuarters+<OnLookAtPropMouseHoleActOne>d__81	MoveNext
+194	Arthur	A tiny entrance for an unwanted guest.		RoomDonQuarters+<OnLookAtPropMouseHoleActOne>d__81	MoveNext
+196	Arthur	They've settled into quite a hypnotic pattern.		RoomDonQuarters+<OnLookAtPropMetalBallsActOne>d__85	MoveNext
+39	Don	You following me, kid?		RoomSleeperCarriage+<OnEnterRoomAfterFadeActOneDonReturningWithChips>d__25	MoveNext
+40	Don	Take a hike!		RoomSleeperCarriage+<OnEnterRoomAfterFadeActOneDonReturningWithChips>d__25	MoveNext
+224	Arthur	Where did he get all of those casino chips from?		RoomSleeperCarriage+<OnEnterRoomAfterFadeActOneDonReturningWithChips>d__25	MoveNext
+225	Arthur	He's always a step ahead.		RoomSleeperCarriage+<OnEnterRoomAfterFadeActOneDonReturningWithChips>d__25	MoveNext
+235	Arthur	I shouldn't open the door while he's in there.		RoomSleeperCarriage+<OnInteractPropDonDoorActOne>d__77	MoveNext
+236	Arthur	Don? Are you in there?		RoomSleeperCarriage+<OnInteractPropDonDoorActOne>d__77	MoveNext
+237	Arthur	I could let myself in and leave the keys inside.		RoomSleeperCarriage+<OnInteractPropDonDoorActOne>d__77	MoveNext
+240	Arthur	It's room 303.		RoomSleeperCarriage+<OnLookAtPropDonDoorActOne>d__105	MoveNext

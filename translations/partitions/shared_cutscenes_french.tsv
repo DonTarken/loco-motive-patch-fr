@@ -1,0 +1,498 @@
+﻿Id	Character	English	French	Class	Method
+898	Herman	Please, I just need more time!	De grâce, j'ai juste besoin d'un peu plus de temps !	CloseupArthurDevice+<OnEnterCloseupAfterFade>d__1	MoveNext
+56	PublisherFrank	We had an agreement, Herman.	Nous avions un accord, Herman.	CloseupArthurDevice+<OnEnterCloseupAfterFade>d__1	MoveNext
+57	PublisherFrank	I don't want to have to call off our deal.	Je n'aimerais pas avoir à annuler notre contrat.	CloseupArthurDevice+<OnEnterCloseupAfterFade>d__1	MoveNext
+899	Herman	It's not my fault!	Ce n'est pas de ma faute !	CloseupArthurDevice+<OnEnterCloseupAfterFade>d__1	MoveNext
+41	PublisherFlorence	You'll just have to figure it out! We believe in you.	Débrouillez-vous comme vous voulez ! Nous croyons en vous.	CloseupArthurDevice+<OnEnterCloseupAfterFade>d__1	MoveNext
+900	Herman	I have to go! It's not safe here!	Je dois filer ! Cet endroit n'est pas sûr !	CloseupArthurDevice+<OnEnterCloseupAfterFade>d__1	MoveNext
+7	Chiselton	The name's Dirk Chiselton, and you're under arrest!	Mon nom est Dirk Chiselton, et vous êtes en état d'arrestation !	CloseupChiseltonEntrance+<OnEnterCloseupAfterFade>d__2	MoveNext
+420	Diana	April, I've made contact with the informant.	April, le contact avec l'indicateur est établi.	CloseupDianaRadio+<OnEnterCloseupAfterFade>d__1	MoveNext
+421	Diana	I'm afraid we've hit a bit of a snag. Lady Unterwald was murdered.	Hélas, nous avons un fâcheux contretemps. Lady Unterwald a été assassinée.	CloseupDianaRadio+<OnEnterCloseupAfterFade>d__1	MoveNext
+422	Diana	Not only that, our informant isn't as sharp as our intelligence had me believe.	Et pour couronner le tout, notre indicateur est loin d'être aussi brillant que nos renseignements l'affirmaient.	CloseupDianaRadio+<OnEnterCloseupAfterFade>d__1	MoveNext
+42	April	Murdered? Diana, you need to get out of there.	Assassinée ? Diana, tu dois déguerpir de là sur-le-champ.	CloseupDianaRadio+<OnEnterCloseupAfterFade>d__1	MoveNext
+423	Diana	Not yet, you know I need to do this!	Pas encore, tu sais bien que je dois mener cette mission à bien !	CloseupDianaRadio+<OnEnterCloseupAfterFade>d__1	MoveNext
+43	April	Diana, it's your first mission in the field!	Diana, c'est ta toute première mission sur le terrain !	CloseupDianaRadio+<OnEnterCloseupAfterFade>d__1	MoveNext
+44	April	Please! You aren't equipped to face a killer.	Je t'en prie ! Tu n'es pas armée pour affronter un tueur.	CloseupDianaRadio+<OnEnterCloseupAfterFade>d__1	MoveNext
+424	Diana	I can still salvage this mission.	Je peux encore sauver cette mission.	CloseupDianaRadio+<OnEnterCloseupAfterFade>d__1	MoveNext
+528	Arthur	Wait, I see something!	Attendez, je vois quelque chose !	CloseupHeatingNapkin+<OnEnterCloseupAfterFade>d__1	MoveNext
+314	Herman	Ho ho! You've outdone yourself this time, old chap.	Ho ho ! Tu t'es surpassé cette fois-ci, mon vieux.	CloseupHermanDisguised+<OnEnterCloseupAfterFade>d__1	MoveNext
+24	Herman	Acclaimed novelist? Detective extraordinaire?	Romancier de renom ? Détective hors pair ?	CloseupHermanPose+<OnEnterCloseupAfterFade>d__1	MoveNext
+189	Don	It's all my fault...	Tout est de ma faute...	CloseupMiniRecorder+<OnEnterCloseupAfterFade>d__1	MoveNext
+190	Don	...I bankrupted the company.	...J'ai mis l'entreprise sur la paille.	CloseupMiniRecorder+<OnEnterCloseupAfterFade>d__1	MoveNext
+506	Diana	Lady Unterwald was right, the original will is here!	Lady Unterwald avait raison, l'authentique testament se trouve bien ici !	CloseupOriginalWill+<OnEnterCloseupAfterFade>d__2	MoveNext
+614	Arthur	What do you think of this?	Que pensez-vous de cela ?	GlobalScript+<ArthurShowItemDialogue>d__105	MoveNext
+615	Arthur	What do you think of this?	Que pensez-vous de cela ?	GlobalScript+<ArthurShowItemDialogue>d__105	MoveNext
+625	Arthur	What do you think of this?	Que pensez-vous de cela ?	GlobalScript+<ArthurShowItemDialogue>d__105	MoveNext
+632	Arthur	What do you think of this?	Que pensez-vous de cela ?	GlobalScript+<ArthurShowItemDialogue>d__105	MoveNext
+652	Arthur	What do you think of this?	Que pensez-vous de cela ?	GlobalScript+<ArthurShowItemDialogue>d__105	MoveNext
+706	Arthur	What do you think of this?	Que pensez-vous de cela ?	GlobalScript+<ArthurShowItemDialogue>d__105	MoveNext
+713	Arthur	What do you think of this?	Que pensez-vous de cela ?	GlobalScript+<ArthurShowItemDialogue>d__105	MoveNext
+754	Arthur	What do you think of this?	Que pensez-vous de cela ?	GlobalScript+<ArthurShowItemDialogue>d__105	MoveNext
+782	Arthur	What do you think of this?	Que pensez-vous de cela ?	GlobalScript+<ArthurShowItemDialogue>d__105	MoveNext
+1058	Arthur	Whatschup?	Quoi d'neuf ?	GlobalScript+<ArthurDrunkInteract>d__106	MoveNext
+1059	Arthur	Greetingschh.	Sssalutationsch...	GlobalScript+<ArthurDrunkInteract>d__106	MoveNext
+1060	Arthur	Howsschit going?	Comment cha va-t-y ?	GlobalScript+<ArthurDrunkInteract>d__106	MoveNext
+1061	Arthur	Can I asshk you a queshhtion?	J'peux vous poser une queshtion ?	GlobalScript+<ArthurDrunkInteract>d__106	MoveNext
+743	Arthur	Is that Lady Unterwald's date of birth?	Serait-ce la date de naissance de Lady Unterwald ?	GuiMedicalRecords+<WaitForShow>d__2	MoveNext
+744	Arthur	She certainly had a good run.	Elle a drôlement bien profité de la vie.	GuiMedicalRecords+<WaitForShow>d__2	MoveNext
+482	Herman	It's the set list for the band, Balboa Swing.	C'est le programme des morceaux du groupe Balboa Swing.	GuiSetList+<WaitForShow>d__0	MoveNext
+483	Herman	The songs are to be played in the following order.	Les morceaux doivent être joués dans l'ordre suivant.	GuiSetList+<WaitForShow>d__0	MoveNext
+484	Herman	Railroad Rhythm.	Railroad Rhythm.	GuiSetList+<OnSayCorrectSetListOrder>d__1	MoveNext
+485	Herman	Whistle Stop Swing.	Whistle Stop Swing.	GuiSetList+<OnSayCorrectSetListOrder>d__1	MoveNext
+486	Herman	Boxcar Boogie.	Boxcar Boogie.	GuiSetList+<OnSayCorrectSetListOrder>d__1	MoveNext
+487	Herman	My Love is on the Line.	My Love is on the Line.	GuiSetList+<OnSayCorrectSetListOrder>d__1	MoveNext
+488	Herman	Freight Train Blues.	Freight Train Blues.	GuiSetList+<OnSayCorrectSetListOrder>d__1	MoveNext
+155	Gunter	Gah!	Gah !	RoomBathroom+<OnEnterRoomAfterFade>d__11	MoveNext
+42	Gunter	I'm stuck!	Je suis coincé !	RoomBathroom+<OnEnterRoomAfterFade>d__11	MoveNext
+36	Hagen	The vent narrows too much, we can't get through.	Le conduit se rétrécit trop, impossible de passer.	RoomBathroom+<OnEnterRoomAfterFade>d__11	MoveNext
+301	Herman	I'll just add this to my collection.	Je vais simplement ajouter ceci à ma collection.	RoomBathroom+<OnInteractPropPlunger>d__27	MoveNext
+302	Herman	I'm sure they won't mind me taking this.	Je suis certain qu'on ne m'en voudra pas d'emprunter cela.	RoomBathroom+<OnInteractPropPlunger>d__27	MoveNext
+413	Herman	There's nothing in there to flush.	Il n'y a rien à évacuer là-dedans.	RoomBathroom+<OnInteractPropToilet>d__29	MoveNext
+30	Arista	You! Where have you been!	Vous ! Où étiez-vous passé !	RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+151	Arista	I'm sorry?	Pardon ?	RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+47	Arista	You said you're a detective, right?	Vous disiez être détective, n'est-ce pas ?	RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+184	Arista	I said I'm a novelist, I write detective novels.	J'ai dit que j'étais romancier, j'écris des romans policiers.	RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+48	Arista	That's close enough! I need your assistance, detective novelist!	C'est bonnet blanc et blanc bonnet ! J'ai besoin de votre aide, romancier détective !	RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+161	Arista	What's the problem?	Quel est le problème ?	RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+42	Arista	It's my boys!	Ce sont mes petits protégés !	RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+43	Arista	I sent them to eavesdro- I mean, repair that ventilation system!	Je les ai envoyés pour écouter aux por... enfin, pour réparer ce système de ventilation !	RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+45	Arista	They haven't come back.	Ils ne sont toujours pas revenus.	RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+132	Arista	They're stuck inside the ducts?	Ils sont coincés dans les conduits ?	RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+46	Arista	I could direct them back with my horn, but I blew it out last time.	Je pourrais les guider vers la sortie avec mon cornet, mais il a rendu l'âme la dernière fois.	RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+14	Arista	I should've known they'd get lost in there.	J'aurais dû me douter qu'ils se perdraient là-dedans.	RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+185	Herman	You need me to fix your hearing horn?	Vous voulez que je répare votre cornet acoustique ?	RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+50	Herman	They're always blowing into their brass instruments, they'll know what to do!	Ils n'arrêtent pas de souffler dans leurs cuivres, ils sauront quoi faire !	RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+186	Arista	Doesn't this thing go in your ear? I'm not su-	Cet engin ne se met-il pas dans votre oreille ? Je ne suis pas sû...-	RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+193	Narrator/Unknown	I'll see what I can do?	Je verrai ce que je peux faire ?	RoomCasinoCarriage+<OnStopDialogTalkToAristaAboutHorn>d__44	MoveNext
+51	Narrator/Unknown	Perfect! Come find me when you're done.	Parfait ! Retrouvez-moi quand vous aurez terminé.	RoomCasinoCarriage+<OnStopDialogTalkToAristaAboutHorn>d__44	MoveNext
+326	Arthur	It's kind of making me dizzy.	Ça me donne un peu le tournis.	RoomCasinoCarriage+<OnInteractPropRouletteTable>d__77	MoveNext
+611	Diana	That did the job!	Ça a fait l'affaire !	RoomCell+<OnEnterRoomAfterFade>d__87	MoveNext
+192	Don	Psst! Is that you, kid?	Psst ! C'est toi, fiston ?	RoomCell+<OnPlayerChangedArthurFirstOccurrence>d__89	MoveNext
+1599	Arthur	Don, is that you?	Don, c'est vous ?	RoomCell+<OnPlayerChangedArthurFirstOccurrence>d__89	MoveNext
+195	Don	Hah, I knew your voice sounded familiar!	Hah, je savais bien que cette voix m'était familière !	RoomCell+<OnPlayerChangedArthurFirstOccurrence>d__89	MoveNext
+196	Don	Don't tell me those casino goons got you too, huh?	Ne me dis pas que les gorilles du casino t'ont coincé toi aussi ?	RoomCell+<OnPlayerChangedArthurFirstOccurrence>d__89	MoveNext
+408	Herman	Argh, who is doing that obnoxious clicking?	Argh, qui est responsable de cet abominable cliquetis ?	RoomCell+<OnPlayerChangedHermanFirstOccurrence>d__90	MoveNext
+409	Herman	I can barely hear myself think!	Je m'entends à peine penser !	RoomCell+<OnPlayerChangedHermanFirstOccurrence>d__90	MoveNext
+548	Arthur	It won't budge!	Ça ne veut pas bouger !	RoomCell+<OnInteractPropArthurCellDoor>d__92	MoveNext
+1583	Arthur	I think that's reversed the flow of the water!	Je crois que ça a inversé le sens du courant d'eau !	RoomCell+<OnInteractPropValve>d__99	MoveNext
+1584	Arthur	There's nothing in there to flush. That'd be a waste of water!	Il n'y a rien à évacuer. Ce serait du pur gaspillage d'eau !	RoomCell+<OnInteractPropArthurToiletEmpty>d__101	MoveNext
+1585	Arthur	I've already sent something towards Diana's cell.	J'ai déjà expédié quelque chose vers la cellule de Diana.	RoomCell+<OnInteractPropArthurToiletDianaFull>d__102	MoveNext
+1669	Arthur	Something's coming your way, Diana!	Quelque chose arrive vers toi, Diana !	RoomCell+<OnInteractPropArthurToiletDiana>d__103	MoveNext
+1670	Arthur	Over to you, Diana!	À toi de jouer, Diana !	RoomCell+<OnInteractPropArthurToiletDiana>d__103	MoveNext
+1671	Arthur	I've sent something your way, Diana!	Je t'ai envoyé un truc, Diana !	RoomCell+<OnInteractPropArthurToiletDiana>d__103	MoveNext
+1586	Arthur	Hmm, I'm not sure that I'd trust Don with that item.	Hmm, je ne suis pas certain de pouvoir confier cet objet à Don.	RoomCell+<OnInteractPropArthurToiletDonUnwanted>d__104	MoveNext
+1587	Arthur	I probably shouldn't send that Don's way.	Je devrais sans doute éviter d'envoyer ça à Don.	RoomCell+<OnInteractPropArthurToiletDonUnwanted>d__104	MoveNext
+1588	Arthur	I'm not sure Don would get much use out of that.	Pas sûr que Don puisse en tirer grand-chose.	RoomCell+<OnInteractPropArthurToiletDonUnwanted>d__104	MoveNext
+1672	Arthur	Can Don be trusted with this? Probably not.	Peut-on faire confiance à Don avec ceci ? Probablement pas.	RoomCell+<OnInteractPropArthurToiletDonUnwanted>d__104	MoveNext
+1589	Arthur	I've already sent something to Don's cell.	J'ai déjà envoyé quelque chose dans la cellule de Don.	RoomCell+<OnInteractPropArthurToiletDonFull>d__105	MoveNext
+1673	Arthur	I've already sent something to Don's cell.	J'ai déjà envoyé quelque chose dans la cellule de Don.	RoomCell+<OnInteractPropArthurToiletDonFull>d__105	MoveNext
+1674	Arthur	I already sent an item Donny's way!	J'ai déjà expédié un objet à Donny !	RoomCell+<OnInteractPropArthurToiletDonFull>d__105	MoveNext
+1675	Arthur	Time to reunite Donny with an old friend!	Il est temps de réunir Donny et une vieille connaissance !	RoomCell+<OnSendMagneticBallToDon>d__107	MoveNext
+1590	Arthur	I sent something your way, Don.	Je vous ai envoyé quelque chose, Don.	RoomCell+<OnSendMagneticBallToDon>d__107	MoveNext
+173	Don	Alright, let's see what we got here...	Bien, voyons un peu ce qu'on a là...	RoomCell+<OnSendMagneticBallToDon>d__107	MoveNext
+174	Don	Ha ha! You're a miracle worker, kid!	Ha ha ! Tu es un faiseur de miracles, fiston !	RoomCell+<OnSendMagneticBallToDon>d__107	MoveNext
+175	Don	I'll still need one of you to distract that bozo outside, though.	Il me faudra quand même que l'un de vous fasse diversion auprès du clampin dehors.	RoomCell+<OnSendMagneticBallToDon>d__107	MoveNext
+177	Diana	There's nothing to flush.	Il n'y a rien à tirer.	RoomCell+<OnInteractPropDianaToiletEmpty>d__118	MoveNext
+178	Diana	That would be a waste of water.	Ce serait du gaspillage d'eau.	RoomCell+<OnInteractPropDianaToiletEmpty>d__118	MoveNext
+179	Diana	There's no use flushing, the bowl is empty.	Inutile de tirer la chasse, la cuvette est vide.	RoomCell+<OnInteractPropDianaToiletEmpty>d__118	MoveNext
+180	Diana	I've already sent something to Herman's cell.	J'ai déjà envoyé quelque chose vers la cellule d'Herman.	RoomCell+<OnInteractPropDianaToiletHermanFull>d__119	MoveNext
+181	Diana	Herman already has an item waiting for him.	Herman a déjà un objet qui l'attend.	RoomCell+<OnInteractPropDianaToiletHermanFull>d__119	MoveNext
+182	Diana	Something coming your way, Herman!	Un paquet en approche, Herman !	RoomCell+<OnInteractPropDianaToiletHerman>d__120	MoveNext
+183	Diana	Heads up, Herman!	Attention là-dessous, Herman !	RoomCell+<OnInteractPropDianaToiletHerman>d__120	MoveNext
+184	Diana	I'm sending something your way, Herman!	Je t'envoie quelque chose, Herman !	RoomCell+<OnInteractPropDianaToiletHerman>d__120	MoveNext
+185	Diana	I've already sent something to Arthur's cell.	J'ai déjà envoyé quelque chose vers la cellule d'Arthur.	RoomCell+<OnInteractPropDianaToiletArthurFull>d__121	MoveNext
+232	Diana	Arthur already has an item waiting for him.	Arthur a déjà un objet qui l'attend.	RoomCell+<OnInteractPropDianaToiletArthurFull>d__121	MoveNext
+268	Diana	I've sent something your way, Arthur!	Je t'ai envoyé un objet, Arthur !	RoomCell+<OnInteractPropDianaToiletArthur>d__122	MoveNext
+269	Diana	Heads up, Arthur!	Attention là-dessous, Arthur !	RoomCell+<OnInteractPropDianaToiletArthur>d__122	MoveNext
+270	Diana	Keep an eye out, Arthur! Something is coming your way!	Ouvre l'œil, Arthur ! Quelque chose arrive par le conduit !	RoomCell+<OnInteractPropDianaToiletArthur>d__122	MoveNext
+319	Herman	Hmm. There's a set of chains stuck down there.	Hmm. Il y a un jeu de chaînes coincé tout au fond.	RoomCell+<OnInteractPropHermanToiletFlushedChains>d__133	MoveNext
+320	Herman	I can't get the blockage free with my bare hands.	Impossible de débloquer ça à mains nues.	RoomCell+<OnInteractPropHermanToiletFlushedChains>d__133	MoveNext
+414	Herman	I'll flush when there's something worth flushing!	Je tirerai la chasse quand il y aura quelque chose qui en vaut la peine !	RoomCell+<OnInteractPropHermanToiletEmpty>d__134	MoveNext
+416	Herman	The bowl is empty, it's not worth flushing.	La cuvette est vide, inutile d'actionner la chasse.	RoomCell+<OnInteractPropHermanToiletEmpty>d__134	MoveNext
+417	Herman	Hmm, that item didn't seem to move.	Hmm, cet objet ne semble pas avoir bougé.	RoomCell+<OnInteractPropHermanToiletLeft>d__135	MoveNext
+418	Herman	No luck, the item didn't budge!	Pas de chance, l'objet n'a pas bougé d'un millimètre !	RoomCell+<OnInteractPropHermanToiletLeft>d__135	MoveNext
+536	Herman	It didn't move. The water must be flowing the wrong direction.	Rien n'a bougé. L'eau doit s'écouler dans la mauvaise direction.	RoomCell+<OnInteractPropHermanToiletLeft>d__135	MoveNext
+537	Herman	I've already sent something to Diana's cell.	J'ai déjà envoyé quelque chose vers la cellule de Diana.	RoomCell+<OnInteractPropHermanToiletDianaFull>d__136	MoveNext
+538	Herman	I've already sent an item Diana's way.	J'ai déjà expédié un objet en direction de Diana.	RoomCell+<OnInteractPropHermanToiletDianaFull>d__136	MoveNext
+549	Herman	Diana already has something waiting for her.	Diana a déjà quelque chose qui l'attend.	RoomCell+<OnInteractPropHermanToiletDianaFull>d__136	MoveNext
+653	Herman	Heads up, Diana!	Attention là-dessous, Diana !	RoomCell+<OnInteractPropHermanToiletDianaEmpty>d__137	MoveNext
+684	Herman	Something's coming your way, Diana!	Quelque chose arrive vers toi, Diana !	RoomCell+<OnInteractPropHermanToiletDianaEmpty>d__137	MoveNext
+710	Herman	Over to you, Diana!	À toi de jouer, Diana !	RoomCell+<OnInteractPropHermanToiletDianaEmpty>d__137	MoveNext
+711	Herman	Item coming your way, Diana!	Un objet arrive vers toi, Diana !	RoomCell+<OnInteractPropHermanToiletDianaEmpty>d__137	MoveNext
+103	HandshakeLeader	Your call is being forwarded to the Dirk Chiselton Hotline, please hold.	Votre appel est transféré vers la ligne directe de Dirk Chiselton, veuillez patienter.	RoomCellExterior+<OnInteractPropTelephone>d__41	MoveNext
+0	Chiselton	What do ya need?	Qu'est-ce qu'il te faut ?	RoomCellExterior+<OnInteractPropTelephone>d__41	MoveNext
+548	Herman	It's a photograph of a woman...	C'est la photographie d'une femme...	RoomDianaPhoto+<OnEnterRoomAfterFade>d__0	MoveNext
+645	Herman	Wait, there's something scrawled on the back.	Attendez, il y a une note griffonnée au dos.	RoomDianaPhoto+<OnInteractPropCloseupPhoto>d__1	MoveNext
+650	Herman	''Informant. Wear blue suit with red rosette for identification.''	« Indicateur. Porter un costume bleu avec une cocarde rouge pour être reconnu. »	RoomDianaPhoto+<OnInteractPropCloseupPhoto>d__1	MoveNext
+456	Diana	Good work, Arthur. I knew this wouldn't be a wasted trip.	Beau travail, Arthur. Je savais que ce voyage ne serait pas vain.	RoomDianaQuarters+<OnStopDialogGiveEvidenceToDiana>d__15	MoveNext
+457	Diana	See if you can find out any more information.	Voyez si vous pouvez dégoter d'autres informations.	RoomDianaQuarters+<OnStopDialogGiveEvidenceToDiana>d__15	MoveNext
+458	Diana	I'll continue to monitor the situation from here.	Je continuerai à surveiller la situation depuis ma cabine.	RoomDianaQuarters+<OnStopDialogGiveEvidenceToDiana>d__15	MoveNext
+1227	Arthur	What are these for?	À quoi servent-elles ?	RoomDianaQuarters+<OnInteractPropWireReel>d__19	MoveNext
+397	Diana	They're blank reels for the wire recorder.	Ce sont des bobines vierges pour l'enregistreur à fil.	RoomDianaQuarters+<OnInteractPropWireReel>d__19	MoveNext
+1229	Arthur	Mind if I take one?	Ça vous ennuie si j'en prends une ?	RoomDianaQuarters+<OnInteractPropWireReel>d__19	MoveNext
+36	Diana	I need to know I can trust you, Arthur.	J'ai besoin de savoir si je peux vous faire confiance, Arthur.	RoomDianaQuarters+<OnInteractPropWireReel>d__19	MoveNext
+37	Diana	Have you managed to find anything?	Avez-vous réussi à mettre la main sur quelque chose ?	RoomDianaQuarters+<OnInteractPropWireReel>d__19	MoveNext
+398	Diana	Sure, go ahead.	Bien sûr, servez-vous.	RoomDianaQuarters+<OnInteractPropWireReel>d__19	MoveNext
+450	Arthur	Whee!	Youpi !	RoomDianaQuarters+<OnInteractPropLamp>d__29	MoveNext
+452	Arthur	Uh-oh!	Oh-oh !	RoomDiningCarriage+<OnEnterRoomAfterFadeDrunkRetrieveWill>d__26	MoveNext
+453	Arthur	Itsh moved towardss the sshleeper carriagess.	Cha ss'est envolé verss les wagonss-litss.	RoomDiningCarriage+<OnEnterRoomAfterFadeDrunkRetrieveWill>d__26	MoveNext
+454	Arthur	If I could jussht get it back, i'm schure it'd hold sschome answerss.	Ssi j'pouvais jusste le rattraper, chuis ssûr qu'il donnerait dess réponsess.	RoomDiningCarriage+<OnEnterRoomAfterFadeDrunkRetrieveWill>d__26	MoveNext
+2	Bartender	I'd have some of that coffee, if I were you.	Je prendrais bien un peu de ce café, à votre place.	RoomDiningCarriage+<OnEnterRoomAfterFadeSoberUp>d__27	MoveNext
+807	Arthur	I'll jusht have a sship.	J'vais jusste en boire une petite gorgée.	RoomDiningCarriage+<OnEnterRoomAfterFadeSoberUp>d__27	MoveNext
+808	Arthur	Ooh, that's shtrongg!	Ouh là, c'est drôlement corssé !	RoomDiningCarriage+<OnEnterRoomAfterFadeSoberUp>d__27	MoveNext
+289	Arthur	Don dropped his keys in the commotion.	Don a laissé tomber son trousseau de clés dans la bousculade.	RoomDiningCarriage+<OnInteractPropDonnyKeysProp>d__35	MoveNext
+290	Arthur	I really should return them to him.	Je devrais vraiment le lui rendre.	RoomDiningCarriage+<OnInteractPropDonnyKeysProp>d__35	MoveNext
+292	Arthur	No, I can't lose it again!	Non, je ne peux pas le perdre à nouveau !	RoomDiningCarriage+<OnInteractPropWill>d__38	MoveNext
+294	Arthur	It's moved towards the sleeper carriages.	Il est parti en direction des voitures-lits.	RoomDiningCarriage+<OnInteractPropWill>d__38	MoveNext
+287	Arthur	If I can get that will back, it might hold some answers.	Si je parviens à récupérer ce testament, il pourrait m'apporter des réponses.	RoomDiningCarriage+<OnInteractPropWill>d__38	MoveNext
+295	Arthur	What's this?	Qu'est-ce que c'est ?	RoomDiningCarriage+<OnInteractPropRecorker>d__40	MoveNext
+3	Bartender	It's a recorker.	C'est une reboucheuse.	RoomDiningCarriage+<OnInteractPropRecorker>d__40	MoveNext
+4	Bartender	It reseals opened bottles.	Ça permet de reboucher les bouteilles entamées.	RoomDiningCarriage+<OnInteractPropRecorker>d__40	MoveNext
+297	Arthur	Can I borrow it?	Puis-je vous l'emprunter ?	RoomDiningCarriage+<OnInteractPropRecorker>d__40	MoveNext
+5	Bartender	I guess.	J'imagine que oui.	RoomDiningCarriage+<OnInteractPropRecorker>d__40	MoveNext
+249	Herman	Ah! This must be what Don was looking for.	Ah ! C'est sans doute ce que cherchait Don.	RoomDiningCarriage+<OnInteractPropMagnet>d__44	MoveNext
+307	Arthur	I'll just take one.	Je vais simplement en prendre un.	RoomDiningCarriage+<OnInteractPropLemons>d__51	MoveNext
+543	Arthur	That's a lot of contraband.	Voilà qui fait un sacré paquet de contrebande.	RoomDonCasinoChips+<OnEnterRoomAfterFade>d__1	MoveNext
+544	Arthur	Yoink!	Et hop !	RoomDonCasinoChips+<OnInteractPropCasinoChips>d__2	MoveNext
+152	Arthur	Oh, I guess he's not in here.	Oh, je suppose qu'il n'est pas là.	RoomDonQuarters+<OnEnterRoomAfterFadeBeforeWitnessedMeeting>d__12	MoveNext
+154	Arthur	This is where Donny put his gambling scheme into motion.	C'est ici que Donny a orchestré saCombine de jeu.	RoomDonQuarters+<OnEnterRoomAfterFadeReachedConfrontedBergmann>d__13	MoveNext
+155	Arthur	Donny?	Donny ?	RoomDonQuarters+<OnEnterRoomAfterFadeReachedDonCaught>d__14	MoveNext
+157	Arthur	Hmm. Those goons from the casino must have taken him away.	Hmm. Ces brutes du casino ont dû l'emmener de force.	RoomDonQuarters+<OnEnterRoomAfterFadeReachedDonCaught>d__14	MoveNext
+156	Arthur	No time for that!	Pas le temps pour ça !	RoomDonQuarters+<OnInteractArthurHidePanicDialogue>d__20	MoveNext
+167	Arthur	No time for that now!	Pas le temps de m'occuper de ça maintenant !	RoomDonQuarters+<OnInteractArthurHidePanicDialogue>d__20	MoveNext
+178	Arthur	I don't have much time!	Je n'ai que très peu de temps !	RoomDonQuarters+<OnInteractArthurHidePanicDialogue>d__20	MoveNext
+188	Arthur	That won't help me.	Ça ne me sera d'aucun secours.	RoomDonQuarters+<OnInteractArthurHidePanicDialogue>d__20	MoveNext
+159	Arthur	I won't fit in there!	Je ne rentrerai jamais là-dedans !	RoomDonQuarters+<OnInteractPropCloset>d__22	MoveNext
+163	Arthur	I really should check that drawer before leaving.	Je devrais impérativement fouiller ce tiroir avant de partir.	RoomDonQuarters+<OnEnterRegionToSleeperCarriage>d__27	MoveNext
+209	Arthur	Uh oh, someone's coming!	Oh oh, quelqu'un arrive !	RoomDonQuarters+<OnEnterRegionTriggerTimerSequence>d__28	MoveNext
+166	Arthur	He'll see me if I leave, I need to hide.	Il me verra si je sors, je dois me cacher.	RoomDonQuarters+<OnEnterRegionTriggerTimerSequence>d__28	MoveNext
+207	Arthur	Hmm, I probably shouldn't steal this unless I really need it.	Hmm, je ferais mieux de ne pas chiper ça à moins d'une absolue nécessité.	RoomDonQuarters+<OnInteractPropMagnetizer>d__30	MoveNext
+170	Arthur	I'm sure Don won't mind if I borrow this.	Je suis certain que Don ne m'en voudra pas de lui emprunter.	RoomDonQuarters+<OnInteractPropMagnetizer>d__30	MoveNext
+172	Arthur	Looks like I'll need another wire reel to record anything new.	On dirait qu'il me faut une autre bobine de fil pour enregistrer quoi que ce soit d'autre.	RoomDonQuarters+<OnInteractPropRecorder>d__33	MoveNext
+177	Arthur	The secret panel was right around here.	Le panneau secret se trouvait juste par ici.	RoomDonQuarters+<OnInteractPropSecretPanel>d__35	MoveNext
+199	Arthur	Aha! Let's take a look.	Aha ! Jetons un œil.	RoomDonQuarters+<OnInteractPropSecretPanel>d__35	MoveNext
+198	Arthur	There's no way I'm getting in that bed.	Hors de question que je me mette dans ce lit.	RoomDonQuarters+<OnInteractPropBed>d__43	MoveNext
+468	Arthur	Don left his poetry book behind, I should keep it safe for him.	Don a oublié son recueil de poésie, je ferais bien de le lui garder au chaud.	RoomDonQuarters+<OnInteractPropBook>d__47	MoveNext
+64	JianLiu	Time's up!	Le temps est écoulé !	RoomExteriorCarriage+<OnStopDialogMrLiuShowdown>d__4	MoveNext
+65	JianLiu	Goodbye Mr Ackerman.	Adieu, monsieur Ackerman.	RoomExteriorCarriage+<OnStopDialogMrLiuShowdown>d__4	MoveNext
+66	JianLiu	What on earth are you doing?	Mais que diable êtes-vous en train de faire ?	RoomExteriorCarriage+<OnStopDialogMrLiuShowdown>d__4	MoveNext
+2	BandDrummer	He's back!	Le revoilà !	RoomGreenRoom+<OnEnterRoomAfterFadeAfterSustainedInjury>d__48	MoveNext
+6	Byron	There he is!	Ah, le voilà !	RoomGreenRoom+<OnEnterRoomAfterFadeAfterSustainedInjury>d__48	MoveNext
+7	Byron	Back for more are ya?	De retour pour en reprendre une couche, hein ?	RoomGreenRoom+<OnEnterRoomAfterFadeAfterSustainedInjury>d__48	MoveNext
+1	BandSaxophone	Hey, get over here.	Hé, viens par ici.	RoomGreenRoom+<OnEnterRoomAfterFadeAfterSustainedInjury>d__48	MoveNext
+8	Byron	How's the paw holding up? All good?	Comment va la papatte ? Tout roule ?	RoomGreenRoom+<OnEnterRoomAfterFadeAfterSustainedInjury>d__48	MoveNext
+626	Herman	A little sore, but fine, all things considered!	Un peu endolorie, mais tout va bien, tout bien considéré !	RoomGreenRoom+<OnEnterRoomAfterFadeAfterSustainedInjury>d__48	MoveNext
+434	Herman	I worked wonders to get back here, I can't leave now!	J'ai remué ciel et terre pour revenir ici, je ne vais pas repartir maintenant !	RoomGreenRoom+<OnEnterRegionToLoungeCarriageNotSpokenToAnyone>d__51	MoveNext
+444	Herman	Hm. I should see if the band has answers before I make my exit.	Hm. Je devrais vérifier si les musiciens ont des réponses avant de m'éclipser.	RoomGreenRoom+<OnEnterRegionToLoungeCarriageNotSpokenToBand>d__52	MoveNext
+0	Byron	Are you leaving already?	Tu t'en vas déjà ?	RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjury>d__53	MoveNext
+445	Herman	I'm afraid I have other lines of enquiry.	J'ai bien peur d'avoir d'autres pistes à explorer.	RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjury>d__53	MoveNext
+1	Byron	Nah! Why don't you play one round of 'Knifey, Stab, Stab' with us?	Mais non ! Pourquoi tu ne ferais pas une partie du jeu du couteau avec nous ?	RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjury>d__53	MoveNext
+0	BandDrummer	Come on, we haven't had a new player in a while!	Allez, on n'a pas eu de nouveau joueur depuis un bail !	RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjury>d__53	MoveNext
+2	Byron	Go onnnn!	Allez, viens quoi !	RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjury>d__53	MoveNext
+448	Herman	Fine. What sort of game is it?	Soit. De quel genre de jeu s'agit-il ?	RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryAskedAboutKnifeGame>d__54	MoveNext
+3	Byron	Here, I'll go first.	Regarde, je commence.	RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryAskedAboutKnifeGame>d__54	MoveNext
+450	Herman	Fine. What sort of card game is it?	Très bien. De quel genre de jeu de cartes s'agit-il ?	RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryNotAskedAboutKnifeGame>d__55	MoveNext
+10	Byron	Card game?	Jeu de cartes ?	RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryNotAskedAboutKnifeGame>d__55	MoveNext
+11	Byron	You're playing with the big boys, now! You better watch and learn!	Tu joues dans la cour des grands, maintenant ! Ouvre bien les yeux et apprends !	RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+13	Byron	Haha, not a scratch on me!	Haha, pas la moindre égratignure !	RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+32	Byron	Alright, show us what you've got.	À toi de jouer, montre-nous ce que tu as dans le ventre.	RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+459	Herman	Ah. I think I've changed my mind.	Ah. J'ai bien l'impression d'avoir changé d'avis.	RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+33	Byron	Naah, go on. Just give it a try!	Mais non, lance-toi. Tente ta chance !	RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+461	Herman	So far, so good.	Jusqu'ici, tout va bien.	RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+34	Byron	You're a natural!	Tu as ça dans le sang !	RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+463	Herman	It's easier than it looks!	C'est bien plus facile qu'il n'y paraît !	RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+35	Byron	Blimey, it's gone in like a hot knife through butter!	Nom d'un chien, c'est rentré comme dans du beurre !	RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+464	Herman	Is that... blood?	Est-ce là... du sang ?	RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+465	Herman	I'm feeling a little woozy.	Je me sens un tantinet patraque.	RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+1149	Herman	I'd like to initiate another emergency vote!	J'aimerais lancer un nouveau vote d'urgence !	RoomHandshakeClub+<EmergencyVoteOnInitiate>d__19	MoveNext
+128	JianLiu	Once again, I must stress the time-sensitive nature of our decision!	Une fois de plus, je me dois d'insister sur le caractère éminemment urgent de notre décision !	RoomHandshakeClub+<EmergencyVoteOnInitiate>d__19	MoveNext
+107	HandshakeLeader	Very good, all those in favour?	Très bien, que ceux qui sont pour se manifestent ?	RoomHandshakeClub+<EmergencyVoteOnInitiate>d__19	MoveNext
+241	Hirsch	Aye!	Pour !	RoomHandshakeClub+<EmergencyVoteOnInitiate>d__19	MoveNext
+57	SisterGretchen	Aye!	Pour !	RoomHandshakeClub+<EmergencyVoteOnInitiate>d__19	MoveNext
+64	BrotherBrian	Aye!	Pour !	RoomHandshakeClub+<EmergencyVoteOnInitiate>d__19	MoveNext
+75	BrotherJared	Aye!	Pour !	RoomHandshakeClub+<EmergencyVoteOnInitiate>d__19	MoveNext
+108	HandshakeLeader	And all those against?	Et tous ceux qui sont contre ?	RoomHandshakeClub+<EmergencyVoteOnInitiate>d__19	MoveNext
+129	JianLiu	Nay!	Contre !	RoomHandshakeClub+<EmergencyVoteOnInitiate>d__19	MoveNext
+19	Masson	W-Whhm?	G-Grmbl ?	RoomHandshakeClub+<EmergencyVoteBeforeGaveMrMassonTheSoup>d__20	MoveNext
+104	HandshakeLeader	Well, that provided no more clarity than our previous vote.	Eh bien, cela ne nous éclaire pas plus que le vote précédent.	RoomHandshakeClub+<EmergencyVoteBeforeGaveMrMassonTheSoup>d__20	MoveNext
+67	Masson	Aiyeeeee!	Aiyeeeee !	RoomHandshakeClub+<EmergencyVoteAfterGaveMrMassonTheSoup>d__21	MoveNext
+129	HandshakeLeader	The ayes have it!	Les pour l'emportent !	RoomHandshakeClub+<EmergencyVoteAfterGaveMrMassonTheSoup>d__21	MoveNext
+130	HandshakeLeader	It seems we have come to an agreement.	Il semble que nous soyons parvenus à un accord.	RoomHandshakeClub+<EmergencyVoteAfterGaveMrMassonTheSoup>d__21	MoveNext
+131	HandshakeLeader	Sorry, Jian. We'll do things by the book here.	Désolé, Jian. Nous ferons les choses selon les règles établies.	RoomHandshakeClub+<EmergencyVoteAfterGaveMrMassonTheSoup>d__21	MoveNext
+136	JianLiu	I've tried things your way, but it is clear my efforts here have been fruitless.	J'ai essayé votre méthode, mais il est clair que mes efforts sont restés vains.	RoomHandshakeClub+<EmergencyVoteAfterGaveMrMassonTheSoup>d__21	MoveNext
+137	JianLiu	I see now that I must take matters into my own hands!	Je comprends à présent que je dois prendre les choses en main personnellement !	RoomHandshakeClub+<EmergencyVoteAfterGaveMrMassonTheSoup>d__21	MoveNext
+225	Herman	Well, that sounded ominous.	Eh bien, voilà qui sonnait plutôt inquiétant.	RoomHandshakeClub+<EmergencyVoteAfterGaveMrMassonTheSoup>d__21	MoveNext
+34	Hirsch	My word, I'll catch up with him before he does anything rash!	Bonté divine, je vais le rattraper avant qu'il ne commette l'irréparable !	RoomHandshakeClub+<EmergencyVoteAfterGaveMrMassonTheSoup>d__21	MoveNext
+429	Arthur	I sshould ask Mr Masson if he's scheeen that briefcashhe.	J'devrais d'mander à M'sieur Masson s'il a vu chette mallette.	RoomHandshakeClub+<OnEnterRegionToCasinoCarriage>d__23	MoveNext
+380	Arthur	It's a corked up mouse burrow.	C'est un terrier de souris hermétiquement bouché.	RoomHandshakeClub+<OnInteractPropCorkedMouseHole>d__28	MoveNext
+535	Arthur	It's Lady Unterwald's will, it must have travelled down the carriages!	C'est le testament de Lady Unterwald, il a dû dériver le long des wagons !	RoomHermanExterior+<OnEnterRoomAfterFade>d__6	MoveNext
+195	Arthur	Aha! I've got you this time!	Aha ! Je te tiens cette fois !	RoomHermanQuarters+<OnInteractPropWindow>d__27	MoveNext
+202	Arthur	No! Don't you dare!	Non ! Ne fais pas ça !	RoomHermanQuarters+<OnInteractPropWindow>d__27	MoveNext
+204	Arthur	I don't think I should open another window after last time. Not without good reason.	Je ne devrais pas ouvrir une autre fenêtre après ce qui s'est passé. Pas sans une excellente raison.	RoomHermanQuarters+<OnInteractPropWindow>d__27	MoveNext
+30	Diana	What happened last time?	Que s'est-il passé la dernière fois ?	RoomHermanQuarters+<OnInteractPropWindow>d__27	MoveNext
+205	Arthur	I don't want to talk about it.	Je préfère ne pas en parler.	RoomHermanQuarters+<OnInteractPropWindow>d__27	MoveNext
+147	Arthur	I think... it's working!	Je crois que... ça marche !	RoomHermanQuarters+<OnInteractPropArthurWiggle>d__33	MoveNext
+7	Hagen	What's with all the wriggling?	Pourquoi tous ces gigotements ?	RoomHermanQuarters+<OnInteractPropArthurWiggle>d__33	MoveNext
+7	Gunter	You weren't trying to escape, were you?	Tu n'essayais pas de te faire la malle, au moins ?	RoomHermanQuarters+<OnInteractPropArthurWiggle>d__33	MoveNext
+148	Arthur	No, of course not!	Non, bien sûr que non !	RoomHermanQuarters+<OnInteractPropArthurWiggle>d__33	MoveNext
+8	Gunter	Good, because that would be very bad for us!	Tant mieux, parce que ça barderait sérieusement pour notre matricule !	RoomHermanQuarters+<OnInteractPropArthurWiggle>d__33	MoveNext
+135	Diana	Someone left out one of those pneumatic tube pods.	Quelqu'un a laissé traîner l'une de ces capsules pour tube pneumatique.	RoomInlandRevenueHQ+<OnInteractPropCanister>d__40	MoveNext
+136	Diana	This could come in handy!	Ça pourrait s'avérer utile !	RoomInlandRevenueHQ+<OnInteractPropCanister>d__40	MoveNext
+140	Diana	You might not be perfect, but I'll take any help I can get!	Tu n'es peut-être pas parfait, mais je prends toute l'aide qui se présente !	RoomInlandRevenueHQ+<OnInteractPropMouse>d__42	MoveNext
+141	Diana	You're coming with me, Agent M!	Tu viens avec moi, Agent M !	RoomInlandRevenueHQ+<OnInteractPropMouse>d__42	MoveNext
+62	April	Haha! Listen to this kitty roar!	Haha ! Écoute un peu rugir le moteur !	RoomInlandRevenueHQ+<OnInteractPropMotorbike>d__62	MoveNext
+43	PhilatelyStamp	Ladies! What on earth are you doing!?	Mesdemoiselles ! Que diable fabriquez-vous là ?!	RoomInlandRevenueHQ+<OnInteractPropMotorbike>d__62	MoveNext
+227	Diana	Apologies, Mr Stamp. Our mission awaits!	Toutes nos excuses, monsieur Stamp. Notre devoir nous appelle !	RoomInlandRevenueHQ+<OnInteractPropMotorbike>d__62	MoveNext
+44	PhilatelyStamp	Don't you dare, Diana Osterhagen!	N'osez même pas y songer, Diana Osterhagen !	RoomInlandRevenueHQ+<OnInteractPropMotorbike>d__62	MoveNext
+45	PhilatelyStamp	P-Please, think of the paperwork involved!	J-Je vous en supplie, songez à la montagne de paperasse !	RoomInlandRevenueHQ+<OnInteractPropMotorbike>d__62	MoveNext
+63	April	See you later, Phil!	À plus tard, Phil !	RoomInlandRevenueHQ+<OnInteractPropMotorbike>d__62	MoveNext
+47	PhilatelyStamp	*Groans*	*Gémissement*	RoomInlandRevenueHQ+<OnInteractPropMotorbike>d__62	MoveNext
+48	PhilatelyStamp	I'm going to be in a lot of trouble.	Je vais m'attirer les pires ennuis du monde.	RoomInlandRevenueHQ+<OnInteractPropMotorbike>d__62	MoveNext
+21	Quartermaster	Hrmm-hmm.	Hrmm-hmm.	RoomInlandRevenueHQ+<OnInteractPropMotorbike>d__62	MoveNext
+25	Quartermaster	Thank you for calling Inland Revenue support. Your call is being forwarded to the hint department, please hold.	Merci d'avoir contacté l'assistance du fisc. Votre appel est transféré au service des indices, ne quittez pas.	RoomInlandRevenueHQ+<OnInteractPropTelephone>d__74	MoveNext
+747	Diana	We have a hint department?	Nous avons un service des indices ?	RoomInlandRevenueHQ+<OnInteractPropTelephone>d__74	MoveNext
+147	Diana	Nothing happened. I must be missing something.	Rien ne s'est produit. Il doit me manquer un élément.	RoomInlandRevenueHQ+<OnInteractPropButtonUnloaded>d__83	MoveNext
+205	Diana	Ready for a little adventure, Agent M?	Prêt pour une petite aventure, Agent M ?	RoomInlandRevenueHQ+<OnInteractPropButtonMouseCanister>d__85	MoveNext
+171	Diana	Psst! Agent M, grab me one of those wiring kits!	Psst ! Agent M, attrape-moi un de ces kits de câblage !	RoomInlandRevenueHQ+<OnInteractPropButtonMouseCanister>d__85	MoveNext
+172	Diana	A little more to the left!	Encore un tout petit peu sur la gauche !	RoomInlandRevenueHQ+<OnInteractPropButtonMouseCanister>d__85	MoveNext
+173	Diana	That's it! Bring it over here!	C'est ça ! Rapporte-le par ici !	RoomInlandRevenueHQ+<OnInteractPropButtonMouseCanister>d__85	MoveNext
+174	Diana	Come to Diana!	Viens voir Diana !	RoomInlandRevenueHQ+<OnInteractPropButtonMouseCanister>d__85	MoveNext
+518	Arthur	They won't mind if I borrow these.	Ils ne m'en voudront pas si je leur emprunte ceci.	RoomKitchenCarriage+<OnInteractPropOvenGloves>d__101	MoveNext
+20	ChefRemy	Leave that tap alone!	Laissez ce robinet tranquille !	RoomKitchenCarriage+<OnInteractPropTap>d__112	MoveNext
+21	ChefRemy	Is that necessary, inspector?	Est-ce bien nécessaire, inspecteur ?	RoomKitchenCarriage+<OnInteractPropTap>d__112	MoveNext
+234	Herman	I'm just checking the taps.	Je ne fais que vérifier les robinets.	RoomKitchenCarriage+<OnInteractPropTap>d__112	MoveNext
+226	Herman	They won't mind if I borrow this.	On ne m'en voudra pas d'emprunter ceci.	RoomKitchenCarriage+<OnInteractPropButter>d__113	MoveNext
+235	Herman	I'm not going to touch this while the grill is on.	Je ne vais pas toucher à ça pendant que le grill est allumé.	RoomKitchenCarriage+<OnInteractPropValve>d__114	MoveNext
+27	ChefFrancois	Does anyone else smell gas?	Est-ce que quelqu'un d'autre sent le gaz ?	RoomKitchenCarriage+<OnInteractPropValve>d__114	MoveNext
+236	Herman	I was just checking the valve. All seems to be in working order!	Je vérifiais simplement la vanne. Tout semble en parfait état de marche !	RoomKitchenCarriage+<OnInteractPropValve>d__114	MoveNext
+22	ChefRemy	Hey, leave that alone!	Hé, pas touche à ça !	RoomKitchenCarriage+<OnInteractPropSinkPlunger>d__115	MoveNext
+238	Herman	I'll just add this to my collection.	Je vais simplement ajouter ceci à ma collection.	RoomKitchenCarriage+<OnInteractPropSinkPlunger>d__115	MoveNext
+239	Herman	I'm sure they won't miss a plunger.	Une ventouse de moins ne leur manquera certainement pas.	RoomKitchenCarriage+<OnInteractPropSinkPlunger>d__115	MoveNext
+13	ChefAntoine	Mon dieu, get away from there!	Mon Dieu, éloignez-vous de là !	RoomKitchenCarriage+<OnInteractPropHobKnob>d__118	MoveNext
+14	ChefAntoine	Inspector! Do not touch that.	Inspecteur ! Ne touchez pas à cela.	RoomKitchenCarriage+<OnInteractPropHobKnob>d__118	MoveNext
+15	ChefAntoine	Please, inspector! She is sensitive!	De grâce, inspecteur ! Elle est hypersensible !	RoomKitchenCarriage+<OnInteractPropHobKnob>d__118	MoveNext
+16	ChefAntoine	Mon dieu ! Leave Fiammetta alone!	Mon Dieu ! Laissez Fiammetta tranquille !	RoomKitchenCarriage+<OnInteractPropHobKnob>d__118	MoveNext
+17	ChefAntoine	I told you not to touch her, inspector!	Je vous avais dit de ne pas la toucher, inspecteur !	RoomKitchenCarriage+<OnInteractPropHobKnob>d__118	MoveNext
+18	ChefAntoine	Fiammetta won't like that!	Fiammetta ne va pas du tout apprécier !	RoomKitchenCarriage+<OnInteractPropHobKnob>d__118	MoveNext
+24	Gunter	*Gasp!*	*Halètement !*	RoomLoungeCarriage+<BackgroundGunterShock>d__46	MoveNext
+5	Hirsch	*Gasp!*	*Halètement !*	RoomLoungeCarriage+<BackgroundHirschShock>d__47	MoveNext
+475	Arthur	She's right there!	Elle est juste là !	RoomLoungeCarriage+<OnInteractPropHearingHorn>d__52	MoveNext
+373	Arthur	It's moved towards the dining carriage.	Il est parti en direction de la voiture-restaurant.	RoomLoungeCarriage+<OnInteractPropWill>d__66	MoveNext
+138	Herman	It's the set list for the band.	C'est la liste des morceaux pour le groupe.	RoomLoungeCarriage+<OnInteractPropSetList>d__74	MoveNext
+139	Herman	I'm sure they won't mind me borrowing it.	Je suis sûr que ça ne les dérangera pas si je l'emprunte.	RoomLoungeCarriage+<OnInteractPropSetList>d__74	MoveNext
+140	Herman	I might be able to swipe it.	Je pourrais peut-être la chiper en douce.	RoomLoungeCarriage+<OnInteractPropGuestList>d__75	MoveNext
+2	StageManager	The guest list stays on that wall, buddy.	La liste des invités reste affichée sur cette cloison, mon pote.	RoomLoungeCarriage+<OnInteractPropGuestList>d__75	MoveNext
+3	StageManager	Don't even think about it!	N'y songe même pas !	RoomLoungeCarriage+<OnInteractPropGuestList>d__75	MoveNext
+782	Herman	Sorry, George. I need this more than you do.	Désolé, George. J'en ai bien plus besoin que vous.	RoomMansionInterior+<OnInteractPropBasementWireReel>d__67	MoveNext
+487	Diana	The system is empty at the moment.	Le système est vide pour le moment.	RoomMansionInterior+<OnInteractPropStudyPneumaticTubeEmpty>d__73	MoveNext
+486	Diana	There's a package ready to be requested, I'll take it.	Un paquet est disponible sur demande, je le prends.	RoomMansionInterior+<OnInteractPropStudyPneumaticTubeFull>d__74	MoveNext
+1719	Arthur	Drat, it's empty!	Flûte, c'est vide !	RoomMansionInterior+<OnInteractPropLibraryPneumaticTubeEmpty>d__94	MoveNext
+1720	Arthur	I'll just request the inbound package!	Je vais simplement réclamer le paquet en attente !	RoomMansionInterior+<OnInteractPropLibraryPneumaticTubeFull>d__95	MoveNext
+1761	Arthur	''Ode To Lemon Cake''	« Ode au gâteau au citron »	RoomMansionInterior+<OnInteractPropLibraryGramophoneRecord>d__116	MoveNext
+1762	Arthur	Huh. I think Lady Unterwald recorded herself on this vinyl!	Tiens donc. Je crois que Lady Unterwald s'est enregistrée sur ce disque vinyle !	RoomMansionInterior+<OnInteractPropLibraryGramophoneRecord>d__116	MoveNext
+491	Diana	Let's give this a listen, shall we?	Écoutons un peu ce que ça donne, d'accord ?	RoomMansionInterior+<OnInteractPropStudyBigSafe>d__130	MoveNext
+492	Diana	Six...	Six...	RoomMansionInterior+<OnInteractPropStudyBigSafe>d__130	MoveNext
+493	Diana	That's a click on three...	Voilà un clic sur le trois...	RoomMansionInterior+<OnInteractPropStudyBigSafe>d__130	MoveNext
+494	Diana	Almost there...	On y est presque...	RoomMansionInterior+<OnInteractPropStudyBigSafe>d__130	MoveNext
+495	Diana	I think I got it!	Je crois que je tiens le bon bout !	RoomMansionInterior+<OnInteractPropStudyBigSafe>d__130	MoveNext
+496	Diana	Huh. That was almost too easy!	Tiens. C'était presque trop facile !	RoomMansionInterior+<OnInteractPropStudyBigSafe>d__130	MoveNext
+497	Diana	Oh, blast.	Oh, misère.	RoomMansionInterior+<OnInteractPropStudyBigSafe>d__130	MoveNext
+921	Herman	I don't want to be caught by those ghastly twins.	Je ne tiens pas à me faire pincer par ces effroyables jumeaux.	RoomMansionInterior+<OnEnterRegionToBoilerRoom>d__147	MoveNext
+922	Herman	Better keep my distance.	Mieux vaut garder mes distances.	RoomMansionInterior+<OnEnterRegionToBoilerRoom>d__147	MoveNext
+1396	Herman	Nothing happened, it must be empty.	Rien ne s'est passé, il doit être vide.	RoomMansionInterior+<OnInteractPropBasementPneumaticTubeEmpty>d__178	MoveNext
+1397	Herman	Aha, what do we have here?	Aha, qu'avons-nous là ?	RoomMansionInterior+<OnInteractPropBasementPneumaticTubeFull>d__179	MoveNext
+1398	Herman	Success!	Victoire !	RoomMansionInterior+<OnInteractPropBasementPneumaticTubeFull>d__179	MoveNext
+1399	Herman	Requesting item... there we go!	Demande d'envoi de l'objet en cours... et voilà !	RoomMansionInterior+<OnInteractPropBasementPneumaticTubeFull>d__179	MoveNext
+105	HandshakeLeader	Your call is being forwarded to the Dirk Chiselton Hotline, please hold.	Votre appel est transféré vers la ligne directe de Dirk Chiselton, veuillez patienter.	RoomMansionInterior+<OnInteractPropTelephone>d__191	MoveNext
+914	Herman	It's so hot, I'm melting over here!	Il fait si chaud, je suis en train de fondre sur place !	RoomMansionInterior+<OnEnterRegionWaxMeltRadiusSuccess>d__202	MoveNext
+81	Arista	Make a break for the door, boys!	Foncez vers la sortie, les garçons !	RoomMansionLobby+<BackgroundAristaPleading>d__26	MoveNext
+68	April	You'd better think of something, quick!	Tu ferais bien de trouver une idée, et vite !	RoomMotorbikeExterior+<BackgroundAprilCalloutOne>d__10	MoveNext
+69	April	I don't know how long I can keep this up!	Je ne tiendrai pas cette cadence indéfiniment !	RoomMotorbikeExterior+<BackgroundAprilCalloutTwo>d__11	MoveNext
+70	April	Come on, just a little bit closer!	Allez, encore un tout petit effort pour se rapprocher !	RoomMotorbikeExterior+<BackgroundAprilCalloutThree>d__12	MoveNext
+72	April	You definitely have a plan, right?	Tu as un plan en tête, dis-moi que oui ?	RoomMotorbikeExterior+<BackgroundAprilCalloutFive>d__14	MoveNext
+73	April	We're already at maximum speed!	Nous sommes déjà à pleine vitesse !	RoomMotorbikeExterior+<BackgroundAprilCalloutSix>d__15	MoveNext
+74	April	We'll need to boost our speed somehow!	Il va falloir booster notre allure d'une manière ou d'une autre !	RoomMotorbikeExterior+<BackgroundAprilCalloutSeven>d__16	MoveNext
+65	Herman	I best be off!	Je ferais mieux de lever le camp !	RoomPantry+<OnEnterRoomAfterFadeWearingDisguise>d__7	MoveNext
+1292	Arthur	What's this doing here?	Qu'est-ce que cela fabrique ici ?	RoomPantry+<OnInteractPropWalkingCane>d__8	MoveNext
+531	Arthur	Can't catch a mouse without cheese.	On n'attrape pas de souris sans fromage.	RoomPantry+<OnInteractPropCheese>d__9	MoveNext
+13	PublisherThomas	Hey, hands off!	Hé, bas les pattes !	RoomPublisherOffice+<OnInteractPropStationeryKit>d__24	MoveNext
+285	Herman	I'll just grab a cup of water.	Je vais simplement prendre un gobelet d'eau.	RoomPublisherOffice+<OnInteractPropPaperCup>d__25	MoveNext
+291	Herman	Waste not, want not!	Il n'y a pas de petites économies !	RoomPublisherOffice+<OnInteractPropRubbish>d__40	MoveNext
+420	Herman	Allow me to pitch my latest manuscript, I think you'll be pleasantly surprised!	Permettez-moi de vous présenter mon dernier manuscrit, je crois que vous serez agréablement surpris !	RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+27	PublisherFrank	We'll be the judge of that.	C'est nous qui en jugerons.	RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+20	PublisherFrank	Now this is more like it, Herman!	Ah, voilà qui commence à ressembler à quelque chose, Herman !	RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+29	PublisherFrank	Herman Merman, dare I say it? I'm impressed!	Herman Merman, osé-je le dire ? Je suis impressionné !	RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+16	PublisherFlorence	He's rough and daring, but he has a soft, caring side. Well done, Herman!	Il est rude et intrépide, mais doté d'un cœur d'or et plein de tendresse. Chapeau bas, Herman !	RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+20	PublisherFlorence	This may even compare to Chiselton's best work, no doubt about it!	Cela pourrait bien rivaliser avec les meilleurs opus de Chiselton, aucun doute là-dessus !	RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+23	PublisherThomas	Now that's what I'm talking about, a classic silly Herman adventure!	Ah, c'est exactement ce que j'espérais, une bonne vieille aventure loufoque à la Herman !	RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+27	PublisherThomas	The narrative is a little pedestrian at first, but then it really digs its hooks in!	L'intrigue démarre timidement, mais elle finit par nous ferrer sans pitié !	RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+21	PublisherFlorence	Are you sure we can't check with the board, just in case?	Êtes-vous certaine qu'on ne devrait pas consulter le conseil d'administration, juste au cas où ?	RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+64	Board	ARRRRRGGGGHHHH!	ARRRRRGGGGHHHH !	RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+28	PublisherThomas	I think those were noises of approval? I really can't tell!	Je suppose que c'étaient des râles d'approbation ? Difficile à dire !	RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+30	PublisherFrank	Alright, we've got something here. Let's make it happen, Herman!	Très bien, nous tenons une pépite. Concrétisons cette affaire, Herman !	RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+22	PublisherFlorence	What do you need from us, Herman?	De quoi avez-vous besoin de notre part, Herman ?	RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+421	Herman	I was wondering if I could get paid in advance?	Je me demandais si je pouvais toucher une avance sur droits ?	RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+24	PublisherFlorence	You didn't tell me he was funny!	Vous ne m'aviez pas dit qu'il avait de l'humour !	RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+54	PublisherThomas	One moment, Herman.	Un instant, Herman.	RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+422	Herman	I don't believe so.	Je ne crois pas, non.	RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+424	Herman	Oh! Indeed?	Oh ! Vraiment ?	RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+425	Herman	Of course! Thank you for the opportunity, Lady Unterwald!	Bien évidemment ! Merci pour cette opportunité, Lady Unterwald !	RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+426	Herman	Ladies and Gentlemen, it appears I have a train to catch.	Mesdames et messieurs, il semblerait bien que j'aie un train à prendre.	RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+427	Herman	But you shall have your story!	Mais vous aurez votre histoire !	RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+32	PublisherFrank	Yuck, too much romance for my taste!	Pouah, beaucoup trop d'eau de rose à mon goût !	RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+34	PublisherFrank	Oh, another one of your wacky adventures, Herman?	Oh, encore une de vos aventures farfelues, Herman ?	RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+60	PublisherFrank	Here, Florence. What do you think?	Tenez, Florence. Qu'en pensez-vous ?	RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+42	PublisherFlorence	Oof, too many explosions for my tastes!	Ouf, bien trop d'explosions à mon goût !	RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+44	PublisherFlorence	Yep, this looks like yet another silly Herman adventure.	Ouaip, ça m'a tout l'air d'une autre aventure saugrenue signée Herman.	RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+46	PublisherFlorence	He's rough and daring, but he has a soft, caring side. Well done, Herman!	Il est rude et intrépide, mais doté d'un cœur d'or et plein de tendresse. Chapeau bas, Herman !	RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+43	PublisherFlorence	What say you, Thomas?	Qu'en dites-vous, Thomas ?	RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+60	PublisherThomas	My word, this is a lot more violent than your usual stuff, Herman.	Bonté divine, c'est nettement plus violent que vos écrits habituels, Herman.	RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+61	PublisherThomas	I think I preferred the classic silly Herman adventures!	Je crois que je préférais vos histoires gentiment idiotes d'antan !	RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+62	PublisherThomas	Ew, it's too lovey-dovey for me.	Beurk, c'est bien trop mielleux pour moi.	RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+26	PublisherFrank	Sorry, Herman, we don't think this script is a good fit for us right now.	Désolé, Herman, nous ne pensons pas que ce manuscrit corresponde à notre ligne éditoriale actuelle.	RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+18	PublisherFlorence	If you have anything else you'd like to pitch, we'd be happy to hear it!	Si vous avez d'autres projets à nous soumettre, nous serions ravis de les étudier !	RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+64	PublisherThomas	Take this back, and give it another go.	Reprenez cela, et remettez-vous à l'ouvrage.	RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+266	Herman	I already have some packing popcorn.	J'ai déjà du maïs soufflé de calage.	RoomPublisherOffice+<OnInteractPropPopcorn>d__54	MoveNext
+274	Herman	I'll just take a handful.	Je vais simplement en prendre une poignée.	RoomPublisherOffice+<OnInteractPropPopcorn>d__54	MoveNext
+290	Herman	It's where all the incoming mail eventually ends up.	C'est là que tout le courrier entrant finit par atterrir.	RoomPublisherOfficeInTray+<OnEnterRoomAfterFade>d__20	MoveNext
+451	Arthur	I don't think that would be a good idea.	Je ne pense pas que ce soit une idée très judicieuse.	RoomRooftopAccess+<OnInteractPropLadder>d__7	MoveNext
+283	Herman	There's no way I'm getting up there, I'll lose my footing!	Hors de question que je monte là-haut, je vais perdre pied !	RoomRooftopAccess+<OnInteractPropLadder>d__7	MoveNext
+117	Diana	Run, Arthur!	Fuyez, Arthur !	RoomRooftopEscape+<OnEnterRoomAfterFade>d__2	MoveNext
+1666	Arthur	What happened?	Que s'est-il passé ?	RoomRooftopEscape+<OnEnterRoomAfterFade>d__2	MoveNext
+1667	Arthur	Is that Bergmann?	Est-ce Bergmann ?	RoomRooftopEscape+<OnEnterRoomAfterFade>d__2	MoveNext
+118	Diana	I just filled that hatch with explosives!	Je viens de bourrer cette trappe d'explosifs !	RoomRooftopEscape+<OnEnterRoomAfterFade>d__2	MoveNext
+1668	Arthur	How long do we have?	Combien de temps avons-nous ?	RoomRooftopEscape+<OnEnterRoomAfterFade>d__2	MoveNext
+119	Diana	I'm guessing about fifteen seconds or so!	Une quinzaine de secondes, je dirais !	RoomRooftopEscape+<OnEnterRoomAfterFade>d__2	MoveNext
+541	Arthur	Ah.	Ah.	RoomSealedLetter+<OnEnterRoomAfterFade>d__4	MoveNext
+542	Arthur	I can't see anything without the light.	Impossible d'y voir goutte sans lumière.	RoomSealedLetter+<OnEnterRoomAfterFade>d__4	MoveNext
+106	LadyUnterwald	Dear Arthur, please report to me at your earliest convenience.	« Cher Arthur, veuillez me rejoindre dès que possible. »	RoomSealedLetter+<OpenLetter>d__8	MoveNext
+107	LadyUnterwald	I have further amendments to make to my estate before the big announcement tonight.	« J'ai d'autres amendements à apporter à ma succession avant la grande annonce de ce soir. »	RoomSealedLetter+<OpenLetter>d__8	MoveNext
+540	Arthur	Eh, I'll read the rest of this later.	Bah, je lirai la suite plus tard.	RoomSealedLetter+<OpenLetter>d__8	MoveNext
+222	Arthur	Looks like Don is heading this way.	On dirait que Don se dirige par ici.	RoomSleeperCarriage+<OnEnterRoomAfterFade>d__20	MoveNext
+223	Arthur	They seemed pretty annoyed. I'll come back later.	Ils avaient l'air passablement agacés. Je repasserai plus tard.	RoomSleeperCarriage+<OnEnterRoomAfterFade>d__20	MoveNext
+57	Herman	I've made it to the sleeper carriage. If I can get to my quarters...	Je suis arrivé à la voiture-lits. Si je pouvais gagner mes quartiers...	RoomSleeperCarriage+<OnEnterRoomWearingDisguise>d__22	MoveNext
+14	Hagen	It's locked, what do you think?	C'est fermé à clé, tu en dis quoi ?	RoomSleeperCarriage+<OnEnterRoomWearingDisguise>d__22	MoveNext
+17	Gunter	We could break down the door, or wait here.	On pourrait défoncer la porte, ou attendre ici.	RoomSleeperCarriage+<OnEnterRoomWearingDisguise>d__22	MoveNext
+15	Hagen	See if that snooping detective comes crawling back.	Pour voir si ce fouineur de détective ramène sa fraise.	RoomSleeperCarriage+<OnEnterRoomWearingDisguise>d__22	MoveNext
+18	Gunter	Oh, good evening, ma'am!	Oh, bonsoir, madame !	RoomSleeperCarriage+<OnEnterRegionHermanQuarters>d__23	MoveNext
+63	Herman	G-Good evening.	B-Bonsoir.	RoomSleeperCarriage+<OnEnterRegionHermanQuarters>d__23	MoveNext
+64	Herman	I was just passing by.	Je ne faisais que passer.	RoomSleeperCarriage+<OnEnterRegionHermanQuarters>d__23	MoveNext
+19	Gunter	There's nothing untoward going on here.	Il ne se passe rien d'anormal par ici.	RoomSleeperCarriage+<OnEnterRegionHermanQuarters>d__23	MoveNext
+16	Hagen	We seem to have misplaced our keys, that's all!	Nous semblons avoir égaré nos clés, c'est tout !	RoomSleeperCarriage+<OnEnterRegionHermanQuarters>d__23	MoveNext
+66	Herman	I can't risk getting to my quarters the usual way, I'll have to find another route!	Je ne peux pas risquer d'entrer dans ma cabine par la voie normale, je dois trouver un autre chemin !	RoomSleeperCarriage+<OnEnterRegionHermanQuarters>d__23	MoveNext
+251	Arthur	That letter sounded important.	Cette lettre avait l'air importante.	RoomSleeperCarriage+<OnEnterRegionToDiningCarriage>d__30	MoveNext
+252	Arthur	I'd better change out of this suit.	Je ferais mieux d'enlever ce costume.	RoomSleeperCarriage+<OnEnterRegionToDiningCarriage>d__30	MoveNext
+253	Arthur	I'm under orders.	J'obéis aux ordres.	RoomSleeperCarriage+<OnEnterRegionToDiningCarriage>d__30	MoveNext
+254	Arthur	I'd better change out of this suit.	Je ferais mieux d'enlever ce costume.	RoomSleeperCarriage+<OnEnterRegionToKitchenCarriagePrologueSuitless>d__33	MoveNext
+255	Arthur	I'm under orders.	J'obéis aux ordres.	RoomSleeperCarriage+<OnEnterRegionToKitchenCarriagePrologueSuitless>d__33	MoveNext
+381	Arthur	Lady Unterwald? You're alive?	Lady Unterwald ? Vous êtes vivante ?	RoomSleeperCarriage+<OnPlayerUsePhoneDisclaimer>d__40	MoveNext
+382	Arthur	Oh, it's just a recording.	Oh, ce n'est qu'un enregistrement.	RoomSleeperCarriage+<OnPlayerUsePhoneDisclaimer>d__40	MoveNext
+1	Chiselton	Welcome to the Dirk Chiselton Hotline!	Bienvenue sur la ligne directe de Dirk Chiselton !	RoomSleeperCarriage+<OnPlayerUsePhoneFirstOccurrence>d__41	MoveNext
+2	Chiselton	Stuck on a puzzle or don't know what to do? Consult with the best detective in town, Dirk Chiselton!	Bloqué sur une énigme ou à court d'idées ? Consultez le meilleur détective de la ville, Dirk Chiselton !	RoomSleeperCarriage+<OnPlayerUsePhoneFirstOccurrence>d__41	MoveNext
+3	Chiselton	I can provide you with hints and clues, depending on how far along in the case you are.	Je peux vous fournir des tuyaux et des indices selon l'avancement de votre enquête.	RoomSleeperCarriage+<OnPlayerUsePhoneFirstOccurrence>d__41	MoveNext
+4	Chiselton	If you can't find the hint you're looking for, you probably don't need to solve that puzzle right now.	Si vous ne trouvez pas l'indice cherché, c'est sans doute que cette énigme n'est pas encore d'actualité.	RoomSleeperCarriage+<OnPlayerUsePhoneFirstOccurrence>d__41	MoveNext
+5	Chiselton	Just hang up when you're done, alright?	Raccrochez simplement quand vous avez fini, d'accord ?	RoomSleeperCarriage+<OnPlayerUsePhoneFirstOccurrence>d__41	MoveNext
+590	Herman	It sounds like they're talking to themselves out loud.	On dirait qu'ils parlent tout seuls à voix haute.	RoomSleeperCarriage+<OnInteractPropArthurDoorArthurMuffledFirst>d__88	MoveNext
+591	Herman	How peculiar.	Comme c'est curieux.	RoomSleeperCarriage+<OnInteractPropArthurDoorArthurMuffledFirst>d__88	MoveNext
+136	Herman	If I pull at this wiring, it should cut power to the rooms.	Si je tire sur ce câblage, cela devrait couper le courant dans les cabines.	RoomSleeperCarriage+<OnInteractPropFuse>d__160	MoveNext
+96	Arthur	Woah, who turned out the lights!	Hé là, qui a éteint la lumière ?!	RoomSleeperCarriage+<OnInteractPropFuse>d__160	MoveNext
+310	Arthur	Damn, looks like I've lost power to the room.	Mince alors, on dirait que je n'ai plus d'électricité dans la pièce.	RoomSleeperCarriage+<OnInteractPropFuse>d__160	MoveNext
+311	Arthur	I should probably take a break, anyway.	Je ferais sans doute bien de faire une pause, de toute façon.	RoomSleeperCarriage+<OnInteractPropFuse>d__160	MoveNext
+708	Arthur	Aha! ''Property of Doctor Hirsch''.	Aha ! « Propriété du docteur Hirsch ».	RoomStorageRoom+<OnInteractPropBriefcase>d__27	MoveNext
+388	Arthur	I'll hang on to this for now.	Je vais garder ceci pour l'instant.	RoomStorageRoom+<OnInteractPropBriefcase>d__27	MoveNext
+389	Arthur	I don't think the Doctor will let me look inside if I return it straight away.	Je doute que le docteur me laisse fouiller dedans si je le lui rends tout de suite.	RoomStorageRoom+<OnInteractPropBriefcase>d__27	MoveNext
+390	Arthur	Looks like it's locked though.	On dirait pourtant que c'est verrouillé.	RoomStorageRoom+<OnInteractPropBriefcase>d__27	MoveNext
+391	Arthur	I'll need to find some way to open it.	Il va falloir que je trouve un moyen de l'ouvrir.	RoomStorageRoom+<OnInteractPropBriefcase>d__27	MoveNext
+404	Arthur	I can't pick it up with my bare hands, it might bite me.	Impossible de l'attraper à mains nues, ça pourrait me mordre.	RoomStorageRoom+<OnInteractPropMouse>d__29	MoveNext
+673	Arthur	Oh, so close!	Oh, à un cheveu près !	RoomStorageRoom+<OnInteractPropMouse>d__29	MoveNext
+131	Diana	Blast! The engine's been ripped out!	Misère ! Le moteur a été arraché !	RoomTestYardEngine+<OnEnterRoomAfterFade>d__19	MoveNext
+132	Diana	I'll just have to work with these other parts.	Je vais devoir composer avec ces autres pièces.	RoomTestYardEngine+<OnEnterRoomAfterFade>d__19	MoveNext
+133	Diana	It's firmly attached. I can't pull it out with my bare hands.	C'est solidement fixé. Impossible de l'arracher à mains nues.	RoomTestYardEngine+<OnInteractPropPipe>d__22	MoveNext
+64	Lamont	I'm gonna explode!	Je vais exploser !	RoomTrainExplosion+<OnEnterRoomAfterFade>d__1	MoveNext
+40	Bailey	You need to pace yourself, Lamont!	Tu devrais modérer ton appétit, Lamont !	RoomTrainExplosion+<OnEnterRoomAfterFade>d__1	MoveNext
+41	Bailey	It's a picnic, not an all-you-can-eat buffet!	C'est un pique-nique, pas un buffet à volonté !	RoomTrainExplosion+<OnEnterRoomAfterFade>d__1	MoveNext
+65	Lamont	Still! It's nice to get away every once in a while, Bailey!	N'empêche ! Ça fait du bien de s'aérer de temps en temps, Bailey !	RoomTrainExplosion+<OnEnterRoomAfterFade>d__1	MoveNext
+42	Bailey	Do you hear that?	Tu as entendu ce bruit ?	RoomTrainExplosion+<OnEnterRoomAfterFade>d__1	MoveNext
+66	Lamont	Hear what? That's probably just my stomach growling.	Entendu quoi ? C'est sûrement mon estomac qui gargouille.	RoomTrainExplosion+<OnEnterRoomAfterFade>d__1	MoveNext
+67	Lamont	Ahh. Just breathe it all in!	Ahh. Respire à pleins poumons !	RoomTrainExplosion+<OnEnterRoomAfterFade>d__1	MoveNext
+68	Lamont	There's nothing like the peaceful sound of-	Rien ne vaut le calme enchanteur de...	RoomTrainExplosion+<OnEnterRoomAfterFade>d__1	MoveNext
+69	Lamont	Sigh...	*Soupir...*	RoomTrainExplosion+<OnEnterRoomAfterFade>d__1	MoveNext
+43	Bailey	I'll get the car started.	Je vais démarrer la voiture.	RoomTrainExplosion+<OnEnterRoomAfterFade>d__1	MoveNext
+66	Arthur	It all started on the Reuss Express.	Tout a commencé à bord du Reuss Express.	RoomTrainExteriorCloseup+<OnEnterRoomAfterFade>d__3	MoveNext
+123	JianLiu	Why do you persist in living?	Pourquoi vous obstinez-vous à rester en vie ?	RoomTrainFront+<OnEnterRoomAfterFade>d__12	MoveNext
+1622	Arthur	Can we not just talk about this?	Ne pourrions-nous pas simplement en discuter ?	RoomTrainFront+<OnEnterRoomAfterFade>d__12	MoveNext
+125	JianLiu	Now, stay still!	Et maintenant, ne bougez plus d'un pouce !	RoomTrainFront+<OnEnterRoomAfterFade>d__12	MoveNext
+1623	Arthur	Eep!	Hiii !	RoomTrainFront+<OnEnterRoomAfterFade>d__12	MoveNext
+1624	Arthur	I hope Diana is having better luck than me!	J'espère que Diana a plus de chance que moi !	RoomTrainFront+<OnEnterRoomAfterFade>d__12	MoveNext
+566	Arthur	I already have a lump of coal.	J'ai déjà un morceau de charbon.	RoomTrainFront+<OnInteractPropCoal>d__18	MoveNext
+124	Diana	I didn't realise there were so many tunnels on this line!	Je ne m'étais pas rendu compte qu'il y avait autant de tunnels sur cette voie !	RoomTrainFront+<OnInteractPropWhistleCord>d__21	MoveNext
+1698	Arthur	Hey! Over here!	Hé ! Par ici !	RoomTrainFront+<OnInteractPropWhistleCordNotBlinded>d__23	MoveNext
+1699	Arthur	Take your best shot, old man!	Essaie un peu de me viser, le vieux !	RoomTrainFront+<OnInteractPropWhistleCordNotBlinded>d__23	MoveNext
+1700	Arthur	You have terrible aim!	Vous visez comme un pied !	RoomTrainFront+<OnInteractPropWhistleCordNotBlinded>d__23	MoveNext
+1701	Arthur	You missed!	Raté !	RoomTrainFront+<OnInteractPropWhistleCordNotBlinded>d__23	MoveNext
+84	JianLiu	Wha?	Hein ?	RoomTrainFront+<OnInteractPropWhistleCordNotBlinded>d__23	MoveNext
+85	JianLiu	Tunnel!	Tunnel !	RoomTrainFront+<OnInteractPropWhistleCordNotBlinded>d__23	MoveNext
+86	JianLiu	Aha!	Aha !	RoomTrainFront+<OnInteractPropWhistleCordNotBlinded>d__23	MoveNext
+95	JianLiu	You'll have to do better than that!	Il va falloir faire bien mieux que ça !	RoomTrainFront+<OnInteractPropWhistleCordNotBlinded>d__23	MoveNext
+96	JianLiu	Now, where was I?	Bon, où en étais-je déjà ?	RoomTrainFront+<OnInteractPropWhistleCordNotBlinded>d__23	MoveNext
+177	JianLiu	It can't be!	Impossible !	RoomTrainFront+<OnInteractPropWhistleCordBlinded>d__24	MoveNext
+1702	Arthur	Huh, I guess I AM a tunnel head!	Tiens donc, je suppose que je SUIS un fana de tunnels après tout !	RoomTrainFront+<OnInteractPropWhistleCordBlinded>d__24	MoveNext
+111	Diana	Quickly, Arthur! We need to stop this train!	Vite, Arthur ! Nous devons stopper ce train !	RoomTrainFront+<OnInteractPropWhistleCordBlinded>d__24	MoveNext
+716	Arthur	I'm right behind you!	Je vous suis de près !	RoomTrainFront+<OnInteractPropWhistleCordBlinded>d__24	MoveNext
+126	Diana	Now, how do I do that, exactly? This wasn't part of my training!	Maintenant, comment faire exactement ? Ça ne faisait pas partie de ma formation !	RoomTrainFront+<OnInteractPropWhistleCordBlinded>d__24	MoveNext
+1703	Arthur	I'm on my way!	J'arrive !	RoomTrainFront+<OnInteractPropWhistleCordUnused>d__25	MoveNext
+104	LadyUnterwald	What is it, Herman?	Qu'y a-t-il, Herman ?	RoomUnterwaldCarriage+<OnEnterRoomAfterFade>d__31	MoveNext
+217	Herman	Go away!	Fichez le camp !	RoomUnterwaldCarriage+<OnInteractPropClothesBeforeDonCaught>d__47	MoveNext
+710	Arthur	Hm, he must have left.	Hm, il a dû partir.	RoomUnterwaldCarriage+<OnInteractPropClothesAfterDonCaught>d__50	MoveNext
+826	Arthur	Is someone in there?	Il y a quelqu'un là-dedans ?	RoomUnterwaldCarriage+<OnInteractPropClothesAfterDonCaught>d__50	MoveNext
+828	Arthur	Hm, I guess not.	Hm, visiblement non.	RoomUnterwaldCarriage+<OnInteractPropClothesAfterDonCaught>d__50	MoveNext
+89	LadyUnterwald	Ah, that's better. I feel myself again.	Ah, voilà qui va mieux. Je me sens revivre.	RoomUnterwaldCarriage+<OnInteractPropWindow>d__51	MoveNext
+90	LadyUnterwald	You might just be the most useful person here, Arthur. It's good to know I can rely on you.	Tu es peut-être la personne la plus serviable de ce train, Arthur. C'est rassurant de pouvoir compter sur toi.	RoomUnterwaldCarriage+<OnInteractPropWindow>d__51	MoveNext
+91	LadyUnterwald	Now, it's time to gather the family. This old lady's got a speech to make!	À présent, réunissons la famille. Cette vieille dame a un discours à prononcer !	RoomUnterwaldCarriage+<OnInteractPropWindow>d__51	MoveNext
+466	Arthur	Oh no.	Oh non.	RoomUnterwaldCarriage+<OnInteractPropWindow>d__51	MoveNext
+496	Arthur	I'll just take a handful.	Je vais simplement en prendre une poignée.	RoomUnterwaldCarriage+<OnInteractPropPetalLeaf>d__53	MoveNext
+97	LadyUnterwald	Arthur, leave that alone.	Arthur, ne touche pas à cela.	RoomUnterwaldCarriage+<OnInteractPropPaintingProp>d__59	MoveNext
+1059	Herman	I'll just take a handful.	Je vais simplement en prendre une poignée.	RoomUnterwaldCarriage+<OnInteractPropChilliPlant>d__112	MoveNext
+59	JianLiu	YOU? We were supposed to make contact hours ago!	VOUS ? Nous devions prendre contact il y a des heures de cela !	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+106	Diana	Wh-who are you?	Qu-qui êtes-vous ?	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+60	JianLiu	Where's my suit? Better yet, where is that meddling detective?	Où est mon costume ? Et d'ailleurs, où est passé cet insupportable détective d'opérette ?	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+61	JianLiu	Did Lady Unterwald put you up to this?	C'est Lady Unterwald qui vous a poussée à faire ça ?	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+107	Diana	I'm afraid she's dead. How long have you been in there?	J'ai bien peur qu'elle ne soit morte. Depuis combien de temps étiez-vous enfermé là-dedans ?	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+62	JianLiu	What?!	Quoi ?!	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+108	Diana	There's a will reading taking place in the lounge right now.	Une lecture de testament a lieu dans le salon en ce moment même.	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+76	JianLiu	I must stop this at once!	Je dois empêcher cette mascarade immédiatement !	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+29	Hirsch	The document speaks for itself Arista, this was clearly Lady Unterwald's last wish.	Le document parle de lui-même, Arista. C'était de toute évidence la dernière volonté de Lady Unterwald.	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+21	Arista	Really, doctor? You don't believe a trained attorney could have forged one of these documents?	Vraiment, docteur ? Vous pensez qu'un juriste chevronné n'aurait pas été capable de contrefaire un tel acte ?	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+30	Hagen	If Arthur takes over the estate, that means we can't sell it?	Si Arthur hérite du domaine, cela signifie que nous ne pourrons pas le vendre ?	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+22	Arista	That's right. No sale means no money for us.	Exactement. Pas de vente, pas un rond pour nous.	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+34	Bergmann	You're making rather large assumptions, Arista. We don't know if that's the case.	Vous tirez des conclusions un peu hâtives, Arista. Rien ne dit que ce soit le cas.	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+23	Arista	What I do know is that some of us have quite expensive hobbies, isn't that right, Bergmann?	Ce que je sais pertinemment, c'est que certains d'entre nous ont des passe-temps fort coûteux, n'est-ce pas, Bergmann ?	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+35	Bergmann	Well-I... I... But what course of action can we take?	Eh bien... je... Mais quelle mesure pouvons-nous bien adopter ?	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+41	JianLiu	I believe I have a solution that would benefit everyone. If you'll allow me?	Je crois avoir une solution qui profitera à tout le monde. Si vous me le permettez ?	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+24	Arista	Well, I believe that solves our problem quite effectively.	Eh bien, voilà qui règle notre problème avec une redoutable efficacité.	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+36	Bergmann	Jian! That's completely-	Jian ! C'est tout bonnement...	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+42	JianLiu	Look around you, Bergmann. This room is filled with documents purporting to be Lady Unterwald's last wishes.	Regardez autour de vous, Bergmann. Cette pièce regorge de paperasses prétendant être les dernières volontés de Lady Unterwald.	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+43	JianLiu	Who's to say we can't use one with slightly more favourable terms?	Qui nous empêche d'en utiliser une aux termes légèrement plus avantageux ?	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+30	Hirsch	This is ridiculous, the order won't stand for this!	C'est inadmissible, notre confrérie ne tolérera jamais cela !	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+44	JianLiu	The order will no longer be an issue, doctor.	La confrérie ne sera plus un problème, cher docteur.	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+45	JianLiu	You could say I've ''handled'' the situation? Haha.	On pourrait dire que j'ai « pris les choses en main », aha !	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+31	Hirsch	What have you done, Jian!	Qu'avez-vous fait, Jian !	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+109	Diana	*ACHOO*	*ATCHOUM*	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+51	Gunter	Bless you!	À vos souhaits !	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+110	Diana	Hello, everyone.	Bonjour tout le monde.	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+45	Hagen	Who are you supposed to be?	Et vous, vous êtes censée être qui ?	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+49	Bergmann	You're from the t-tax office? Excuse me, I have some urgent business to attend to!	Vous venez du... du fisc ?! Veuillez m'excuser, j'ai une affaire de la plus haute urgence à régler !	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+38	Arista	What's going on, Jian? She's heard everything!	Qu'est-ce qui se passe, Jian ? Elle a tout entendu !	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+77	JianLiu	Quiet, Arista. I have everything under control.	Silence, Arista. J'ai la situation bien en main.	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+56	Arista	She's a spy, you idiot!	C'est une espionne, triple buse !	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+58	Arista	Boys! Tie her up with the others.	Les garçons ! Ligotez-la avec les autres.	RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+1069	Herman	It's a working model replica of the Reuss Express!	C'est une fidèle réplique miniature en état de marche du Reuss Express !	RoomUnterwaldLobby+<OnInteractPropModel>d__12	MoveNext
+592	Arthur	That's it!	C'est ça !	RoomUnterwaldSafeLocks+<UpdateBlocking>d__51	MoveNext
+593	Arthur	Just one more locking mechanism to get through!	Plus qu'un seul mécanisme de verrouillage à déjouer !	RoomUnterwaldSafeLocks+<UpdateBlocking>d__51	MoveNext
+594	Arthur	It's going to be tricky to replicate Lady Unterwald's voice, given the circumstances.	Ça va être coton d'imiter la voix de Lady Unterwald, vu les circonstances.	RoomUnterwaldSafeLocks+<UpdateBlocking>d__51	MoveNext
+596	Arthur	There are two locking mechanisms here.	Il y a deux mécanismes de verrouillage ici.	RoomUnterwaldSafeLocks+<OnEnterRoomAfterFade>d__53	MoveNext
+597	Arthur	There's a combination lock, looks like I'll need to put in a six-digit number.	Il y a une serrure à combinaison, on dirait que je dois entrer un code à six chiffres.	RoomUnterwaldSafeLocks+<OnEnterRoomAfterFade>d__53	MoveNext
+598	Arthur	And this looks like a listening device. Could this lock be voice activated?	Et cela ressemble à un dispositif d'écoute. Ce verrou pourrait-il être à commande vocale ?	RoomUnterwaldSafeLocks+<OnEnterRoomAfterFade>d__53	MoveNext
+58	Gunter	You hear that?	Tu as entendu ça ?	RoomVentilation+<OnEnterRoomAfterFade>d__1	MoveNext
+51	Hagen	Quickly, it came from this direction!	Vite, c'est venu de ce côté !	RoomVentilation+<OnEnterRoomAfterFade>d__1	MoveNext
+59	Gunter	That's what I've been saying!	C'est bien ce que je n'arrête pas de dire !	RoomVentilation+<OnEnterRoomAfterFade>d__1	MoveNext

@@ -84,7 +84,7 @@ They're just waiting for me to kick the bucket, you know?	Ils n'attendent qu'une
 Ohh, it makes my blood boil just thinking about it!	Ohh, rien que d'y penser, ça me fait bouillir le sang !
 Would you be a dear and open the window? It's getting quite hot in here, I need some air!	Auriez-vous la bonté d'ouvrir la fenêtre ? Il commence à faire une chaleur étouffante ici, j'ai besoin d'air !
 110	LadyUnterwald	Would you open the window, dear?	Voudriez-vous ouvrir la fenêtre, mon cher ?	RoomUnterwaldCarriage+<OnEnterRoomAfterFade>d__47	MoveNext
-116	LadyUnterwald	Put that away, Arthur.	Rangez cela, Arthur.	RoomUnterwaldCarriage+<OnUseInvPropDrawer>d__61	MoveNext
+116	LadyUnterwald	Put that away, Arthur.	Rangez-moi ça, Arthur.	RoomUnterwaldCarriage+<OnUseInvPropDrawer>d__61	MoveNext
 4	LadyUnterwald	Arthur!	Arthur !	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	MoveNext
 5	LadyUnterwald	Stop your dilly-dallying.	Cessez de lambiner.	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	MoveNext
 348	Arthur	Coming, Lady Unterwald!	J'arrive, Lady Unterwald !	RoomLoungeCarriage+<OnEnterAfterFadePrologueUnterwaldSpeech>d__33	MoveNext
@@ -292,7 +292,7 @@ Would you be a dear and open the window? It's getting quite hot in here, I need 
 0	Isaac	Oh, don't tell me that, I just ate!	Oh, ne me dis pas ça, je viens tout juste de manger !	CharacterShelly/<OnInteractPrologue>d__6	
 0	Isaac	Stop, stop right this minute!	Arrête, arrête immédiatement !	CharacterShelly/<OnInteractPrologue>d__6	
 0	Shelly	He's some high-flying tycoon, with a penchant for the finer things.	C'est un grand magnat de la haute, avec un penchant pour le grand luxe.	CharacterShelly/<OnInteractPrologue>d__6	
-0	Herman	I can't leave now, I've got a job to do!	Je ne peux pas partir maintenant, j'ai une mission à accomplir !	RoomArthurQuarters/<OnEnterRegionToSleeperCarriage>d__21	
+0	Herman	I can't leave now, I've got a job to do!	Hors de question de filer maintenant, j'ai une mission à boucler !	RoomArthurQuarters/<OnEnterRegionToSleeperCarriage>d__21	
 0	Arthur	I knew it, Herman Merman! I'm such a huge fan!	Je le savais, Herman Merman ! Je suis un immense fan !	RoomArthurQuarters/<OnUseInvPropHangerBlueSuit>d__29	
 0	Herman	Ah, so you're familiar with my cases!	Ah, vous connaissez donc mes enquêtes !	RoomArthurQuarters/<OnUseInvPropHangerBlueSuit>d__29	
 0	Bailey	Just stick to your story, stop embellishing.	Tenez-vous-en aux faits, cessez d'enjoliver.	RoomArthurQuarters/<OnUseInvPropHangerBlueSuit>d__29	
@@ -320,7 +320,7 @@ Would you be a dear and open the window? It's getting quite hot in here, I need 
 0	Lamont	Don't make me hit the desk again, Arthur.	Ne me force pas à frapper du poing sur la table, Arthur.	RoomInterrogation/<OnEnterRoomAfterFadeActOneFailedToHideFromDon>d__45	
 0	Arthur	Oh, sorry. I must be misremembering.	Oh, pardon. Ma mémoire doit me jouer des tours.	RoomInterrogation/<OnEnterRoomAfterFadeActOneFailedToHideFromDon>d__45	
 0	Lamont	You're right, Bailey. I just have to breathe.	Tu as raison, Bailey. Il faut juste que je respire.	RoomInterrogation/<OnLookAtPropDoor>d__61	
-0	Lamont	I can't go back in there, it's embarrassing!	Je ne peux pas retourner là-dedans, c'est trop humiliant !	RoomInterrogation/<OnLookAtPropDoor>d__61	
+0	Lamont	I can't go back in there, it's embarrassing!	Pas moyen que je remette les pieds là-dedans, la honte absolue !	RoomInterrogation/<OnLookAtPropDoor>d__61	
 0	Arthur	Ah, that's better.	Ah, voilà qui est mieux.	RoomInterrogation/<OnLookAtPropFan>d__63	
 0	Arthur	No thanks, I can smell it from here.	Non merci, je sens l'odeur d'ici.	RoomInterrogation/<OnLookAtPropAshtray>d__67	
 0	Arthur	I know things look bad, but I'm not rooting through trash just yet.	La situation est grave, mais je ne vais pas encore fouiller dans les poubelles.	RoomInterrogation/<OnLookAtPropTrashCan>d__72	
@@ -399,7 +399,7 @@ Would you be a dear and open the window? It's getting quite hot in here, I need 
 0	Arthur	I'm sure you have other evidence, though, right?	Je suis sûr que vous avez d'autres preuves, pas vrai ?	DialogOption	Choice
 0	Arthur	Did you lose track of your hearing horn?	Vous avez égaré votre cornet acoustique ?	DialogOption	Choice
 0	Arthur	Do you remember where you last saw your briefcase?	Vous rappelez-vous où vous l'avez vue pour la dernière fois ?	DialogOption	Choice
-0	Arthur	Actually, that's enough information.	En fait, cela me suffit amplement.	DialogOption	Choice
+0	Arthur	Actually, that's enough information.	En fait, ça me suffit amplement.	DialogOption	Choice
 0	Arthur	Did you also have a job in the family business?	Travailliez-vous aussi dans l'entreprise familiale ?	DialogOption	Choice
 0	Arthur	You're not going to believe this, but...	Vous n'allez pas me croire, mais...	DialogOption	Choice
 0	Arthur	That's all for now, Doctor.	Ce sera tout pour le moment, docteur.	DialogOption	Choice
@@ -510,7 +510,7 @@ Would you be a dear and open the window? It's getting quite hot in here, I need 
 0	Herman	All too tempting to slip them on, but I need to focus on the task at hand.	Bien trop tentant de les enfiler, mais je dois me concentrer sur la tâche présente.	Manual	Added
 0	Arthur	You've got to have access to a trusty typewriter.	Il faut impérativement avoir accès à une fidèle machine à écrire.	Manual	Added
 0	Herman	Exactly the sort of attire you'd expect from a paper pushing bureaucrat.	Exactement le genre de tenue qu'on attend d'un bureaucrate gratte-papier.	Manual	Added
-0	Lamont	Alright, so that explains how you got on the train. What happened next?	Très bien, cela explique comment vous êtes montée à bord. Que s'est-il passé ensuite ?	Manual	Added
+0	Lamont	Alright, so that explains how you got on the train. What happened next?	Très bien, voilà qui explique comment vous êtes montée à bord. Que s'est-il passé ensuite ?	Manual	Added
 0	Diana	I believe you're well aware of what happened next, detective.	Je crois que vous savez pertinemment ce qui s'est passé ensuite, inspecteur.	Manual	Added
 0	Diana	I stuck to my orders, and made contact with the informant. Or so I thought...	J'ai obéi aux ordres et pris contact avec l'informateur. Du moins, c'est ce que je croyais...	Manual	Added
 0	Lamont	There's a lot of string here, Bailey. Are you really going to argue with all this red string?	Il y a beaucoup de ficelle rouge ici, Bailey. Tu vas vraiment oser contredire toute cette ficelle rouge ?	Manual	Added

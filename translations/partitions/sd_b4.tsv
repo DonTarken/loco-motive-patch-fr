@@ -1,0 +1,417 @@
+﻿Id	Character	English	French	Class	Method
+75	PublisherFrank	Well, if the board were to ever go down for maintenance, we do have a fail-safe in place.		DialogTalkToPublisherFrank+<Option2c>d__8	MoveNext
+957	Herman	What's the fail-safe?		DialogTalkToPublisherFrank+<Option2c>d__8	MoveNext
+76	PublisherFrank	It would fall to the three of us to take on the risk of approving or denying a manuscript. An informed, but ultimately human decision.		DialogTalkToPublisherFrank+<Option2c>d__8	MoveNext
+72	PublisherThomas	Thankfully, it's never come to that!		DialogTalkToPublisherFrank+<Option2c>d__8	MoveNext
+958	Herman	Actually, that's enough questions for now		DialogTalkToPublisherFrank+<Option2d>d__9	MoveNext
+77	PublisherFrank	Very well!		DialogTalkToPublisherFrank+<Option2d>d__9	MoveNext
+959	Herman	Have you received any good pitches lately?		DialogTalkToPublisherFrank+<Option3>d__10	MoveNext
+78	PublisherFrank	Nothing comes to mind, I'm afraid the board has been a little picky lately.		DialogTalkToPublisherFrank+<Option3>d__10	MoveNext
+79	PublisherFrank	There's the latest Chiselton, of course. But we haven't submitted that to the board yet.		DialogTalkToPublisherFrank+<Option3>d__10	MoveNext
+80	PublisherFrank	Oh yes, it's likely sitting in our inbox as we speak!		DialogTalkToPublisherFrank+<Option3>d__10	MoveNext
+47	PublisherFlorence	It's safe to say we're all excited about that one!		DialogTalkToPublisherFrank+<Option3>d__10	MoveNext
+962	Herman	I should probably get back to formulating my pitch.		DialogTalkToPublisherFrank+<Option7>d__11	MoveNext
+81	PublisherFrank	We're eager to hear it, Herman!		DialogTalkToPublisherFrank+<Option7>d__11	MoveNext
+963	Herman	Can you approve The Suburban Burden now?		DialogTalkToPublisherFrank+<Option4>d__12	MoveNext
+82	PublisherFrank	Sorry, Herman, but we still believe the board knew best.		DialogTalkToPublisherFrank+<Option4>d__12	MoveNext
+964	Herman	The board is clearly malfunctioning, it must have made a mistake!		DialogTalkToPublisherFrank+<Option4>d__12	MoveNext
+83	PublisherFrank	It'd be irresponsible to go against that decision because of a minor technical hiccup.		DialogTalkToPublisherFrank+<Option4>d__12	MoveNext
+66	Board	GRAAAAHHH!		DialogTalkToPublisherFrank+<Option4>d__12	MoveNext
+965	Herman	What happened to the board?		DialogTalkToPublisherFrank+<Option5>d__13	MoveNext
+84	PublisherFrank	I'm not sure, something seems to have gummed up the works.		DialogTalkToPublisherFrank+<Option5>d__13	MoveNext
+85	PublisherFrank	You didn't put any liquid in there, did you, Herman?		DialogTalkToPublisherFrank+<Option5>d__13	MoveNext
+966	Herman	Of course not!		DialogTalkToPublisherFrank+<Option5>d__13	MoveNext
+967	Herman	It looks like I'll be pitching directly for the time being		DialogTalkToPublisherFrank+<Option6>d__14	MoveNext
+86	PublisherFrank	It would seem so. It's been a while since we had to evaluate something ourselves.		DialogTalkToPublisherFrank+<Option6>d__14	MoveNext
+52	PublisherFlorence	Just place your manuscript in the In-tray and let us know when you're ready.		DialogTalkToPublisherFrank+<Option6>d__14	MoveNext
+968	Herman	What are you looking for in a pitch?		DialogTalkToPublisherFrank+<Option6a>d__15	MoveNext
+87	PublisherFrank	Ah, trying to play to your audience, are we?		DialogTalkToPublisherFrank+<Option6a>d__15	MoveNext
+969	Herman	Something like that.		DialogTalkToPublisherFrank+<Option6a>d__15	MoveNext
+88	PublisherFrank	Well, I've always been partial to an action thriller myself.		DialogTalkToPublisherFrank+<Option6a>d__15	MoveNext
+89	PublisherFrank	Dirk's very good at that stuff, you know?		DialogTalkToPublisherFrank+<Option6a>d__15	MoveNext
+90	PublisherFrank	Oh yes! He's always going toe to toe with danger.		DialogTalkToPublisherFrank+<Option6a>d__15	MoveNext
+91	PublisherFrank	I'm practically on the edge of my seat just thinking about it.		DialogTalkToPublisherFrank+<Option6a>d__15	MoveNext
+92	PublisherFrank	Just try your best, we aren't exactly expecting a Chiselton thriller from you.		DialogTalkToPublisherFrank+<Option6a>d__15	MoveNext
+971	Herman	I'll take that into consideration.		DialogTalkToPublisherFrank+<Option6a>d__15	MoveNext
+972	Herman	I think that will be all for now.		DialogTalkToPublisherFrank+<Option8>d__16	MoveNext
+93	PublisherFrank	Take care, Herman.		DialogTalkToPublisherFrank+<Option8>d__16	MoveNext
+973	Herman	Are you sure you can't approve The Suburban Burden?		DialogTalkToPublisherThomas+<Option1>d__3	MoveNext
+73	PublisherThomas	Sorry, Hermie. If the board doesn't approve, I just can't help you.		DialogTalkToPublisherThomas+<Option1>d__3	MoveNext
+974	Herman	So you can't think for yourself? You go along with whatever the board decides?		DialogTalkToPublisherThomas+<Option1>d__3	MoveNext
+74	PublisherThomas	It's a medical condition, okay? My doctor calls it an ‘intuition deficiency'.		DialogTalkToPublisherThomas+<Option1>d__3	MoveNext
+975	Herman	Can you approve The Suburban Burden now?		DialogTalkToPublisherThomas+<Option1a>d__4	MoveNext
+75	PublisherThomas	Come on, you know that pitch was rejected already.		DialogTalkToPublisherThomas+<Option1a>d__4	MoveNext
+976	Herman	But without the board, you can finally decide for yourself!		DialogTalkToPublisherThomas+<Option1a>d__4	MoveNext
+76	PublisherThomas	It's just not possible, Hermie.		DialogTalkToPublisherThomas+<Option1a>d__4	MoveNext
+77	PublisherThomas	Last time I trusted my gut, my stomach hurt for days!		DialogTalkToPublisherThomas+<Option1a>d__4	MoveNext
+977	Herman	You suffer from an intuition deficiency?		DialogTalkToPublisherThomas+<Option1b>d__5	MoveNext
+78	PublisherThomas	I'm a textbook case for chronic indecisiveness!		DialogTalkToPublisherThomas+<Option1b>d__5	MoveNext
+978	Herman	What are you going to do about it?		DialogTalkToPublisherThomas+<Option1b>d__5	MoveNext
+79	PublisherThomas	I haven't decided yet.		DialogTalkToPublisherThomas+<Option1b>d__5	MoveNext
+979	Herman	What's happening with the Herman merchandise?		DialogTalkToPublisherThomas+<Option2>d__6	MoveNext
+80	PublisherThomas	Ohh, you mean the Herman Merman Merch Line?		DialogTalkToPublisherThomas+<Option2>d__6	MoveNext
+81	PublisherThomas	Well, I have to say I love it, Hermie. Just love it!		DialogTalkToPublisherThomas+<Option2>d__6	MoveNext
+980	Herman	Well, that's a relief.		DialogTalkToPublisherThomas+<Option2>d__6	MoveNext
+82	PublisherThomas	No, I really do have to say I love it. It's a contractual obligation.		DialogTalkToPublisherThomas+<Option2>d__6	MoveNext
+53	PublisherFlorence	I'm afraid our target demographic is finding the doll a little...		DialogTalkToPublisherThomas+<Option2>d__6	MoveNext
+94	PublisherFrank	Off-putting.		DialogTalkToPublisherThomas+<Option2>d__6	MoveNext
+83	PublisherThomas	Unpleasant.		DialogTalkToPublisherThomas+<Option2>d__6	MoveNext
+54	PublisherFlorence	Repellant, yes.		DialogTalkToPublisherThomas+<Option2>d__6	MoveNext
+981	Herman	Why are there so many Herman Dolls in your office?		DialogTalkToPublisherThomas+<Option2a>d__7	MoveNext
+84	PublisherThomas	The stores couldn't shift them, so I guess they got sent back.		DialogTalkToPublisherThomas+<Option2a>d__7	MoveNext
+55	PublisherFlorence	Luckily, we made them on the cheap, so we didn't take too large a hit.		DialogTalkToPublisherThomas+<Option2a>d__7	MoveNext
+85	PublisherThomas	I didn't realise you could pack a doll with that much sawdust, but we made it work!		DialogTalkToPublisherThomas+<Option2a>d__7	MoveNext
+86	PublisherThomas	Hermie, are you really afraid of some healthy competition?		DialogTalkToPublisherThomas+<Option3>d__8	MoveNext
+87	PublisherThomas	There's no need to assume the worst. We may not even have to make a choice between you!		DialogTalkToPublisherThomas+<Option3>d__8	MoveNext
+983	Herman	So you wouldn't end our relationship to chase larger numbers?		DialogTalkToPublisherThomas+<Option3>d__8	MoveNext
+56	PublisherFlorence	Like he said, we may not even have to make a terrible, but obvious choice.		DialogTalkToPublisherThomas+<Option3>d__8	MoveNext
+984	Herman	It looks like the board isn't so reliable after all!		DialogTalkToPublisherThomas+<Option4>d__9	MoveNext
+88	PublisherThomas	There's always bound to be teething issues whenever new technology is adopted, I'm sure the board will be up and running in no time at all!		DialogTalkToPublisherThomas+<Option4>d__9	MoveNext
+985	Herman	I suppose you'll have to use your powers of decision-making in the meantime?		DialogTalkToPublisherThomas+<Option4>d__9	MoveNext
+89	PublisherThomas	Let's not get too hasty, It might not come to that!		DialogTalkToPublisherThomas+<Option4>d__9	MoveNext
+986	Herman	Tell me, what would you be looking for in a pitch?		DialogTalkToPublisherThomas+<Option5>d__10	MoveNext
+90	PublisherThomas	That's a pretty big question, I'm not sure if I can make that kind of decision.		DialogTalkToPublisherThomas+<Option5>d__10	MoveNext
+91	PublisherThomas	It's the others you'll have to convince, they're much less receptive to the ol' Herman charm!		DialogTalkToPublisherThomas+<Option5>d__10	MoveNext
+92	PublisherThomas	Between you and me, I heard a manuscript from Dirk Chiselton landed in our inbox this very morning.		DialogTalkToPublisherThomas+<Option5>d__10	MoveNext
+987	Herman	It did?		DialogTalkToPublisherThomas+<Option5>d__10	MoveNext
+93	PublisherThomas	That's right. So, unless you have Dirk Chiselton beat, just consider this whole thing a polite formality.		DialogTalkToPublisherThomas+<Option5>d__10	MoveNext
+988	Herman	I should probably get back to formulating my pitch.		DialogTalkToPublisherThomas+<Option6>d__11	MoveNext
+94	PublisherThomas	We're all rooting for you, Herman!!		DialogTalkToPublisherThomas+<Option6>d__11	MoveNext
+989	Herman	I think that will be all for now.		DialogTalkToPublisherThomas+<Option7>d__12	MoveNext
+95	PublisherThomas	Take care, Herman.		DialogTalkToPublisherThomas+<Option7>d__12	MoveNext
+366	Diana	I'd like to requisition a vehicle, please!		DialogTalkToQuartermaster+<Option1>d__8	MoveNext
+5	Quartermaster	Do you have a vehicle requisition authorisation form?		DialogTalkToQuartermaster+<Option1>d__8	MoveNext
+367	Diana	I don't have the form, but I have a scrappy, can-do attitude!		DialogTalkToQuartermaster+<Option1>d__8	MoveNext
+6	Quartermaster	Mm-hmm. Even if you had the paperwork, I don't have anything to give you.		DialogTalkToQuartermaster+<Option1>d__8	MoveNext
+7	Quartermaster	The top brass came in early, totally cleaned me out of all the good stuff.		DialogTalkToQuartermaster+<Option1>d__8	MoveNext
+368	Diana	So, Stamp was right? This whole place is getting shuttered?		DialogTalkToQuartermaster+<Option1>d__8	MoveNext
+8	Quartermaster	Look around. They've just left the junk, and the prototypes.		DialogTalkToQuartermaster+<Option1>d__8	MoveNext
+369	Diana	And, you?		DialogTalkToQuartermaster+<Option1>d__8	MoveNext
+9	Quartermaster	Hrm-hmm.		DialogTalkToQuartermaster+<Option1>d__8	MoveNext
+370	Diana	Do you have any gadgets to spare, for my mission?		DialogTalkToQuartermaster+<Option2>d__9	MoveNext
+10	Quartermaster	Yeah, I've still got some left-over stock back here.		DialogTalkToQuartermaster+<Option2>d__9	MoveNext
+11	Quartermaster	Do you know what you're looking for?		DialogTalkToQuartermaster+<Option2>d__9	MoveNext
+371	Diana	Got any poison-tipped umbrellas?		DialogTalkToQuartermaster+<Option3>d__10	MoveNext
+12	Quartermaster	Nope, just the regular kind.		DialogTalkToQuartermaster+<Option3>d__10	MoveNext
+372	Diana	I could use a camera-clad spy pigeon or two!		DialogTalkToQuartermaster+<Option4>d__11	MoveNext
+13	Quartermaster	All out of those, since the first lot never came back. Forgot to use homing pigeons.		DialogTalkToQuartermaster+<Option4>d__11	MoveNext
+373	Diana	A pistol, cunningly disguised as lipstick?		DialogTalkToQuartermaster+<Option5>d__12	MoveNext
+14	Quartermaster	Had to discontinue those, haven't had them since the ‘incident'.		DialogTalkToQuartermaster+<Option5>d__12	MoveNext
+374	Diana	The incident?		DialogTalkToQuartermaster+<Option5>d__12	MoveNext
+15	Quartermaster	Don't ask.		DialogTalkToQuartermaster+<Option5>d__12	MoveNext
+375	Diana	A set of explosive, time-delay pencils!		DialogTalkToQuartermaster+<Option6>d__13	MoveNext
+16	Quartermaster	Yeah, we've got some of that incendiary stationary...		DialogTalkToQuartermaster+<Option6>d__13	MoveNext
+376	Diana	Great!		DialogTalkToQuartermaster+<Option6>d__13	MoveNext
+17	Quartermaster	Can't give it to you, though. There's no way you've got the clearance to handle explosives.		DialogTalkToQuartermaster+<Option6>d__13	MoveNext
+378	Diana	What are all those pneumatic tubes for?		DialogTalkToQuartermaster+<Option7>d__14	MoveNext
+18	Quartermaster	It's all part of the ordering system. Orders come in via these tubes, and it's up to me to fulfil those orders.		DialogTalkToQuartermaster+<Option7>d__14	MoveNext
+379	Diana	Wow! So you can send and receive objects between those pipes? And they all go to different departments?		DialogTalkToQuartermaster+<Option7>d__14	MoveNext
+19	Quartermaster	Mm-hmm. That's the gist of it.		DialogTalkToQuartermaster+<Option7>d__14	MoveNext
+380	Diana	On second thought, I don't need anything.		DialogTalkToQuartermaster+<Option8>d__15	MoveNext
+1189	Arthur	Lady Unterwald. Heiress to the Wald-Bahn empire?		DialogTalkToRon+<Option1>d__5	MoveNext
+1190	Arthur	She walks around with a cane?		DialogTalkToRon+<Option1>d__5	MoveNext
+1191	Arthur	She's really old and eccentric?		DialogTalkToRon+<Option1>d__5	MoveNext
+12	Ron	Doesn't ring a bell.		DialogTalkToRon+<Option1>d__5	MoveNext
+1279	Arthur	You really don't know who Lady Unterwald is?		DialogTalkToRon+<Option1a>d__6	MoveNext
+14	Ron	Doesn't ring a bell.		DialogTalkToRon+<Option1a>d__6	MoveNext
+1193	Arthur	I can't believe Lady Unterwald was killed!		DialogTalkToRon+<Option2>d__7	MoveNext
+15	Ron	Mm-hmm. It's a tragedy, to be sure.		DialogTalkToRon+<Option2>d__7	MoveNext
+1280	Arthur	You still have no idea who she is, don't you?		DialogTalkToRon+<Option2>d__7	MoveNext
+16	Ron	Not a clue.		DialogTalkToRon+<Option2>d__7	MoveNext
+1195	Arthur	So, are you heading anywhere exciting?		DialogTalkToRon+<Option3>d__8	MoveNext
+17	Ron	Hmm. Just the bottom of this glass, for now.		DialogTalkToRon+<Option3>d__8	MoveNext
+1196	Arthur	What's that you're drinking?		DialogTalkToRon+<Option4>d__9	MoveNext
+18	Ron	It's a mimosa. A bottomless mimosa, if you must know.		DialogTalkToRon+<Option4>d__9	MoveNext
+1197	Arthur	A bottomless mimosa!		DialogTalkToRon+<Option4>d__9	MoveNext
+19	Ron	Mm-hmm. The bartender and I have a mutual understanding.		DialogTalkToRon+<Option4>d__9	MoveNext
+20	Ron	I drink them, and he keeps ‘em coming.		DialogTalkToRon+<Option4>d__9	MoveNext
+1281	Arthur	What did you say you were drinking again?		DialogTalkToRon+<Option4a>d__10	MoveNext
+21	Ron	It's a mimosa. A bottomless mimosa, if you must know.		DialogTalkToRon+<Option4a>d__10	MoveNext
+1198	Arthur	Are you just gonna sit at the bar all evening, drinking mimosas?		DialogTalkToRon+<Option5>d__11	MoveNext
+22	Ron	Yup.		DialogTalkToRon+<Option5>d__11	MoveNext
+1199	Arthur	Drat, that actually sounds great.		DialogTalkToRon+<Option5>d__11	MoveNext
+1200	Arthur	Why sit around when you could help me solve a murder!		DialogTalkToRon+<Option6>d__12	MoveNext
+23	Ron	Do you have any investigative experience?		DialogTalkToRon+<Option6>d__12	MoveNext
+1201	Arthur	Well, no.		DialogTalkToRon+<Option6>d__12	MoveNext
+24	Ron	Mm-hmm. I'm fine just where I am.		DialogTalkToRon+<Option6>d__12	MoveNext
+1202	Arthur	What kind of work are you in, Ron?		DialogTalkToRon+<Option7>d__13	MoveNext
+25	Ron	I'm an accountant. I'm in accounting.		DialogTalkToRon+<Option7>d__13	MoveNext
+1203	Arthur	Wow, talk about a dream job! I've always wanted to perform account analysis.		DialogTalkToRon+<Option7>d__13	MoveNext
+1282	Arthur	Tell me about the exciting world of accounting!		DialogTalkToRon+<Option8>d__14	MoveNext
+1283	Arthur	I bet you get to review a lot of financial paperwork.		DialogTalkToRon+<Option8>d__14	MoveNext
+1205	Arthur	Hot damn!		DialogTalkToRon+<Option8>d__14	MoveNext
+1284	Arthur	Tell me more about being an accountant!		DialogTalkToRon+<Option8a>d__15	MoveNext
+27	Ron	I'm just here to enjoy a drink, Arthur.		DialogTalkToRon+<Option8a>d__15	MoveNext
+1206	Arthur	Tell me more about the world of accounting!		DialogTalkToRon+<Option9>d__16	MoveNext
+1207	Arthur	Are we talking annual auditing? Do you have to prepare tax returns?		DialogTalkToRon+<Option9>d__16	MoveNext
+1208	Arthur	Ahh, I'd bet you have to review entire financial operations!		DialogTalkToRon+<Option9>d__16	MoveNext
+28	Ron	Mm-hmm. It's why I drink.		DialogTalkToRon+<Option9>d__16	MoveNext
+1209	Arthur	I found a hidden ledger in Lady Unterwald's quarters!		DialogTalkToRon+<Option10>d__17	MoveNext
+29	Ron	Hmm. A hidden ledger?		DialogTalkToRon+<Option10>d__17	MoveNext
+1210	Arthur	I suspect Bergmann's been cooking the books.		DialogTalkToRon+<Option10>d__17	MoveNext
+1211	Arthur	Want to have a look? I'll bet you could pore over all sorts of inconsistencies!		DialogTalkToRon+<Option10>d__17	MoveNext
+30	Ron	Well, have you confronted Bergmann over this?		DialogTalkToRon+<Option10>d__17	MoveNext
+1272	Arthur	Oh, right. I should probably do that.		DialogTalkToRon+<Option10>d__17	MoveNext
+31	Arthur	Mm-hmm. I'll take your word for it.		DialogTalkToRon+<Option10>d__17	MoveNext
+1213	Arthur	Are you sure you don't want to look over this ledger?		DialogTalkToRon+<Option11>d__18	MoveNext
+32	Ron	And interrupt my bottomless mimosas? Pass.		DialogTalkToRon+<Option11>d__18	MoveNext
+33	Ron	You should probably talk to the treasurer about it.		DialogTalkToRon+<Option11>d__18	MoveNext
+1202	Herman	Aren't you a little young to be running a shoe shine stand?		DialogTalkToShoeshineKid+<Option1>d__3	MoveNext
+45	Kid	I dunno, aren't you a little old to be a children's entertainer?		DialogTalkToShoeshineKid+<Option1>d__3	MoveNext
+1203	Herman	I-I'm no such thing!		DialogTalkToShoeshineKid+<Option1>d__3	MoveNext
+46	Kid	There's nothing wrong with running your own business, old man. I'm an entrepreneur!		DialogTalkToShoeshineKid+<Option1>d__3	MoveNext
+1204	Herman	Can you tell me when the shoe shine stand re-opens?		DialogTalkToShoeshineKid+<Option1a>d__4	MoveNext
+47	Kid	I'll get back to it, just as soon as I finish my break.		DialogTalkToShoeshineKid+<Option1a>d__4	MoveNext
+48	Kid	Right now, I've got a lot of investigating to do!		DialogTalkToShoeshineKid+<Option1a>d__4	MoveNext
+1205	Herman	When do you finish your break?		DialogTalkToShoeshineKid+<Option1b>d__5	MoveNext
+49	Kid	Whenever I feel like it. That's the perk about being your own boss.		DialogTalkToShoeshineKid+<Option1b>d__5	MoveNext
+50	Kid	It's important to have a good work-life balance, you know.		DialogTalkToShoeshineKid+<Option1b>d__5	MoveNext
+1206	Herman	What is that toy set you're playing with?		DialogTalkToShoeshineKid+<Option2>d__6	MoveNext
+51	Kid	You don't know about the 'Dirk Chiselton Junior Detective' Kit?		DialogTalkToShoeshineKid+<Option2>d__6	MoveNext
+1207	Herman	Enlighten me.		DialogTalkToShoeshineKid+<Option2>d__6	MoveNext
+52	Kid	Jeez, you're old.		DialogTalkToShoeshineKid+<Option2>d__6	MoveNext
+53	Kid	The kit has everything Dirk uses to solve a case. It's practically flying off the shelves!		DialogTalkToShoeshineKid+<Option2>d__6	MoveNext
+1208	Herman	Everything?		DialogTalkToShoeshineKid+<Option2>d__6	MoveNext
+54	Kid	Yeah, look at this!		DialogTalkToShoeshineKid+<Option2>d__6	MoveNext
+55	Kid	There's an official badge, a lock-picking set, and it even comes with a magnifying glass!		DialogTalkToShoeshineKid+<Option2>d__6	MoveNext
+1209	Herman	Well, I'm something of a detective myself. Perhaps I could borrow your kit?		DialogTalkToShoeshineKid+<Option2>d__6	MoveNext
+57	Kid	Nuh-uh. If you're such a big shot detective, use your own equipment!		DialogTalkToShoeshineKid+<Option2>d__6	MoveNext
+1210	Herman	I must admit, I arrived a little unprepared.		DialogTalkToShoeshineKid+<Option2a>d__7	MoveNext
+58	Kid	You didn't bring anything? What kind of detective are you?		DialogTalkToShoeshineKid+<Option2a>d__7	MoveNext
+1211	Herman	I may not have physical tools at my disposal, but I did bring the greatest tool of all.		DialogTalkToShoeshineKid+<Option2a>d__7	MoveNext
+68	Kid	Which is?		DialogTalkToShoeshineKid+<Option2a>d__7	MoveNext
+1212	Herman	A powerful, investigative mind!		DialogTalkToShoeshineKid+<Option2a>d__7	MoveNext
+69	Kid	Ugh. An inflated ego doesn't count, mister.		DialogTalkToShoeshineKid+<Option2a>d__7	MoveNext
+1213	Herman	Perhaps I could trade you for the detective kit?		DialogTalkToShoeshineKid+<Option2b>d__8	MoveNext
+70	Kid	I'm open to the idea, but I doubt you'd have something I want.		DialogTalkToShoeshineKid+<Option2b>d__8	MoveNext
+1214	Herman	How goes business?		DialogTalkToShoeshineKid+<Option3>d__9	MoveNext
+71	Kid	Hah! With all these rich folk trying to impress each other, business is booming!		DialogTalkToShoeshineKid+<Option3>d__9	MoveNext
+72	Kid	Between you and me, I like to crawl under the tables and scuff up their boots.		DialogTalkToShoeshineKid+<Option3>d__9	MoveNext
+1215	Herman	Is that strictly ethical?		DialogTalkToShoeshineKid+<Option3>d__9	MoveNext
+73	Kid	It's called being a shrewd businesswoman.		DialogTalkToShoeshineKid+<Option3>d__9	MoveNext
+74	Kid	Besides, do you think the rich give a hoot about ethics?		DialogTalkToShoeshineKid+<Option3>d__9	MoveNext
+1216	Herman	I guess not.		DialogTalkToShoeshineKid+<Option3>d__9	MoveNext
+75	Kid	Bye!		DialogTalkToShoeshineKid+<Option4>d__10	MoveNext
+743	Herman	Who are you? Are you a member of the band?		DialogTalkToStageManager+<Option1>d__4	MoveNext
+65	StageManager	No, dummy.		DialogTalkToStageManager+<Option1>d__4	MoveNext
+66	StageManager	Beverly Moore, stage manager and agent to the stars.		DialogTalkToStageManager+<Option1>d__4	MoveNext
+67	StageManager	Here, take my card.		DialogTalkToStageManager+<Option1>d__4	MoveNext
+68	StageManager	That's me!		DialogTalkToStageManager+<Option1>d__4	MoveNext
+745	Herman	Is this a handwritten business card?		DialogTalkToStageManager+<Option1>d__4	MoveNext
+69	StageManager	Yeah, and I'll be needing that card back. I make them bespoke!		DialogTalkToStageManager+<Option1>d__4	MoveNext
+746	Herman	Perhaps your agency could represent me?		DialogTalkToStageManager+<Option1a>d__5	MoveNext
+70	StageManager	Well, let me ask you this.		DialogTalkToStageManager+<Option1a>d__5	MoveNext
+71	StageManager	Do you consider yourself to be adequately talented?		DialogTalkToStageManager+<Option1a>d__5	MoveNext
+747	Herman	I've been called adequate on many occasions.		DialogTalkToStageManager+<Option1a>d__5	MoveNext
+72	StageManager	Hmm. Do you strive for competency, above all else?		DialogTalkToStageManager+<Option1a>d__5	MoveNext
+748	Herman	Every day!		DialogTalkToStageManager+<Option1a>d__5	MoveNext
+73	StageManager	Is “good enough”, good enough for you?		DialogTalkToStageManager+<Option1a>d__5	MoveNext
+749	Herman	It's all I can do!		DialogTalkToStageManager+<Option1a>d__5	MoveNext
+74	StageManager	Then let's talk!		DialogTalkToStageManager+<Option1a>d__5	MoveNext
+75	StageManager	Which of your skills could be exploited for monetary gain?		DialogTalkToStageManager+<Option1a>d__5	MoveNext
+750	Herman	You're looking at an established author! Does that count?		DialogTalkToStageManager+<Option1b>d__6	MoveNext
+76	StageManager	Nah, everyone knows there's no money in writing.		DialogTalkToStageManager+<Option1b>d__6	MoveNext
+751	Herman	I'm a working detective!		DialogTalkToStageManager+<Option1c>d__7	MoveNext
+77	StageManager	Okay, have you solved any big cases?		DialogTalkToStageManager+<Option1c>d__7	MoveNext
+752	Herman	Well, this is technically my first case.		DialogTalkToStageManager+<Option1c>d__7	MoveNext
+753	Herman	I hold a certain celebrity status!		DialogTalkToStageManager+<Option1d>d__8	MoveNext
+79	StageManager	Yeah, yeah. That's what they all say.		DialogTalkToStageManager+<Option1d>d__8	MoveNext
+754	Herman	I'm known to be very personable!		DialogTalkToStageManager+<Option1e>d__9	MoveNext
+80	StageManager	No skills, then.		DialogTalkToStageManager+<Option1e>d__9	MoveNext
+755	Herman	How do I get my name on the guest list?		DialogTalkToStageManager+<Option2>d__10	MoveNext
+81	StageManager	Alright, I'll be straight with you.		DialogTalkToStageManager+<Option2>d__10	MoveNext
+82	StageManager	Normally you'd slip me some cash, and I'd look the other way, but I can tell you aren't the cash carrying type.		DialogTalkToStageManager+<Option2>d__10	MoveNext
+83	StageManager	If you want entry, you've gotta at least be familiar with the band.		DialogTalkToStageManager+<Option2>d__10	MoveNext
+84	StageManager	I mean, come on! I can't just be letting any random guy through. The talent would be out for blood!		DialogTalkToStageManager+<Option2>d__10	MoveNext
+756	Herman	I'll have you know, I'm a huge fan of the band.		DialogTalkToStageManager+<Option2a>d__11	MoveNext
+86	StageManager	Let's do a little quiz, then!		DialogTalkToStageManager+<Option2a>d__11	MoveNext
+760	Herman	Is there a prize?		DialogTalkToStageManager+<Option2a>d__11	MoveNext
+87	StageManager	There might be a prize, but you'd have to get all the answers right.		DialogTalkToStageManager+<Option2a>d__11	MoveNext
+761	Herman	The nerves got to me, I'd like a rematch!		DialogTalkToStageManager+<Option2b>d__12	MoveNext
+762	Herman	Can you check the guest list again?		DialogTalkToStageManager+<Option2c>d__13	MoveNext
+90	StageManager	Let's see...		DialogTalkToStageManager+<Option2c>d__13	MoveNext
+91	StageManager	Nope, your name's still not on here.		DialogTalkToStageManager+<Option2c>d__13	MoveNext
+92	StageManager	Sorry, I can't let you in.		DialogTalkToStageManager+<Option2c>d__13	MoveNext
+763	Herman	Can you check the guest list again?		DialogTalkToStageManager+<Option2d>d__14	MoveNext
+94	StageManager	Sorry, you're n-		DialogTalkToStageManager+<Option2d>d__14	MoveNext
+95	StageManager	Oh, wait.		DialogTalkToStageManager+<Option2d>d__14	MoveNext
+96	StageManager	Herman Merman. It says it right here!		DialogTalkToStageManager+<Option2d>d__14	MoveNext
+97	StageManager	Why didn't you say you were on the list already?		DialogTalkToStageManager+<Option2d>d__14	MoveNext
+764	Herman	We must have both misread it!		DialogTalkToStageManager+<Option2d>d__14	MoveNext
+98	StageManager	That's odd, I'd swear it wasn't there before!		DialogTalkToStageManager+<Option2d>d__14	MoveNext
+99	StageManager	Please go right ahead, Mr Merman.		DialogTalkToStageManager+<Option2d>d__14	MoveNext
+765	Herman	Thank you.		DialogTalkToStageManager+<Option2d>d__14	MoveNext
+766	Herman	Let me through, I need to speak with Jian Liu!		DialogTalkToStageManager+<Option3>d__15	MoveNext
+100	StageManager	I'm sure you do, but rules are rules, pal!		DialogTalkToStageManager+<Option3>d__15	MoveNext
+101	StageManager	You're not on the list, so that's that.		DialogTalkToStageManager+<Option3>d__15	MoveNext
+767	Herman	I'm on official business, this comes from the top!		DialogTalkToStageManager+<Option3a>d__16	MoveNext
+102	StageManager	The top, huh? And who might that be?		DialogTalkToStageManager+<Option3a>d__16	MoveNext
+768	Herman	Drat, I'm not supposed to say.		DialogTalkToStageManager+<Option3a>d__16	MoveNext
+103	StageManager	How convenient.		DialogTalkToStageManager+<Option3a>d__16	MoveNext
+769	Herman	Just forget I said anything.		DialogTalkToStageManager+<Option3a>d__16	MoveNext
+770	Herman	I'll be leaving now.		DialogTalkToStageManager+<Option4>d__17	MoveNext
+104	StageManager	See you around, pal.		DialogTalkToStageManager+<Option4>d__17	MoveNext
+75	Susanne	Ah, I'm with the band.		DialogTalkToSusanne+<Option1>d__6	MoveNext
+1022	Arthur	You're in a band?		DialogTalkToSusanne+<Option1>d__6	MoveNext
+76	Susanne	You're looking at the lead singer in Balboa Swing.		DialogTalkToSusanne+<Option1>d__6	MoveNext
+1023	Arthur	Woah.		DialogTalkToSusanne+<Option1>d__6	MoveNext
+77	Susanne	What about yourself?		DialogTalkToSusanne+<Option1>d__6	MoveNext
+1093	Arthur	Wait, I still haven't told you my real job!		DialogTalkToSusanne+<Option1a>d__7	MoveNext
+1274	Arthur	What's wrong with being a paper-pusher?		DialogTalkToSusanne+<Option1b>d__8	MoveNext
+79	Susanne	Being a paper-pusher isn't a bad thing, Arthur. We just move in different circles, that's all.		DialogTalkToSusanne+<Option1b>d__8	MoveNext
+1049	Arthur	Aren't you supposed to be performing right now?		DialogTalkToSusanne+<Option1c>d__9	MoveNext
+80	Susanne	You're starting to sound like my stage manager.		DialogTalkToSusanne+<Option1c>d__9	MoveNext
+81	Susanne	They'll call me when I'm needed.		DialogTalkToSusanne+<Option1c>d__9	MoveNext
+1024	Arthur	I'm Lady Unterwald's estate attorney!		DialogTalkToSusanne+<Option2>d__10	MoveNext
+82	Susanne	Ah, so you're a paper-pusher?		DialogTalkToSusanne+<Option2>d__10	MoveNext
+1025	Arthur	It has its moments. Sometimes I get to use the rubber stamp!		DialogTalkToSusanne+<Option2>d__10	MoveNext
+1026	Arthur	Or at least, I was.		DialogTalkToSusanne+<Option2>d__10	MoveNext
+83	Susanne	So you're probably out of a job now, right?		DialogTalkToSusanne+<Option2>d__10	MoveNext
+1027	Arthur	Oh no, I didn't even think of that.		DialogTalkToSusanne+<Option2>d__10	MoveNext
+1028	Arthur	You know, I'm actually in a band myself!		DialogTalkToSusanne+<Option3>d__11	MoveNext
+84	Susanne	Really? You don't look very musical.		DialogTalkToSusanne+<Option3>d__11	MoveNext
+1029	Arthur	No, I'm not sure why I said that.		DialogTalkToSusanne+<Option3>d__11	MoveNext
+1030	Arthur	I just wanted to sound cool, I guess!		DialogTalkToSusanne+<Option3>d__11	MoveNext
+1031	Arthur	I'm a Hollywood hairdresser to the stars!		DialogTalkToSusanne+<Option4>d__12	MoveNext
+85	Susanne	With that haircut? I don't think so.		DialogTalkToSusanne+<Option4>d__12	MoveNext
+1032	Arthur	What? What's wrong with my hair?		DialogTalkToSusanne+<Option4>d__12	MoveNext
+86	Susanne	If you were a celebrity hairdresser, you wouldn't have to ask!		DialogTalkToSusanne+<Option4>d__12	MoveNext
+1094	Arthur	I can't tell you, that's classified, I'm afraid.		DialogTalkToSusanne+<Option5>d__13	MoveNext
+87	Susanne	Suit yourself, mystery man.		DialogTalkToSusanne+<Option5>d__13	MoveNext
+1033	Arthur	You aren't even a little curious?		DialogTalkToSusanne+<Option5>d__13	MoveNext
+1034	Arthur	I think I'm unwittingly on an adventure?		DialogTalkToSusanne+<Option6>d__14	MoveNext
+89	Susanne	How exciting!		DialogTalkToSusanne+<Option6>d__14	MoveNext
+1035	Arthur	No, I think I'm in real danger!		DialogTalkToSusanne+<Option6>d__14	MoveNext
+90	Susanne	Pfft! You'll be fine.		DialogTalkToSusanne+<Option6>d__14	MoveNext
+1036	Arthur	I've been instructed to have a good time.		DialogTalkToSusanne+<Option7>d__15	MoveNext
+91	Susanne	And you think I'm that kind of girl?		DialogTalkToSusanne+<Option7>d__15	MoveNext
+1037	Arthur	No! I mean-		DialogTalkToSusanne+<Option7>d__15	MoveNext
+92	Susanne	Relax, I'm just messing with you.		DialogTalkToSusanne+<Option7>d__15	MoveNext
+93	Susanne	They probably just wanted you to loosen up a bit.		DialogTalkToSusanne+<Option7>d__15	MoveNext
+1275	Arthur	What makes you think I need to loosen up?		DialogTalkToSusanne+<Option7a>d__16	MoveNext
+94	Susanne	Ah, Arthur. Relax those shoulders and let it all go, you'll thank me later.		DialogTalkToSusanne+<Option7a>d__16	MoveNext
+1038	Arthur	Is that guy over there bothering you?		DialogTalkToSusanne+<Option8>d__17	MoveNext
+95	Susanne	He's a nuisance, but nothing I can't handle.		DialogTalkToSusanne+<Option8>d__17	MoveNext
+96	Susanne	I'll give him something to remember if he decides to get too close.		DialogTalkToSusanne+<Option8>d__17	MoveNext
+1288	Arthur	That guy over there really isn't bothering you?		DialogTalkToSusanne+<Option8a>d__18	MoveNext
+97	Susanne	Trust me. I've dealt with my fair share of greaseballs.		DialogTalkToSusanne+<Option8a>d__18	MoveNext
+1039	Arthur	Any tips for having some fun around here?		DialogTalkToSusanne+<Option9>d__19	MoveNext
+98	Susanne	There are some simple pleasures in life we can all follow.		DialogTalkToSusanne+<Option9>d__19	MoveNext
+99	Susanne	Eat, drink, sleep, f-		DialogTalkToSusanne+<Option9>d__19	MoveNext
+1040	Arthur	Okay, I think I get it!		DialogTalkToSusanne+<Option9>d__19	MoveNext
+100	Susanne	There's no need to be such a square, Arthur.		DialogTalkToSusanne+<Option9>d__19	MoveNext
+1041	Arthur	I take no issue with the square.		DialogTalkToSusanne+<Option9>d__19	MoveNext
+1042	Arthur	Straight angles, all sides equal. Perfectly reliable for a shape!		DialogTalkToSusanne+<Option9>d__19	MoveNext
+101	Susanne	I guess I prefer to talk with people a little more rounded.		DialogTalkToSusanne+<Option9>d__19	MoveNext
+1277	Arthur	Do you really think I'm a square?		DialogTalkToSusanne+<Option9a>d__20	MoveNext
+102	Susanne	Well, a little spontaneity couldn't hurt, Arthur.		DialogTalkToSusanne+<Option9a>d__20	MoveNext
+103	Susanne	Maybe it's time to explore some new angles.		DialogTalkToSusanne+<Option9a>d__20	MoveNext
+1043	Arthur	I think Lady Unterwald was murdered!		DialogTalkToSusanne+<Option10>d__21	MoveNext
+104	Susanne	So I've heard.		DialogTalkToSusanne+<Option10>d__21	MoveNext
+105	Susanne	They're trying to keep it quiet to not cause a panic, but the rumours have already started circulating.		DialogTalkToSusanne+<Option10>d__21	MoveNext
+1044	Arthur	Who'd want to hurt Lady Unterwald?		DialogTalkToSusanne+<Option11>d__22	MoveNext
+106	Susanne	I didn't know her at all, but she got us this gig.		DialogTalkToSusanne+<Option11>d__22	MoveNext
+107	Susanne	Wasn't she insanely wealthy? That's reason enough for some people.		DialogTalkToSusanne+<Option11>d__22	MoveNext
+1045	Arthur	Aren't you worried there's a killer among us?		DialogTalkToSusanne+<Option12>d__23	MoveNext
+108	Susanne	The train hasn't stopped, so there's nowhere for them to run.		DialogTalkToSusanne+<Option12>d__23	MoveNext
+109	Susanne	Whoever they are, they're trapped here with us.		DialogTalkToSusanne+<Option12>d__23	MoveNext
+1046	Arthur	How'd you like to help me solve a murder?		DialogTalkToSusanne+<Option13>d__24	MoveNext
+110	Susanne	I'm a singer, Arthur. I'm not here to ‘whodunnit'.		DialogTalkToSusanne+<Option13>d__24	MoveNext
+111	Susanne	You know, there's a detective aboard. Can't they help you out?		DialogTalkToSusanne+<Option13>d__24	MoveNext
+1047	Arthur	You're talking about Herman Merman. He seems to have vanished without a trace!		DialogTalkToSusanne+<Option13>d__24	MoveNext
+1048	Arthur	You mean Herman Merman? I'm pretty sure he's in hiding.		DialogTalkToSusanne+<Option13>d__24	MoveNext
+112	Susanne	Well, I'm no sleuth, but that sounds suspicious to me.		DialogTalkToSusanne+<Option13>d__24	MoveNext
+1289	Arthur	Would you care to take a look at this note?		DialogTalkToSusanne+<Option13a>d__25	MoveNext
+114	Susanne	I'd sooner jump out this carriage window than rendezvous with that rotten egg.		DialogTalkToSusanne+<Option13a>d__25	MoveNext
+115	Susanne	Well, it certainly stinks of desperation.		DialogTalkToSusanne+<Option13a>d__25	MoveNext
+1438	Arthur	Are you sure you can't accept that note?		DialogTalkToSusanne+<Option13b>d__26	MoveNext
+116	Susanne	I told you I don't want anything from that rotten egg.		DialogTalkToSusanne+<Option13b>d__26	MoveNext
+117	Susanne	It stinks of desperation.		DialogTalkToSusanne+<Option13b>d__26	MoveNext
+1278	Arthur	I'm not sure what to do. Any advice?		DialogTalkToSusanne+<Option14>d__27	MoveNext
+118	Susanne	Take a deep breath, Arthur.		DialogTalkToSusanne+<Option14>d__27	MoveNext
+119	Susanne	Make sure you speak to everyone, you never know what might come from it!		DialogTalkToSusanne+<Option14>d__27	MoveNext
+1050	Arthur	I have to go, there's an old lady waiting for me.		DialogTalkToSusanne+<Option15a>d__29	MoveNext
+120	Susanne	Really. Well, I'm not one to judge.		DialogTalkToSusanne+<Option15a>d__29	MoveNext
+1051	Arthur	I have to go, I have a case to solve.		DialogTalkToSusanne+<Option15b>d__30	MoveNext
+85	Gunter	And don't even think about cutting in line, Arthur. I have low blood sugar!		DialogTalkToTwins+<Option1>d__6	MoveNext
+940	Gunter	Don't worry, I already ate.		DialogTalkToTwins+<Option1>d__6	MoveNext
+86	Gunter	I'm beginning to feel light-headed!		DialogTalkToTwins+<Option1a>d__7	MoveNext
+72	Hagen	Where has that infernal waiter got to?		DialogTalkToTwins+<Option1a>d__7	MoveNext
+73	Hagen	She's just up ahead.		DialogTalkToTwins+<Option2>d__8	MoveNext
+87	Gunter	Keep moving through the carriages, and you'll reach her eventually.		DialogTalkToTwins+<Option2>d__8	MoveNext
+88	Gunter	Continue walking through the carriages, and you'll reach her eventually.		DialogTalkToTwins+<Option2a>d__9	MoveNext
+74	Hagen	She's right up ahead.		DialogTalkToTwins+<Option2a>d__9	MoveNext
+75	Hagen	That's us!		DialogTalkToTwins+<Option3>d__10	MoveNext
+944	Hagen	Of course, you're Lady Unterwald's nephews.		DialogTalkToTwins+<Option3>d__10	MoveNext
+76	Hagen	Auntie Unterwald put us in charge of the railway Infrastructure.		DialogTalkToTwins+<Option3>d__10	MoveNext
+89	Gunter	Tunnels and bridges, to be precise.		DialogTalkToTwins+<Option3>d__10	MoveNext
+90	Gunter	Although one of those is clearly more important than the other.		DialogTalkToTwins+<Option3>d__10	MoveNext
+77	Hagen	Indeed. Which do you prefer, Arthur?		DialogTalkToTwins+<Option3>d__10	MoveNext
+945	Hagen	I'm sorry?		DialogTalkToTwins+<Option3>d__10	MoveNext
+91	Gunter	What's more important. Tunnels or bridges?		DialogTalkToTwins+<Option3>d__10	MoveNext
+78	Hagen	Aha, I knew it!		DialogTalkToTwins+<Option3a>d__11	MoveNext
+79	Hagen	What's more important. Tunnels or bridges?		DialogTalkToTwins+<Option3a>d__11	MoveNext
+92	Gunter	Aha, I knew it!		DialogTalkToTwins+<Option3a>d__11	MoveNext
+93	Gunter	What's more important. Tunnels or bridges?		DialogTalkToTwins+<Option3a>d__11	MoveNext
+94	Gunter	Ahh, I knew you'd be a fellow tunnel-head!		DialogTalkToTwins+<Option4>d__12	MoveNext
+80	Hagen	Sigh, of course.		DialogTalkToTwins+<Option4>d__12	MoveNext
+95	Gunter	You're just jealous because you got stuck building flimsy bridges.		DialogTalkToTwins+<Option4>d__12	MoveNext
+81	Hagen	Excuse me, bridges are a feat of engineering!		DialogTalkToTwins+<Option4>d__12	MoveNext
+96	Gunter	Not the ones you make, Hagen!		DialogTalkToTwins+<Option4>d__12	MoveNext
+82	Hagen	Ah, so you're a fellow bridge buff!		DialogTalkToTwins+<Option5>d__13	MoveNext
+97	Gunter	Sigh, of course you'd side with him.		DialogTalkToTwins+<Option5>d__13	MoveNext
+83	Hagen	You spent half the infrastructure budget on those stupid tunnels, Gunter!		DialogTalkToTwins+<Option5>d__13	MoveNext
+98	Gunter	And yet they're still better than your bridges to nowhere, Hagen!		DialogTalkToTwins+<Option5>d__13	MoveNext
+84	Hagen	Well, those are bridge-like structures.		DialogTalkToTwins+<Option6>d__14	MoveNext
+85	Hagen	I think that makes you a fellow bridge buff.		DialogTalkToTwins+<Option6>d__14	MoveNext
+99	Gunter	No, that hardly counts, they're separate things!		DialogTalkToTwins+<Option6>d__14	MoveNext
+100	Gunter	Don't try to complicate things, Arthur.		DialogTalkToTwins+<Option6>d__14	MoveNext
+86	Hagen	Oh come now, you have to answer!		DialogTalkToTwins+<Option7>d__15	MoveNext
+87	Hagen	Oh yes. I believe Auntie Unterwald is to announce her successor!		DialogTalkToTwins+<Option8>d__16	MoveNext
+101	Gunter	Mother says she'll surely keep the estate in the family.		DialogTalkToTwins+<Option8>d__16	MoveNext
+88	Hagen	And who better to take over the reins than her most talented nephew?		DialogTalkToTwins+<Option8>d__16	MoveNext
+102	Gunter	I couldn't agree more.		DialogTalkToTwins+<Option8>d__16	MoveNext
+103	Gunter	Oh yes, we had all kinds of meetings with her!		DialogTalkToTwins+<Option9>d__17	MoveNext
+89	Hagen	She used to have so many fun sayings!		DialogTalkToTwins+<Option9>d__17	MoveNext
+104	Gunter	''Gunter, we need to discuss this bloated budget!''		DialogTalkToTwins+<Option9>d__17	MoveNext
+90	Hagen	''Hagen, we've experienced yet another cave-in!''		DialogTalkToTwins+<Option9>d__17	MoveNext
+105	Gunter	''Do we really need another tunnel here?''		DialogTalkToTwins+<Option9>d__17	MoveNext
+106	Gunter	Haha, classic auntie!		DialogTalkToTwins+<Option9>d__17	MoveNext
+107	Gunter	Yuck! Enemies are for poor people, Arthur.		DialogTalkToTwins+<Option10>d__18	MoveNext
+91	Hagen	The wealthy have adversaries.		DialogTalkToTwins+<Option10>d__18	MoveNext
+108	Gunter	They're a much higher class of opponent.		DialogTalkToTwins+<Option10>d__18	MoveNext
+109	Gunter	That's more like it, Arthur.		DialogTalkToTwins+<Option10a>d__19	MoveNext
+92	Hagen	I assume a lot of people were jealous of her wealth.		DialogTalkToTwins+<Option10a>d__19	MoveNext
+110	Gunter	And power!		DialogTalkToTwins+<Option10a>d__19	MoveNext
+93	Hagen	And world-class railway empire!		DialogTalkToTwins+<Option10a>d__19	MoveNext
+119	Hagen	Don't even get me started...		DialogTalkToTwins+<Option11>d__20	MoveNext
+135	Gunter	We waited all this time for a table, only for the kitchen to close!		DialogTalkToTwins+<Option11>d__20	MoveNext
+120	Hagen	Hopefully it opens soon. I'm getting hungry!		DialogTalkToTwins+<Option11>d__20	MoveNext
+136	Gunter	Hunger is one thing, but I'm absolutely starving!		DialogTalkToTwins+<Option11>d__20	MoveNext
+121	Hagen	Is that right? Well, I'm positively famished!		DialogTalkToTwins+<Option11>d__20	MoveNext
+137	Gunter	Famished? If this wasn't a restaurant, I'd smack you across the mouth!		DialogTalkToTwins+<Option11>d__20	MoveNext
+122	Hagen	Not if I smacked you first.		DialogTalkToTwins+<Option11>d__20	MoveNext
+138	Gunter	What was that?		DialogTalkToTwins+<Option11>d__20	MoveNext
+123	Hagen	Nothing!		DialogTalkToTwins+<Option11>d__20	MoveNext
+94	Hagen	I was her favourite, you know!		DialogTalkToTwins+<Option12>d__21	MoveNext
+111	Gunter	No, she told me I was her favourite.		DialogTalkToTwins+<Option12>d__21	MoveNext
+95	Hagen	Oh please. She probably just confused you for me!		DialogTalkToTwins+<Option12>d__21	MoveNext
+112	Gunter	I was the favourite, me!		DialogTalkToTwins+<Option12>d__21	MoveNext
+96	Gunter	No, me!		DialogTalkToTwins+<Option12>d__21	MoveNext
+97	Hagen	I already told you, It was me!		DialogTalkToTwins+<Option13>d__22	MoveNext
+113	Gunter	Not this again! She told me I was her favourite.		DialogTalkToTwins+<Option13>d__22	MoveNext
+118	Gunter	Me!		DialogTalkToTwins+<Option13>d__22	MoveNext
+134	Gunter	No, Me!		DialogTalkToTwins+<Option13>d__22	MoveNext
+957	Narrator/Unknown	I'm sure she spoke highly of you both.		DialogTalkToTwins+<Option14>d__23	MoveNext
+98	Hagen	I already told you, It was me!		DialogTalkToTwins+<Option14>d__23	MoveNext
+114	Gunter	Not again! She told me I was her favourite.		DialogTalkToTwins+<Option14>d__23	MoveNext
+115	Gunter	I was the favourite, me!		DialogTalkToTwins+<Option14>d__23	MoveNext
+99	Hagen	No, me!		DialogTalkToTwins+<Option14>d__23	MoveNext
+127	Arista	What did I tell you about bickering?		DialogTalkToTwins+<Option14>d__23	MoveNext
+35	Arista	Me!		DialogTalkToTwins+<Option14>d__23	MoveNext
+27	Arista	Me!		DialogTalkToTwins+<Option14>d__23	MoveNext
+128	Arista	Oh, where's that infernal hearing horn got to?		DialogTalkToTwins+<Option14>d__23	MoveNext
+36	Arista	ME!		DialogTalkToTwins+<Option14>d__23	MoveNext
+28	Arista	ME!		DialogTalkToTwins+<Option14>d__23	MoveNext
+116	Hagen	No, Mother!		DialogTalkToTwins+<Option14>d__23	MoveNext
+100	Hagen	Sorry again, Mother!		DialogTalkToTwins+<Option14>d__23	MoveNext

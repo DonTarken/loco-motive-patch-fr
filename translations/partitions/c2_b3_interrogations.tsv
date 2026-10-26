@@ -1,0 +1,190 @@
+78	Arista	You have to help me! My boys are lost in the ventilation system!		CharacterArista+<OnInteractActTwoBeforePromisedToHelp>d__21	MoveNext
+79	Arista	I could direct them back with my horn, but I'd need some sort of mouthpiece!		CharacterArista+<OnInteractActTwoBeforePromisedToHelp>d__21	MoveNext
+379	Herman	Doesn't that thing go in your ear?		CharacterArista+<OnInteractActTwoBeforePromisedToHelp>d__21	MoveNext
+80	Arista	Hurry! My boys have no sense of direction!		CharacterArista+<OnInteractActTwoBeforePromisedToHelp>d__21	MoveNext
+185	Arista	Have you repaired my horn yet?		CharacterArista+<OnInteractActTwoAfterPromisedToHelp>d__22	MoveNext
+52	Arista	Oi you! What's going on in there?		CharacterArista+<OnInteractActTwoBeforeWearingDisguise>d__23	MoveNext
+380	Herman	There was a mishap with the ventilation system, but it's all fine now!		CharacterArista+<OnInteractActTwoBeforeWearingDisguise>d__23	MoveNext
+391	Herman	Now, if you'll excuse me...		CharacterArista+<OnInteractActTwoBeforeWearingDisguise>d__23	MoveNext
+85	Arista	What a wonderful coat. You know, my sister had one just like it!		CharacterArista+<OnInteractActTwoWearingDisguise>d__24	MoveNext
+381	Herman	Oh my! It sounds like she had exquisite taste.		CharacterArista+<OnInteractActTwoWearingDisguise>d__24	MoveNext
+86	Arista	Indeed.		CharacterArista+<OnInteractActTwoWearingDisguise>d__24	MoveNext
+431	Herman	Mr Liu?		CharacterJianLiu+<OnInteractActTwoIdolDialoguePuzzle>d__16	MoveNext
+371	Herman	I suspect the Rosebud could put an elephant to sleep.		CharacterMasson+<OnInteractActTwo>d__11	MoveNext
+579	Herman	I shouldn't inflict further torment upon the man, unless absolutely necessary.		CharacterMasson+<OnInteractActTwo>d__11	MoveNext
+18	WaiterTwo	May I get you something to drink?		CharacterMasson+<OnInteractActTwoWithWaiter>d__12	MoveNext
+69	Masson	No, that won't be necessary.		CharacterMasson+<OnInteractActTwoWithWaiter>d__12	MoveNext
+19	WaiterTwo	Then perhaps I can interest you in some appetisers, while you decide?		CharacterMasson+<OnInteractActTwoWithWaiter>d__12	MoveNext
+70	Masson	No, I'm not interested in mediocrity.		CharacterMasson+<OnInteractActTwoWithWaiter>d__12	MoveNext
+20	WaiterTwo	A main dish, then? Our soup of the day comes highly recommended.		CharacterMasson+<OnInteractActTwoWithWaiter>d__12	MoveNext
+71	Masson	Soup? Do I look like someone who would be caught dead ordering soup?		CharacterMasson+<OnInteractActTwoWithWaiter>d__12	MoveNext
+72	Masson	That's just idiotic, if you'll forgive me for saying so.		CharacterMasson+<OnInteractActTwoWithWaiter>d__12	MoveNext
+73	Masson	These dishes are so mundane. Uninspired, don't you think?		CharacterMasson+<OnInteractActTwoWithWaiter>d__12	MoveNext
+74	Masson	Do you have anything that actually requires skill and creativity to prepare?		CharacterMasson+<OnInteractActTwoWithWaiter>d__12	MoveNext
+21	WaiterTwo	If you'll allow me to check with the kitchen, I'll see if they can prepare something to your liking?		CharacterMasson+<OnInteractActTwoWithWaiter>d__12	MoveNext
+75	Masson	Yes, always.		CharacterMasson+<OnInteractActTwoWithWaiter>d__12	MoveNext
+25	Masson	Yes? What is it you want?		CharacterMasson+<OnInteractActTwoDiningCarriage>d__14	MoveNext
+1170	Herman	Are you waiting for someone?		DialogTalkToArtistActTwo+<Option1>d__5	MoveNext
+76	Pierre	What does it look like I'm doing, detective?		DialogTalkToArtistActTwo+<Option1>d__5	MoveNext
+1171	Herman	Loitering?		DialogTalkToArtistActTwo+<Option1>d__5	MoveNext
+77	Pierre	I'm waiting on the shoe shine girl.		DialogTalkToArtistActTwo+<Option1>d__5	MoveNext
+1172	Herman	Shoe shine girl?		DialogTalkToArtistActTwo+<Option1>d__5	MoveNext
+78	Pierre	Oui, I need to look my best for Lady Unterwald this evening.		DialogTalkToArtistActTwo+<Option1>d__5	MoveNext
+79	Pierre	Alas, that girl is far too preoccupied with her toys right now.		DialogTalkToArtistActTwo+<Option1>d__5	MoveNext
+1173	Herman	The shoe shine girl is too preoccupied with her toy set?		DialogTalkToArtistActTwo+<Option1a>d__6	MoveNext
+80	Pierre	Do you currently observe my shoes being shined?		DialogTalkToArtistActTwo+<Option1a>d__6	MoveNext
+81	Pierre	Then you have your answer, detective!		DialogTalkToArtistActTwo+<Option1a>d__6	MoveNext
+82	Pierre	How could a paying customer possibly compete with the Dirk Chiselton Deducing Kit?		DialogTalkToArtistActTwo+<Option1a>d__6	MoveNext
+1175	Herman	What's this about a Dirk Chiselton Deducing Kit?		DialogTalkToArtistActTwo+<Option1b>d__7	MoveNext
+83	Pierre	All I know is it's currently preventing me from getting my shoes polished.		DialogTalkToArtistActTwo+<Option1b>d__7	MoveNext
+1176	Herman	Blast! My publishers assured me the Dirk line was still in the prototyping phase.		DialogTalkToArtistActTwo+<Option1b>d__7	MoveNext
+84	Pierre	Oui, I was waiting for the shoe shine girl to finish her break.		DialogTalkToArtistActTwo+<Option1c>d__8	MoveNext
+85	Pierre	Since you gave her that manuscript, she hasn't looked up once!		DialogTalkToArtistActTwo+<Option1c>d__8	MoveNext
+1178	Herman	Still waiting to get those shoes shined?		DialogTalkToArtistActTwo+<Option1d>d__9	MoveNext
+86	Pierre	Oh, I'm still waiting, monsieur.		DialogTalkToArtistActTwo+<Option1d>d__9	MoveNext
+1179	Herman	Something tells me you're some sort of artist.		DialogTalkToArtistActTwo+<Option2>d__10	MoveNext
+89	Pierre	Tell me, what gave it away?		DialogTalkToArtistActTwo+<Option2>d__10	MoveNext
+90	Pierre	The assorted paints and paintbrushes?		DialogTalkToArtistActTwo+<Option2>d__10	MoveNext
+91	Pierre	My paint stained overalls?		DialogTalkToArtistActTwo+<Option2>d__10	MoveNext
+92	Pierre	It was the beret, wasn't it?		DialogTalkToArtistActTwo+<Option2>d__10	MoveNext
+1180	Herman	Ah, I'm afraid a detective never reveals their secrets.		DialogTalkToArtistActTwo+<Option2>d__10	MoveNext
+93	Pierre	That's magicians, isn't it?		DialogTalkToArtistActTwo+<Option2>d__10	MoveNext
+1181	Herman	It can be two things!		DialogTalkToArtistActTwo+<Option2>d__10	MoveNext
+1182	Herman	How's business in the art world?		DialogTalkToArtistActTwo+<Option2a>d__11	MoveNext
+94	Pierre	Lady Unterwald has been kind enough to provide me with a steady stream of work.		DialogTalkToArtistActTwo+<Option2a>d__11	MoveNext
+95	Pierre	As it happens, I'm preparing to capture her portrait this very evening!		DialogTalkToArtistActTwo+<Option2a>d__11	MoveNext
+1183	Herman	You're on the Unterwald payroll?		DialogTalkToArtistActTwo+<Option2b>d__12	MoveNext
+96	Pierre	I wish! Every artist would jump at the chance for a steady paycheque!		DialogTalkToArtistActTwo+<Option2b>d__12	MoveNext
+97	Pierre	Alas, our agreement is more... commissions based.		DialogTalkToArtistActTwo+<Option2b>d__12	MoveNext
+1184	Herman	Do you have a preferred artistic medium?		DialogTalkToArtistActTwo+<Option2c>d__13	MoveNext
+98	Pierre	I prefer the canvas, but these hands have also sculpted many things.		DialogTalkToArtistActTwo+<Option2c>d__13	MoveNext
+99	Pierre	If you take the time to look around, you'll find many of my pieces aboard this train.		DialogTalkToArtistActTwo+<Option2c>d__13	MoveNext
+100	Pierre	Of course, I'm not always at liberty to discuss them.		DialogTalkToArtistActTwo+<Option2c>d__13	MoveNext
+1185	Herman	Are you enjoying the band?		DialogTalkToArtistActTwo+<Option3>d__14	MoveNext
+102	Pierre	You know, they painstakingly arrange their songs for their live shows?		DialogTalkToArtistActTwo+<Option3>d__14	MoveNext
+1186	Herman	That's certainly intriguing.		DialogTalkToArtistActTwo+<Option3>d__14	MoveNext
+103	Pierre	No, that kind of dedication to the performance?		DialogTalkToArtistActTwo+<Option3>d__14	MoveNext
+104	Pierre	It's art!		DialogTalkToArtistActTwo+<Option3>d__14	MoveNext
+1187	Herman	What happened to Balboa Swing?		DialogTalkToArtistActTwo+<Option3a>d__15	MoveNext
+105	Pierre	I've never seen them walk off the stage during a set before.		DialogTalkToArtistActTwo+<Option3a>d__15	MoveNext
+106	Pierre	Balboa Swing strives for perfection, something must have thrown them off.		DialogTalkToArtistActTwo+<Option3a>d__15	MoveNext
+1189	Herman	I have to go now.		DialogTalkToArtistActTwo+<Option4>d__16	MoveNext
+98	JianLiu	I'm afraid the whereabouts of this idol eludes me; I don't recall seeing it before.		DialogTalkToJianLiuActTwo+<Option1>d__3	MoveNext
+99	JianLiu	You should know I think this whole thing is completely absurd, if that's any consolation.		DialogTalkToJianLiuActTwo+<Option1>d__3	MoveNext
+872	Herman	Not particularly.		DialogTalkToJianLiuActTwo+<Option1>d__3	MoveNext
+873	Herman	Good news, I located that hand idol you were looking for!		DialogTalkToJianLiuActTwo+<Option2>d__4	MoveNext
+100	JianLiu	You have? Then we might finally get our meeting underway!		DialogTalkToJianLiuActTwo+<Option2>d__4	MoveNext
+874	Herman	What's going on with you and Lady Unterwald?		DialogTalkToJianLiuActTwo+<Option3>d__5	MoveNext
+101	JianLiu	It is my intention to take ownership of the Unterwald empire.		DialogTalkToJianLiuActTwo+<Option3>d__5	MoveNext
+102	JianLiu	I believe this is in everyone's interest, including Lady Unterwald.		DialogTalkToJianLiuActTwo+<Option3>d__5	MoveNext
+875	Herman	How would selling the business benefit Lady Unterwald?		DialogTalkToJianLiuActTwo+<Option4>d__6	MoveNext
+103	JianLiu	It's my understanding that the Unterwald empire is suffering from financial difficulties.		DialogTalkToJianLiuActTwo+<Option4>d__6	MoveNext
+104	JianLiu	I'll reveal more once our meeting begins, but I'd be more than willing to take it off her hands.		DialogTalkToJianLiuActTwo+<Option4>d__6	MoveNext
+876	Herman	So, it's purely all business with you and Lady Unterwald?		DialogTalkToJianLiuActTwo+<Option5>d__7	MoveNext
+105	JianLiu	Well-I... I-		DialogTalkToJianLiuActTwo+<Option5>d__7	MoveNext
+106	JianLiu	I assure you, that's none of your concern.		DialogTalkToJianLiuActTwo+<Option5>d__7	MoveNext
+877	Herman	Am I to understand you're a member of the Order of Idle Hands?		DialogTalkToJianLiuActTwo+<Option6>d__8	MoveNext
+107	JianLiu	It's true, I was once an active member of the order.		DialogTalkToJianLiuActTwo+<Option6>d__8	MoveNext
+108	JianLiu	I thought we were doing necessary work, but it soon devolved into secret handshakes, and petty rituals.		DialogTalkToJianLiuActTwo+<Option6>d__8	MoveNext
+109	JianLiu	Eventually, all this bureaucracy seemed to prevent anything from being achieved.		DialogTalkToJianLiuActTwo+<Option6>d__8	MoveNext
+878	Herman	I assume the bureaucracy hasn't improved?		DialogTalkToJianLiuActTwo+<Option6>d__8	MoveNext
+110	JianLiu	No, it's worse.		DialogTalkToJianLiuActTwo+<Option6>d__8	MoveNext
+879	Herman	That's all I need to know right now!		DialogTalkToJianLiuActTwo+<Option7>d__9	MoveNext
+111	JianLiu	Sure.		DialogTalkToJianLiuActTwo+<Option7>d__9	MoveNext
+1123	Herman	You know, my memory of that evening is a little hazy!		DialogTalkToLamontActTwo+<Option1>d__1	MoveNext
+53	Lamont	That's probably to be expected, you all took quite the beating.		DialogTalkToLamontActTwo+<Option1>d__1	MoveNext
+1124	Herman	Is that why my arm is in a cast?		DialogTalkToLamontActTwo+<Option1>d__1	MoveNext
+32	Bailey	It's okay, let's just start small.		DialogTalkToLamontActTwo+<Option1>d__1	MoveNext
+1125	Herman	Don't you think I should speak to an attorney?		DialogTalkToLamontActTwo+<Option2>d__2	MoveNext
+54	Lamont	You hear that, Bailey? The man wants to speak to an attorney!		DialogTalkToLamontActTwo+<Option2>d__2	MoveNext
+33	Bailey	Brave man, especially after all the legal trouble Mr Ackerman has landed you in.		DialogTalkToLamontActTwo+<Option2>d__2	MoveNext
+1126	Herman	Hmm. I suppose it couldn't hurt to regale you with a new Herman tale.		DialogTalkToLamontActTwo+<Option2>d__2	MoveNext
+55	Lamont	Atta boy!		DialogTalkToLamontActTwo+<Option2>d__2	MoveNext
+1127	Herman	And I'd have complete immunity, right?		DialogTalkToLamontActTwo+<Option3>d__3	MoveNext
+34	Bailey	What would you need immunity from?		DialogTalkToLamontActTwo+<Option3>d__3	MoveNext
+1128	Herman	There may have been some collateral damage during my endeavours.		DialogTalkToLamontActTwo+<Option3>d__3	MoveNext
+56	Lamont	I'm sure we could come to some sort of arrangement.		DialogTalkToLamontActTwo+<Option3>d__3	MoveNext
+35	Bailey	So long as you start talking.		DialogTalkToLamontActTwo+<Option3>d__3	MoveNext
+1129	Herman	Anything for an adoring fan!		DialogTalkToLamontActTwo+<Option4>d__4	MoveNext
+58	Lamont	I knew we could count on you!		DialogTalkToLamontActTwo+<Option4>d__4	MoveNext
+1151	Herman	I noticed you were having trouble ordering.		DialogTalkToMassonActTwo+<Option1>d__7	MoveNext
+76	Masson	And if I was? Forgive me, but that's none of your business.		DialogTalkToMassonActTwo+<Option1>d__7	MoveNext
+77	Masson	Do you consider yourself a curator of sustenance?		DialogTalkToMassonActTwo+<Option1>d__7	MoveNext
+1152	Herman	Well, I-I		DialogTalkToMassonActTwo+<Option1>d__7	MoveNext
+78	Masson	Ah, spare me your stuttering!		DialogTalkToMassonActTwo+<Option1>d__7	MoveNext
+79	Masson	Tell me, for how long am I to endure your incessant hovering?		DialogTalkToMassonActTwo+<Option1>d__7	MoveNext
+1153	Herman	Perhaps you'd care for a drink while you wait?		DialogTalkToMassonActTwo+<Option1a>d__8	MoveNext
+80	Masson	What is this? Are you employed here, or are you just another busybody?		DialogTalkToMassonActTwo+<Option1a>d__8	MoveNext
+81	Masson	No, I'll have a drink with my meal.		DialogTalkToMassonActTwo+<Option1a>d__8	MoveNext
+1154	Herman	What brings you aboard the Reuss Express?		DialogTalkToMassonActTwo+<Option2>d__9	MoveNext
+82	Masson	Business, although it's all been for naught.		DialogTalkToMassonActTwo+<Option2>d__9	MoveNext
+83	Masson	A gentleman's agreement used to mean something, you know!		DialogTalkToMassonActTwo+<Option2>d__9	MoveNext
+1155	Herman	Your business was cancelled?		DialogTalkToMassonActTwo+<Option2a>d__10	MoveNext
+84	Masson	Let's just say there was a disagreement between parties.		DialogTalkToMassonActTwo+<Option2a>d__10	MoveNext
+85	Masson	We agreed on a price, and the other party chose to renege on the deal.		DialogTalkToMassonActTwo+<Option2a>d__10	MoveNext
+86	Masson	Amateurs, I'm surrounded by amateurs!		DialogTalkToMassonActTwo+<Option2a>d__10	MoveNext
+1156	Herman	Are you familiar with the Unterwald family?		DialogTalkToMassonActTwo+<Option3>d__11	MoveNext
+87	Masson	Yes, I'm familiar with them. They're not my cup of tea.		DialogTalkToMassonActTwo+<Option3>d__11	MoveNext
+88	Masson	I heard the family has run the Unterwald empire into the ground, and now they're looking for a quick way out.		DialogTalkToMassonActTwo+<Option3>d__11	MoveNext
+89	Masson	Lady Unterwald must have gone senile in recent years, entrusting those fools with even a modicum of power!		DialogTalkToMassonActTwo+<Option3>d__11	MoveNext
+90	Masson	Don't even get me started on those nephews of hers. Awful! Just deeply dumb.		DialogTalkToMassonActTwo+<Option3>d__11	MoveNext
+1157	Herman	You're not a fan of the Unterwalds, but you ride the Reuss Express?		DialogTalkToMassonActTwo+<Option3a>d__12	MoveNext
+91	Masson	You seem to be confusing business with pleasure.		DialogTalkToMassonActTwo+<Option3a>d__12	MoveNext
+92	Masson	This is purely a means to an end for me.		DialogTalkToMassonActTwo+<Option3a>d__12	MoveNext
+93	Masson	Even so, a man has to eat, does he not?		DialogTalkToMassonActTwo+<Option3a>d__12	MoveNext
+94	Masson	Indeed, that would be for the best.		DialogTalkToMassonActTwo+<Option4>d__13	MoveNext
+1159	Herman	I'm afraid you have something that I need.		DialogTalkToMassonActTwo+<Option5>d__14	MoveNext
+95	Masson	And what is it that you think I have?		DialogTalkToMassonActTwo+<Option5>d__14	MoveNext
+1160	Herman	I don't know what it is, but I think you know...		DialogTalkToMassonActTwo+<Option5>d__14	MoveNext
+96	Masson	Do you know how ridiculous that sounds?		DialogTalkToMassonActTwo+<Option5>d__14	MoveNext
+1161	Herman	Yes, I hear it now.		DialogTalkToMassonActTwo+<Option5>d__14	MoveNext
+1162	Herman	The item you possess, it belongs to Donny Donato.		DialogTalkToMassonActTwo+<Option5a>d__15	MoveNext
+97	Masson	Ah, and that coward sent you to do his bidding?		DialogTalkToMassonActTwo+<Option5a>d__15	MoveNext
+98	Masson	Are you supposed to be his muscle? You're practically skin and bones!		DialogTalkToMassonActTwo+<Option5a>d__15	MoveNext
+1163	Herman	I'm merely an interested party.		DialogTalkToMassonActTwo+<Option5a>d__15	MoveNext
+99	Masson	I'm sorry to say I've named my price, and you won't convince me otherwise.		DialogTalkToMassonActTwo+<Option5a>d__15	MoveNext
+1164	Herman	If it's a question of price, I'm willing to negotiate!		DialogTalkToMassonActTwo+<Option5b>d__16	MoveNext
+100	Masson	Trust me, it's more than you could afford.		DialogTalkToMassonActTwo+<Option5b>d__16	MoveNext
+101	Masson	Don't waste our time.		DialogTalkToMassonActTwo+<Option5b>d__16	MoveNext
+1165	Herman	Are you an acquaintance of Donny Donato?		DialogTalkToMassonActTwo+<Option6>d__17	MoveNext
+102	Masson	Don't bore me by talking about that man, he sets my teeth on edge.		DialogTalkToMassonActTwo+<Option6>d__17	MoveNext
+1166	Herman	What's your history with Donny?		DialogTalkToMassonActTwo+<Option6a>d__18	MoveNext
+103	Masson	He's an arrogant bully, that's what. A selfish, self-serving sleazeball!		DialogTalkToMassonActTwo+<Option6a>d__18	MoveNext
+1167	Herman	I see. It would be fair to say there's some bad blood between you?		DialogTalkToMassonActTwo+<Option6a>d__18	MoveNext
+104	Masson	I don't know what he's promised you, but you should never trust a gangster.		DialogTalkToMassonActTwo+<Option6a>d__18	MoveNext
+105	Masson	No, I've already left my fate in that waiter's hands.		DialogTalkToMassonActTwo+<Option7>d__19	MoveNext
+106	Masson	Who knows what foul concoction awaits me in that kitchen.		DialogTalkToMassonActTwo+<Option7>d__19	MoveNext
+1	Masson	I suppose I have no choice. Begone!		DialogTalkToMassonActTwo+<Option7>d__19	MoveNext
+1	WaiterTwo	I apologise, sir, but the kitchen is closed due to an incident.		RoomDiningCarriage+<OnEnterRoomAfterFadeActTwoCloseKitchenMassonInformed>d__29	MoveNext
+0	Masson	I suppose it was too much to ask for a meal with a hint of imagination?		RoomDiningCarriage+<OnEnterRoomAfterFadeActTwoCloseKitchenMassonInformed>d__29	MoveNext
+2	WaiterTwo	Would you care to order a drink instead?		RoomDiningCarriage+<OnEnterRoomAfterFadeActTwoCloseKitchenMassonInformed>d__29	MoveNext
+0	StageManager	Name?		RoomLoungeCarriage+<OnEnterAfterFadeActTwoJianLiuEnterGreenRoom>d__60	MoveNext
+9	JianLiu	Jian Liu.		RoomLoungeCarriage+<OnEnterAfterFadeActTwoJianLiuEnterGreenRoom>d__60	MoveNext
+1	StageManager	Please go right ahead, Mr Liu.		RoomLoungeCarriage+<OnEnterAfterFadeActTwoJianLiuEnterGreenRoom>d__60	MoveNext
+39	Gunter	Did they stop talking? I can't hear them!		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+31	Hagen	Why are you so heavy?		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+27	Arista	I can't hear what's going on with you two yapping!		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+32	Hagen	I'm not sure I can hold on much longer!		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+40	Gunter	What are they saying, mummy?		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+33	Hagen	I'm slipping!		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+28	Arista	Steady yourselves!		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+41	Gunter	You're gonna drop me!		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+29	Arista	Steady!		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+1000	Herman	I don't believe we've had the privilege?		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+136	Arista	Lady Arista Gudrun, a pleasure to meet you.		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+137	Arista	And these are my boys...		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+118	Gunter	Hagen Gudrun, a pleasure to meet you!		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+131	Arista	That's not right, you blithering idiot.		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+119	Gunter	It's not?		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+132	Arista	You're Gunter, and he's Hagen!		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+120	Gunter	Since when?!		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+102	Hagen	I can't believe you'd steal my name, you fish-eyed freak!		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+121	Gunter	Spineless weasel!		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+103	Hagen	Bootless haggard!		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+122	Gunter	Tottering codpiece!		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+135	Arista	Oh, now you've gone and done it! I've broken the mouthpiece.		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+1001	Herman	I'm confused, who are you again?		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+138	Arista	Gunter Gudrun, Underground Operational Executive.		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+139	Arista	Hagen Gudrun, Overground Operational Executive.		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+104	Hagen	Why does his title get to be longer?		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext
+140	Arista	Quiet!		RoomUnterwaldLobby+<OnEnterRoomAfterFadeActTwoMeetArista>d__8	MoveNext

@@ -1,0 +1,929 @@
+﻿// ===== CharacterApril+<OnUseInvAprilGadgetGrabBag>d__25.MoveNext (4 lines) =====
+map["Hey, there's a bunch of gadgets in here!"] = ""; // Char: Diana
+map["Where'd you get these?"] = ""; // Char: Diana
+map["Don't get too excited, they're prototypes I found in the yard!"] = ""; // Char: April
+map["I swiped them for you, but they're probably half broken!"] = ""; // Char: April
+
+// ===== CharacterApril+<OnUseInvAprilDeactivatedSleepSprayVial>d__26.MoveNext (3 lines) =====
+map["What's this for?"] = ""; // Char: Diana
+map["I swiped that spray from the yard, although it's probably not potent enough!"] = ""; // Char: April
+map["Either way, it's not going to get us closer to that train!"] = ""; // Char: April
+
+// ===== CharacterApril+<OnUseInvAprilIncendiaryPencils>d__27.MoveNext (3 lines) =====
+map["Is this a set of incendiary pencils?"] = ""; // Char: Diana
+map["Yes, so you should be careful!"] = ""; // Char: April
+map["Just remember that you're literally handling explosives!"] = ""; // Char: April
+
+// ===== CharacterApril+<OnUseInvAprilPencil>d__28.MoveNext (2 lines) =====
+map["Would this explosive pencil give us a boost?"] = ""; // Char: Diana
+map["They're full of explosive powder! It could potentially work!"] = ""; // Char: April
+
+// ===== CharacterApril+<OnUseInvAprilExplosivePowder>d__29.MoveNext (2 lines) =====
+map["I've got the explosive powder!"] = ""; // Char: Diana
+map["Nice work, but you'll need to get it into the bike!"] = ""; // Char: April
+
+// ===== CharacterArista+<OnUseInvAristaPerfumedLoveNote>d__26.MoveNext (5 lines) =====
+map["She probably couldn't even read it."] = ""; // Char: Arthur
+map["Oi!"] = ""; // Char: Arista
+map["I might be deaf..."] = ""; // Char: Arista
+map["but I'm certainly not blind."] = ""; // Char: Arista
+map["Well, not with the glasses anyway..."] = ""; // Char: Arista
+
+// ===== CharacterArista+<OnUseInvAristaHearingHorn>d__27.MoveNext (1 lines) =====
+map["I think I should keep it."] = ""; // Char: Arthur
+
+// ===== CharacterArista+<OnUseInvAristaCorkedHorn>d__28.MoveNext (1 lines) =====
+map["She probably won't want it back now that I've sealed it."] = ""; // Char: Arthur
+
+// ===== CharacterArista+<OnUseInvDetectiveBadge>d__29.MoveNext (1 lines) =====
+map["Am I supposed to be impressed?"] = ""; // Char: Arista
+
+// ===== CharacterArista+<OnUseInvAristaRepairedHearingHorn>d__30.MoveNext (4 lines) =====
+map["Here! I've had your hearing horn repaired."] = ""; // Char: Herman
+map["Bravo! Come, we must act quickly!"] = ""; // Char: Arista
+map["My boys must be so scared, and it's almost their nap time!"] = ""; // Char: Arista
+map["They get cranky if they don't have their nap!"] = ""; // Char: Arista
+
+// ===== CharacterBartender+<OnUseInvBartenderMouthwash>d__28.MoveNext (2 lines) =====
+map["Would you like this?"] = ""; // Char: Arthur
+map["No, sir. I assure you, my breath is fresh enough already."] = ""; // Char: Bartender
+
+// ===== CharacterBartender+<OnUseInvBartenderPetalLeaf>d__29.MoveNext (6 lines) =====
+map["I found these loose petals."] = ""; // Char: Arthur
+map["Think you could use them to make a Rosebud?"] = ""; // Char: Arthur
+map["Sure, that should be close enough to the real deal."] = ""; // Char: Bartender
+map["I'm still missing that cocktail perfume, though."] = ""; // Char: Bartender
+map["Would you like these?"] = ""; // Char: Arthur
+map["You can keep hold of those, sir."] = ""; // Char: Bartender
+
+// ===== CharacterBartender+<OnUseInvBartenderPerfumedLoveNote>d__30.MoveNext (5 lines) =====
+map["This letter is positively dripping with perfume!"] = ""; // Char: Arthur
+map["Think you could use this to make a Rosebud?"] = ""; // Char: Arthur
+map["Ehh, sure. We can give it a shot!"] = ""; // Char: Bartender
+map["I'm still missing the rose petals, though."] = ""; // Char: Bartender
+map["You can keep it."] = ""; // Char: Bartender
+
+// ===== CharacterBartender+<OnUseInvDetectiveBadge>d__31.MoveNext (1 lines) =====
+map["Just so you know, that doesn't count as ID."] = ""; // Char: Bartender
+
+// ===== CharacterBartender+<OnUseInvBartenderRosebudRecipe>d__33.MoveNext (8 lines) =====
+map["Do you take special requests?"] = ""; // Char: Herman
+map["Interesting, I've never heard of this one before. Let's give it a shot."] = ""; // Char: Bartender
+map["One Rosebud, coming up!"] = ""; // Char: Bartender
+map["I believe my guest is ready for his drink now."] = ""; // Char: Herman
+map["Which table, sir?"] = ""; // Char: WaiterTwo
+map["The large, angry gentleman over there. You can't miss him."] = ""; // Char: Herman
+map["Ah, I'm familiar."] = ""; // Char: WaiterTwo
+map["Good evening, sir. One of your fellow passengers has kindly ordered a drink for you."] = ""; // Char: WaiterTwo
+
+// ===== CharacterBartender+<OnUseInvBartenderRosebudRecipeRefused>d__34.MoveNext (3 lines) =====
+map["No, thank you. I won't have anything until I've ordered my meal."] = ""; // Char: Masson
+map["Very good, sir. I'll leave it at the bar for you."] = ""; // Char: WaiterTwo
+map["Yes, yes. Just leave me be."] = ""; // Char: Masson
+
+// ===== CharacterBartender+<OnUseInvBartenderRosebudRecipeAccepted>d__35.MoveNext (5 lines) =====
+map["Fine, if I can't have a meal, I might as well have a drink."] = ""; // Char: Masson
+map["Enjoy, Sir."] = ""; // Char: WaiterTwo
+map["Well, here's to a new libation."] = ""; // Char: Masson
+map["Rose..."] = ""; // Char: Masson
+map["bud."] = ""; // Char: Masson
+
+// ===== CharacterBergmann+<OnUseInvBergmannAccountingRecords>d__45.MoveNext (5 lines) =====
+map["Concerning this ledger..."] = ""; // Char: Arthur
+map["Arthur, I admit I made a mistake by manipulating those financial records."] = ""; // Char: Bergmann
+map["I only did it under pressure from Donny Donato!"] = ""; // Char: Bergmann
+map["I believe he's using magnetism to alter the outcome of the roulette table."] = ""; // Char: Bergmann
+map["I'll make this right as soon as he's no longer a threat, I assure you!"] = ""; // Char: Bergmann
+
+// ===== CharacterBergmann+<OnUseInvBergmannMagnet>d__46.MoveNext (3 lines) =====
+map["What do you make of this, Bergmann? I found it in Don's quarters."] = ""; // Char: Arthur
+map["It's as I feared, Don is using magnetism to cheat at roulette."] = ""; // Char: Bergmann
+map["Perhaps you can use that magnet to foil Don's scheme in some way?"] = ""; // Char: Bergmann
+
+// ===== CharacterBergmann+<OnUseInvBergmannMagnetDrunk>d__47.MoveNext (2 lines) =====
+map["Sorry, lad."] = ""; // Char: Bergmann
+map["Not a clue what you just said."] = ""; // Char: Bergmann
+
+// ===== CharacterBergmann+<OnUseInvBergmannPerfumedLoveNote>d__48.MoveNext (3 lines) =====
+map["Salacious!"] = ""; // Char: Bergmann
+map["Positively titillating!"] = ""; // Char: Bergmann
+map["Smells a bit weird though..."] = ""; // Char: Bergmann
+
+// ===== CharacterBrotherBrian+<OnUseInvDetectiveBadge>d__16.MoveNext (1 lines) =====
+map["Did you really just flash your badge at me?"] = ""; // Char: BrotherBrian
+
+// ===== CharacterBrotherJared+<OnUseInvDetectiveBadge>d__20.MoveNext (1 lines) =====
+map["Cool badge. Not as cool as this cloak, though."] = ""; // Char: BrotherJared
+
+// ===== CharacterBrotherJared+<OnUseInvBrotherJaredMysteriousNapkinBeforeAskedAboutTheBook>d__22.MoveNext (2 lines) =====
+map["What does your secret society make of this?"] = ""; // Char: Arthur
+map["Well, it's definitely a napkin."] = ""; // Char: BrotherJared
+
+// ===== CharacterBrotherJared+<OnUseInvBrotherJaredMysteriousNapkinAfterAskedAboutTheBook>d__23.MoveNext (3 lines) =====
+map["Does your book say anything about hidden messages on napkins?"] = ""; // Char: Arthur
+map["I'm sure there's a chapter in here on hidden messages."] = ""; // Char: BrotherJared
+map["I haven't got to that part yet."] = ""; // Char: BrotherJared
+
+// ===== CharacterBrotherJared+<OnUseInvBrotherJaredPoetryBook>d__24.MoveNext (2 lines) =====
+map["Let's do a book swap! Would you like this book on poetry?"] = ""; // Char: Arthur
+map["I think I'll stick with mine, thanks."] = ""; // Char: BrotherJared
+
+// ===== CharacterByron+<OnUseInvDetectiveBadge>d__14.MoveNext (1 lines) =====
+map["What are you supposed to be, some kind of copper?"] = ""; // Char: Byron
+
+// ===== CharacterCashier+<OnUseInv>d__8.MoveNext (2 lines) =====
+map["No thanks."] = ""; // Char: Cashier
+map["You can keep it."] = ""; // Char: Cashier
+
+// ===== CharacterCashier+<OnUseInvCashierCasinoChips>d__9.MoveNext (2 lines) =====
+map["Can I exchange some chips?"] = ""; // Char: Arthur
+map["Of course! How many do you want to exchange?"] = ""; // Char: Cashier
+
+// ===== CharacterChefFrancois+<OnUseInvChefFrancoisMouse>d__10.MoveNext (5 lines) =====
+map["Gentlemen, I have captured your thief."] = ""; // Char: Arthur
+map["Our nightmare is over."] = ""; // Char: ChefFrancois
+map["La cuisine is now open for business, avocat."] = ""; // Char: ChefAntoine
+map["Feel free to look around."] = ""; // Char: ChefRemy
+map["Take anything you need, mon ami."] = ""; // Char: ChefFrancois
+
+// ===== CharacterChefRemy+<OnUseInvChefRemyMouseOption1>d__35.MoveNext (2 lines) =====
+map["How can you be scared of this cute little face?"] = ""; // Char: Arthur
+map["That's not funny, don't do that again!"] = ""; // Char: ChefRemy
+
+// ===== CharacterChefRemy+<OnUseInvChefRemyMouseOption2>d__36.MoveNext (3 lines) =====
+map["You know, I think you'd be friends if you just got to know each other!"] = ""; // Char: Arthur
+map["KEEP IT AWAY! IT'S EVERY MAN FOR HIMSELF!"] = ""; // Char: ChefRemy
+map["Stop that!"] = ""; // Char: ChefRemy
+
+// ===== CharacterChefRemy+<OnUseInvChefRemyMouseOption3>d__37.MoveNext (3 lines) =====
+map["This little mouse has a heart of gold!"] = ""; // Char: Arthur
+map["NO! I'M TOO YOUNG TO DIE!"] = ""; // Char: ChefRemy
+map["Knock it off!"] = ""; // Char: ChefRemy
+
+// ===== CharacterConductor+<OnUseInv>d__1.MoveNext (1 lines) =====
+map["You should keep this, sir."] = ""; // Char: Conductor
+
+// ===== CharacterDiana+<OnUseInvDianaMysteriousNapkin>d__34.MoveNext (1 lines) =====
+map["I think you dropped this?"] = ""; // Char: Arthur
+
+// ===== CharacterDon+<OnUseInvDonPerfumedLoveNote>d__49.MoveNext (6 lines) =====
+map["He wouldn't like that."] = ""; // Char: Arthur
+map["Here, take it."] = ""; // Char: Arthur
+map["A response already? Someone is eager."] = ""; // Char: Don
+map["Wait a stinking minute, this is the same filthy note I gave you!"] = ""; // Char: Don
+map["I'll tell him the bad news later."] = ""; // Char: Arthur
+map["Lady Unterwald is waiting for me!"] = ""; // Char: Arthur
+
+// ===== CharacterDon+<OnUseInvDonCasinoChips>d__51.MoveNext (1 lines) =====
+map["I better not, he'd be very upset."] = ""; // Char: Arthur
+
+// ===== CharacterDon+<OnUseInvDetectiveBadge>d__53.MoveNext (1 lines) =====
+map["Very convincing, but I'd recognise my own handiwork anywhere."] = ""; // Char: Don
+
+// ===== CharacterDon+<OnUseInvDonBusinessCard>d__56.MoveNext (2 lines) =====
+map["Do you think you could forge the handwriting on this business card?"] = ""; // Char: Herman
+map["Let me take a look-see. Step into my office!"] = ""; // Char: Don
+
+// ===== CharacterElusiveHand+<OnUseInv>d__0.MoveNext (2 lines) =====
+map["Take a look at this."] = ""; // Char: Arthur
+map["It's not that kind of club, sir."] = ""; // Char: ElusiveHand
+
+// ===== CharacterGuard+<OnUseInvGuardLetterToArthur>d__8.MoveNext (5 lines) =====
+map["I have a letter from the late Lady Unterwald, right here!"] = ""; // Char: Arthur
+map["Mm-hmm. This all looks to be in order."] = ""; // Char: Guard
+map["So I can go in?"] = ""; // Char: Arthur
+map["I'm afraid not, sir."] = ""; // Char: Guard
+map["Lady Unterwald has passed on, after all."] = ""; // Char: Guard
+
+// ===== CharacterGuard+<OnUseInvGuardPerfumedLoveNote>d__9.MoveNext (18 lines) =====
+map["Looks like you have a secret admirer!"] = ""; // Char: Arthur
+map["A secret admirer? Let me take a look at that."] = ""; // Char: Guard
+map["This is..."] = ""; // Char: Guard
+map["Explicit, I know."] = ""; // Char: Arthur
+map["And the scent!"] = ""; // Char: Guard
+map["It's so-"] = ""; // Char: Guard
+map["Alluring!"] = ""; // Char: Guard
+map["Wait, this note is perfumed?!"] = ""; // Char: Guard
+map["I believe so!"] = ""; // Char: Arthur
+map["Are you alright?"] = ""; // Char: Arthur
+map["Weren't you listening? I'm terribly allergic to fragrance!"] = ""; // Char: Guard
+map["You've gone beet red."] = ""; // Char: Arthur
+map["I'm terribly allergic to fragrance!"] = ""; // Char: Guard
+map["You've gone all red."] = ""; // Char: Arthur
+map["I have? I need to find a doctor, right away!"] = ""; // Char: Guard
+map["Don't go in there while I'm gone, Mr Ackerman!"] = ""; // Char: Guard
+map["I wouldn't dream of it."] = ""; // Char: Arthur
+map["This note is a potential biohazard. I wouldn't want it to fall into the wrong hands."] = ""; // Char: Arthur
+
+// ===== CharacterGunter+<OnUseInvGunterBriefcase>d__31.MoveNext (20 lines) =====
+map["Say..."] = ""; // Char: Arthur
+map["Do either of you know anyone who could open this briefcase?"] = ""; // Char: Arthur
+map["I'll give it a shot!"] = ""; // Char: Hagen
+map["Let me try first."] = ""; // Char: Gunter
+map["No, I'm going first!"] = ""; // Char: Hagen
+map["He clearly asked me."] = ""; // Char: Gunter
+map["I'm the best person for the job."] = ""; // Char: Gunter
+map["The second best person for the job."] = ""; // Char: Hagen
+map["You won't be saying that when I open it."] = ""; // Char: Gunter
+map["Because I'd have already opened it!"] = ""; // Char: Hagen
+map["It's mine!"] = ""; // Char: Gunter
+map["Mine!"] = ""; // Char: Hagen
+map["Mine!!"] = ""; // Char: Gunter
+map["Mine!"] = ""; // Char: Hagen
+map["Well now look what you did!"] = ""; // Char: Gunter
+map["It wasn't me!"] = ""; // Char: Hagen
+map["Was too!"] = ""; // Char: Gunter
+map["I think my work here is done."] = ""; // Char: Arthur
+map["These medical records show Lady Unterwald's date of birth!"] = ""; // Char: Arthur
+map["I'd have never guessed!"] = ""; // Char: Arthur
+
+// ===== CharacterGunter+<OnUseInvGunterPerfumedLoveNote>d__32.MoveNext (8 lines) =====
+map["Would you like this love note?"] = ""; // Char: Arthur
+map["How flattering!"] = ""; // Char: Gunter
+map["No, he offered it to me!"] = ""; // Char: Hagen
+map["Well that's ridiculous, I'm clearly the more handsome twin."] = ""; // Char: Gunter
+map["Well, I'm the tallest!"] = ""; // Char: Hagen
+map["Barely!"] = ""; // Char: Gunter
+map["If you're taller it's maybe by a single pixel!"] = ""; // Char: Gunter
+map["You know what, never mind..."] = ""; // Char: Arthur
+
+// ===== CharacterGunter+<OnUseInvGunterHermanRoomKey>d__33.MoveNext (1 lines) =====
+map["Just hand over the keys? I don't think that would be a good idea."] = ""; // Char: Arthur
+
+// ===== CharacterHandshakeLeader+<OnUseInvDetectiveBadge>d__7.MoveNext (1 lines) =====
+map["There's a time and a place for that, Herman. And it's not here."] = ""; // Char: HandshakeLeader
+
+// ===== CharacterHerman+<OnUseInv>d__37.MoveNext (3 lines) =====
+map["A fan letter? How grand!"] = ""; // Char: Herman
+map["Can't take it I'm afraid."] = ""; // Char: Herman
+map["That perfume is strong enough to bring me out in a rash."] = ""; // Char: Herman
+
+// ===== CharacterHirsch+<OnUseInv>d__28.MoveNext (6 lines) =====
+map["Here, I managed to capture the current handshake pattern."] = ""; // Char: Arthur
+map["You did?"] = ""; // Char: Hirsch
+map["I just need some help with the phrases."] = ""; // Char: Arthur
+map["Aha, of course dear boy."] = ""; // Char: Hirsch
+map["And remember, you didn't hear it from me."] = ""; // Char: Hirsch
+map["Thanks again!"] = ""; // Char: Arthur
+
+// ===== CharacterHirsch+<OnUseInvDetectiveBadge>d__29.MoveNext (1 lines) =====
+map["Herman Merman waved his badge at me? I can die happy!"] = ""; // Char: Hirsch
+
+// ===== CharacterHirsch+<OnUseInvArtistSketches>d__30.MoveNext (2 lines) =====
+map["Let's take a little look, shall we?"] = ""; // Char: Hirsch
+map["Here, I'll write it down for you."] = ""; // Char: Hirsch
+
+// ===== CharacterHirsch+<OnUseInvHirschPerfumedLoveNote>d__39.MoveNext (2 lines) =====
+map["Professionally?"] = ""; // Char: Hirsch
+map["I'd recommend wearing gloves when handling anything so potent."] = ""; // Char: Hirsch
+
+// ===== CharacterHirsch+<OnUseInvHirschHandIdol>d__40.MoveNext (1 lines) =====
+map["I believe that might be it! Hand it over to those seated at the table."] = ""; // Char: Hirsch
+
+// ===== CharacterJianLiu+<OnUseInv>d__18.MoveNext (1 lines) =====
+map["I should pick my moment."] = ""; // Char: Arthur
+
+// ===== CharacterJianLiu+<OnUseInvJianLiuHandIdol>d__19.MoveNext (2 lines) =====
+map["I've found the hand idol you were looking for."] = ""; // Char: Herman
+map["You have? Then you must consult with the leader, they'll be able to verify it."] = ""; // Char: JianLiu
+
+// ===== CharacterKid+<OnUseInvKidOpenedDoll>d__10.MoveNext (6 lines) =====
+map["Can I trade your Detective Kit for this Herman doll?"] = ""; // Char: Herman
+map["What's a Herman doll?"] = ""; // Char: Kid
+map["Well, it's me! I have my own merchandise!"] = ""; // Char: Herman
+map["So why does it look like that?"] = ""; // Char: Kid
+map["Ah, it may have lost some stuffing, but it's still good!"] = ""; // Char: Herman
+map["Ehh. No, thanks."] = ""; // Char: Kid
+
+// ===== CharacterKid+<OnUseInvKidLetterOpener>d__13.MoveNext (2 lines) =====
+map["Can I interest you in this?"] = ""; // Char: Herman
+map["I don't get mail, what am I gonna do with a letter opener?"] = ""; // Char: Kid
+
+// ===== CharacterKid+<OnUseInvKidStapler>d__14.MoveNext (2 lines) =====
+map["Can I interest you in this?"] = ""; // Char: Herman
+map["Office stationery? I don't work in an office, mister."] = ""; // Char: Kid
+
+// ===== CharacterKid+<OnUseInvKidAdventureManuscript>d__15.MoveNext (3 lines) =====
+map["Can I trade your Detective Kit for this Herman manuscript?"] = ""; // Char: Herman
+map["Nobody's gonna want to read that guff, Mister."] = ""; // Char: Kid
+map["Now, if you got your hands on a Dirk Chiselton script, then maybe we could talk!"] = ""; // Char: Kid
+
+// ===== CharacterKid+<OnUseInvKidChiseltonCover>d__16.MoveNext (7 lines) =====
+map["May I interest you with this unreleased Chiselton script cover?"] = ""; // Char: Herman
+map["Woah! Are you serious right now?"] = ""; // Char: Kid
+map["I am indeed."] = ""; // Char: Herman
+map["This is neat, but where's the rest?"] = ""; // Char: Kid
+map["It's all I was able to procure for the time being."] = ""; // Char: Herman
+map["That's a shame. If you had the complete script, I'd trade you in a heartbeat!"] = ""; // Char: Kid
+map["Thanks anyway, though."] = ""; // Char: Kid
+
+// ===== CharacterKid+<OnUseInvKidFakeNovel>d__17.MoveNext (5 lines) =====
+map["Would you like to read the next Detective Chiselton novel early?"] = ""; // Char: Herman
+map["Wait, are you serious? I gotta see it, show me!"] = ""; // Char: Kid
+map["No way, this hasn't even been announced!"] = ""; // Char: Kid
+map["So, you're happy to trade?"] = ""; // Char: Herman
+map["Oh, yeah! This is way better!"] = ""; // Char: Kid
+
+// ===== CharacterKid+<OnUseInvDetectiveBadge>d__18.MoveNext (1 lines) =====
+map["That's the badge I gave you, dummy."] = ""; // Char: Kid
+
+// ===== CharacterLadyUnterwald+<OnUseInvDetectiveBadge>d__5.MoveNext (1 lines) =====
+map["Yes, yes. You're a big, strapping detective, Herman."] = ""; // Char: LadyUnterwald
+
+// ===== CharacterMasson+<OnUseInvDetectiveBadge>d__16.MoveNext (1 lines) =====
+map["Just what we need, another self-absorbed authority figure."] = ""; // Char: Masson
+
+// ===== CharacterMasson+<MassonOnUseInvPerfumedLoveNote>d__17.MoveNext (3 lines) =====
+map["Maybe this is strong enough to sober you up?"] = ""; // Char: Arthur
+map["Ha HA hA"] = ""; // Char: Masson
+map["NNccIceeE *Hic* Trrry!"] = ""; // Char: Masson
+
+// ===== CharacterMasson+<MassonOnUseInvAlcohol>d__18.MoveNext (1 lines) =====
+map["I don't want to get him any more inebriated."] = ""; // Char: Arthur
+
+// ===== CharacterMasson+<MassonOnUseInvSoupCup>d__19.MoveNext (1 lines) =====
+map["This should get you talking again."] = ""; // Char: Herman
+
+// ===== CharacterMaurice+<OnUseInvMauricePerfumedLoveNote>d__9.MoveNext (2 lines) =====
+map["Take a look at this."] = ""; // Char: Arthur
+map["Most... exquisite, sir."] = ""; // Char: Maurice
+
+// ===== CharacterMaurice+<OnUseInvMauriceMouse>d__10.MoveNext (2 lines) =====
+map["Oh please! That doesn't prove anything."] = ""; // Char: Maurice
+map["You could've brought that rodent from home!"] = ""; // Char: Maurice
+
+// ===== CharacterMaurice+<OnUseInvDetectiveBadge>d__11.MoveNext (1 lines) =====
+map["Excellent, sir."] = ""; // Char: Maurice
+
+// ===== CharacterPierre+<OnUseInvDetectiveBadge>d__24.MoveNext (1 lines) =====
+map["I assure you, I've done nothing wrong!"] = ""; // Char: Pierre
+
+// ===== CharacterPierre+<OnUseInvArtistBagOfCashReachedKnowAboutClubNotAskedAboutComission>d__27.MoveNext (4 lines) =====
+map["Are you interested in doing some work for hire?"] = ""; // Char: Arthur
+map["Bravo, Monsieur."] = ""; // Char: Pierre
+map["What is it that you wish to capture? The human condition?"] = ""; // Char: Pierre
+map["Ah, not exactly."] = ""; // Char: Arthur
+
+// ===== CharacterPierre+<OnUseInvArtistBagOfCashReachedKnowAboutClubAskedAboutComission>d__28.MoveNext (2 lines) =====
+map["Would this bag of cash be enough for a commission?"] = ""; // Char: Arthur
+map["Monsieur, I shall draw you like one of my French bulldogs!"] = ""; // Char: Pierre
+
+// ===== CharacterPierre+<OnUseInvArtistCasinoChipsReachedKnowAboutClubNotAskedAboutComission>d__31.MoveNext (4 lines) =====
+map["I mean, I may be interested in taking on a small commission."] = ""; // Char: Pierre
+map["For the right price, of course."] = ""; // Char: Pierre
+map["Would you accept these casino chips as payment?"] = ""; // Char: Arthur
+map["Afraid not, I need a cash payment."] = ""; // Char: Pierre
+
+// ===== CharacterPierre+<OnUseInvArtistPerfumedLoveNote>d__33.MoveNext (1 lines) =====
+map["Very... good."] = ""; // Char: Pierre
+
+// ===== CharacterPublisherFlorence+<OnUseInvPublisherFlorenceFilledCup>d__2.MoveNext (2 lines) =====
+map["Can I offer you a refreshing cup of water?"] = ""; // Char: Herman
+map["I've had quite enough, thanks."] = ""; // Char: PublisherFlorence
+
+// ===== CharacterPublisherFrank+<OnUseInvManuscript>d__4.MoveNext (2 lines) =====
+map["I have a manuscript I'd like to pitch."] = ""; // Char: Herman
+map["That's great, Herman. Just put it in the inbox and we'll take a look at it at some point."] = ""; // Char: PublisherFrank
+
+// ===== CharacterPublisherFrank+<OnUseInvPublisherFrankFilledCup>d__5.MoveNext (2 lines) =====
+map["Can I offer you a refreshing cup of water?"] = ""; // Char: Herman
+map["No, thank you, Herman."] = ""; // Char: PublisherFrank
+
+// ===== CharacterPublisherThomas+<OnUseInvPublisherThomasFilledCup>d__6.MoveNext (2 lines) =====
+map["Can I offer you a refreshing cup of water?"] = ""; // Char: Herman
+map["That's quite alright, Hermie."] = ""; // Char: PublisherThomas
+
+// ===== CharacterRon+<OnUseInvRonPerfumedLoveNote>d__21.MoveNext (1 lines) =====
+map["Keep that thing away from me."] = ""; // Char: Ron
+
+// ===== CharacterRon+<OnUseInvDetectiveBadge>d__23.MoveNext (1 lines) =====
+map["Mm-hmm. That sure is a badge."] = ""; // Char: Ron
+
+// ===== CharacterSisterGretchen+<OnUseInvDetectiveBadge>d__5.MoveNext (1 lines) =====
+map["Ooh, maybe we should get badges?"] = ""; // Char: SisterGretchen
+
+// ===== CharacterStageManager+<OnUseInvDetectiveBadge>d__15.MoveNext (1 lines) =====
+map["Nice badge, but that's not enough to get you in here."] = ""; // Char: StageManager
+
+// ===== CharacterSusanne+<OnUseInv>d__17.MoveNext (11 lines) =====
+map["I've been asked to give you this."] = ""; // Char: Arthur
+map["Is this from the twit that's been making eyes at me all evening?"] = ""; // Char: Susanne
+map["I'd sooner jump out this carriage window than rendezvous with that rotten egg."] = ""; // Char: Susanne
+map["It's scented, at least!"] = ""; // Char: Arthur
+map["Well, it certainly stinks of desperation."] = ""; // Char: Susanne
+map["Are you sure you can't accept that note?"] = ""; // Char: Arthur
+map["I told you I don't want anything from that rotten egg."] = ""; // Char: Susanne
+map["It stinks of desperation."] = ""; // Char: Susanne
+map["I think that's just the perfume."] = ""; // Char: Arthur
+map["A blank napkin?"] = ""; // Char: Susanne
+map["You can keep it."] = ""; // Char: Susanne
+
+// ===== CharacterSusanne+<OnUseInvDetectiveBadge>d__18.MoveNext (1 lines) =====
+map["That's real smooth, detective."] = ""; // Char: Susanne
+
+// ===== RoomCasinoCarriage+<OnUseInvPropRouletteTable>d__51.MoveNext (5 lines) =====
+map["I lost?!"] = ""; // Char: Don
+map["How?"] = ""; // Char: Don
+map["Wait right here, pal!"] = ""; // Char: Don
+map["I should see where he goes."] = ""; // Char: Arthur
+map["I'm pretty sure these are fraudulent chips."] = ""; // Char: Arthur
+
+// ===== RoomCell+<OnUseInvPropArthurToiletUntradable>d__114.MoveNext (3 lines) =====
+map["I think that's too big to send."] = ""; // Char: Arthur
+map["It's no use, I'll need to send a smaller item."] = ""; // Char: Arthur
+map["That's not going to fit!"] = ""; // Char: Arthur
+
+// ===== RoomCell+<OnUseInvPropArthurToiletEmpty>d__115.MoveNext (4 lines) =====
+map["I'll just place that here."] = ""; // Char: Arthur
+map["This is probably waterproof."] = ""; // Char: Arthur
+map["Here we go!"] = ""; // Char: Arthur
+map["Here goes nothing!"] = ""; // Char: Arthur
+
+// ===== RoomCell+<OnUseInvPropArthurToiletFull>d__116.MoveNext (4 lines) =====
+map["There's already something in there."] = ""; // Char: Arthur
+map["There's something floating in there already."] = ""; // Char: Arthur
+map["I don't want to overcrowd the bowl."] = ""; // Char: Arthur
+map["I might cause a blockage if I flush two items."] = ""; // Char: Arthur
+
+// ===== RoomCell+<OnUseInvPropDianaToiletUntradable>d__127.MoveNext (3 lines) =====
+map["That's not going to fit."] = ""; // Char: Diana
+map["I'll never fit that in there!"] = ""; // Char: Diana
+map["That's too big to send."] = ""; // Char: Diana
+
+// ===== RoomCell+<OnUseInvPropDianaToiletChainsBeforeSentMagneticBall>d__128.MoveNext (2 lines) =====
+map["I could flush these chains, but they'd make an awfully loud racket."] = ""; // Char: Diana
+map["It'll be too loud. That intern would come running over to investigate."] = ""; // Char: Diana
+
+// ===== RoomCell+<OnUseInvPropDianaToiletEmpty>d__130.MoveNext (4 lines) =====
+map["I'll just put this in here."] = ""; // Char: Diana
+map["It's not elegant, but it works."] = ""; // Char: Diana
+map["I didn't think I'd be doing this on my first mission."] = ""; // Char: Diana
+map["Hopefully this survives the trip!"] = ""; // Char: Diana
+
+// ===== RoomCell+<OnUseInvPropDianaToiletFull>d__131.MoveNext (3 lines) =====
+map["There's already something in there."] = ""; // Char: Diana
+map["I don't want to risk a blockage, better get that item out first."] = ""; // Char: Diana
+map["I should retrieve the item in the bowl first."] = ""; // Char: Diana
+
+// ===== RoomCell+<OnUseInvPropHermanToiletUntradable>d__143.MoveNext (3 lines) =====
+map["That won't fit in there."] = ""; // Char: Herman
+map["Ah, that's too big to send through."] = ""; // Char: Herman
+map["I'll need to send something smaller."] = ""; // Char: Herman
+
+// ===== RoomCell+<OnUseInvPropHermanToiletMakeshiftPlunger>d__144.MoveNext (3 lines) =====
+map["Come on, plunger, don't fail me now!"] = ""; // Char: Herman
+map["Plunge! Plunge!"] = ""; // Char: Herman
+map["I think it's working!"] = ""; // Char: Herman
+
+// ===== RoomCell+<OnUseInvPropHermanToiletEmpty>d__145.MoveNext (3 lines) =====
+map["I'll just drop this right here."] = ""; // Char: Herman
+map["Here goes..."] = ""; // Char: Herman
+map["Safe travels!"] = ""; // Char: Herman
+
+// ===== RoomCell+<OnUseInvPropHermanToiletFull>d__146.MoveNext (3 lines) =====
+map["There's something in there already."] = ""; // Char: Herman
+map["Seems there's already an item in there."] = ""; // Char: Herman
+map["The bowl is already filled to capacity."] = ""; // Char: Herman
+
+// ===== RoomCellExterior+<OnUseInvPropLockboxUmbrella>d__25.MoveNext (11 lines) =====
+map["I might be able to get into the lockbox."] = ""; // Char: Arthur
+map["Just give it a little whack with the ol' umbrella!"] = ""; // Char: Arthur
+map["Uh-oh!"] = ""; // Char: Arthur
+map["How'd you get that?"] = ""; // Char: Jimmy
+map["Oh this? I found it in my cell!"] = ""; // Char: Arthur
+map["Sorry, but I've got to confiscate it!"] = ""; // Char: Jimmy
+map["You know, it looks kinda like Lamont's umbrella!"] = ""; // Char: Jimmy
+map["I'm sure we just have the same great taste in rain protection."] = ""; // Char: Arthur
+map["I've got to lock it away, just in case you were planning a daring escape, ha ha!"] = ""; // Char: Jimmy
+map["That's perfectly understandable!"] = ""; // Char: Arthur
+map["Huh, looks like Jimmy dropped something from the lockbox."] = ""; // Char: Arthur
+
+// ===== RoomCellExterior+<OnUseInvPropMagneticBallAgentM>d__28.MoveNext (3 lines) =====
+map["Hey, Agent M! You see that shiny ball over there?"] = ""; // Char: Diana
+map["I bet it's valuable!"] = ""; // Char: Diana
+map["There's a good field agent! I knew you could do it!"] = ""; // Char: Diana
+
+// ===== RoomCellExterior+<OnUseInvPropChain>d__30.MoveNext (1 lines) =====
+map["This key should unlock these chains!"] = ""; // Char: Diana
+
+// ===== RoomDiningCarriage+<OnUseInvPropLemons>d__52.MoveNext (2 lines) =====
+map["I should pick it up first."] = ""; // Char: Arthur
+map["That won't be improved by lemons."] = ""; // Char: Arthur
+
+// ===== RoomDonQuarters+<OnUseInvPropMouseHole>d__34.MoveNext (6 lines) =====
+map["Hey, the cork fits perfectly!"] = ""; // Char: Arthur
+map["I should cork up any mouse holes I find. There's bound to be more!"] = ""; // Char: Arthur
+map["I think that was the last one."] = ""; // Char: Arthur
+map["That's another mouse burrow plugged up."] = ""; // Char: Arthur
+map["I'll just break a small piece off."] = ""; // Char: Arthur
+map["It doesn't seem interested in the cheese."] = ""; // Char: Arthur
+
+// ===== RoomDonQuarters+<OnUseInvPropChampagne>d__44.MoveNext (2 lines) =====
+map["Wouldn't want it to spoil."] = ""; // Char: Arthur
+map["That won't work."] = ""; // Char: Arthur
+
+// ===== RoomHandshakeClub+<OnUseInvHandshakeLeaderHandIdol>d__18.MoveNext (35 lines) =====
+map["I've found the hand idol you were looking for."] = ""; // Char: Herman
+map["You have? Let me have a look."] = ""; // Char: HandshakeLeader
+map["Yes, I remember now! This is the one!"] = ""; // Char: HandshakeLeader
+map["Good news, everyone! We can finally get down to business."] = ""; // Char: HandshakeLeader
+map["Jian, would you care to begin?"] = ""; // Char: HandshakeLeader
+map["Finally!"] = ""; // Char: JianLiu
+map["Ladies and gentlemen."] = ""; // Char: JianLiu
+map["I'm afraid time is of the essence. We cannot procrastinate while Lady Unterwald's estate hangs in the balance."] = ""; // Char: JianLiu
+map["It is known that Lady Unterwald has driven her own family mad with paranoia, to the point where they openly conspire against her."] = ""; // Char: JianLiu
+map["It has come to my attention that the Unterwald estate is approaching insolvency."] = ""; // Char: JianLiu
+map["I have offered to buy Lady Unterwald out, but she rebuffs me at every turn. I need to know I have the support of this order to do what needs to be done."] = ""; // Char: JianLiu
+map["This is all grave news, Jian. But as you know, we only offer a nudge in the right direction, we are not here to force Lady Unterwald's hand."] = ""; // Char: HandshakeLeader
+map["Lady Unterwald is compromised. If we do not move swiftly, there won't be an empire to preserve!"] = ""; // Char: JianLiu
+map["I propose we deliberate on this information, and put forth a proposal in the coming weeks."] = ""; // Char: HandshakeLeader
+map["W-What?"] = ""; // Char: JianLiu
+map["All those in favour?"] = ""; // Char: HandshakeLeader
+map["Aye!"] = ""; // Char: Hirsch
+map["Aye!"] = ""; // Char: SisterGretchen
+map["Aye!"] = ""; // Char: BrotherBrian
+map["Aye!"] = ""; // Char: BrotherJared
+map["Aye?"] = ""; // Char: Herman
+map["And all those against?"] = ""; // Char: HandshakeLeader
+map["Nay! Nay, I say! We must act now!"] = ""; // Char: JianLiu
+map["Well, I believe the Ayes have it."] = ""; // Char: HandshakeLeader
+map["He's not even a member of the order!"] = ""; // Char: JianLiu
+map["Irrelevant, Jian. The rules state that everyone present can cast a vote."] = ""; // Char: HandshakeLeader
+map["Well, what about the drunkard? Does he not get a say?"] = ""; // Char: JianLiu
+map["Your decision isn't final until everyone has cast their vote."] = ""; // Char: JianLiu
+map["Ah... Yes, I suppose you're right."] = ""; // Char: HandshakeLeader
+map["Mr Masson! What say you?"] = ""; // Char: HandshakeLeader
+map["W-Whhm?"] = ""; // Char: Masson
+map["Was that for or against?"] = ""; // Char: BrotherJared
+map["I couldn't tell."] = ""; // Char: SisterGretchen
+map["Well then, I'm afraid we're deadlocked until our friend here can cast his vote."] = ""; // Char: HandshakeLeader
+map["Once again, your petty rules prevent you from achieving anything!"] = ""; // Char: JianLiu
+
+// ===== RoomHandshakeClub+<OnUseInvPropMouseHole>d__27.MoveNext (7 lines) =====
+map["Hey, the cork fits perfectly!"] = ""; // Char: Arthur
+map["I should cork up any mouse holes I find. There's bound to be more!"] = ""; // Char: Arthur
+map["I think that was the last one."] = ""; // Char: Arthur
+map["Another mouse burrow successfully corked."] = ""; // Char: Arthur
+map["I'll just break a small piece off."] = ""; // Char: Arthur
+map["Didn't take it."] = ""; // Char: Arthur
+map["I thought they loved cheese."] = ""; // Char: Arthur
+
+// ===== RoomHandshakeClub+<OnUseInvPropBookPoetryBook>d__31.MoveNext (4 lines) =====
+map["Do you think the waiter's palms look dry?"] = ""; // Char: Arthur
+map["What! Where?"] = ""; // Char: BrotherJared
+map["The waiter's palms have ample moisture, I can assure you."] = ""; // Char: BrotherJared
+map["Sorry, I must have been mistaken."] = ""; // Char: Arthur
+
+// ===== RoomHandshakeClub+<OnUseInvPropPaintOverNapkin>d__34.MoveNext (1 lines) =====
+map["That won't do much if the paint has already dried."] = ""; // Char: Herman
+
+// ===== RoomHandshakeClub+<OnUseInvPropPaintOverTurpentine>d__35.MoveNext (1 lines) =====
+map["I'll need something to apply this with."] = ""; // Char: Herman
+
+// ===== RoomHandshakeClub+<OnUseInvPropPaintOverTurpentineNapkin>d__36.MoveNext (6 lines) =====
+map["Let's see what secrets lie underneath this painting."] = ""; // Char: Herman
+map["Uh oh... It's looking a little smeary."] = ""; // Char: Herman
+map["I should be able to fix it."] = ""; // Char: Herman
+map["Oh?"] = ""; // Char: Herman
+map["Aha! In this version of the painting, Lady Unterwald is performing a hand gesture!"] = ""; // Char: Herman
+map["It might be the same one I'm looking for!"] = ""; // Char: Herman
+
+// ===== RoomHermanExterior+<OnUseInvPropWillWalkingCane>d__11.MoveNext (1 lines) =====
+map["The cane would give me the reach, but I'll still need something to hook on to."] = ""; // Char: Arthur
+
+// ===== RoomHermanExterior+<OnUseInvPropWillReinforcedHookedCane>d__12.MoveNext (1 lines) =====
+map["Alright, here goes nothing!"] = ""; // Char: Arthur
+
+// ===== RoomInlandRevenueHQ+<OnUseInvPropPneumaticDoor>d__45.MoveNext (1 lines) =====
+map["I'll just pop this in here."] = ""; // Char: Diana
+
+// ===== RoomInlandRevenueHQ+<OnUseInvPropFillerRubberTubing>d__48.MoveNext (1 lines) =====
+map["Hopefully they haven't emptied the tank yet."] = ""; // Char: Diana
+
+// ===== RoomInlandRevenueHQ+<OnUseInvPropMotorbikeWiringKitFirstTime>d__51.MoveNext (3 lines) =====
+map["A little snip, here..."] = ""; // Char: Diana
+map["Cross this wire over here..."] = ""; // Char: Diana
+map["There, I've fixed the faulty wiring!"] = ""; // Char: Diana
+
+// ===== RoomInlandRevenueHQ+<OnUseInvPropMotorbikeWiringKit>d__52.MoveNext (1 lines) =====
+map["I've already rewired the bike."] = ""; // Char: Diana
+
+// ===== RoomInlandRevenueHQ+<OnUseInvPropMotorbikeFilledFuelCanisterFirstTime>d__53.MoveNext (1 lines) =====
+map["Alright, time to fuel up!"] = ""; // Char: Diana
+
+// ===== RoomInlandRevenueHQ+<OnUseInvPropMotorbikeFilledFuelCanister>d__54.MoveNext (1 lines) =====
+map["It's already filled with fuel."] = ""; // Char: Diana
+
+// ===== RoomInlandRevenueHQ+<OnUseInvPropRubberTubingEmptyFuelCanisterFirstTime>d__79.MoveNext (4 lines) =====
+map["Here goes nothing..."] = ""; // Char: Diana
+map["Splugh! There's definitely fuel in there, or something that tastes like it."] = ""; // Char: Diana
+map["It's working!"] = ""; // Char: Diana
+map["Okay! I've got myself a full can of fuel to work with."] = ""; // Char: Diana
+
+// ===== RoomInlandRevenueHQ+<OnUseInvPropRubberTubingEmptyFuelCanister>d__80.MoveNext (1 lines) =====
+map["There's no fuel left in the tank."] = ""; // Char: Diana
+
+// ===== RoomKitchenCarriage+<OnUseInvPropMouseHoleCorkingDevice>d__103.MoveNext (4 lines) =====
+map["Hey, the cork fits perfectly!"] = ""; // Char: Arthur
+map["I should cork up any mouse holes I find. There's bound to be more!"] = ""; // Char: Arthur
+map["I think that was the last one."] = ""; // Char: Arthur
+map["Don't want anything getting out of there."] = ""; // Char: Arthur
+
+// ===== RoomKitchenCarriage+<OnUseInvPropMouseHoleBlockOfCheese>d__104.MoveNext (2 lines) =====
+map["Hmm. No dice."] = ""; // Char: Arthur
+map["Maybe it's on a diet."] = ""; // Char: Arthur
+
+// ===== RoomKitchenCarriage+<OnUseInvPropStoveMysteriousNapkinAfterReturnedMouse>d__110.MoveNext (2 lines) =====
+map["I hope I'm right about this."] = ""; // Char: Arthur
+map["306. What could that mean?"] = ""; // Char: Arthur
+
+// ===== RoomKitchenCarriage+<OnUseInvPropOysterBag>d__117.MoveNext (1 lines) =====
+map["Let's reunite these pearls, shall we?"] = ""; // Char: Herman
+
+// ===== RoomKitchenCarriage+<OnUseInvPropSaucepanHabanero>d__133.MoveNext (1 lines) =====
+map["This should add a bit of flair to the kitchen."] = ""; // Char: Herman
+
+// ===== RoomLoungeCarriage+<OnUseInvPropGuestList>d__76.MoveNext (2 lines) =====
+map["I'll have to be quick."] = ""; // Char: Herman
+map["Hey, no touching the list!"] = ""; // Char: StageManager
+
+// ===== RoomMansionInterior+<OnUseInvPropStudyPneumaticTubeEmpty>d__76.MoveNext (4 lines) =====
+map["Nice, it fits!"] = ""; // Char: Diana
+map["That's ready to be requested now."] = ""; // Char: Diana
+map["Arthur or Herman can request that item now."] = ""; // Char: Diana
+map["There we go, ready to be requested."] = ""; // Char: Diana
+
+// ===== RoomMansionInterior+<OnUseInvPropStudyPneumaticTubeFull>d__78.MoveNext (5 lines) =====
+map["There's already something in the system."] = ""; // Char: Diana
+map["There's something in here already."] = ""; // Char: Diana
+map["I should check for deliveries first."] = ""; // Char: Diana
+map["Hmm, there's something in here."] = ""; // Char: Diana
+map["There's an item in here. I should retrieve it."] = ""; // Char: Diana
+
+// ===== RoomMansionInterior+<OnUseInvPropLibraryPneumaticTubeEmpty>d__97.MoveNext (5 lines) =====
+map["That's ready to be requested now."] = ""; // Char: Arthur
+map["Okay, that's in the system."] = ""; // Char: Arthur
+map["Alright, that can be requested."] = ""; // Char: Arthur
+map["Diana or Herman should be able to request that now."] = ""; // Char: Arthur
+map["There we are, ready to be requested!"] = ""; // Char: Arthur
+
+// ===== RoomMansionInterior+<OnUseInvPropLibraryPneumaticTubeFull>d__99.MoveNext (4 lines) =====
+map["There's already something in the system."] = ""; // Char: Arthur
+map["I should request that package first."] = ""; // Char: Arthur
+map["It can only take one item at a time."] = ""; // Char: Arthur
+map["I think there's something in there already."] = ""; // Char: Arthur
+
+// ===== RoomMansionInterior+<OnUseInvPropLibraryGramophoneRecordingDeviceBeforeUsedRecord>d__123.MoveNext (1 lines) =====
+map["There's nothing to record."] = ""; // Char: Arthur
+
+// ===== RoomMansionInterior+<OnUseInvPropLibraryGramophoneRecordingDeviceAfterUsedRecord>d__124.MoveNext (1 lines) =====
+map["I should be able to capture Lady Unterwald's voice with this!"] = ""; // Char: Arthur
+
+// ===== RoomMansionInterior+<OnUseInvPropLibraryGramophoneEmptyRecorderBeforeUsedRecord>d__126.MoveNext (1 lines) =====
+map["There's nothing to record."] = ""; // Char: Arthur
+
+// ===== RoomMansionInterior+<OnUseInvPropLibraryGramophoneEmptyRecorderAfterUsedRecord>d__127.MoveNext (1 lines) =====
+map["I'll need another wire reel to record anything."] = ""; // Char: Arthur
+
+// ===== RoomMansionInterior+<OnUseInvPropLibraryGramophoneWireReel>d__128.MoveNext (1 lines) =====
+map["I should put the wire reel in a recording device first."] = ""; // Char: Arthur
+
+// ===== RoomMansionInterior+<OnUseInvPropStudySafe>d__134.MoveNext (1 lines) =====
+map["I don't think that's going to open it."] = ""; // Char: Diana
+
+// ===== RoomMansionInterior+<OnUseInvPropBasementBodyAntidote>d__151.MoveNext (33 lines) =====
+map["Apologies, doctor."] = ""; // Char: Herman
+map["Isn't it your turn yet?"] = ""; // Char: Gunter
+map["What's the matter, Gunter? I thought you loved digging holes!"] = ""; // Char: Hagen
+map["Can't we do this later? I really don't want to miss the execution!"] = ""; // Char: Gunter
+map["The executor, you imbecile!"] = ""; // Char: Hagen
+map["Why did Auntie waste all that money on your so-called education?"] = ""; // Char: Hagen
+map["That's money she could have left to me in her will!"] = ""; // Char: Hagen
+map["You won't be getting anything if we're late!"] = ""; // Char: Gunter
+map["They'll have taken all the good stuff already, we'll be left with the scraps!"] = ""; // Char: Gunter
+map["Is that how it works? C-can they really do that?"] = ""; // Char: Hagen
+map["Well, I'm not waiting around to find out, come on!"] = ""; // Char: Gunter
+map["Agh! I hate how life-like these statues are. Whatever was Auntie thinking?"] = ""; // Char: Hagen
+map["It has to be one of Pierre's creations."] = ""; // Char: Gunter
+map["Just look at the detailing. He even carved in her fingerprints!"] = ""; // Char: Gunter
+map["Let's get out of here. It's giving me the creeps!"] = ""; // Char: Hagen
+map["Mein Gott!"] = ""; // Char: Hirsch
+map["Doctor! Are you quite alright?"] = ""; // Char: Herman
+map["Herman? How did you get here?"] = ""; // Char: Hirsch
+map["Why does my neck hurt so much?"] = ""; // Char: Hirsch
+map["You landed on it."] = ""; // Char: Herman
+map["Of course, that mad woman tried to dart me!"] = ""; // Char: Hirsch
+map["How did you know to use the adrenaline shot?"] = ""; // Char: Hirsch
+map["I was grasping at straws."] = ""; // Char: Herman
+map["No, that was the intuition of an extraordinary detective!"] = ""; // Char: Hirsch
+map["You did it, Herman!"] = ""; // Char: Hirsch
+map["I did?"] = ""; // Char: Herman
+map["You're right... I did!"] = ""; // Char: Herman
+map["I suspect the poison in this dart will be the very same used on Lady Unterwald."] = ""; // Char: Hirsch
+map["So it was Arista, all along!"] = ""; // Char: Herman
+map["That's right, but this may not be enough evidence. We'd need a confession!"] = ""; // Char: Hirsch
+map["I don't think she's the confessing type."] = ""; // Char: Herman
+map["Maybe there's a way to make her talk."] = ""; // Char: Hirsch
+map["If we can get a confession, it should be enough to clear your names."] = ""; // Char: Hirsch
+
+// ===== RoomMansionInterior+<OnUseInvPropBasementStatue>d__163.MoveNext (2 lines) =====
+map["The wax is too hard, I'll need to get it more malleable."] = ""; // Char: Herman
+map["The wax is too hard, I'll need to get it more malleable."] = ""; // Char: Herman
+
+// ===== RoomMansionInterior+<OnUseInvPropBasementBoilerWaxSealBeforeOvertime>d__168.MoveNext (1 lines) =====
+map["Damn, it's not kicking out enough heat to melt the wax."] = ""; // Char: Herman
+
+// ===== RoomMansionInterior+<OnUseInvPropBasementBoilerDeactivatedTruthSerum>d__169.MoveNext (3 lines) =====
+map["Hm, there's not much here. I might as well add the rest of this."] = ""; // Char: Herman
+map["Oh, ho, ho! This stuff is potent!"] = ""; // Char: Herman
+map["That doesn't sound good, I hope the pipes can handle that much pressure."] = ""; // Char: Herman
+
+// ===== RoomMansionInterior+<OnUseInvPropBasementBoilerWaxSealReachedOvertime>d__170.MoveNext (1 lines) =====
+map["It's already melted, but hardening fast."] = ""; // Char: Herman
+
+// ===== RoomMansionInterior+<OnUseInvPropBasementPneumaticTubeEmpty>d__181.MoveNext (5 lines) =====
+map["Okay, that's ready to be requested."] = ""; // Char: Herman
+map["I'll just place this right here."] = ""; // Char: Herman
+map["That should fit in there."] = ""; // Char: Herman
+map["Here goes..."] = ""; // Char: Herman
+map["Safe travels!"] = ""; // Char: Herman
+
+// ===== RoomMansionInterior+<OnUseInvPropBasementPneumaticTubeFull>d__183.MoveNext (5 lines) =====
+map["There's something in there already."] = ""; // Char: Herman
+map["I should request that package first."] = ""; // Char: Herman
+map["Seems there's already an item in there."] = ""; // Char: Herman
+map["The system is full already."] = ""; // Char: Herman
+map["It's already full up."] = ""; // Char: Herman
+
+// ===== RoomMansionLobby+<OnUseInvPropRopeLetterOpenerArthur>d__50.MoveNext (1 lines) =====
+map["Here goes nothing!"] = ""; // Char: Arthur
+
+// ===== RoomMansionLobby+<OnUseInvPropRopeLetterOpenerHerman>d__51.MoveNext (1 lines) =====
+map["I'll save you, Chiselton!"] = ""; // Char: Herman
+
+// ===== RoomMansionLobby+<OnUseInvPropRopeLetterOpenerDiana>d__52.MoveNext (1 lines) =====
+map["I hope this works!"] = ""; // Char: Diana
+
+// ===== RoomMansionSafeLocks+<OnUseInvPropListeningDevice>d__25.MoveNext (2 lines) =====
+map["I'll play Lady Unterwald's voice near the lock."] = ""; // Char: Diana
+map["Success!"] = ""; // Char: Diana
+
+// ===== RoomMansionSafeLocks+<OnUseInvPropScanningDevice>d__27.MoveNext (1 lines) =====
+map["This wax imprint could fool the mechanism."] = ""; // Char: Diana
+
+// ===== RoomMansionStatue+<OnUseInvPropStatue>d__11.MoveNext (1 lines) =====
+map["There! I've managed to create a wax impression."] = ""; // Char: Herman
+
+// ===== RoomMotorbikeExterior+<OnUseInvIncendiaryFuelTank>d__17.MoveNext (21 lines) =====
+map["Check it out, I've made a canister of high octane fuel!"] = ""; // Char: Diana
+map["I never underestimated you for a second!"] = ""; // Char: April
+map["What are you waiting for? Pour it in!"] = ""; // Char: April
+map["Alright! Here goes nothing..."] = ""; // Char: Diana
+map["Hold on tight!"] = ""; // Char: April
+map["I don't know how long we can maintain this boost!"] = ""; // Char: April
+map["You're going to have to jump, Diana!"] = ""; // Char: April
+map["I made it!"] = ""; // Char: Diana
+map["Woo-hoo!"] = ""; // Char: April
+map["Hey, run your objectives by me one last time!"] = ""; // Char: April
+map["I've got to make contact with the informant!"] = ""; // Char: Diana
+map["That's right!"] = ""; // Char: April
+map["I should listen in for any incriminating conversations!"] = ""; // Char: Diana
+map["And above all else?"] = ""; // Char: April
+map["Stay out of trouble!"] = ""; // Char: Diana
+map["That's it!"] = ""; // Char: April
+map["Good luck, Diana!"] = ""; // Char: April
+map["I'll contact you when I'm ready for extraction."] = ""; // Char: Diana
+map["Come on, Agent M. It's you and me, against the world!"] = ""; // Char: Diana
+map["Hey! Get back here!"] = ""; // Char: Diana
+map["Huh, this is looking like a solo mission after all."] = ""; // Char: Diana
+
+// ===== RoomPublisherOffice+<OnUseInvPropWaterCoolerPaperCup>d__28.MoveNext (1 lines) =====
+map["I'm not thirsty."] = ""; // Char: Herman
+
+// ===== RoomPublisherOffice+<OnUseInvPropSlotActionManuscript>d__32.MoveNext (1 lines) =====
+map["I refuse to grant Dirk the satisfaction of having this approved."] = ""; // Char: Herman
+
+// ===== RoomPublisherOffice+<OnUseInvPropSlotRomanceManuscript>d__33.MoveNext (3 lines) =====
+map["INSUFFICIENT DRAMATIC ENTRANCES."] = ""; // Char: Board
+map["ROMANTIC TENSION LEVELS BELOW ACCEPTABLE THRESHOLD."] = ""; // Char: Board
+map["KISSING SCENES LACK SPARK, CONSIDER ADDING EXPLOSIONS."] = ""; // Char: Board
+
+// ===== RoomPublisherOffice+<OnUseInvPropSlotFilledCup>d__34.MoveNext (5 lines) =====
+map["LIQUID DETECTED IN SCRIPT INPUT DEVICE."] = ""; // Char: Board
+map["ATTEMPTING SELF-CLEANING PROCESS."] = ""; // Char: Board
+map["SELF-CLEANING PROCESS COMPLETED SUCCESSFULLY."] = ""; // Char: Board
+map["SABOTAGE ATTEMPT DENIED."] = ""; // Char: Board
+map["Drat, I'll have to do better than that."] = ""; // Char: Herman
+
+// ===== RoomPublisherOffice+<OnUseInvPropSlotSawdust>d__35.MoveNext (4 lines) =====
+map["FOREIGN OBJECT DETECTED IN SCRIPT INPUT DEVICE."] = ""; // Char: Board
+map["ATTEMPTING SELF-CLEANING PROCESS."] = ""; // Char: Board
+map["SELF-CLEANING PROCESS COMPLETED SUCCESSFULLY."] = ""; // Char: Board
+map["SABOTAGE ATTEMPT DENIED."] = ""; // Char: Board
+
+// ===== RoomPublisherOffice+<OnUseInvPropSlotCupOfPaste>d__37.MoveNext (18 lines) =====
+map["FOREIGN OBJECT DETECTED IN SCRIPT INPUT DEVICE."] = ""; // Char: Board
+map["ATTEMPTING SELF-CLEANING PROCESS."] = ""; // Char: Board
+map["SELF-CLEANING PROCESS FAILED."] = ""; // Char: Board
+map["Excuse me, the board doesn't seem to be taking any more submissions."] = ""; // Char: Herman
+map["How unusual, I've never seen the board do that before."] = ""; // Char: PublisherThomas
+map["Herman, were you able to submit your manuscript beforehand?"] = ""; // Char: PublisherFrank
+map["Indeed, I did!"] = ""; // Char: Herman
+map["Very well. Let's see whether the underlying data supports you!"] = ""; // Char: PublisherFrank
+map["I think the board approves? I can't tell!"] = ""; // Char: PublisherFrank
+map["Pull the lever again!"] = ""; // Char: PublisherThomas
+map["BLAAAARRRGGHH."] = ""; // Char: Board
+map["It's no use. The board is completely fried!"] = ""; // Char: PublisherFrank
+map["But without the board, we'd have to.."] = ""; // Char: PublisherThomas
+map["You couldn't possibly mean.."] = ""; // Char: PublisherFlorence
+map["I'm afraid so. We're going to have to go with our gut on this one."] = ""; // Char: PublisherFrank
+map["NO! There must be some other way!"] = ""; // Char: PublisherFlorence
+map["How can we possibly decide without the empirical data?"] = ""; // Char: PublisherThomas
+map["Let us deliberate."] = ""; // Char: PublisherFrank
+
+// ===== RoomPublisherOffice+<OnUseInvPropPidgeonsPackingPopcorn>d__39.MoveNext (1 lines) =====
+map["Here you go, my fine feathered fellow."] = ""; // Char: Herman
+
+// ===== RoomPublisherOffice+<OnUseInvPropPackage>d__45.MoveNext (1 lines) =====
+map["The inbox tray is already full."] = ""; // Char: Herman
+
+// ===== RoomPublisherOffice+<OnUseInvPropPaperTray>d__46.MoveNext (1 lines) =====
+map["They won't look at any manuscripts manually whilst that board is still active."] = ""; // Char: Herman
+
+// ===== RoomSleeperCarriage+<OnUseInvPropDianaDoorSecretNote>d__27.MoveNext (1 lines) =====
+map["Room 306. I'll slide the note underneath the door."] = ""; // Char: Arthur
+
+// ===== RoomSleeperCarriage+<OnUseInvPropStorageDoor>d__28.MoveNext (1 lines) =====
+map["It's locked."] = ""; // Char: Arthur
+
+// ===== RoomSleeperCarriage+<OnUseInvPropTelephoneEmptyRecorder>d__44.MoveNext (1 lines) =====
+map["There's no tape in the recorder."] = ""; // Char: Arthur
+
+// ===== RoomSleeperCarriage+<OnUseInvPropTelephoneRecordingDevice>d__45.MoveNext (1 lines) =====
+map["I now have a voice recording of Lady Unterwald."] = ""; // Char: Arthur
+
+// ===== RoomSleeperCarriage+<OnUseInvPropFuseboxLockpickBeforeCrushedMrLiu>d__158.MoveNext (1 lines) =====
+map["This lockpick probably only has one use, I want to make sure I'm using it wisely."] = ""; // Char: Herman
+
+// ===== RoomSleeperCarriage+<OnUseInvPropFuseboxLockpickAfterCrushedMrLiu>d__159.MoveNext (1 lines) =====
+map["Let's see what we've got in here."] = ""; // Char: Herman
+
+// ===== RoomSleeperCarriage+<OnUseInvPropStatueRMagnifyingGlass>d__163.MoveNext (2 lines) =====
+map["''Dedicated to my beloved wife, my dear Junebug''"] = ""; // Char: Herman
+map["''Yours forever, George.''"] = ""; // Char: Herman
+
+// ===== RoomStorageRoom+<OnUseInvPropMouseHoleCorkingDevice>d__20.MoveNext (1 lines) =====
+map["That's not a hole I can seal up."] = ""; // Char: Arthur
+
+// ===== RoomStorageRoom+<OnUseInvPropMouseHoleBlockOfCheese>d__21.MoveNext (3 lines) =====
+map["That was quick!"] = ""; // Char: Arthur
+map["That'll work for the bait."] = ""; // Char: Arthur
+map["But I should block off any other escape routes first."] = ""; // Char: Arthur
+
+// ===== RoomStorageRoom+<OnUseInvPropMouse>d__30.MoveNext (4 lines) =====
+map["Sorry little buddy, but your crime spree is over."] = ""; // Char: Arthur
+map["There's bound to be some stolen property in the burrow."] = ""; // Char: Arthur
+map["I should hang on to these or he'll probably think that I stole them."] = ""; // Char: Arthur
+map["Oh, so close!"] = ""; // Char: Arthur
+
+// ===== RoomTestYardEngine+<OnUseInvPropPipe>d__23.MoveNext (1 lines) =====
+map["There! I managed to cut out a long length of the rubber tube."] = ""; // Char: Diana
+
+// ===== RoomTrainFront+<OnUseInvPropPapers>d__26.MoveNext (2 lines) =====
+map["Are you alright, Bergmann?"] = ""; // Char: Diana
+map["N-No, I'm not alright! I'm feeling a little peculiar, truth be told."] = ""; // Char: Bergmann
+
+// ===== RoomTrainFront+<OnUseInvPropPapersDeactivatedTruthSerum>d__27.MoveNext (4 lines) =====
+map["Maybe this stuff will get him talking."] = ""; // Char: Diana
+map["Goodness! That's burning very effectively!"] = ""; // Char: Bergmann
+map["Eugh! What's all this smoke!"] = ""; // Char: Bergmann
+map["*Cough*"] = ""; // Char: Bergmann
+
+// ===== RoomTrainFront+<OnUseInvPropFirebox>d__38.MoveNext (3 lines) =====
+map["Okay Bergmann, it's time to go!"] = ""; // Char: Diana
+map["Wha-?"] = ""; // Char: Bergmann
+map["Heavens above! I don't like the sound of that!"] = ""; // Char: Bergmann
+
+// ===== RoomUnterwaldCarriage+<OnUseInvPropDrawer>d__52.MoveNext (5 lines) =====
+map["Arthur, leave that alone."] = ""; // Char: LadyUnterwald
+map["It's too thick to slide between the gap, but I bet a wire hanger would work."] = ""; // Char: Arthur
+map["That doesn't need corking."] = ""; // Char: Arthur
+map["I need to slide something thin and wiry between the gap."] = ""; // Char: Arthur
+map["That's not going to help get it unstuck."] = ""; // Char: Arthur
+
+// ===== RoomUnterwaldCarriage+<OnUseInvPropSafe>d__61.MoveNext (2 lines) =====
+map["There could be key information in here, but I can't just throw paperwork at it!"] = ""; // Char: Arthur
+map["That's not going to help get it open."] = ""; // Char: Arthur
+
+// ===== RoomUnterwaldLiuHand+<OnUseInvPropClenchedFistLeftoverMixture>d__12.MoveNext (1 lines) =====
+map["This might help loosen his grip."] = ""; // Char: Herman
+
+// ===== RoomUnterwaldSafeLocks+<OnUseInvPropListeningDevice>d__49.MoveNext (1 lines) =====
+map["That's not going to help get it open."] = ""; // Char: Arthur
+
+// ===== RoomUnterwaldSafeLocks+<OnUseInvPropListeningDeviceUnterwaldRecording>d__50.MoveNext (4 lines) =====
+map["Let's see if the lock responds to Lady Unterwald's voice recording."] = ""; // Char: Arthur
+map["It worked!"] = ""; // Char: Arthur
+map["Just one more locking mechanism to get through!"] = ""; // Char: Arthur
+map["I need a six-digit combination. It's probably something personal."] = ""; // Char: Arthur
+

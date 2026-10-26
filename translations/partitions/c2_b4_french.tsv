@@ -1,0 +1,277 @@
+﻿Id	Character	English	French	Class	Method
+435	Herman	Brian, isn't it?	Brian, c'est bien ça ?	CharacterBrotherBrian+<OnInteractActTwoFirstMeeting>d__5	MoveNext
+10	BrotherBrian	What's it to you, Outsider?	Qu'est-ce que ça peut vous faire, l'Intrus ?	CharacterBrotherBrian+<OnInteractActTwoFirstMeeting>d__5	MoveNext
+436	Herman	Outsider?	L'Intrus ?	CharacterBrotherBrian+<OnInteractActTwoFirstMeeting>d__5	MoveNext
+11	BrotherBrian	Did you gain entry to our sanctum honourably, with the five-fingered handshake of formality?	Avez-vous pénétré dans notre sanctuaire avec honneur, en accomplissant la poignée de main protocolaire à cinq doigts ?	CharacterBrotherBrian+<OnInteractActTwoFirstMeeting>d__5	MoveNext
+437	Herman	I think I was unconscious when the doctor dragged me in here.	Je crois bien que j'étais inconscient quand le docteur m'a traîné ici.	CharacterBrotherBrian+<OnInteractActTwoFirstMeeting>d__5	MoveNext
+12	BrotherBrian	Well, that makes you an outsider!	Eh bien, cela fait de vous un intrus !	CharacterBrotherBrian+<OnInteractActTwoFirstMeeting>d__5	MoveNext
+438	Herman	Hello, Brian	Bonjour, Brian.	CharacterBrotherBrian+<OnInteractActTwo>d__6	MoveNext
+13	BrotherBrian	Yes, Outsider?	Oui, l'Intrus ?	CharacterBrotherBrian+<OnInteractActTwo>d__6	MoveNext
+442	Herman	Jared, is it?	Jared, n'est-ce pas ?	CharacterBrotherJared+<OnInteractActTwoFirstMeeting>d__17	MoveNext
+34	BrotherJared	Brother Jared, Custodian of the Silken Palms.	Frère Jared, Gardien des Paumes Soyeuses.	CharacterBrotherJared+<OnInteractActTwoFirstMeeting>d__17	MoveNext
+35	BrotherJared	I'm entitled to a little respect around here, thank you very much.	J'ai droit à un minimum de respect ici, je vous signale.	CharacterBrotherJared+<OnInteractActTwoFirstMeeting>d__17	MoveNext
+44	ChefAntoine	AAAAAAAAAAAAUUGGHH!	AAAAAAAAAAAAAAARGH !	CharacterChefAntoine+<OnActTwoGasFireball>d__11	MoveNext
+43	ChefAntoine	Fiammetta, what have you done!	Fiammetta, qu'as-tu fait !	CharacterChefAntoine+<OnActTwoGasFireball>d__11	MoveNext
+45	ChefAntoine	*gurgle*	*glouglou*	CharacterChefAntoine+<OnActTwoGasFireball>d__11	MoveNext
+42	ChefRemy	C-Crawling, scratching, n-n-nibbling!	C-Ça grouille, ça griffe, ç-ç-ça grignote !	CharacterChefRemy+<OnInteractActTwoAfterPearlNecklaceOption1>d__26	MoveNext
+64	ChefRemy	It c-came right for me!	Elle a f-foncé droit sur moi !	CharacterChefRemy+<OnInteractActTwoAfterPearlNecklaceOption2>d__27	MoveNext
+65	ChefRemy	I can't stand their b-beady little eyes!	Je n-ne supporte pas leurs petits yeux globuleux !	CharacterChefRemy+<OnInteractActTwoAfterPearlNecklaceOption3>d__28	MoveNext
+66	ChefRemy	Don't let it n-near me!	Ne la laissez pas m-m'approcher !	CharacterChefRemy+<OnInteractActTwoAfterPearlNecklaceOption4>d__29	MoveNext
+67	ChefRemy	Those t-teeth!	Ces d-dents !	CharacterChefRemy+<OnInteractActTwoAfterPearlNecklaceOption5>d__30	MoveNext
+68	ChefRemy	Ahh! I c-can't get it out of my mind!	Aaah ! Impossible de m-me l'enlever de la tête !	CharacterChefRemy+<OnInteractActTwoAfterPearlNecklaceOption7>d__31	MoveNext
+69	ChefRemy	T-Their worm-like tail. It was h-horrible!	L-Leur queue de ver de terre... C'était h-horrible !	CharacterChefRemy+<OnInteractActTwoAfterPearlNecklaceOption8>d__32	MoveNext
+44	HandshakeLeader	Ah, our latest recruit. Putting yourself to good use?	Ah, notre dernière recrue ! Vous vous rendez utile ?	CharacterHandshakeLeader+<OnInteractActTwo>d__5	MoveNext
+16	SisterGretchen	What do you think of the place? Pretty cool, huh?	Alors, que pensez-vous de cet endroit ? Pas mal, hein ?	CharacterSisterGretchen+<OnInteractActTwoFirstMeeting>d__2	MoveNext
+17	SisterGretchen	The name's Gretchen. I'm in charge of all the itinerary!	Moi c'est Gretchen. Je gère l'intégralité du planning !	CharacterSisterGretchen+<OnInteractActTwoFirstMeeting>d__2	MoveNext
+654	Herman	What are all these idols for, anyway?	À quoi servent toutes ces idoles, au juste ?	DialogTalkToBrotherBrianActTwo+<Option1>d__4	MoveNext
+53	BrotherBrian	Each one of these idols has a purpose, we use them to keep things orderly.	Chacune de ces idoles a un rôle précis. Nous les utilisons pour maintenir l'ordre.	DialogTalkToBrotherBrianActTwo+<Option1>d__4	MoveNext
+54	BrotherBrian	We have strict protocols, and we follow the rules here, something an outsider like you wouldn't know about, of course.	Nous avons des protocoles stricts et nous respectons les règles ici. Ce qu'un intrus comme vous ne saurait comprendre, évidemment.	DialogTalkToBrotherBrianActTwo+<Option1>d__4	MoveNext
+655	Herman	What's all this talk of a handshake?	Pourquoi tout le monde parle de cette poignée de main ?	DialogTalkToBrotherBrianActTwo+<Option2>d__5	MoveNext
+55	BrotherBrian	You don't know about the handshake?	Vous ignorez tout de la poignée de main ?	DialogTalkToBrotherBrianActTwo+<Option2>d__5	MoveNext
+56	BrotherBrian	What is the point of me guarding that curtain all day, if they're going to let people in who don't even know about the handshake?	À quoi bon passer mes journées à monter la garde devant ce rideau si on laisse entrer des gens qui ne connaissent même pas la poignée de main ?	DialogTalkToBrotherBrianActTwo+<Option2>d__5	MoveNext
+656	Herman	If you taught me the handshake, would I still be an outsider?	Si vous m'appreniez la poignée de main, est-ce que je serais toujours un intrus ?	DialogTalkToBrotherBrianActTwo+<Option2a>d__6	MoveNext
+57	BrotherBrian	Well, the handshake gets changed every few hours. Besides, you're here now.	Eh bien, la poignée de main change toutes les deux heures. Et puis, vous êtes déjà là.	DialogTalkToBrotherBrianActTwo+<Option2a>d__6	MoveNext
+657	Herman	Are you sure you don't want to teach me the handshake?	Vous êtes sûr de ne pas vouloir me l'enseigner ?	DialogTalkToBrotherBrianActTwo+<Option2b>d__7	MoveNext
+58	BrotherBrian	They'll just change it in a few hours, I'd rather not waste my time.	Ils vont la changer d'ici peu, je préfère ne pas perdre mon temps.	DialogTalkToBrotherBrianActTwo+<Option2b>d__7	MoveNext
+658	Herman	I heard you're the Keeper Of Idols? I need a specific one.	J'ai cru comprendre que vous étiez le Gardien des Idoles ? J'en cherche une bien précise.	DialogTalkToBrotherBrianActTwo+<Option3>d__8	MoveNext
+59	BrotherBrian	Look, there are a lot of idols back here.	Écoutez, il y a un paquet d'idoles là-derrière.	DialogTalkToBrotherBrianActTwo+<Option3>d__8	MoveNext
+60	BrotherBrian	If you can narrow it down, I might be able to find what you're looking for.	Si vous pouvez être plus précis, je pourrai peut-être trouver ce que vous cherchez.	DialogTalkToBrotherBrianActTwo+<Option3>d__8	MoveNext
+659	Herman	Any luck finding that idol? I'm still looking for it.	Du nouveau pour cette idole ? Je la cherche toujours.	DialogTalkToBrotherBrianActTwo+<Option3a>d__9	MoveNext
+61	BrotherBrian	Like I said, we've got a lot of idols back here.	Comme je l'ai dit, on a énormément d'idoles là-derrière.	DialogTalkToBrotherBrianActTwo+<Option3a>d__9	MoveNext
+839	Herman	I'm surprised you haven't sided with Mr Liu.	Je m'étonne que vous n'ayez pas pris le parti de M. Liu.	DialogTalkToBrotherBrianActTwo+<Option3b>d__10	MoveNext
+81	BrotherBrian	Really? I don't think it's all that surprising.	Vraiment ? Je ne trouve pas cela si surprenant.	DialogTalkToBrotherBrianActTwo+<Option3b>d__10	MoveNext
+82	BrotherBrian	I don't agree with his methodology, simple as that.	Je désapprouve sa méthodologie, c'est aussi simple que cela.	DialogTalkToBrotherBrianActTwo+<Option3b>d__10	MoveNext
+83	BrotherBrian	Besides, he left The Order! He doesn't get to dictate the rules to us now.	Et puis, il a quitté l'Ordre ! Il n'a plus aucun droit de nous dicter sa loi.	DialogTalkToBrotherBrianActTwo+<Option3b>d__10	MoveNext
+857	Herman	Mr Liu seemed fairly upset back there.	M. Liu avait l'air plutôt contrarié tout à l'heure.	DialogTalkToBrotherBrianActTwo+<Option3c>d__11	MoveNext
+84	BrotherBrian	Ah, I wouldn't read too much into it.	Bah, je n'y prêterais pas trop attention.	DialogTalkToBrotherBrianActTwo+<Option3c>d__11	MoveNext
+858	Herman	You're not concerned?	Ça ne vous inquiète pas ?	DialogTalkToBrotherBrianActTwo+<Option3c>d__11	MoveNext
+85	BrotherBrian	He's probably just gone off to sulk somewhere.	Il est sans doute juste parti bouder dans son coin.	DialogTalkToBrotherBrianActTwo+<Option3c>d__11	MoveNext
+660	Herman	I have to go.	Je dois filer.	DialogTalkToBrotherBrianActTwo+<Option4>d__12	MoveNext
+63	BrotherBrian	I'll be keeping an eye on you, Outsider.	Je garde un œil sur vous, l'Intrus.	DialogTalkToBrotherBrianActTwo+<Option4>d__12	MoveNext
+671	Herman	That's all the help I need right now.	C'est tout ce dont j'ai besoin pour l'instant.	DialogTalkToBrotherBrianActTwo+<Option3d>d__13	MoveNext
+661	Herman	What does a Custodian of the Silken Palms do?	En quoi consiste la charge d'un Gardien des Paumes Soyeuses ?	DialogTalkToBrotherJaredActTwo+<Option1>d__4	MoveNext
+60	BrotherJared	It's my job, nay, my sacred duty to ensure that all members' hands are thoroughly moisturised.	C'est mon travail, que dis-je, mon devoir sacré de veiller à ce que les mains de chaque membre soient parfaitement hydratées.	DialogTalkToBrotherJaredActTwo+<Option1>d__4	MoveNext
+662	Herman	I wish I could unhear that information.	J'aimerais tellement pouvoir effacer cette information de ma mémoire.	DialogTalkToBrotherJaredActTwo+<Option1>d__4	MoveNext
+61	BrotherJared	As you can tell, it's not a duty I take lightly. Nothing but moist palms, all round!	Comme vous le voyez, c'est une mission que je prends très au sérieux. Que des paumes bien moites, partout !	DialogTalkToBrotherJaredActTwo+<Option1>d__4	MoveNext
+663	Herman	Please, stop saying moist.	De grâce, arrêtez d'utiliser le mot « moite ».	DialogTalkToBrotherJaredActTwo+<Option1>d__4	MoveNext
+664	Herman	How'd you get roped into joining this secret society?	Comment vous êtes-vous retrouvé embrigadé dans cette société secrète ?	DialogTalkToBrotherJaredActTwo+<Option2>d__5	MoveNext
+62	BrotherJared	I was in it originally to help keep the company on track, you know?	À l'origine, j'ai rejoint pour aider l'entreprise à garder le cap, vous voyez ?	DialogTalkToBrotherJaredActTwo+<Option2>d__5	MoveNext
+63	BrotherJared	But over time, we got a bit hung up on the ‘helping hands' theme.	Mais avec le temps, on s'est un peu trop focalisés sur le concept des « mains tendues ».	DialogTalkToBrotherJaredActTwo+<Option2>d__5	MoveNext
+665	Herman	You're saying it all got rather heavy-handed.	Vous voulez dire que vous avez eu la main lourde.	DialogTalkToBrotherJaredActTwo+<Option2>d__5	MoveNext
+64	BrotherJared	Exactly! Next thing I know, we're talking secret handshakes, the best hand creams, cuticle care... the works!	Exactement ! Et sans crier gare, on en est venus aux poignées de main secrètes, aux meilleures crèmes hydratantes, aux cuticules... la totale !	DialogTalkToBrotherJaredActTwo+<Option2>d__5	MoveNext
+65	BrotherJared	I'm way too far down this rabbit hole to climb out now.	Je suis tombé bien trop profondément dans cet engrenage pour en ressortir.	DialogTalkToBrotherJaredActTwo+<Option2>d__5	MoveNext
+666	Herman	I have some questions about the hand idol.	J'ai quelques questions à propos de l'idole en forme de main.	DialogTalkToBrotherJaredActTwo+<Option3>d__6	MoveNext
+66	BrotherJared	Of course, I'll try to help as best I can.	Bien sûr, je ferai de mon mieux pour vous éclairer.	DialogTalkToBrotherJaredActTwo+<Option3>d__6	MoveNext
+667	Herman	Do you remember what the idol was made of?	Vous souvenez-vous du matériau dans lequel l'idole est faite ?	DialogTalkToBrotherJaredActTwo+<Option3a>d__7	MoveNext
+67	BrotherJared	Oh, you mean the Lady Unterwald idol?	Oh, vous parlez de l'idole de Lady Unterwald ?	DialogTalkToBrotherJaredActTwo+<Option3a>d__7	MoveNext
+68	BrotherJared	Well, it was definitely silver. Or was it solid gold?	Eh bien, c'était de l'argent, c'est sûr. Ou alors de l'or massif ?	DialogTalkToBrotherJaredActTwo+<Option3a>d__7	MoveNext
+69	BrotherJared	Oh dear, it's been too long, I'm afraid!	Grand Dieu, cela fait bien trop longtemps, j'en ai peur !	DialogTalkToBrotherJaredActTwo+<Option3a>d__7	MoveNext
+668	Herman	Can you recall what gesture the idol was making?	Vous rappelez-vous quel geste faisait la main ?	DialogTalkToBrotherJaredActTwo+<Option3b>d__8	MoveNext
+70	BrotherJared	Well, it was certainly a hand gesture...	Eh bien, c'était indubitablement un geste de la main...	DialogTalkToBrotherJaredActTwo+<Option3b>d__8	MoveNext
+669	Herman	Can you recall any specifics?	Pouvez-vous être un tout petit peu plus précis ?	DialogTalkToBrotherJaredActTwo+<Option3b>d__8	MoveNext
+71	BrotherJared	Sorry, pal. If you moisturise enough hands, they all kind of blur together!	Désolé, l'ami. Quand on hydrate autant de mains que moi, elles finissent toutes par se ressembler !	DialogTalkToBrotherJaredActTwo+<Option3b>d__8	MoveNext
+670	Herman	Was there a quote on the idol?	Y avait-il une citation gravée sur l'idole ?	DialogTalkToBrotherJaredActTwo+<Option3c>d__9	MoveNext
+72	BrotherJared	A quote? Yes, there was definitely something sentimental about it.	Une citation ? Oui, il y avait indéniablement une formule sentimentale.	DialogTalkToBrotherJaredActTwo+<Option3c>d__9	MoveNext
+73	BrotherJared	Sorry I couldn't be more helpful.	Désolé de ne pas pouvoir vous aider davantage.	DialogTalkToBrotherJaredActTwo+<Option3d>d__10	MoveNext
+859	Herman	What's Mr Liu so impatient about?	Pourquoi M. Liu est-il si impatient ?	DialogTalkToBrotherJaredActTwo+<Option3e>d__11	MoveNext
+76	BrotherJared	Oh, don't mind him. He just expects everything to go his way all the time!	Oh, ne faites pas attention. Il exige toujours que tout tourne autour de sa personne !	DialogTalkToBrotherJaredActTwo+<Option3e>d__11	MoveNext
+77	BrotherJared	Jian is a man of action, but we have processes in place for a reason!	Jian est un homme d'action, mais nos procédures existent pour une bonne raison !	DialogTalkToBrotherJaredActTwo+<Option3e>d__11	MoveNext
+860	Herman	I thought Jian raised some rather urgent points.	Jian a pourtant soulevé des points plutôt urgents.	DialogTalkToBrotherJaredActTwo+<Option3f>d__12	MoveNext
+78	BrotherJared	I agree, but we can't go barrelling in there and meddling with Lady Unterwald's affairs.	Je suis d'accord, mais on ne peut pas débarquer comme des brutes et fourrer notre nez dans les affaires de Lady Unterwald.	DialogTalkToBrotherJaredActTwo+<Option3f>d__12	MoveNext
+83	BrotherJared	It's much better to take a deliberate, more thought out approach.	Il est bien plus sage d'adopter une démarche mesurée et réfléchie.	DialogTalkToBrotherJaredActTwo+<Option3f>d__12	MoveNext
+861	Herman	It seems the voting has stalled. Any ideas?	Le vote semble dans l'impasse. Une suggestion ?	DialogTalkToBrotherJaredActTwo+<Option3g>d__13	MoveNext
+84	BrotherJared	We'll need a coherent answer out of Mr Masson in order to break the deadlock.	Il nous faudra une réponse cohérente de M. Masson pour débloquer la situation.	DialogTalkToBrotherJaredActTwo+<Option3g>d__13	MoveNext
+95	BrotherJared	Perhaps you can persuade him in some way?	Peut-être pourriez-vous trouver un moyen de le convaincre ?	DialogTalkToBrotherJaredActTwo+<Option3g>d__13	MoveNext
+672	Herman	Talk to you later, I have to go...	On se reparle plus tard, je dois m'en aller...	DialogTalkToBrotherJaredActTwo+<Option4>d__14	MoveNext
+1792	Arthur	Any tips on catching that mouse?	Un conseil pour attraper cette souris ?	DialogTalkToChefAntoineChapterTwo+<Option1>d__3	MoveNext
+81	ChefAntoine	It won't be easy, attorney. That little devil has shortcuts everywhere.	Ce ne sera pas une mince affaire, l'avocat. Ce petit démon a des passages secrets partout.	DialogTalkToChefAntoineChapterTwo+<Option1>d__3	MoveNext
+82	ChefAntoine	We tried to plug them all up, but there's too many!	On a essayé de tous les boucher, mais il y en a trop !	DialogTalkToChefAntoineChapterTwo+<Option1>d__3	MoveNext
+1793	Arthur	Good news, I've apprehended that mouse!	Bonne nouvelle, j'ai coffré cette souris !	DialogTalkToChefAntoineChapterTwo+<Option1a>d__4	MoveNext
+1794	Arthur	What should I do with this mouse?	Que dois-je faire de cette souris ?	DialogTalkToChefAntoineChapterTwo+<Option1b>d__5	MoveNext
+83	ChefAntoine	Give it here, attorney.	Donnez-la-moi, l'avocat.	DialogTalkToChefAntoineChapterTwo+<Option1b>d__5	MoveNext
+84	ChefAntoine	No one lays a whisker on Fiametta without facing consequences!	Personne ne touche à un cheveu de Fiammetta sans en payer le prix !	DialogTalkToChefAntoineChapterTwo+<Option1b>d__5	MoveNext
+1795	Arthur	Hmm I think I'll hang onto her for now.	Hmm, je crois que je vais la garder avec moi pour le moment.	DialogTalkToChefAntoineChapterTwo+<Option1b>d__5	MoveNext
+85	ChefAntoine	It's your funeral, attorney.	C'est vous qui voyez, l'avocat.	DialogTalkToChefAntoineChapterTwo+<Option1b>d__5	MoveNext
+1796	Arthur	Any chance of a tour of the kitchen?	Une chance d'avoir une visite guidée des fourneaux ?	DialogTalkToChefAntoineChapterTwo+<Option2>d__6	MoveNext
+86	ChefAntoine	A tour? I'm afraid a tour of the kitchen will have to wait.	Une visite ? J'ai bien peur que la visite des cuisines doive attendre.	DialogTalkToChefAntoineChapterTwo+<Option2>d__6	MoveNext
+87	ChefAntoine	The timing right now? It's not ideal.	Le timing actuel ? Pas franchement idéal.	DialogTalkToChefAntoineChapterTwo+<Option2>d__6	MoveNext
+1797	Arthur	Oh, that's okay.	Oh, ce n'est rien.	DialogTalkToChefAntoineChapterTwo+<Option2>d__6	MoveNext
+88	ChefAntoine	Ahh, you twist my arm, attorney. Of course, I'll give you a tour!	Ah, vous me prenez par les sentiments, l'avocat. Bien sûr que je vais vous faire faire le tour du propriétaire !	DialogTalkToChefAntoineChapterTwo+<Option2>d__6	MoveNext
+89	ChefAntoine	Come closer, and I will show you the star of the show. Fiametta!	Approchez, et je vous présenterai la star des lieux : Fiammetta !	DialogTalkToChefAntoineChapterTwo+<Option2>d__6	MoveNext
+1798	Arthur	You should tell me all about Fiametta!	Racontez-moi tout sur Fiammetta !	DialogTalkToChefAntoineChapterTwo+<Option2a>d__7	MoveNext
+90	ChefAntoine	You really want to know?	Vous voulez vraiment savoir ?	DialogTalkToChefAntoineChapterTwo+<Option2a>d__7	MoveNext
+91	ChefAntoine	No, I'm not sure that you can handle it.	Non, je ne suis pas certain que vous ayez les reins assez solides.	DialogTalkToChefAntoineChapterTwo+<Option2a>d__7	MoveNext
+1799	Arthur	I can handle it, give me the full spiel on Fiametta!	Je gère, dites-moi tout sur Fiammetta !	DialogTalkToChefAntoineChapterTwo+<Option2b>d__8	MoveNext
+92	ChefAntoine	Okay, well, you asked for it.	Très bien, c'est vous qui l'avez voulu.	DialogTalkToChefAntoineChapterTwo+<Option2b>d__8	MoveNext
+93	ChefAntoine	Allow me to introduce you to Fiametta, referred to by her manufacturers as the Easy Chef 500. She comes forged in cast iron steel...	Permettez-moi de vous présenter Fiammetta, désignée par ses fabricants sous le nom d'Easy Chef 500. Forgée dans un acier en fonte pure...	DialogTalkToChefAntoineChapterTwo+<Option2b>d__8	MoveNext
+94	ChefAntoine	Fiametta has not one, but two baking ovens! A broiler drawer that's ideal for browning the tops of casseroles, caramelising your meats, or even roasting your vegetables. But that's not all!	Fiammetta ne possède pas un, mais bien deux fours de cuisson ! Un tiroir gril idéal pour gratiner les soufflés, caraméliser les rôtis ou rissoler vos légumes. Mais ce n'est pas tout !	DialogTalkToChefAntoineChapterTwo+<Option2b>d__8	MoveNext
+1800	Arthur	It's not?!	Ce n'est pas tout ?!	DialogTalkToChefAntoineChapterTwo+<Option2b>d__8	MoveNext
+95	ChefAntoine	We're not talking your standard dual cook-top burners, we're not even talking four. Fiametta has six cook-top burners, an upper warming compartment that keeps optimum temperatures for your soups and sauces, and if that wasn't enough, a lower storage drawer for your additional kitchenware.	On ne parle pas de vos vulgaires réchauds doubles, ni même de quatre feux. Fiammetta dispose de six brûleurs, d'un chauffe-plat supérieur maintenant vos potages et réductions à température idéale, et cerise sur le gâteau, d'un tiroir inférieur pour la batterie de casseroles.	DialogTalkToChefAntoineChapterTwo+<Option2b>d__8	MoveNext
+1801	Arthur	Wow!	Impressionnant !	DialogTalkToChefAntoineChapterTwo+<Option2b>d__8	MoveNext
+1802	Arthur	I assume you've heard about Lady Unterwald?	J'imagine que vous êtes au courant pour Lady Unterwald ?	DialogTalkToChefAntoineChapterTwo+<Option3>d__9	MoveNext
+96	ChefAntoine	Ah, attorney, c'est une tragédie !	Ah, l'avocat, c'est une tragédie !	DialogTalkToChefAntoineChapterTwo+<Option3>d__9	MoveNext
+97	ChefAntoine	It's terrible! We even had to throw away perfectly good ingredients to fit her in the pantry.	C'est affreux ! On a même dû jeter d'excellents ingrédients pour lui faire de la place dans le garde-manger.	DialogTalkToChefAntoineChapterTwo+<Option3>d__9	MoveNext
+1803	Arthur	Excuse me?	Pardon ?	DialogTalkToChefAntoineChapterTwo+<Option3>d__9	MoveNext
+98	ChefAntoine	You heard me. Don't go snooping around in the freezer, or you'll give yourself a scare.	Vous m'avez très bien entendu. N'allez pas fouiner dans la chambre froide, vous risqueriez d'avoir une sacrée frousse.	DialogTalkToChefAntoineChapterTwo+<Option3>d__9	MoveNext
+1804	Arthur	Are you saying Lady Unterwald is stored in your freezer?	Êtes-vous en train de me dire que la dépouille de Lady Unterwald est dans votre congélateur ?	DialogTalkToChefAntoineChapterTwo+<Option3a>d__10	MoveNext
+99	ChefAntoine	Lady Unterwald needs to be on ice until the authorities can reach us.	Lady Unterwald doit rester au frais jusqu'à ce que les autorités puissent nous rejoindre.	DialogTalkToChefAntoineChapterTwo+<Option3a>d__10	MoveNext
+100	ChefAntoine	There was no other alternative, attorney!	Il n'y avait aucune autre solution, l'avocat !	DialogTalkToChefAntoineChapterTwo+<Option3a>d__10	MoveNext
+1805	Arthur	I don't think Lady Unterwald would have approved of your storage methods.	Je ne pense pas que Lady Unterwald aurait apprécié vos méthodes de conservation.	DialogTalkToChefAntoineChapterTwo+<Option3b>d__11	MoveNext
+101	ChefAntoine	Would you prefer Lady Unterwald to lay where she fell, in front of her paying passengers?	Auriez-vous préféré qu'on la laisse pourrir là où elle est tombée, sous les yeux des passagers de première classe ?	DialogTalkToChefAntoineChapterTwo+<Option3b>d__11	MoveNext
+102	ChefAntoine	When you consider the alternative, this is a more dignified resting place, no?	Quand on y songe, c'est un repos éternel bien plus digne, non ?	DialogTalkToChefAntoineChapterTwo+<Option3b>d__11	MoveNext
+1806	Arthur	I suppose so.	J'imagine, oui.	DialogTalkToChefAntoineChapterTwo+<Option3b>d__11	MoveNext
+1807	Arthur	I should get back to finding that mouse.	Je devrais me remettre à la recherche de cette souris.	DialogTalkToChefAntoineChapterTwo+<Option4>d__12	MoveNext
+103	ChefAntoine	Good luck, attorney.	Bonne chance, l'avocat.	DialogTalkToChefAntoineChapterTwo+<Option4>d__12	MoveNext
+1808	Arthur	I need to go now.	Je dois m'en aller.	DialogTalkToChefAntoineChapterTwo+<Option4a>d__13	MoveNext
+1769	Arthur	Did you say you had an inspection earlier?	Vous avez parlé d'une inspection tout à l'heure ?	DialogTalkToChefFrancoisChapterTwo+<Option1>d__3	MoveNext
+131	ChefFrancois	The health department sent a puny little drone to inspect our premises.	Les services sanitaires ont dépêché un minuscule rond-de-cuir pour inspecter nos cuisines.	DialogTalkToChefFrancoisChapterTwo+<Option1>d__3	MoveNext
+132	ChefFrancois	If there's anything I detest more than rodents, it's health inspectors.	S'il y a bien une chose que j'abhorre encore plus que la vermine, ce sont les inspecteurs de l'hygiène.	DialogTalkToChefFrancoisChapterTwo+<Option1>d__3	MoveNext
+133	ChefFrancois	Strutting about as if they rule the roost, they are the real pests!	Se pavanant comme des coqs de basse-cour... Les vrais nuisibles, ce sont eux !	DialogTalkToChefFrancoisChapterTwo+<Option1>d__3	MoveNext
+1770	Arthur	You mentioned the mouse only steals valuables?	Vous disiez que la souris ne dérobe que les objets de valeur ?	DialogTalkToChefFrancoisChapterTwo+<Option2>d__4	MoveNext
+134	ChefFrancois	Indeed, we're down to our last cheese knife.	Tout à fait, nous en sommes réduits à notre tout dernier couteau à fromage.	DialogTalkToChefFrancoisChapterTwo+<Option2>d__4	MoveNext
+135	ChefFrancois	It's also found a way into our pantry, there must be tunnels everywhere.	Elle a aussi dégoté un accès au garde-manger. Il doit y avoir des galeries partout.	DialogTalkToChefFrancoisChapterTwo+<Option2>d__4	MoveNext
+1771	Arthur	Where do you think that mouse came from, anyway?	D'où peut bien provenir cette souris, à votre avis ?	DialogTalkToChefFrancoisChapterTwo+<Option2a>d__5	MoveNext
+136	ChefFrancois	It's not uncommon for rodents to sneak aboard a departing train.	Il n'est pas rare que des rongeurs montent clandestinement à bord au départ.	DialogTalkToChefFrancoisChapterTwo+<Option2a>d__5	MoveNext
+137	ChefFrancois	But that mouse? That little devil came from the gates of hell!	Mais cette souris-là ? Ce petit démon a émergé tout droit des portes de l'enfer !	DialogTalkToChefFrancoisChapterTwo+<Option2a>d__5	MoveNext
+1772	Arthur	Tell me more about your rodent problem.	Dites-m'en plus sur votre problème de rongeur.	DialogTalkToChefFrancoisChapterTwo+<Option3>d__6	MoveNext
+138	ChefFrancois	That creature is no ordinary rodent, it's pure evil.	Cette créature n'a rien d'un rongeur ordinaire, c'est l'incarnation du mal.	DialogTalkToChefFrancoisChapterTwo+<Option3>d__6	MoveNext
+101	ChefRemy	It's out there... watching us, plotting its next attack.	Elle est là dehors... à nous guetter, à fomenter sa prochaine attaque.	DialogTalkToChefFrancoisChapterTwo+<Option3>d__6	MoveNext
+139	ChefFrancois	Calm down, Remy. Our attorney is on the case!	Du calme, Rémy. Notre avocat est sur le coup !	DialogTalkToChefFrancoisChapterTwo+<Option3>d__6	MoveNext
+1773	Arthur	Any advice on nabbing that mouse?	Un conseil avisé pour coincer cette bête ?	DialogTalkToChefFrancoisChapterTwo+<Option3a>d__7	MoveNext
+140	ChefFrancois	I'd try to trap it in an enclosed space.	J'essaierais de la piéger dans un espace confiné.	DialogTalkToChefFrancoisChapterTwo+<Option3a>d__7	MoveNext
+141	ChefFrancois	It won't be so simple, though. That little thief is a professional.	Ce ne sera pas de la tarte, cela dit. Cette voleuse est une véritable professionnelle.	DialogTalkToChefFrancoisChapterTwo+<Option3a>d__7	MoveNext
+1775	Arthur	Mind if I have a poke around your kitchen?	Ça vous ennuie si je jette un coup d'œil dans votre cuisine ?	DialogTalkToChefFrancoisChapterTwo+<Option3c>d__9	MoveNext
+142	ChefFrancois	Poke around?	Jeter un coup d'œil ?	DialogTalkToChefFrancoisChapterTwo+<Option3c>d__9	MoveNext
+143	ChefFrancois	You may have free rein of the kitchen, but there is to be no poking!	Vous pouvez vous déplacer librement, mais interdiction formelle de trifouiller !	DialogTalkToChefFrancoisChapterTwo+<Option3c>d__9	MoveNext
+144	ChefFrancois	Good luck, attorney. We're counting on you.	Bonne chance, l'avocat. Nous comptons sur vous.	DialogTalkToChefFrancoisChapterTwo+<Option4>d__10	MoveNext
+1777	Arthur	I'll leave you to it.	Je vous laisse travailler.	DialogTalkToChefFrancoisChapterTwo+<Option4a>d__11	MoveNext
+145	ChefFrancois	Merci, attorney.	Merci, l'avocat.	DialogTalkToChefFrancoisChapterTwo+<Option4a>d__11	MoveNext
+1778	Arthur	What's making you so jittery?	Qu'est-ce qui vous rend aussi fébrile ?	DialogTalkToChefRemyChapterTwo+<Option1>d__3	MoveNext
+102	ChefRemy	That creature is out there... watching us, plotting its next attack.	Cette créature est dehors... à nous observer, à préparer son prochain assaut.	DialogTalkToChefRemyChapterTwo+<Option1>d__3	MoveNext
+103	ChefRemy	Ugh, the mere thought of it makes my skin crawl!	Pouah, rien que d'y penser, j'en ai la chair de poule !	DialogTalkToChefRemyChapterTwo+<Option1>d__3	MoveNext
+1779	Arthur	I'll bet that mouse is just as scared of you, as you are of it!	Je parie que cette souris a tout aussi peur de vous que vous d'elle !	DialogTalkToChefRemyChapterTwo+<Option1a>d__4	MoveNext
+104	ChefRemy	Please don't say that word! You're making me itch!	Pitié, ne prononcez pas ce mot ! Ça me gratte partout !	DialogTalkToChefRemyChapterTwo+<Option1a>d__4	MoveNext
+1781	Arthur	Are you feeling a bit more at ease now?	Vous vous sentez un peu plus rasséréné maintenant ?	DialogTalkToChefRemyChapterTwo+<Option1c>d__6	MoveNext
+105	ChefRemy	Knowing that vile beast is safely contained is a big weight off my mind.	Savoir cette vile créature hors d'état de nuire m'enlève un poids gigantesque.	DialogTalkToChefRemyChapterTwo+<Option1c>d__6	MoveNext
+106	ChefRemy	I cannot thank you enough, attorney.	Je ne saurais trop vous remercier, l'avocat.	DialogTalkToChefRemyChapterTwo+<Option1c>d__6	MoveNext
+1782	Arthur	Any advice for capturing that mouse?	Un conseil pour mettre la main sur cette souris ?	DialogTalkToChefRemyChapterTwo+<Option2>d__7	MoveNext
+107	ChefRemy	D-don't try to touch it with your bare hands, they c-can be extremely vicious.	N-N'essayez surtout pas de l'attraper à mains nues, elles p-peuvent être particulièrement féroces.	DialogTalkToChefRemyChapterTwo+<Option2>d__7	MoveNext
+1783	Arthur	Beware of the bite, got it.	Gare aux morsures, bien reçu.	DialogTalkToChefRemyChapterTwo+<Option2>d__7	MoveNext
+108	ChefRemy	Ugh, you just reminded me of those horrible gnawing teeth.	Beurk, vous venez de me rappeler ces atroces incisives acérées.	DialogTalkToChefRemyChapterTwo+<Option2>d__7	MoveNext
+109	ChefRemy	I'm feeling nauseous just thinking about it!	J'en ai des hauts-le-cœur rien que d'y penser !	DialogTalkToChefRemyChapterTwo+<Option2>d__7	MoveNext
+110	ChefRemy	I don't care what you do, as long as you keep it far away from me!	Faites ce que vous voulez, pourvu que vous la gardiez le plus loin possible de moi !	DialogTalkToChefRemyChapterTwo+<Option2a>d__8	MoveNext
+1785	Arthur	Tell me, what's your role in the kitchen?	Dites-moi, quel est votre rôle dans ces cuisines ?	DialogTalkToChefRemyChapterTwo+<Option3>d__9	MoveNext
+111	ChefRemy	As the Entremétier, it's my job to prepare the entrées.	En tant qu'entremétier, c'est à moi qu'incombe la préparation des entrées.	DialogTalkToChefRemyChapterTwo+<Option3>d__9	MoveNext
+112	ChefRemy	Between you and me, I think I was only hired to help François with his palate problem.	Entre nous, je crois bien que je n'ai été embauché que pour pallier le problème de palais de François.	DialogTalkToChefRemyChapterTwo+<Option3>d__9	MoveNext
+1786	Arthur	There's a problem with the head chef's palate?	Le chef de cuisine a un problème de palais ?	DialogTalkToChefRemyChapterTwo+<Option3a>d__10	MoveNext
+113	ChefRemy	Oui, I'm afraid his taste is as dull as dishwater!	Oui, j'ai bien peur que ses papilles soient aussi fades que de l'eau de vaisselle !	DialogTalkToChefRemyChapterTwo+<Option3a>d__10	MoveNext
+114	ChefRemy	Don't speak a word of this to anyone, I'm afraid he's quite sensitive about it.	N'en soufflez mot à personne, il est d'une susceptibilité maladive à ce sujet.	DialogTalkToChefRemyChapterTwo+<Option3a>d__10	MoveNext
+1787	Arthur	You taste all the food before it leaves the kitchen?	Vous goûtez tous les plats avant qu'ils ne partent en salle ?	DialogTalkToChefRemyChapterTwo+<Option3b>d__11	MoveNext
+115	ChefRemy	I'm supposed to, but how can I taste anything with that rodent running around?	C'est ce qui est prévu, mais comment voulez-vous goûter quoi que ce soit avec ce nuisible qui galope partout ?	DialogTalkToChefRemyChapterTwo+<Option3b>d__11	MoveNext
+116	ChefRemy	I can't be expected to work under these conditions!	On ne peut pas exiger de moi que je travaille dans de telles conditions !	DialogTalkToChefRemyChapterTwo+<Option3b>d__11	MoveNext
+1788	Arthur	They've got you shucking oysters, huh?	Ils vous ont collé à l'écaillage des huîtres, hein ?	DialogTalkToChefRemyChapterTwo+<Option3c>d__12	MoveNext
+117	ChefRemy	I don't mind it!	Ça ne me dérange pas !	DialogTalkToChefRemyChapterTwo+<Option3c>d__12	MoveNext
+118	ChefRemy	Have you tried oysters before? They're a delicacy, no?	Avez-vous déjà goûté aux huîtres ? C'est un mets raffiné, non ?	DialogTalkToChefRemyChapterTwo+<Option3c>d__12	MoveNext
+1789	Arthur	Turns out my stomach has a delicacy, so I think I'll give them a miss going forward.	Il s'avère que c'est mon estomac qui est raffiné, alors je m'en passerai volontiers à l'avenir.	DialogTalkToChefRemyChapterTwo+<Option3c>d__12	MoveNext
+1790	Arthur	I'd better get back to it.	Je ferais mieux d'y retourner.	DialogTalkToChefRemyChapterTwo+<Option4>d__13	MoveNext
+119	ChefRemy	Please hurry, I can't take much more of this.	De grâce, dépêchez-vous, je n'en peux plus.	DialogTalkToChefRemyChapterTwo+<Option4>d__13	MoveNext
+1791	Arthur	I'll leave you to your work.	Je vous laisse à vos occupations.	DialogTalkToChefRemyChapterTwo+<Option4a>d__14	MoveNext
+120	ChefRemy	Merci!	Merci !	DialogTalkToChefRemyChapterTwo+<Option4a>d__14	MoveNext
+868	Herman	What can you tell me about the Keeper of Many Idols?	Que pouvez-vous me dire sur le Gardien des Idoles ?	DialogTalkToHandshakeLeaderActTwo+<Option1>d__4	MoveNext
+132	HandshakeLeader	Brother Brian? He has a good eye for detail.	Frère Brian ? Il a un sens aigu du détail.	DialogTalkToHandshakeLeaderActTwo+<Option1>d__4	MoveNext
+133	HandshakeLeader	We put him on security most nights, he seems to enjoy it.	On le met à la sécurité la plupart des soirs, il a l'air d'apprécier.	DialogTalkToHandshakeLeaderActTwo+<Option1>d__4	MoveNext
+134	HandshakeLeader	We like to keep him busy, you see.	On aime bien l'occuper, voyez-vous.	DialogTalkToHandshakeLeaderActTwo+<Option1>d__4	MoveNext
+685	Herman	How'd you end up as the leader of a secret society?	Comment vous êtes-vous retrouvé à la tête d'une société secrète ?	DialogTalkToHandshakeLeaderActTwo+<Option2>d__5	MoveNext
+65	HandshakeLeader	Same as all the other secret societies. We took a vote!	Comme dans toutes les sociétés secrètes : on a voté !	DialogTalkToHandshakeLeaderActTwo+<Option2>d__5	MoveNext
+66	HandshakeLeader	Fire away!	Je vous écoute !	DialogTalkToHandshakeLeaderActTwo+<Option3>d__6	MoveNext
+67	HandshakeLeader	Hmm, let me think.	Hmm, laissez-moi réfléchir.	DialogTalkToHandshakeLeaderActTwo+<Option3a>d__7	MoveNext
+68	HandshakeLeader	Some sort of metal, was it? No, that's not right.	Une sorte de métal, n'est-ce pas ? Non, ce n'est pas ça.	DialogTalkToHandshakeLeaderActTwo+<Option3a>d__7	MoveNext
+69	HandshakeLeader	You know, the same guy who made the idol also sculpted the Unterwald busts.	Vous savez, le même type qui a fabriqué l'idole a aussi sculpté les bustes Unterwald.	DialogTalkToHandshakeLeaderActTwo+<Option3a>d__7	MoveNext
+688	Herman	You mean the statues I've seen around the train?	Vous voulez parler des statues réparties dans le train ?	DialogTalkToHandshakeLeaderActTwo+<Option3a>d__7	MoveNext
+70	HandshakeLeader	I wouldn't be surprised if they used the same material!	Ça ne m'étonnerait pas du tout qu'ils aient utilisé le même matériau !	DialogTalkToHandshakeLeaderActTwo+<Option3a>d__7	MoveNext
+71	HandshakeLeader	Ah, I remember it being a majestic pose.	Ah, je me souviens d'une posture majestueuse.	DialogTalkToHandshakeLeaderActTwo+<Option3b>d__8	MoveNext
+72	HandshakeLeader	I always thought it captured Lady Unterwald perfectly.	J'ai toujours trouvé qu'elle incarnait parfaitement Lady Unterwald.	DialogTalkToHandshakeLeaderActTwo+<Option3b>d__8	MoveNext
+690	Herman	I don't suppose you remember the quote on the idol?	J'imagine que vous ne vous rappelez pas de la citation sur l'idole ?	DialogTalkToHandshakeLeaderActTwo+<Option3c>d__9	MoveNext
+73	HandshakeLeader	Hmm, I think it was something sappy. Was it something about family?	Hmm, je crois que c'était un truc à l'eau de rose. Quelque chose sur la famille ?	DialogTalkToHandshakeLeaderActTwo+<Option3c>d__9	MoveNext
+74	HandshakeLeader	Very well, anything else?	Très bien, autre chose ?	DialogTalkToHandshakeLeaderActTwo+<Option3d>d__10	MoveNext
+692	Herman	Aren't you worried about Mr Liu?	M. Liu ne vous inquiète pas ?	DialogTalkToHandshakeLeaderActTwo+<Option3f>d__12	MoveNext
+75	HandshakeLeader	He did seem pretty irate, I hope he doesn't do anything rash.	Il avait l'air passablement furieux, j'espère qu'il ne commettra pas d'imprudence.	DialogTalkToHandshakeLeaderActTwo+<Option3f>d__12	MoveNext
+693	Herman	I should be leaving now.	Je devrais m'en aller.	DialogTalkToHandshakeLeaderActTwo+<Option4>d__13	MoveNext
+76	HandshakeLeader	Farewell!	Adieu !	DialogTalkToHandshakeLeaderActTwo+<Option4>d__13	MoveNext
+673	Herman	You need an itinerary? What does that entail?	Vous avez besoin d'un planning ? Qu'est-ce que cela implique ?	DialogTalkToSisterGretchenActTwo+<Option1>d__4	MoveNext
+44	SisterGretchen	Oh my goodness, what doesn't it entail?	Bonté divine, qu'est-ce que ça n'implique pas !	DialogTalkToSisterGretchenActTwo+<Option1>d__4	MoveNext
+45	SisterGretchen	There's the two-hour all-hands meeting on the candles, somebody's got to maintain the weekly rota for the plumping up of the sofa cushions, and I didn't even mention the five-fingered handshake of formality.	Il y a la réunion générale de deux heures sur les bougies, le tableau de roulement hebdomadaire pour regonfler les coussins du canapé, et je ne vous parle même pas de la poignée de main protocolaire à cinq doigts.	DialogTalkToSisterGretchenActTwo+<Option1>d__4	MoveNext
+46	SisterGretchen	We change that twice daily, you know!	On la change deux fois par jour, je vous ferais dire !	DialogTalkToSisterGretchenActTwo+<Option1>d__4	MoveNext
+674	Herman	So, wait a second. You just spend all your time in meetings?	Attendez une seconde... Vous passez littéralement tout votre temps en réunion ?	DialogTalkToSisterGretchenActTwo+<Option1a>d__5	MoveNext
+47	SisterGretchen	You really think we should just light up a bunch of candles without having a long meeting about it beforehand?	Vous croyez sincèrement qu'on peut allumer des bougies sans une longue concertation préalable ?	DialogTalkToSisterGretchenActTwo+<Option1a>d__5	MoveNext
+48	SisterGretchen	Has everyone rolled up their sleeves? What's the consistency of the wax? Are we absolutely sure there's nothing flammable nearby?	Tout le monde a-t-il retroussé ses manches ? Quelle est la consistance de la cire ? A-t-on la certitude qu'aucun objet inflammable ne traîne à proximité ?	DialogTalkToSisterGretchenActTwo+<Option1a>d__5	MoveNext
+675	Herman	How'd you end up in the Order of Idle Hands?	Comment avez-vous atterri dans l'Ordre des Mains Inactives ?	DialogTalkToSisterGretchenActTwo+<Option2>d__6	MoveNext
+49	SisterGretchen	Honestly, when I got here, there was no structure at all. I mostly joined out of pity.	Honnêtement, à mon arrivée, il n'y avait aucune organisation. J'ai surtout rejoint par pitié.	DialogTalkToSisterGretchenActTwo+<Option2>d__6	MoveNext
+50	SisterGretchen	I've got a production background, so if there's a chart or a spreadsheet involved, sign me up!	J'ai un passé dans la gestion de production, alors dès qu'il y a un tableau ou un graphique, je réponds présente !	DialogTalkToSisterGretchenActTwo+<Option2>d__6	MoveNext
+51	SisterGretchen	I also double as the fire marshal, can't be too careful around all these open flames!	Et je fais aussi office d'officier de sécurité incendie. On n'est jamais trop prudent avec toutes ces flammes nues !	DialogTalkToSisterGretchenActTwo+<Option2>d__6	MoveNext
+676	Herman	Indeed!	En effet !	DialogTalkToSisterGretchenActTwo+<Option2>d__6	MoveNext
+862	Herman	Mr Liu seems quite irate at The Order. What happened?	M. Liu semble très remonté contre l'Ordre. Que s'est-il passé ?	DialogTalkToSisterGretchenActTwo+<Option2a>d__7	MoveNext
+61	SisterGretchen	Oh, he's probably just stewing over the sandwiches we'd bring in for lunch.	Oh, il rumine sûrement encore à propos des sandwichs qu'on apportait pour le déjeuner.	DialogTalkToSisterGretchenActTwo+<Option2a>d__7	MoveNext
+62	SisterGretchen	You know, those mini sandwiches with the crusts cut off?	Vous savez, ces petits canapés dont on a coupé la croûte ?	DialogTalkToSisterGretchenActTwo+<Option2a>d__7	MoveNext
+79	SisterGretchen	He couldn't stand them!	Il ne pouvait pas les encadrer !	DialogTalkToSisterGretchenActTwo+<Option2a>d__7	MoveNext
+863	Herman	Mr Liu disagreed with you over sandwiches?	M. Liu a rompu les ponts à cause de sandwichs ?	DialogTalkToSisterGretchenActTwo+<Option2b>d__8	MoveNext
+80	SisterGretchen	It's not like I made them personally, but you should have heard him!	Ce n'est pas comme si je les avais préparés moi-même, mais vous auriez dû l'entendre !	DialogTalkToSisterGretchenActTwo+<Option2b>d__8	MoveNext
+81	SisterGretchen	“It ruins the structural integrity of the sandwich, Gretchen!”	« Ça détruit l'intégrité structurelle du sandwich, Gretchen ! »	DialogTalkToSisterGretchenActTwo+<Option2b>d__8	MoveNext
+82	SisterGretchen	“That's where all the flavour and texture is, Gretchen!”	« C'est là que résident toute la saveur et la texture, Gretchen ! »	DialogTalkToSisterGretchenActTwo+<Option2b>d__8	MoveNext
+83	SisterGretchen	It was all downhill from there, really.	Après ça, tout est parti à vau-l'eau.	DialogTalkToSisterGretchenActTwo+<Option2b>d__8	MoveNext
+677	Herman	I have some questions about the missing hand idol.	J'ai quelques questions au sujet de l'idole en forme de main manquante.	DialogTalkToSisterGretchenActTwo+<Option3>d__9	MoveNext
+52	SisterGretchen	Hmm, the idol...	Hmm, l'idole...	DialogTalkToSisterGretchenActTwo+<Option3a>d__10	MoveNext
+53	SisterGretchen	The Unterwald idol was pretty fancy, but I couldn't tell you what it was made of.	L'idole d'Unterwald était assez chic, mais incapable de vous dire en quoi elle était faite.	DialogTalkToSisterGretchenActTwo+<Option3a>d__10	MoveNext
+54	SisterGretchen	I don't remember it being an offensive gesture. Does that help?	Je me souviens que ce n'était pas un geste obscène. Ça vous aide ?	DialogTalkToSisterGretchenActTwo+<Option3b>d__11	MoveNext
+680	Herman	I suppose it narrows it down.	J'imagine que ça réduit les possibilités.	DialogTalkToSisterGretchenActTwo+<Option3b>d__11	MoveNext
+55	SisterGretchen	There was! It was something involving the Unterwalds.	Oui, il y en avait une ! Quelque chose en rapport avec les Unterwald.	DialogTalkToSisterGretchenActTwo+<Option3c>d__12	MoveNext
+864	Herman	Why aren't you voting for direct action?	Pourquoi ne votez-vous pas pour une action directe ?	DialogTalkToSisterGretchenActTwo+<Option3e>d__14	MoveNext
+84	SisterGretchen	We can't go rushing around, meddling in Lady Unterwald's affairs!	On ne peut pas foncer tête baissée et s'ingérer dans les affaires de Lady Unterwald !	DialogTalkToSisterGretchenActTwo+<Option3e>d__14	MoveNext
+85	SisterGretchen	There are long-established, extremely slow processes we must abide by.	Il y a des processus historiques d'une lenteur exquise auxquels nous devons nous conformer.	DialogTalkToSisterGretchenActTwo+<Option3e>d__14	MoveNext
+865	Herman	Is the vote still deadlocked?	Le scrutin est toujours bloqué ?	DialogTalkToSisterGretchenActTwo+<Option3f>d__15	MoveNext
+86	SisterGretchen	Rules are rules, we can't do anything until everyone here has cast their vote.	Le règlement est formel : rien ne bougera tant que tout le monde n'aura pas voté.	DialogTalkToSisterGretchenActTwo+<Option3f>d__15	MoveNext
+866	Herman	But we can call another vote at any time?	Mais on peut relancer un vote à tout moment ?	DialogTalkToSisterGretchenActTwo+<Option3f>d__15	MoveNext
+87	SisterGretchen	Of course, anyone present can request another vote.	Évidemment, n'importe quel membre présent peut réclamer un nouveau scrutin.	DialogTalkToSisterGretchenActTwo+<Option3f>d__15	MoveNext
+88	SisterGretchen	You'll just need to ask the leader.	Il vous suffit de vous adresser au dirigeant.	DialogTalkToSisterGretchenActTwo+<Option3f>d__15	MoveNext
+683	Herman	I should go.	Je devrais y aller.	DialogTalkToSisterGretchenActTwo+<Option4>d__17	MoveNext
+19	Hirsch	Hold on, gentlemen, I think he's coming round.	Un instant, messieurs, je crois qu'il reprend connaissance.	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+145	Herman	Wh-what happened?	Qu... que s'est-il passé ?	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+4	SisterGretchen	His Hand!	Sa main !	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+4	BrotherJared	Poor thing!	Mon pauvre ami !	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+21	Hirsch	Not to worry, though! I brought you to the experts. We managed to get you all patched up.	Ne vous en faites pas ! Je vous ai amené chez des spécialistes. On a réussi à vous rafistoler.	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+22	Hirsch	Here, take this hand cream. It's the good stuff. Loosens any cramps right up.	Tenez, prenez cette crème pour les mains. De la première qualité. Ça détend n'importe quelle crampe.	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+5	BrotherJared	It also moisturises!	Et ça hydrate, en plus !	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+146	Herman	Where am I?	Où suis-je ?	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+23	Hirsch	No need to fret, Herman. You're in safe hands here.	Pas d'inquiétude, Herman. Vous êtes entre de bonnes mains.	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+24	Hirsch	Although the members need their table back, there's a meeting starting soon.	Même si les membres ont besoin de récupérer leur table, une réunion commence bientôt.	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+10	HandshakeLeader	Everyone, our meeting can now commence!	Tout le monde, notre assemblée peut commencer !	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+10	JianLiu	At last! I have much to discuss with you.	Enfin ! J'ai beaucoup de choses à vous dire.	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+11	HandshakeLeader	Hold on, where's the hand idol?	Une minute, où est l'idole de main ?	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+6	BrotherJared	You know, the hand idol we use to signify that it's our turn to speak!	Vous savez, l'idole qui indique à qui le tour de prendre la parole !	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+12	HandshakeLeader	SILENCE!	SILENCE !	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+13	HandshakeLeader	Sorry! I'm getting ahead of myself.	Pardon ! Je m'emballe.	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+14	HandshakeLeader	Brother Jared speaks the truth. We cannot proceed without the hand idol.	Frère Jared dit vrai. Nous ne pouvons délibérer sans l'idole de main.	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+25	Hirsch	It's bound to turn up somewhere, it couldn't have gone far!	Elle va forcément réapparaître, elle n'a pas pu s'envoler !	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+12	JianLiu	I really must insist we press on. This issue with Lady Unterwald, it cannot wait!	J'insiste vigoureusement pour que nous avancions. Cette histoire avec Lady Unterwald ne peut pas attendre !	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+7	BrotherJared	We must be patient, Jian. The hand works in mysterious ways.	Soyons patients, Jian. Les voies de la main sont impénétrables.	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+26	Hirsch	That's right.	Parfaitement.	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+13	JianLiu	So, you're all going to sit here and do nothing?	Alors vous allez tous rester assis là à vous tourner les pouces ?	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+148	Herman	You know, I'm quite good at finding things. I may be able to assist?	Vous savez, je suis plutôt doué pour retrouver les objets égarés. Je pourrais vous aider ?	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+14	JianLiu	Yes, that would be most appreciated!	Oui, ce serait des plus appréciables !	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+15	HandshakeLeader	Oh! We could ask the Keeper of Many Idols!	Oh ! Nous pourrions demander au Gardien des Idoles !	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+8	BrotherJared	That's a grand idea!	Quelle excellente idée !	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+16	HandshakeLeader	Are you there, Keeper Of Many Idols?	Es-tu là, Gardien des Idoles ?	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+17	HandshakeLeader	KEEPER OF MANY IDOLS? Are you there?	GARDIEN DES IDOLES ? Es-tu là ?	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+18	HandshakeLeader	BRIAN!	BRIAN !	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+0	BrotherBrian	Yes?	Oui ?	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+149	Herman	I shall enquire with Brian, the Keeper Of Many Idols.	Je m'en vais interroger Brian, le Gardien des Idoles.	RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+1040	Herman	This is the work of that meddling murine, no question.	C'est l'œuvre de ce satané rongeur, aucun doute là-dessus.	RoomHandshakeClub+<OnLookAtPropMouseHoleActTwo>d__44	MoveNext
+29	ChefFrancois	Non mais, et puis quoi encore !	Non mais, et puis quoi encore !	RoomKitchenCarriage+<OnEnterRoomAfterFadeActTwoReachedHatchedAPlan>d__79	MoveNext
+24	ChefFrancois	Quoi ! What is it you want? As you can see, we're very busy here.	Quoi ! Qu'est-ce que vous voulez ? Vous voyez bien qu'on est débordés, ici !	RoomKitchenCarriage+<OnEnterRoomAfterFadeActTwoBeforeKitchenAccessFirstOccurrence>d__80	MoveNext
+17	ChefRemy	We're in the middle of dinner prep. What is it?	On est en plein coup de feu pour le dîner. Qu'y a-t-il ?	RoomKitchenCarriage+<OnEnterRoomAfterFadeActTwoBeforeKitchenAccessFirstOccurrence>d__80	MoveNext
+25	ChefFrancois	Back again? C'est une honte !	Encore vous ? C'est une honte !	RoomKitchenCarriage+<OnEnterRoomAfterFadeActTwoBeforeKitchenAccessOption1>d__81	MoveNext
+18	ChefRemy	Pour qui tu te prends ! What is it you want?	Pour qui tu te prends ! Qu'est-ce que vous voulez ?	RoomKitchenCarriage+<OnEnterRoomAfterFadeActTwoBeforeKitchenAccessOption1>d__81	MoveNext
+390	Herman	Pardon?	Pardon ?	RoomKitchenCarriage+<OnEnterRoomAfterFadeActTwoBeforeKitchenAccessOption2>d__82	MoveNext
+23	ChefRemy	He says you're pushing your luck! What is it you want?	Il dit que vous poussez le bouchon un peu loin ! Qu'est-ce que vous voulez ?	RoomKitchenCarriage+<OnEnterRoomAfterFadeActTwoBeforeKitchenAccessOption2>d__82	MoveNext
+228	Herman	It smells like onion soup.	Ça sent la soupe à l'oignon.	RoomKitchenCarriage+<OnLookAtPropSaucepanActTwo>d__130	MoveNext
+1075	Herman	That's a well stocked spice rack!	Voilà un râtelier à épices bien garni !	RoomKitchenCarriage+<OnLookAtPropSpiceRackActTwo>d__137	MoveNext

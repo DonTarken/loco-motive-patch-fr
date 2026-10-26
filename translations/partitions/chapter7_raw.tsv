@@ -1,0 +1,63 @@
+Id	Character	English	French	Class	Method
+787	Diana	Somebody else has an item I need!		DialogHintLineChapterSeven+<Option1>d__6	MoveNext
+338	Chiselton	The mansion has a pneumatic tube system, right? Place items in there and the others will be able to collect them!		DialogHintLineChapterSeven+<Option1>d__6	MoveNext
+788	Diana	I think Doctor Hirsch is dead, what do we do?		DialogHintLineChapterSeven+<Option2>d__7	MoveNext
+339	Chiselton	You should check the body, see if they had anything important on them.		DialogHintLineChapterSeven+<Option2>d__7	MoveNext
+789	Diana	I need another hint about Doctor Hirsch!		DialogHintLineChapterSeven+<Option2a>d__8	MoveNext
+340	Chiselton	Are you sure they're dead?		DialogHintLineChapterSeven+<Option2a>d__8	MoveNext
+790	Diana	I need another hint about Doctor Hirsch!		DialogHintLineChapterSeven+<Option2b>d__9	MoveNext
+341	Chiselton	There may be hope for the doctor yet!		DialogHintLineChapterSeven+<Option2b>d__9	MoveNext
+342	Chiselton	You should be able to revive him with the right equipment.		DialogHintLineChapterSeven+<Option2b>d__9	MoveNext
+791	Diana	Any ideas as to where an old lady would keep her will?		DialogHintLineChapterSeven+<Option3>d__10	MoveNext
+343	Chiselton	I'd bet it's hidden away, have you checked everywhere?		DialogHintLineChapterSeven+<Option3>d__10	MoveNext
+792	Diana	I need another hint about finding the will.		DialogHintLineChapterSeven+<Option3a>d__11	MoveNext
+344	Chiselton	Lady Unterwald would have kept it somewhere safe, I'm sure.		DialogHintLineChapterSeven+<Option3a>d__11	MoveNext
+793	Diana	I need another hint about finding the will.		DialogHintLineChapterSeven+<Option3b>d__12	MoveNext
+345	Chiselton	Lady Unterwald likely secured the will in a hidden safe. See if you can track it down.		DialogHintLineChapterSeven+<Option3b>d__12	MoveNext
+794	Diana	I need another hint about finding the will.		DialogHintLineChapterSeven+<Option3c>d__13	MoveNext
+346	Chiselton	Check behind paintings, that's where I'd keep a safe!		DialogHintLineChapterSeven+<Option3c>d__13	MoveNext
+795	Diana	I've found the safe, how do I open it?		DialogHintLineChapterSeven+<Option4>d__14	MoveNext
+347	Chiselton	If you could listen more closely to the contact points, I'm confident you could get that safe open in no time.		DialogHintLineChapterSeven+<Option4>d__14	MoveNext
+796	Diana	I need another hint about opening the safe.		DialogHintLineChapterSeven+<Option4a>d__15	MoveNext
+797	Diana	I need another hint about opening the safe.		DialogHintLineChapterSeven+<Option4b>d__16	MoveNext
+798	Diana	I need a hint about one of the safe mechanisms.		DialogHintLineChapterSeven+<Option5>d__17	MoveNext
+350	Chiselton	Which one did you have in mind?		DialogHintLineChapterSeven+<Option5>d__17	MoveNext
+799	Diana	I need a hint about the fingerprint lock.		DialogHintLineChapterSeven+<Option5a>d__18	MoveNext
+351	Chiselton	Maybe there's something that could replicate Lady Unterwald's hand?		DialogHintLineChapterSeven+<Option5a>d__18	MoveNext
+800	Diana	I need another hint about the fingerprint lock.		DialogHintLineChapterSeven+<Option5aa>d__19	MoveNext
+352	Chiselton	Perhaps Lady Unterwald left her prints somewhere.		DialogHintLineChapterSeven+<Option5aa>d__19	MoveNext
+801	Diana	I need another hint about the fingerprint lock.		DialogHintLineChapterSeven+<Option5ab>d__20	MoveNext
+353	Chiselton	That statue in the basement, it's based on Lady Unterwald, right?		DialogHintLineChapterSeven+<Option5ab>d__20	MoveNext
+802	Diana	I need another hint about the fingerprint lock.		DialogHintLineChapterSeven+<Option5ac>d__21	MoveNext
+354	Chiselton	Perhaps you can make an impression of the statue's hand?		DialogHintLineChapterSeven+<Option5ac>d__21	MoveNext
+803	Diana	I need another hint about the fingerprint lock.		DialogHintLineChapterSeven+<Option5ad>d__22	MoveNext
+355	Chiselton	Arthur still has that wax seal. Melt it down and see if you can make an impression!		DialogHintLineChapterSeven+<Option5ad>d__22	MoveNext
+804	Diana	I need a hint about the voice lock.		DialogHintLineChapterSeven+<Option5b>d__23	MoveNext
+356	Chiselton	You used a recording of Lady Unterwald before. That trick might work again!		DialogHintLineChapterSeven+<Option5b>d__23	MoveNext
+805	Diana	I need another hint about the voice lock.		DialogHintLineChapterSeven+<Option5ba>d__24	MoveNext
+357	Chiselton	There's a gramophone in the library, that could be useful.		DialogHintLineChapterSeven+<Option5ba>d__24	MoveNext
+806	Diana	I need another hint about the voice lock.		DialogHintLineChapterSeven+<Option5bb>d__25	MoveNext
+358	Chiselton	Have you looked through the library's vinyl collection?		DialogHintLineChapterSeven+<Option5bb>d__25	MoveNext
+807	Diana	I need another hint about the voice lock.		DialogHintLineChapterSeven+<Option5bc>d__26	MoveNext
+359	Chiselton	Does anyone have an item that can record voices?		DialogHintLineChapterSeven+<Option5bc>d__26	MoveNext
+808	Diana	Actually, I wanted to ask about something else.		DialogHintLineChapterSeven+<Option5c>d__27	MoveNext
+360	Chiselton	No problem.		DialogHintLineChapterSeven+<Option5c>d__27	MoveNext
+755	Diana	The boiler isn't hot enough, what should I do?		DialogHintLineChapterSeven+<Option6>d__28	MoveNext
+365	Chiselton	You'll probably have to help it along a bit. Got anything on you?		DialogHintLineChapterSeven+<Option6>d__28	MoveNext
+778	Diana	I need another hint about the boiler.		DialogHintLineChapterSeven+<Option6a>d__29	MoveNext
+366	Chiselton	What have you got on you? Anything particularly reactive to heat?		DialogHintLineChapterSeven+<Option6a>d__29	MoveNext
+777	Diana	I need another hint about the boiler.		DialogHintLineChapterSeven+<Option6b>d__30	MoveNext
+367	Chiselton	That truth serum certainly went up before, maybe it's reactive to heat?		DialogHintLineChapterSeven+<Option6b>d__30	MoveNext
+761	Diana	I need another hint about the boiler.		DialogHintLineChapterSeven+<Option6c>d__31	MoveNext
+368	Chiselton	Feed that truth serum into the boiler, and I bet it'll start pumping out some real heat!		DialogHintLineChapterSeven+<Option6c>d__31	MoveNext
+813	Diana	I've got it from here, thanks.		DialogHintLineChapterSeven+<Option7>d__32	MoveNext
+44	Bailey	Are we really letting those three go?		RoomCellExterior+<OnEnterRoomAfterFadeChapterFinale>d__22	MoveNext
+39	Lamont	How'd you mean?		RoomCellExterior+<OnEnterRoomAfterFadeChapterFinale>d__22	MoveNext
+45	Bailey	They may not have murdered Lady Unterwald, but they committed so many other crimes!		RoomCellExterior+<OnEnterRoomAfterFadeChapterFinale>d__22	MoveNext
+70	Lamont	You forget we've got them on record, confessing to the lot!		RoomCellExterior+<OnEnterRoomAfterFadeChapterFinale>d__22	MoveNext
+46	Bailey	I suppose so.		RoomCellExterior+<OnEnterRoomAfterFadeChapterFinale>d__22	MoveNext
+71	Lamont	Hah! Have a little faith, Bailey. We were always one step ahead.		RoomCellExterior+<OnEnterRoomAfterFadeChapterFinale>d__22	MoveNext
+10	Jimmy	I'm in.		RoomInterrogation+<OnEnterRoomAfterFadeChapterFinale>d__51	MoveNext
+0	April	Good work, Agent. You know what you have to do.		RoomInterrogation+<OnEnterRoomAfterFadeChapterFinale>d__51	MoveNext
+1	April	Leave no trace.		RoomInterrogation+<OnEnterRoomAfterFadeChapterFinale>d__51	MoveNext
+11	Jimmy	Yes, Ma'am.		RoomInterrogation+<OnEnterRoomAfterFadeChapterFinale>d__51	MoveNext

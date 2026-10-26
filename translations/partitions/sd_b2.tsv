@@ -1,0 +1,411 @@
+﻿Id	Character	English	French	Class	Method
+109	Arista	It's a hearing aid. It helps me to hear all your inane questions!		DialogTalkToArista+<Option4>d__9	MoveNext
+110	Arista	What could you possibly need it for?		DialogTalkToArista+<Option5a>d__11	MoveNext
+1249	Arthur	I'm not sure just yet, but it calls to me.		DialogTalkToArista+<Option5a>d__11	MoveNext
+111	Arista	You keep those hands off, if you want to keep them!		DialogTalkToArista+<Option5a>d__11	MoveNext
+112	Arista	Oh, I can hear you just fine, despite my best efforts.		DialogTalkToArista+<Option5b>d__12	MoveNext
+113	Arista	Do you fancy yourself as some sort of Viking warrior?		DialogTalkToArista+<Option5c>d__13	MoveNext
+114	Arista	It's a hearing aid, it's not built for chugging mead!		DialogTalkToArista+<Option5c>d__13	MoveNext
+116	Arista	Why? What do you know about its disappearance, boy?		DialogTalkToArista+<Option6>d__15	MoveNext
+1082	Arthur	Sorry, I didn't see anything.		DialogTalkToArista+<Option6>d__15	MoveNext
+117	Arista	What kind of person would deprive a helpless old lady of her hearing aid?		DialogTalkToArista+<Option6>d__15	MoveNext
+1083	Arthur	Maybe they just really needed it. For the greater good and all that!		DialogTalkToArista+<Option6>d__15	MoveNext
+118	Arista	Hrmph.		DialogTalkToArista+<Option6>d__15	MoveNext
+119	Arista	Considering I brought them into this world, I certainly hope so!		DialogTalkToArista+<Option7>d__16	MoveNext
+120	Arista	You should introduce yourself, you might find it easier conversing with those of similar intellect.		DialogTalkToArista+<Option7>d__16	MoveNext
+121	Arista	Their constant one up-manship is incredibly tiresome.		DialogTalkToArista+<Option7a>d__17	MoveNext
+122	Arista	Only last week, they tried to lay claim to a designer sports bag.		DialogTalkToArista+<Option7a>d__17	MoveNext
+1085	Arthur	It didn't go well?		DialogTalkToArista+<Option7a>d__17	MoveNext
+123	Arista	Oh, they argued back and forth for hours, tugging at it viciously.		DialogTalkToArista+<Option7a>d__17	MoveNext
+124	Arista	You should've seen their faces when I told them it was a cheap fake, ha ha!		DialogTalkToArista+<Option7a>d__17	MoveNext
+125	Arista	Of course, by then the bag was in tatters.		DialogTalkToArista+<Option7a>d__17	MoveNext
+126	Arista	Farewell.		DialogTalkToArista+<Option8>d__18	MoveNext
+1308	Herman	Can't you get this hearing horn fixed yourself?		DialogTalkToAristaAboutHorn+<Option1>d__3	MoveNext
+191	Arista	Don't you think I tried that already?		DialogTalkToAristaAboutHorn+<Option1>d__3	MoveNext
+192	Arista	That upstart stage manager wouldn't let me through.		DialogTalkToAristaAboutHorn+<Option1>d__3	MoveNext
+193	Arista	I saw your name has made it onto the guest list, however.		DialogTalkToAristaAboutHorn+<Option1>d__3	MoveNext
+1309	Herman	How does repairing the horn help your boys?		DialogTalkToAristaAboutHorn+<Option1a>d__4	MoveNext
+194	Arista	No doubt they've got into some pointless argument again.		DialogTalkToAristaAboutHorn+<Option1a>d__4	MoveNext
+195	Arista	Blowing into this horn is the only way to break their endless back-and-forth.		DialogTalkToAristaAboutHorn+<Option1a>d__4	MoveNext
+196	Arista	Otherwise, they'll just bicker indefinitely.		DialogTalkToAristaAboutHorn+<Option1a>d__4	MoveNext
+1310	Herman	Why did you send your boys into the ventilation system?		DialogTalkToAristaAboutHorn+<Option2>d__5	MoveNext
+197	Arista	I don't have to explain myself to you!		DialogTalkToAristaAboutHorn+<Option2>d__5	MoveNext
+198	Arista	They were merely attempting some minor repairs!		DialogTalkToAristaAboutHorn+<Option2>d__5	MoveNext
+1311	Herman	Are you sure you didn't send them in there to eavesdrop?		DialogTalkToAristaAboutHorn+<Option2a>d__6	MoveNext
+199	Arista	Ohh, I've been a terrible mother!		DialogTalkToAristaAboutHorn+<Option2a>d__6	MoveNext
+200	Arista	But I needed to know what my dear sister's intentions were.		DialogTalkToAristaAboutHorn+<Option2a>d__6	MoveNext
+201	Arista	It goes directly over her quarters, I'm sure they'd be able to hear something!		DialogTalkToAristaAboutHorn+<Option2a>d__6	MoveNext
+202	Arista	Perhaps I've been too hard on them, they're emotionally stunted after all!		DialogTalkToAristaAboutHorn+<Option2a>d__6	MoveNext
+1312	Herman	I'm sure they'll be able to figure it out themselves.		DialogTalkToAristaAboutHorn+<Option2b>d__7	MoveNext
+203	Arista	Now isn't the time for jokes, detective!		DialogTalkToAristaAboutHorn+<Option2b>d__7	MoveNext
+16	Arista	Please hurry! My boys, they have no sense of direction!		DialogTalkToAristaAboutHorn+<Option2b>d__7	MoveNext
+1313	Herman	How can I repair this hearing horn?		DialogTalkToAristaAboutHorn+<Option3>d__8	MoveNext
+205	Arista	Weren't you listening?		DialogTalkToAristaAboutHorn+<Option3>d__8	MoveNext
+206	Arista	I blew out the mouthpiece on my horn, so I can't call my boys back.		DialogTalkToAristaAboutHorn+<Option3>d__8	MoveNext
+207	Arista	Get those musician friends of yours to have a look at it!		DialogTalkToAristaAboutHorn+<Option3>d__8	MoveNext
+1314	Herman	You mean Balboa Swing?		DialogTalkToAristaAboutHorn+<Option3>d__8	MoveNext
+208	Arista	They're always blowing into their brass instruments, they'll know what to do!		DialogTalkToAristaAboutHorn+<Option3>d__8	MoveNext
+1315	Herman	I'll speak to you later.		DialogTalkToAristaAboutHorn+<Option4a>d__11	MoveNext
+209	Arista	Just remember, time is of the essence!		DialogTalkToAristaAboutHorn+<Option4a>d__11	MoveNext
+612	Herman	I don't know if that's an appropriate use of a hearing aid.		DialogTalkToAristaTwins+<Option1>d__3	MoveNext
+141	Arista	Oh yeah? Well, it's the only thing that works on these boneheads!		DialogTalkToAristaTwins+<Option1>d__3	MoveNext
+613	Herman	Were you listening in on our conversation?		DialogTalkToAristaTwins+<Option2>d__4	MoveNext
+143	Arista	My boys were just... repairing the ventilation system!		DialogTalkToAristaTwins+<Option2>d__4	MoveNext
+144	Arista	Any scheming they may or may not have overheard was completely accidental.		DialogTalkToAristaTwins+<Option2>d__4	MoveNext
+105	Hagen	It's a dirty job, and we get to do it!		DialogTalkToAristaTwins+<Option2>d__4	MoveNext
+614	Herman	Have you seen any unscrupulous businessmen around?		DialogTalkToAristaTwins+<Option3>d__5	MoveNext
+145	Arista	Hey now, unscrupulous businessmen are our main clientele!		DialogTalkToAristaTwins+<Option3>d__5	MoveNext
+106	Hagen	''Unscroopalous'' isn't a real word, is it?		DialogTalkToAristaTwins+<Option3>d__5	MoveNext
+146	Arista	Not when you say it, you dunderheaded freak!		DialogTalkToAristaTwins+<Option3>d__5	MoveNext
+1002	Herman	Can you tell me anything about Mr Liu?		DialogTalkToAristaTwins+<Option3a>d__6	MoveNext
+183	Arista	Well, aside from being head over heels in love with my sister, I hear he's also incredibly wealthy! Ha!		DialogTalkToAristaTwins+<Option3a>d__6	MoveNext
+151	Gunter	Is Mister Liu going to be our new father?		DialogTalkToAristaTwins+<Option3a>d__6	MoveNext
+184	Arista	I should be so lucky!		DialogTalkToAristaTwins+<Option3a>d__6	MoveNext
+107	Hagen	We've got our eyes on you, mister! Both pairs of them!		DialogTalkToAristaTwins+<Option4>d__7	MoveNext
+517	Herman	Now, where was I?		DialogTalkToAristaTwins+<Option4>d__7	MoveNext
+616	Herman	I suppose that's true.		DialogTalkToAristaTwins+<Option4a>d__8	MoveNext
+579	Diana	Sorry if I dragged you into this mess, Arthur.		DialogTalkToArthurJail+<Option1>d__3	MoveNext
+1639	Arthur	You know, Lady Unterwald wrote me a letter telling me to be more adventurous.		DialogTalkToArthurJail+<Option1>d__3	MoveNext
+1640	Arthur	If only she could see me now!		DialogTalkToArthurJail+<Option1>d__3	MoveNext
+580	Diana	You think Lady Unterwald would have approved?		DialogTalkToArthurJail+<Option1a>d__4	MoveNext
+1641	Arthur	I'd like to think so.		DialogTalkToArthurJail+<Option1a>d__4	MoveNext
+1642	Arthur	I don't think she would've approved of the whole dying part, of course.		DialogTalkToArthurJail+<Option1a>d__4	MoveNext
+581	Diana	I suppose not.		DialogTalkToArthurJail+<Option1a>d__4	MoveNext
+582	Diana	What do you make of your new, adventurous lifestyle?		DialogTalkToArthurJail+<Option1b>d__5	MoveNext
+1643	Arthur	I think I'd still prefer the safe, predictable world of drab suits and bureaucracy.		DialogTalkToArthurJail+<Option1b>d__5	MoveNext
+1644	Arthur	The adventure isn't over just yet, though.		DialogTalkToArthurJail+<Option1b>d__5	MoveNext
+583	Diana	Is there anything in your cell that could help us out?		DialogTalkToArthurJail+<Option2>d__6	MoveNext
+1645	Arthur	No, but I swiped some stuff from the interrogation room.		DialogTalkToArthurJail+<Option2>d__6	MoveNext
+584	Diana	Really? Why didn't I think of that?		DialogTalkToArthurJail+<Option2>d__6	MoveNext
+1646	Arthur	Oh, there's also a big valve in here. Do you have a valve?		DialogTalkToArthurJail+<Option2>d__6	MoveNext
+585	Diana	Can you describe that valve to me, Arthur?		DialogTalkToArthurJail+<Option2a>d__7	MoveNext
+1647	Arthur	It's just an ordinary valve. I think it's connected to the plumbing in some way, though.		DialogTalkToArthurJail+<Option2a>d__7	MoveNext
+586	Diana	Hmm. See if you can experiment a little, maybe we can use that to our benefit!		DialogTalkToArthurJail+<Option2a>d__7	MoveNext
+587	Diana	Any luck with that valve, Arthur?		DialogTalkToArthurJail+<Option2b>d__8	MoveNext
+1648	Arthur	The valve is definitely connected to the plumbing system.		DialogTalkToArthurJail+<Option2b>d__8	MoveNext
+1649	Arthur	I need to experiment a little further, I think.		DialogTalkToArthurJail+<Option2b>d__8	MoveNext
+588	Diana	Keep trying!		DialogTalkToArthurJail+<Option2b>d__8	MoveNext
+1650	Arthur	The valve seems to change the flow of the plumbing system!		DialogTalkToArthurJail+<Option2c>d__9	MoveNext
+1651	Arthur	It means we can trade items between each other with a simple flush!		DialogTalkToArthurJail+<Option2c>d__9	MoveNext
+590	Diana	That's genius!		DialogTalkToArthurJail+<Option2c>d__9	MoveNext
+591	Diana	Why didn't you tell me you weren't the informant?		DialogTalkToArthurJail+<Option3>d__10	MoveNext
+1652	Arthur	I thought Lady Unterwald had planned the whole thing, I didn't want to go against her last wishes.		DialogTalkToArthurJail+<Option3>d__10	MoveNext
+1653	Arthur	Besides, it sounded like you had a lot riding on this mission of yours.		DialogTalkToArthurJail+<Option3>d__10	MoveNext
+592	Diana	I had everything riding on this, but I didn't expect to see the inside of a cell.		DialogTalkToArthurJail+<Option3>d__10	MoveNext
+593	Diana	Do you think Mr Liu is alright?		DialogTalkToArthurJail+<Option3a>d__11	MoveNext
+1654	Arthur	Can anyone truly be alright if they hit a brick wall at 100 miles per hour?		DialogTalkToArthurJail+<Option3a>d__11	MoveNext
+594	Diana	No, I don't imagine so.		DialogTalkToArthurJail+<Option3a>d__11	MoveNext
+1655	Arthur	Then I guess you have my answer.		DialogTalkToArthurJail+<Option3a>d__11	MoveNext
+595	Diana	Okay, back to formulating a plan.		DialogTalkToArthurJail+<Option4>d__12	MoveNext
+870	Arthur	Can I order a drink?		DialogTalkToBartender+<Option1>d__6	MoveNext
+32	Bartender	Sure, what did you have in mind?		DialogTalkToBartender+<Option1>d__6	MoveNext
+871	Arthur	One non-alcoholic cocktail, please!		DialogTalkToBartender+<Option2>d__7	MoveNext
+33	Bartender	Sure, one mocktail coming right up!		DialogTalkToBartender+<Option2>d__7	MoveNext
+923	Arthur	Can I get another non-alcoholic cocktail?		DialogTalkToBartender+<Option2b>d__8	MoveNext
+34	Bartender	You'd like another mocktail?		DialogTalkToBartender+<Option2b>d__8	MoveNext
+924	Arthur	Oh, I forgot that I'm holding onto one already.		DialogTalkToBartender+<Option2b>d__8	MoveNext
+872	Arthur	I need a strong cup of coffee!		DialogTalkToBartender+<Option3>d__9	MoveNext
+35	Bartender	One steaming hot cup of coffee coming right up!		DialogTalkToBartender+<Option3>d__9	MoveNext
+874	Arthur	I hope this suit isn't a rental.		DialogTalkToBartender+<Option3>d__9	MoveNext
+925	Arthur	I need another cup of coffee!		DialogTalkToBartender+<Option3b>d__10	MoveNext
+36	Bartender	You need another refill?		DialogTalkToBartender+<Option3b>d__10	MoveNext
+926	Arthur	Never mind, I just realised I've already got plenty of coffee.		DialogTalkToBartender+<Option3b>d__10	MoveNext
+875	Arthur	Just give me something brimming with alcohol!		DialogTalkToBartender+<Option4>d__11	MoveNext
+37	Bartender	Have you got any identification?		DialogTalkToBartender+<Option4>d__11	MoveNext
+927	Arthur	Are you sure you can't serve me alcohol?		DialogTalkToBartender+<Option4b>d__12	MoveNext
+38	Bartender	That depends, did you bring any identification yet?		DialogTalkToBartender+<Option4b>d__12	MoveNext
+876	Arthur	No, but my moustache is coming through any day now!		DialogTalkToBartender+<Option5>d__13	MoveNext
+39	Bartender	I'm sure you'll have a full beard one day, kid.		DialogTalkToBartender+<Option5>d__13	MoveNext
+40	Bartender	...but I can't serve you without ID.		DialogTalkToBartender+<Option5>d__13	MoveNext
+877	Arthur	I may look young, but I'm a full-grown attorney!		DialogTalkToBartender+<Option6>d__14	MoveNext
+41	Bartender	Then you know the law. I can't serve you!		DialogTalkToBartender+<Option6>d__14	MoveNext
+878	Arthur	Uhh, I must have left it in my other suit jacket.		DialogTalkToBartender+<Option7>d__15	MoveNext
+42	Bartender	Alright. Come back when you have some ID.		DialogTalkToBartender+<Option7>d__15	MoveNext
+879	Arthur	Oh, I don't carry identification.		DialogTalkToBartender+<Option8>d__16	MoveNext
+43	Bartender	Can't serve you alcohol without identification.		DialogTalkToBartender+<Option8>d__16	MoveNext
+880	Arthur	What can you tell me about the Rosebud?		DialogTalkToBartender+<Option9>d__17	MoveNext
+44	Bartender	It's an almost lethal combination of ethanol, rose petals and cocktail perfume.		DialogTalkToBartender+<Option9>d__17	MoveNext
+881	Arthur	Can I have one?		DialogTalkToBartender+<Option9>d__17	MoveNext
+45	Bartender	Sorry, we're fresh out of the ingredients.		DialogTalkToBartender+<Option9>d__17	MoveNext
+46	Bartender	It's been a popular drink request this evening.		DialogTalkToBartender+<Option9>d__17	MoveNext
+882	Arthur	What if I get you the ingredients for the Rosebud?		DialogTalkToBartender+<Option10>d__18	MoveNext
+47	Bartender	Well, I might be able to whip something up for you.		DialogTalkToBartender+<Option10>d__18	MoveNext
+883	Arthur	Great!		DialogTalkToBartender+<Option10>d__18	MoveNext
+884	Arthur	What ingredients do I need for the Rosebud?		DialogTalkToBartender+<Option11>d__19	MoveNext
+48	Bartender	I'm all out of rose petals.		DialogTalkToBartender+<Option11>d__19	MoveNext
+49	Bartender	I'm all out of cocktail perfume.		DialogTalkToBartender+<Option11>d__19	MoveNext
+50	Bartender	I'm all out of rose petals and cocktail perfume.		DialogTalkToBartender+<Option11>d__19	MoveNext
+51	Bartender	If you can find me something like that, I could create an approximation.		DialogTalkToBartender+<Option11>d__19	MoveNext
+885	Arthur	Actually, I don't need a drink.		DialogTalkToBartender+<Option12>d__20	MoveNext
+886	Arthur	How'd you learn those fancy tricks?		DialogTalkToBartender+<Option13>d__21	MoveNext
+53	Bartender	Hah, you're looking at two weeks of bartending school.		DialogTalkToBartender+<Option13>d__21	MoveNext
+887	Arthur	Woah. Worth every penny!		DialogTalkToBartender+<Option13>d__21	MoveNext
+54	Bartender	My parents would disagree with you.		DialogTalkToBartender+<Option13>d__21	MoveNext
+1192	Arthur	What's the most difficult part of being a bartender?		DialogTalkToBartender+<Option13a>d__22	MoveNext
+55	Bartender	To be a great bartender, one must master the art of multitasking and recalling information quickly.		DialogTalkToBartender+<Option13a>d__22	MoveNext
+1194	Arthur	I thought it'd be all the broken glass you have to sweep up.		DialogTalkToBartender+<Option13a>d__22	MoveNext
+929	Arthur	Have you seen Lady Unterwald around here?		DialogTalkToBartender+<Option14>d__23	MoveNext
+56	Bartender	Keep walking down the carriages, you can't miss her.		DialogTalkToBartender+<Option14>d__23	MoveNext
+930	Arthur	Where can I find Lady Unterwald again?		DialogTalkToBartender+<Option14a>d__24	MoveNext
+57	Bartender	Keep making your way through the carriages, she's just ahead.		DialogTalkToBartender+<Option14a>d__24	MoveNext
+889	Arthur	Can I ask for your advice, barkeep?		DialogTalkToBartender+<Option15>d__25	MoveNext
+58	Bartender	A bartender is always happy to lend a sympathetic ear.		DialogTalkToBartender+<Option15>d__25	MoveNext
+59	Bartender	What's troubling you?		DialogTalkToBartender+<Option15>d__25	MoveNext
+890	Arthur	I need to find out who killed Lady Unterwald!		DialogTalkToBartender+<Option16>d__26	MoveNext
+60	Bartender	Well, that's a little above my pay grade.		DialogTalkToBartender+<Option16>d__26	MoveNext
+61	Bartender	I suggest you keep exploring, and make sure you speak to everyone.		DialogTalkToBartender+<Option16>d__26	MoveNext
+62	Bartender	The clues will come to you eventually.		DialogTalkToBartender+<Option16>d__26	MoveNext
+1462	Arthur	I found a hidden safe, but I'm not sure how to open it!		DialogTalkToBartender+<Option16a>d__27	MoveNext
+63	Bartender	Not sure if I'll be much help to you there.		DialogTalkToBartender+<Option16a>d__27	MoveNext
+64	Bartender	If it's a combination lock, it could be something personal.		DialogTalkToBartender+<Option16a>d__27	MoveNext
+1463	Arthur	Personal? Like an important date?		DialogTalkToBartender+<Option16a>d__27	MoveNext
+65	Bartender	Well, that's what I'd do.		DialogTalkToBartender+<Option16a>d__27	MoveNext
+1464	Arthur	I'll keep that in mind.		DialogTalkToBartender+<Option16a>d__27	MoveNext
+893	Arthur	I may have accidentally lost Lady Unterwald's will.		DialogTalkToBartender+<Option17>d__28	MoveNext
+66	Bartender	I'm no expert, but that document sounds pretty important.		DialogTalkToBartender+<Option17>d__28	MoveNext
+67	Bartender	Are you working towards getting it back?		DialogTalkToBartender+<Option17>d__28	MoveNext
+894	Arthur	I think I can, but it always seems just out of reach.		DialogTalkToBartender+<Option17>d__28	MoveNext
+68	Bartender	Patience might be in order. I'm sure you'll get your opportunity.		DialogTalkToBartender+<Option17>d__28	MoveNext
+895	Arthur	Thanks.		DialogTalkToBartender+<Option17>d__28	MoveNext
+1465	Arthur	I still haven't located Lady Unterwald's will!		DialogTalkToBartender+<Option17a>d__29	MoveNext
+69	Bartender	Maybe the opportunity just hasn't presented itself yet.		DialogTalkToBartender+<Option17a>d__29	MoveNext
+70	Bartender	You'll get your chance in due time, I'm sure.		DialogTalkToBartender+<Option17a>d__29	MoveNext
+1466	Arthur	You really think so?		DialogTalkToBartender+<Option17a>d__29	MoveNext
+71	Bartender	Of course.		DialogTalkToBartender+<Option17a>d__29	MoveNext
+896	Arthur	I don't really know what I should be doing!		DialogTalkToBartender+<Option18>d__30	MoveNext
+1467	Arthur	I'm not sure what I should be doing!		DialogTalkToBartender+<Option18a>d__31	MoveNext
+1469	Arthur	How can I read the message on this napkin?		DialogTalkToBartender+<Option18b>d__32	MoveNext
+76	Bartender	Are we talking about invisible ink?		DialogTalkToBartender+<Option18b>d__32	MoveNext
+1470	Arthur	Maybe. If there's something there, I can't see it.		DialogTalkToBartender+<Option18b>d__32	MoveNext
+77	Bartender	I'm sure there are ways to reveal hidden messages.		DialogTalkToBartender+<Option18b>d__32	MoveNext
+78	Bartender	You might want to do some reading up on the topic.		DialogTalkToBartender+<Option18b>d__32	MoveNext
+898	Arthur	Actually, that's enough advice for now.		DialogTalkToBartender+<Option19>d__33	MoveNext
+1169	Arthur	What do you think happened to Herman Merman?		DialogTalkToBergmann+<Option1>d__7	MoveNext
+74	Bergmann	I'm not sure. Perhaps he fled once he realised he'd painted a target on his back?		DialogTalkToBergmann+<Option1>d__7	MoveNext
+75	Bergmann	Surely the killer would be working to address any threats, tie up any loose ends.		DialogTalkToBergmann+<Option1>d__7	MoveNext
+76	Bergmann	You're looking like a particularly loose end, if you don't mind me saying.		DialogTalkToBergmann+<Option1>d__7	MoveNext
+1170	Arthur	Because I was handling Lady Unterwald's will and testament?		DialogTalkToBergmann+<Option1>d__7	MoveNext
+1171	Arthur	Who'd want to bring harm to Lady Unterwald?		DialogTalkToBergmann+<Option2>d__8	MoveNext
+78	Bergmann	Well, when you generate as much wealth, power and influence as she did...		DialogTalkToBergmann+<Option2>d__8	MoveNext
+79	Bergmann	You naturally create a few adversaries along the way, no?		DialogTalkToBergmann+<Option2>d__8	MoveNext
+1172	Arthur	Any guesses as to who the killer could be?		DialogTalkToBergmann+<Option3>d__9	MoveNext
+80	Bergmann	I'm sure there are many aboard this train who felt spurned by Lady Unterwald.		DialogTalkToBergmann+<Option3>d__9	MoveNext
+81	Bergmann	But I'm hoping to stay out of these proceedings, where possible.		DialogTalkToBergmann+<Option3>d__9	MoveNext
+82	Bergmann	I wouldn't want to make a target of myself with a killer on the loose.		DialogTalkToBergmann+<Option3>d__9	MoveNext
+1176	Arthur	Tell me about Donny's gambling scheme.		DialogTalkToBergmann+<Option8>d__11	MoveNext
+84	Bergmann	You have to stop him, Arthur!		DialogTalkToBergmann+<Option8>d__11	MoveNext
+1177	Arthur	What's Donny's gambling scheme again?		DialogTalkToBergmann+<Option9>d__12	MoveNext
+1178	Arthur	You mentioned you're the treasurer to the estate?		DialogTalkToBergmann+<Option10>d__13	MoveNext
+87	Bergmann	That's right, I handle all the finances of the Wald-Bahn company.		DialogTalkToBergmann+<Option10>d__13	MoveNext
+1179	Arthur	How exciting! I've always been fascinated with expenditure control.		DialogTalkToBergmann+<Option10>d__13	MoveNext
+1180	Arthur	What's it like working with the Gudrun twins?		DialogTalkToBergmann+<Option11>d__14	MoveNext
+88	Bergmann	It can be a challenge, they're not the most diplomatic pair.		DialogTalkToBergmann+<Option11>d__14	MoveNext
+1181	Arthur	I can see that.		DialogTalkToBergmann+<Option11>d__14	MoveNext
+89	Bergmann	Oh, I'm sure they consider me a push-over.		DialogTalkToBergmann+<Option11>d__14	MoveNext
+90	Bergmann	There's only so many times I can say no to their bloated infrastructure budget.		DialogTalkToBergmann+<Option11>d__14	MoveNext
+1182	Arthur	How are the estate finances, is everything in order?		DialogTalkToBergmann+<Option12>d__15	MoveNext
+91	Bergmann	Well, I... Why do you ask?		DialogTalkToBergmann+<Option12>d__15	MoveNext
+1183	Arthur	Just curious!		DialogTalkToBergmann+<Option12>d__15	MoveNext
+92	Bergmann	They're all perfectly in order, I can assure you.		DialogTalkToBergmann+<Option12>d__15	MoveNext
+1184	Arthur	Was Donny trying to blackmail you?		DialogTalkToBergmann+<Option13>d__16	MoveNext
+93	Bergmann	He recorded the whole thing, Arthur.		DialogTalkToBergmann+<Option13>d__16	MoveNext
+94	Bergmann	If I walk away from Donny, he'll use those recordings against me.		DialogTalkToBergmann+<Option13>d__16	MoveNext
+1174	Arthur	Doesn't this give you a clear motive for killing Lady Unterwald?		DialogTalkToBergmann+<Option13a>d__17	MoveNext
+95	Bergmann	No! I would never do such a thing!		DialogTalkToBergmann+<Option13a>d__17	MoveNext
+96	Bergmann	Donny may be a bully, a swindler and a cheat. But he's no killer.		DialogTalkToBergmann+<Option13a>d__17	MoveNext
+1185	Arthur	Is the Unterwald estate in financial trouble?		DialogTalkToBergmann+<Option14>d__18	MoveNext
+97	Bergmann	The truth is the coffers are almost empty, Arthur.		DialogTalkToBergmann+<Option14>d__18	MoveNext
+98	Bergmann	I thought I could use Donny's connections to replenish the funds.		DialogTalkToBergmann+<Option14>d__18	MoveNext
+99	Bergmann	Rather foolish of me, in retrospect.		DialogTalkToBergmann+<Option14>d__18	MoveNext
+100	Bergmann	Take care, Arthur.		DialogTalkToBergmann+<Option15>d__19	MoveNext
+101	Bergmann	Alright, Arthur.		DialogTalkToBergmann+<Option16>d__20	MoveNext
+1548	Arthur	How are you going to fix the estate's finances?		DialogTalkToBergmann+<Option17>d__21	MoveNext
+104	Bergmann	I don't know if there's a quick fix for this one, Arthur.		DialogTalkToBergmann+<Option17>d__21	MoveNext
+115	Bergmann	But with Donny out of the picture, I can begin the work to set things right.		DialogTalkToBergmann+<Option17>d__21	MoveNext
+116	Bergmann	Thanks again.		DialogTalkToBergmann+<Option17>d__21	MoveNext
+1549	Arthur	You mentioned the doctor wanted to speak to me?		DialogTalkToBergmann+<Option18>d__22	MoveNext
+117	Bergmann	Yes, I believe he's in Lady Unterwald's quarters, just up ahead.		DialogTalkToBergmann+<Option18>d__22	MoveNext
+1550	Arthur	What can you tell me about Lady Unterwald's hidden safe?		DialogTalkToBergmann+<Option18a>d__23	MoveNext
+118	Bergmann	A hidden safe?		DialogTalkToBergmann+<Option18a>d__23	MoveNext
+1551	Arthur	It came out of the floor, in her quarters!		DialogTalkToBergmann+<Option18a>d__23	MoveNext
+119	Bergmann	Goodness. I'm afraid to say I didn't know about that.		DialogTalkToBergmann+<Option18a>d__23	MoveNext
+120	Bergmann	It would've made a much better hiding spot for my ledger, in hindsight.		DialogTalkToBergmann+<Option18a>d__23	MoveNext
+121	Bergmann	Hm, you're right. Perhaps it's too soon for jokes on the matter.		DialogTalkToBergmann+<Option18a>d__23	MoveNext
+1552	Arthur	Do you think Herman was right about the will?		DialogTalkToBergmann+<Option19>d__24	MoveNext
+122	Bergmann	That it would point the finger at Lady Unterwald's killer?		DialogTalkToBergmann+<Option19>d__24	MoveNext
+123	Bergmann	I'm not sure, but I'd have thought you'd know better than anyone on that subject.		DialogTalkToBergmann+<Option19>d__24	MoveNext
+124	Bergmann	You were her estate attorney, after all?		DialogTalkToBergmann+<Option19>d__24	MoveNext
+1553	Arthur	There were just so many amendments, it was hard to keep track.		DialogTalkToBergmann+<Option19>d__24	MoveNext
+630	Diana	Tell me, why are you destroying those documents?		DialogTalkToBergmannAfterTruthSpray+<Option1>d__3	MoveNext
+162	Bergmann	Because this is evidence! I need to protect myself from liability.		DialogTalkToBergmannAfterTruthSpray+<Option1>d__3	MoveNext
+163	Bergmann	What's happening, man, pull yourself together!		DialogTalkToBergmannAfterTruthSpray+<Option1>d__3	MoveNext
+631	Diana	Do you know it's a crime to destroy financial documents?		DialogTalkToBergmannAfterTruthSpray+<Option1a>d__4	MoveNext
+164	Bergmann	I... I do know!		DialogTalkToBergmannAfterTruthSpray+<Option1a>d__4	MoveNext
+165	Bergmann	Oh, I've been a terrible treasurer! I've gambled away estate funds!		DialogTalkToBergmannAfterTruthSpray+<Option1a>d__4	MoveNext
+632	Diana	Burning the evidence, will you ever take responsibility?		DialogTalkToBergmannAfterTruthSpray+<Option1b>d__5	MoveNext
+166	Bergmann	No more, I'm begging you!		DialogTalkToBergmannAfterTruthSpray+<Option1b>d__5	MoveNext
+633	Diana	Do you know who killed Lady Unterwald?		DialogTalkToBergmannAfterTruthSpray+<Option2>d__6	MoveNext
+168	Bergmann	I have no idea, and that terrifies me!		DialogTalkToBergmannAfterTruthSpray+<Option2>d__6	MoveNext
+634	Diana	Did Lady Unterwald know about your gambling problem?		DialogTalkToBergmannAfterTruthSpray+<Option2a>d__7	MoveNext
+169	Bergmann	No, I don't think so. I never had the heart to tell her!		DialogTalkToBergmannAfterTruthSpray+<Option2a>d__7	MoveNext
+170	Bergmann	And now she's gone!		DialogTalkToBergmannAfterTruthSpray+<Option2a>d__7	MoveNext
+635	Diana	Lady Unterwald entrusted you. She'd be so disappointed!		DialogTalkToBergmannAfterTruthSpray+<Option2b>d__8	MoveNext
+171	Bergmann	T-That's right, I know it's true.		DialogTalkToBergmannAfterTruthSpray+<Option2b>d__8	MoveNext
+172	Bergmann	Please, no more!		DialogTalkToBergmannAfterTruthSpray+<Option2b>d__8	MoveNext
+636	Diana	I'll have to report you to my superiors at Inland Revenue!		DialogTalkToBergmannAfterTruthSpray+<Option3>d__9	MoveNext
+173	Bergmann	Y-You wouldn't dare!		DialogTalkToBergmannAfterTruthSpray+<Option3>d__9	MoveNext
+174	Bergmann	But if you did, that would be devastating for me!		DialogTalkToBergmannAfterTruthSpray+<Option3>d__9	MoveNext
+175	Bergmann	Did I say that out loud? Oh, no!		DialogTalkToBergmannAfterTruthSpray+<Option3>d__9	MoveNext
+637	Diana	Stealing from a poor old lady, this doesn't look great for you.		DialogTalkToBergmannAfterTruthSpray+<Option3a>d__10	MoveNext
+176	Bergmann	It wasn't like that!		DialogTalkToBergmannAfterTruthSpray+<Option3a>d__10	MoveNext
+177	Bergmann	I'm telling the truth!		DialogTalkToBergmannAfterTruthSpray+<Option3a>d__10	MoveNext
+638	Diana	You're going to have to face the consequences at some point!		DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+178	Bergmann	Please! I can't go to prison, I'd never last in there!		DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+179	Bergmann	Nobody has to know!		DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+180	Bergmann	I know deep down that I play the victim because...		DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+639	Diana	Because?		DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+181	Bergmann	B-Because I can't own up to my mistakes!		DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+182	Bergmann	The truth is that I-I'm a wretched creature, a weak little man!		DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+640	Diana	There, there. I'm sure it will be okay.		DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+183	Bergmann	Forgive me, for I cannot forgive myself!		DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+641	Diana	It's a white-collar crime, Bergmann. It's serious, but it's not like you killed anyone.		DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+184	Bergmann	No! I deserve to be locked up! I'm a danger to society!		DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+642	Diana	Oh dear, I think that truth spray broke him.		DialogTalkToBergmannAfterTruthSpray+<Option3b>d__11	MoveNext
+644	Diana	You wait right here.		DialogTalkToBergmannAfterTruthSpray+<Option4>d__12	MoveNext
+185	Bergmann	I'm not going anywhere!		DialogTalkToBergmannAfterTruthSpray+<Option4>d__12	MoveNext
+621	Diana	Are those financial documents you're burning?		DialogTalkToBergmannBeforeTruthSpray+<Option1>d__3	MoveNext
+146	Bergmann	W-what! I would do no such thing!		DialogTalkToBergmannBeforeTruthSpray+<Option1>d__3	MoveNext
+147	Bergmann	These are merely old birthday cards...		DialogTalkToBergmannBeforeTruthSpray+<Option1>d__3	MoveNext
+148	Bergmann	Nothing the tax office would be concerned with, I assure you!		DialogTalkToBergmannBeforeTruthSpray+<Option1>d__3	MoveNext
+622	Diana	Stop what you're doing, right now!		DialogTalkToBergmannBeforeTruthSpray+<Option1a>d__4	MoveNext
+149	Bergmann	As the treasurer, I'm at liberty to destroy unwanted documentation!		DialogTalkToBergmannBeforeTruthSpray+<Option1a>d__4	MoveNext
+623	Diana	That's not true!		DialogTalkToBergmannBeforeTruthSpray+<Option1a>d__4	MoveNext
+150	Bergmann	Even so, you didn't see anything!		DialogTalkToBergmannBeforeTruthSpray+<Option1a>d__4	MoveNext
+624	Diana	That's it, you're under arrest!		DialogTalkToBergmannBeforeTruthSpray+<Option1b>d__5	MoveNext
+151	Bergmann	Just a few more to go!		DialogTalkToBergmannBeforeTruthSpray+<Option1b>d__5	MoveNext
+625	Diana	Out of the way, I need to stop this train!		DialogTalkToBergmannBeforeTruthSpray+<Option2>d__6	MoveNext
+152	Bergmann	Stop the train? Are you mad?		DialogTalkToBergmannBeforeTruthSpray+<Option2>d__6	MoveNext
+153	Bergmann	No, no, we must keep going!		DialogTalkToBergmannBeforeTruthSpray+<Option2>d__6	MoveNext
+154	Bergmann	We mustn't give the opportunity for Lady Unterwald's killer to disembark!		DialogTalkToBergmannBeforeTruthSpray+<Option2>d__6	MoveNext
+626	Diana	I need to get past, Arthur is in trouble!		DialogTalkToBergmannBeforeTruthSpray+<Option2a>d__7	MoveNext
+155	Bergmann	Then you should go and help him!		DialogTalkToBergmannBeforeTruthSpray+<Option2a>d__7	MoveNext
+156	Bergmann	I'll stay here and keep watch!		DialogTalkToBergmannBeforeTruthSpray+<Option2a>d__7	MoveNext
+627	Diana	What did you do to the train driver?		DialogTalkToBergmannBeforeTruthSpray+<Option3>d__8	MoveNext
+157	Bergmann	Oh, they'll be fine.		DialogTalkToBergmannBeforeTruthSpray+<Option3>d__8	MoveNext
+158	Bergmann	I'm sure it's nothing more than a mild concussion.		DialogTalkToBergmannBeforeTruthSpray+<Option3>d__8	MoveNext
+628	Diana	The train can't operate without a driver, Bergmann!		DialogTalkToBergmannBeforeTruthSpray+<Option3a>d__9	MoveNext
+159	Bergmann	Well, the Reuss Express seems to be operating just fine for now.		DialogTalkToBergmannBeforeTruthSpray+<Option3a>d__9	MoveNext
+160	Bergmann	As long as I keep this fire roaring, we can go all night!		DialogTalkToBergmannBeforeTruthSpray+<Option3a>d__9	MoveNext
+629	Diana	I've had enough of this conversation.		DialogTalkToBergmannBeforeTruthSpray+<Option4>d__10	MoveNext
+161	Bergmann	Can't talk now, I've got paper to burn!		DialogTalkToBergmannBeforeTruthSpray+<Option4>d__10	MoveNext
+1657	Arthur	What should we do?		DialogTalkToDianaJailArthur+<Option1>d__3	MoveNext
+596	Diana	We'll need to be smart about this, and use everything we can to our advantage.		DialogTalkToDianaJailArthur+<Option1>d__3	MoveNext
+597	Diana	I must admit, I don't have a lot to work with on my end.		DialogTalkToDianaJailArthur+<Option1>d__3	MoveNext
+599	Diana	See if there's anything in our environment that could be of use!		DialogTalkToDianaJailArthur+<Option1a>d__4	MoveNext
+1659	Arthur	What's our escape plan?		DialogTalkToDianaJailArthur+<Option1b>d__5	MoveNext
+600	Diana	There's a chain near my cell, but I'll need an anklet key!		DialogTalkToDianaJailArthur+<Option1b>d__5	MoveNext
+1660	Arthur	You know, I think I might have one!		DialogTalkToDianaJailArthur+<Option1b>d__5	MoveNext
+1661	Arthur	I need you to cause a distraction!		DialogTalkToDianaJailArthur+<Option1c>d__6	MoveNext
+601	Diana	Hmm, leave it with me.		DialogTalkToDianaJailArthur+<Option1c>d__6	MoveNext
+602	Diana	I'll see what I can do.		DialogTalkToDianaJailArthur+<Option1c>d__6	MoveNext
+1662	Arthur	Do you think Jimmy will be okay?		DialogTalkToDianaJailArthur+<Option1d>d__7	MoveNext
+603	Diana	I'm sure it's just a concussion, he'll be back on his feet in no time.		DialogTalkToDianaJailArthur+<Option1d>d__7	MoveNext
+604	Diana	We need to focus on our own issues right now!		DialogTalkToDianaJailArthur+<Option1d>d__7	MoveNext
+1663	Arthur	I don't suppose you have any spy tech that could break us out?		DialogTalkToDianaJailArthur+<Option2>d__8	MoveNext
+605	Diana	I'm afraid not, unless you count Agent M!		DialogTalkToDianaJailArthur+<Option2>d__8	MoveNext
+606	Diana	Still, I managed to hold onto a few things before they were confiscated.		DialogTalkToDianaJailArthur+<Option2>d__8	MoveNext
+608	Diana	Perhaps I should have aborted the mission as soon as things went awry.		DialogTalkToDianaJailArthur+<Option3>d__9	MoveNext
+1665	Arthur	I should get back to it.		DialogTalkToDianaJailArthur+<Option4>d__10	MoveNext
+1358	Herman	There's some lady outside asking after you.		DialogTalkToDianaJailHerman+<Option1>d__3	MoveNext
+645	Diana	April?! She's here?		DialogTalkToDianaJailHerman+<Option1>d__3	MoveNext
+646	Diana	What did she say?		DialogTalkToDianaJailHerman+<Option1>d__3	MoveNext
+1359	Herman	She wants to break us out of here.		DialogTalkToDianaJailHerman+<Option1>d__3	MoveNext
+1360	Herman	Do you have anything that could bend these window bars?		DialogTalkToDianaJailHerman+<Option1a>d__4	MoveNext
+647	Diana	There must be something around here, leave it with me!		DialogTalkToDianaJailHerman+<Option1a>d__4	MoveNext
+1361	Herman	Did you find anything that could bend these window bars?		DialogTalkToDianaJailHerman+<Option1b>d__5	MoveNext
+648	Diana	I found a metal chain, but it'd cause a scene if I tried to flush it.		DialogTalkToDianaJailHerman+<Option1b>d__5	MoveNext
+649	Diana	We'd need to deal with that pesky intern before I sent it your way.		DialogTalkToDianaJailHerman+<Option1b>d__5	MoveNext
+1362	Herman	Hmm, understood.		DialogTalkToDianaJailHerman+<Option1b>d__5	MoveNext
+1363	Herman	The chain is stuck in the toilet!		DialogTalkToDianaJailHerman+<Option1c>d__6	MoveNext
+650	Diana	Suction! You'll need to form a seal over the bowl to create a vacuum!		DialogTalkToDianaJailHerman+<Option1c>d__6	MoveNext
+1364	Herman	I'll see what I can do!		DialogTalkToDianaJailHerman+<Option1c>d__6	MoveNext
+1365	Herman	I managed to get the chain out of the toilet!		DialogTalkToDianaJailHerman+<Option1d>d__7	MoveNext
+651	Diana	Well, what are you waiting for! Wrap it around the bars, and perhaps we can get out of here!		DialogTalkToDianaJailHerman+<Option1d>d__7	MoveNext
+1366	Herman	Is there anything in your cell that might prove useful?		DialogTalkToDianaJailHerman+<Option2>d__8	MoveNext
+652	Diana	I'll have a look around and see what I can find.		DialogTalkToDianaJailHerman+<Option2>d__8	MoveNext
+1367	Herman	Is there anything in your cell that might prove useful?		DialogTalkToDianaJailHerman+<Option2a>d__9	MoveNext
+653	Diana	There's a chain on the wall, but I'll need a key.		DialogTalkToDianaJailHerman+<Option2a>d__9	MoveNext
+1368	Herman	Blast, I don't have one of those!		DialogTalkToDianaJailHerman+<Option2a>d__9	MoveNext
+1369	Herman	Is there anything in your cell that might prove useful?		DialogTalkToDianaJailHerman+<Option2b>d__10	MoveNext
+1370	Herman	Is there anything in your cell that might prove useful?		DialogTalkToDianaJailHerman+<Option2c>d__11	MoveNext
+655	Diana	I'll have a look around and see what I can find.		DialogTalkToDianaJailHerman+<Option2c>d__11	MoveNext
+1371	Herman	Did you find anything useful in your cell?		DialogTalkToDianaJailHerman+<Option2d>d__12	MoveNext
+656	Diana	You should have everything you need in there!		DialogTalkToDianaJailHerman+<Option2d>d__12	MoveNext
+1372	Herman	What happened to Mr Liu?		DialogTalkToDianaJailHerman+<Option3>d__13	MoveNext
+657	Diana	I'm not sure, but it likely wasn't good.		DialogTalkToDianaJailHerman+<Option3>d__13	MoveNext
+658	Diana	Okay!		DialogTalkToDianaJailHerman+<Option4>d__14	MoveNext
+1102	Herman	Sorry, I think you have me confused with someone else.		DialogTalkToDon+<Option1>d__1	MoveNext
+218	Don	You ain't fooling anyone by denying it. I heard you were on the scene, snooping around.		DialogTalkToDon+<Option1>d__1	MoveNext
+1103	Herman	I prefer the term ‘investigating'.		DialogTalkToDon+<Option1>d__1	MoveNext
+720	Herman	An intriguing deduction, what gave it away?		DialogTalkToDon+<Option2>d__2	MoveNext
+127	Don	You've got that trademark air of superiority about you, I can practically smell it.		DialogTalkToDon+<Option2>d__2	MoveNext
+1104	Herman	That's probably just my aftershave.		DialogTalkToDon+<Option2>d__2	MoveNext
+219	Don	What, they're bottling arrogance, now?		DialogTalkToDon+<Option2>d__2	MoveNext
+722	Herman	Perhaps, I'm not really at liberty to say.		DialogTalkToDon+<Option3>d__3	MoveNext
+220	Don	I had you clocked as soon as I saw the detective getup you're wearing.		DialogTalkToDon+<Option3>d__3	MoveNext
+221	Don	The fedora? That eccentric little moustache?		DialogTalkToDon+<Option3>d__3	MoveNext
+222	Don	Come on, you ain't fooling nobody.		DialogTalkToDon+<Option3>d__3	MoveNext
+724	Herman	'Tis I, Herman Merman, detective extraordinaire!		DialogTalkToDon+<Option4>d__4	MoveNext
+223	Don	I can see you're very proud of that.		DialogTalkToDon+<Option4>d__4	MoveNext
+1106	Herman	Indeed I am!		DialogTalkToDon+<Option4>d__4	MoveNext
+1119	Herman	It's for the green room, I need my name on that list!		DialogTalkToDonForgery+<Option1>d__1	MoveNext
+243	Don	That snot-nosed stage manager giving you trouble, aye?		DialogTalkToDonForgery+<Option1>d__1	MoveNext
+244	Don	I'll get you backstage, but I need you to do us a favour first.		DialogTalkToDonForgery+<Option1>d__1	MoveNext
+1120	Herman	Research purposes, for my latest crime novel!		DialogTalkToDonForgery+<Option2>d__2	MoveNext
+245	Don	Sure it is, we can stick to that story if it makes you feel better.		DialogTalkToDonForgery+<Option2>d__2	MoveNext
+1121	Herman	I'd prefer not to divulge that information.		DialogTalkToDonForgery+<Option3>d__3	MoveNext
+246	Don	Playing it cautious, I get that. But I still need to know what it's for.		DialogTalkToDonForgery+<Option3>d__3	MoveNext
+1122	Herman	On second thought, I've changed my mind.		DialogTalkToDonForgery+<Option4>d__4	MoveNext
+247	Don	Alright, let me know when you reconsider.		DialogTalkToDonForgery+<Option4>d__4	MoveNext
+1715	Arthur	We've been accused of murdering Lady Unterwald!		DialogTalkToDonJailCell+<Option1>d__2	MoveNext
+207	Don	Woah, that's ice-cold, pal. I really underestimated you!		DialogTalkToDonJailCell+<Option1>d__2	MoveNext
+281	Don	You don't seem like the killing type.		DialogTalkToDonJailCell+<Option1>d__2	MoveNext
+1616	Arthur	I might've derailed the Reuss Express.		DialogTalkToDonJailCell+<Option2>d__3	MoveNext
+282	Don	Wait, are you telling me you did that?!		DialogTalkToDonJailCell+<Option2>d__3	MoveNext
+283	Don	Alright, kid. You know, I'm impressed!		DialogTalkToDonJailCell+<Option2>d__3	MoveNext
+1617	Arthur	The casino accused me of cheating at roulette!		DialogTalkToDonJailCell+<Option3>d__4	MoveNext
+209	Don	Wait, what? That's crazy. You'd need like a whole scheme to pull something like that off!		DialogTalkToDonJailCell+<Option3>d__4	MoveNext
+1618	Arthur	I didn't do anything wrong, I'm innocent!		DialogTalkToDonJailCell+<Option4>d__5	MoveNext
+210	Don	That's it, pal! You should never confess to your crimes.		DialogTalkToDonJailCell+<Option4>d__5	MoveNext
+1704	Arthur	How'd you end up here in jail?		DialogTalkToDonJailbreak+<Option1>d__3	MoveNext
+260	Don	I got jumped by those goons from the casino, they barged right into my room!		DialogTalkToDonJailbreak+<Option1>d__3	MoveNext
+1705	Arthur	No, really?		DialogTalkToDonJailbreak+<Option1>d__3	MoveNext
+261	Don	They accused me of using counterfeit chips, can you believe that?		DialogTalkToDonJailbreak+<Option1>d__3	MoveNext
+1706	Arthur	Huh.		DialogTalkToDonJailbreak+<Option1>d__3	MoveNext
+1707	Arthur	What happened between you and those casino enforcers?		DialogTalkToDonJailbreak+<Option1a>d__4	MoveNext
+262	Don	Ehh, they were spouting off all sorts of theories. You wouldn't believe it!		DialogTalkToDonJailbreak+<Option1a>d__4	MoveNext
+263	Don	They just couldn't stand to see a guy like me on a winning streak!		DialogTalkToDonJailbreak+<Option1a>d__4	MoveNext
+264	Don	Next thing I know, they're throwing punches, and I'm getting tied up!		DialogTalkToDonJailbreak+<Option1a>d__4	MoveNext
+1708	Arthur	Sounds like you took a beating!		DialogTalkToDonJailbreak+<Option1b>d__5	MoveNext
+265	Don	No don't get me wrong, kid. I put up a fair fight, y'know? But it was two against one!		DialogTalkToDonJailbreak+<Option1b>d__5	MoveNext
+266	Don	I'd like to see them go one-on-one with ol' Donny! Yeah, it would've been a very different story then!		DialogTalkToDonJailbreak+<Option1b>d__5	MoveNext
+1709	Arthur	So what happened next?		DialogTalkToDonJailbreak+<Option1c>d__6	MoveNext
+267	Don	Some dame came in, a beauty like you wouldn't believe!		DialogTalkToDonJailbreak+<Option1c>d__6	MoveNext
+268	Don	I tried to convince her to let me loose, but she wasn't buying it.		DialogTalkToDonJailbreak+<Option1c>d__6	MoveNext
+1710	Arthur	Why didn't you escape when you had the chance?		DialogTalkToDonJailbreak+<Option2>d__7	MoveNext
+269	Don	Hey, you ever been punched in the ribs, kid? Yeah, I wasn't going anywhere fast!		DialogTalkToDonJailbreak+<Option2>d__7	MoveNext
+270	Don	I thought I'd hit the jackpot when the train came off the rails, even managed to land safely in some foliage!		DialogTalkToDonJailbreak+<Option2>d__7	MoveNext
+271	Don	But as you can see, I didn't get very far!		DialogTalkToDonJailbreak+<Option2>d__7	MoveNext
+1711	Arthur	Do you have any ideas for how we can break out of here?		DialogTalkToDonJailbreak+<Option3>d__8	MoveNext
+272	Don	Ah, plotting a jailbreak, eh? Well you can count ol' Donny in!		DialogTalkToDonJailbreak+<Option3>d__8	MoveNext
+273	Don	If I still had my magnetic ball, I may have been able to pull off some magic with my watch.		DialogTalkToDonJailbreak+<Option3>d__8	MoveNext
+274	Don	I'm pretty sure I lost it when those casino goons jumped me, though!		DialogTalkToDonJailbreak+<Option3>d__8	MoveNext
+1712	Arthur	I got the magnetic ball, now what?		DialogTalkToDonJailbreak+<Option3a>d__9	MoveNext
+275	Don	I'll need one of you to distract that bozo outside.		DialogTalkToDonJailbreak+<Option3a>d__9	MoveNext
+191	Don	Maybe you can make some noise to get his attention?		DialogTalkToDonJailbreak+<Option3a>d__9	MoveNext
+1713	Arthur	What's our escape plan?		DialogTalkToDonJailbreak+<Option3b>d__10	MoveNext
+1714	Arthur	I've got some plotting to do!		DialogTalkToDonJailbreak+<Option4>d__11	MoveNext
+206	Don	Get to it, kid.		DialogTalkToDonJailbreak+<Option4>d__11	MoveNext
+1130	Herman	If I do this favour, you promise to get me backstage?		DialogTalkToDonMasson+<Option1>d__3	MoveNext
+248	Don	Oh, of course! We have a gentleman's agreement, after all.		DialogTalkToDonMasson+<Option1>d__3	MoveNext
+1131	Herman	Mmmh.		DialogTalkToDonMasson+<Option1>d__3	MoveNext

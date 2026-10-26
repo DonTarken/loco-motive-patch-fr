@@ -1,0 +1,276 @@
+435	Herman	Brian, isn't it?		CharacterBrotherBrian+<OnInteractActTwoFirstMeeting>d__5	MoveNext
+10	BrotherBrian	What's it to you, Outsider?		CharacterBrotherBrian+<OnInteractActTwoFirstMeeting>d__5	MoveNext
+436	Herman	Outsider?		CharacterBrotherBrian+<OnInteractActTwoFirstMeeting>d__5	MoveNext
+11	BrotherBrian	Did you gain entry to our sanctum honourably, with the five-fingered handshake of formality?		CharacterBrotherBrian+<OnInteractActTwoFirstMeeting>d__5	MoveNext
+437	Herman	I think I was unconscious when the doctor dragged me in here.		CharacterBrotherBrian+<OnInteractActTwoFirstMeeting>d__5	MoveNext
+12	BrotherBrian	Well, that makes you an outsider!		CharacterBrotherBrian+<OnInteractActTwoFirstMeeting>d__5	MoveNext
+438	Herman	Hello, Brian		CharacterBrotherBrian+<OnInteractActTwo>d__6	MoveNext
+13	BrotherBrian	Yes, Outsider?		CharacterBrotherBrian+<OnInteractActTwo>d__6	MoveNext
+442	Herman	Jared, is it?		CharacterBrotherJared+<OnInteractActTwoFirstMeeting>d__17	MoveNext
+34	BrotherJared	Brother Jared, Custodian of the Silken Palms.		CharacterBrotherJared+<OnInteractActTwoFirstMeeting>d__17	MoveNext
+35	BrotherJared	I'm entitled to a little respect around here, thank you very much.		CharacterBrotherJared+<OnInteractActTwoFirstMeeting>d__17	MoveNext
+44	ChefAntoine	AAAAAAAAAAAAUUGGHH!		CharacterChefAntoine+<OnActTwoGasFireball>d__11	MoveNext
+43	ChefAntoine	Fiammetta, what have you done!		CharacterChefAntoine+<OnActTwoGasFireball>d__11	MoveNext
+45	ChefAntoine	*gurgle*		CharacterChefAntoine+<OnActTwoGasFireball>d__11	MoveNext
+42	ChefRemy	C-Crawling, scratching, n-n-nibbling!		CharacterChefRemy+<OnInteractActTwoAfterPearlNecklaceOption1>d__26	MoveNext
+64	ChefRemy	It c-came right for me!		CharacterChefRemy+<OnInteractActTwoAfterPearlNecklaceOption2>d__27	MoveNext
+65	ChefRemy	I can't stand their b-beady little eyes!		CharacterChefRemy+<OnInteractActTwoAfterPearlNecklaceOption3>d__28	MoveNext
+66	ChefRemy	Don't let it n-near me!		CharacterChefRemy+<OnInteractActTwoAfterPearlNecklaceOption4>d__29	MoveNext
+67	ChefRemy	Those t-teeth!		CharacterChefRemy+<OnInteractActTwoAfterPearlNecklaceOption5>d__30	MoveNext
+68	ChefRemy	Ahh! I c-can't get it out of my mind!		CharacterChefRemy+<OnInteractActTwoAfterPearlNecklaceOption7>d__31	MoveNext
+69	ChefRemy	T-Their worm-like tail. It was h-horrible!		CharacterChefRemy+<OnInteractActTwoAfterPearlNecklaceOption8>d__32	MoveNext
+44	HandshakeLeader	Ah, our latest recruit. Putting yourself to good use?		CharacterHandshakeLeader+<OnInteractActTwo>d__5	MoveNext
+16	SisterGretchen	What do you think of the place? Pretty cool, huh?		CharacterSisterGretchen+<OnInteractActTwoFirstMeeting>d__2	MoveNext
+17	SisterGretchen	The name's Gretchen. I'm in charge of all the itinerary!		CharacterSisterGretchen+<OnInteractActTwoFirstMeeting>d__2	MoveNext
+654	Herman	What are all these idols for, anyway?		DialogTalkToBrotherBrianActTwo+<Option1>d__4	MoveNext
+53	BrotherBrian	Each one of these idols has a purpose, we use them to keep things orderly.		DialogTalkToBrotherBrianActTwo+<Option1>d__4	MoveNext
+54	BrotherBrian	We have strict protocols, and we follow the rules here, something an outsider like you wouldn't know about, of course.		DialogTalkToBrotherBrianActTwo+<Option1>d__4	MoveNext
+655	Herman	What's all this talk of a handshake?		DialogTalkToBrotherBrianActTwo+<Option2>d__5	MoveNext
+55	BrotherBrian	You don't know about the handshake?		DialogTalkToBrotherBrianActTwo+<Option2>d__5	MoveNext
+56	BrotherBrian	What is the point of me guarding that curtain all day, if they're going to let people in who don't even know about the handshake?		DialogTalkToBrotherBrianActTwo+<Option2>d__5	MoveNext
+656	Herman	If you taught me the handshake, would I still be an outsider?		DialogTalkToBrotherBrianActTwo+<Option2a>d__6	MoveNext
+57	BrotherBrian	Well, the handshake gets changed every few hours. Besides, you're here now.		DialogTalkToBrotherBrianActTwo+<Option2a>d__6	MoveNext
+657	Herman	Are you sure you don't want to teach me the handshake?		DialogTalkToBrotherBrianActTwo+<Option2b>d__7	MoveNext
+58	BrotherBrian	They'll just change it in a few hours, I'd rather not waste my time.		DialogTalkToBrotherBrianActTwo+<Option2b>d__7	MoveNext
+658	Herman	I heard you're the Keeper Of Idols? I need a specific one.		DialogTalkToBrotherBrianActTwo+<Option3>d__8	MoveNext
+59	BrotherBrian	Look, there are a lot of idols back here.		DialogTalkToBrotherBrianActTwo+<Option3>d__8	MoveNext
+60	BrotherBrian	If you can narrow it down, I might be able to find what you're looking for.		DialogTalkToBrotherBrianActTwo+<Option3>d__8	MoveNext
+659	Herman	Any luck finding that idol? I'm still looking for it.		DialogTalkToBrotherBrianActTwo+<Option3a>d__9	MoveNext
+61	BrotherBrian	Like I said, we've got a lot of idols back here.		DialogTalkToBrotherBrianActTwo+<Option3a>d__9	MoveNext
+839	Herman	I'm surprised you haven't sided with Mr Liu.		DialogTalkToBrotherBrianActTwo+<Option3b>d__10	MoveNext
+81	BrotherBrian	Really? I don't think it's all that surprising.		DialogTalkToBrotherBrianActTwo+<Option3b>d__10	MoveNext
+82	BrotherBrian	I don't agree with his methodology, simple as that.		DialogTalkToBrotherBrianActTwo+<Option3b>d__10	MoveNext
+83	BrotherBrian	Besides, he left The Order! He doesn't get to dictate the rules to us now.		DialogTalkToBrotherBrianActTwo+<Option3b>d__10	MoveNext
+857	Herman	Mr Liu seemed fairly upset back there.		DialogTalkToBrotherBrianActTwo+<Option3c>d__11	MoveNext
+84	BrotherBrian	Ah, I wouldn't read too much into it.		DialogTalkToBrotherBrianActTwo+<Option3c>d__11	MoveNext
+858	Herman	You're not concerned?		DialogTalkToBrotherBrianActTwo+<Option3c>d__11	MoveNext
+85	BrotherBrian	He's probably just gone off to sulk somewhere.		DialogTalkToBrotherBrianActTwo+<Option3c>d__11	MoveNext
+660	Herman	I have to go.		DialogTalkToBrotherBrianActTwo+<Option4>d__12	MoveNext
+63	BrotherBrian	I'll be keeping an eye on you, Outsider.		DialogTalkToBrotherBrianActTwo+<Option4>d__12	MoveNext
+671	Herman	That's all the help I need right now.		DialogTalkToBrotherBrianActTwo+<Option3d>d__13	MoveNext
+661	Herman	What does a Custodian of the Silken Palms do?		DialogTalkToBrotherJaredActTwo+<Option1>d__4	MoveNext
+60	BrotherJared	It's my job, nay, my sacred duty to ensure that all members' hands are thoroughly moisturised.		DialogTalkToBrotherJaredActTwo+<Option1>d__4	MoveNext
+662	Herman	I wish I could unhear that information.		DialogTalkToBrotherJaredActTwo+<Option1>d__4	MoveNext
+61	BrotherJared	As you can tell, it's not a duty I take lightly. Nothing but moist palms, all round!		DialogTalkToBrotherJaredActTwo+<Option1>d__4	MoveNext
+663	Herman	Please, stop saying moist.		DialogTalkToBrotherJaredActTwo+<Option1>d__4	MoveNext
+664	Herman	How'd you get roped into joining this secret society?		DialogTalkToBrotherJaredActTwo+<Option2>d__5	MoveNext
+62	BrotherJared	I was in it originally to help keep the company on track, you know?		DialogTalkToBrotherJaredActTwo+<Option2>d__5	MoveNext
+63	BrotherJared	But over time, we got a bit hung up on the ‘helping hands' theme.		DialogTalkToBrotherJaredActTwo+<Option2>d__5	MoveNext
+665	Herman	You're saying it all got rather heavy-handed.		DialogTalkToBrotherJaredActTwo+<Option2>d__5	MoveNext
+64	BrotherJared	Exactly! Next thing I know, we're talking secret handshakes, the best hand creams, cuticle care... the works!		DialogTalkToBrotherJaredActTwo+<Option2>d__5	MoveNext
+65	BrotherJared	I'm way too far down this rabbit hole to climb out now.		DialogTalkToBrotherJaredActTwo+<Option2>d__5	MoveNext
+666	Herman	I have some questions about the hand idol.		DialogTalkToBrotherJaredActTwo+<Option3>d__6	MoveNext
+66	BrotherJared	Of course, I'll try to help as best I can.		DialogTalkToBrotherJaredActTwo+<Option3>d__6	MoveNext
+667	Herman	Do you remember what the idol was made of?		DialogTalkToBrotherJaredActTwo+<Option3a>d__7	MoveNext
+67	BrotherJared	Oh, you mean the Lady Unterwald idol?		DialogTalkToBrotherJaredActTwo+<Option3a>d__7	MoveNext
+68	BrotherJared	Well, it was definitely silver. Or was it solid gold?		DialogTalkToBrotherJaredActTwo+<Option3a>d__7	MoveNext
+69	BrotherJared	Oh dear, it's been too long, I'm afraid!		DialogTalkToBrotherJaredActTwo+<Option3a>d__7	MoveNext
+668	Herman	Can you recall what gesture the idol was making?		DialogTalkToBrotherJaredActTwo+<Option3b>d__8	MoveNext
+70	BrotherJared	Well, it was certainly a hand gesture...		DialogTalkToBrotherJaredActTwo+<Option3b>d__8	MoveNext
+669	Herman	Can you recall any specifics?		DialogTalkToBrotherJaredActTwo+<Option3b>d__8	MoveNext
+71	BrotherJared	Sorry, pal. If you moisturise enough hands, they all kind of blur together!		DialogTalkToBrotherJaredActTwo+<Option3b>d__8	MoveNext
+670	Herman	Was there a quote on the idol?		DialogTalkToBrotherJaredActTwo+<Option3c>d__9	MoveNext
+72	BrotherJared	A quote? Yes, there was definitely something sentimental about it.		DialogTalkToBrotherJaredActTwo+<Option3c>d__9	MoveNext
+73	BrotherJared	Sorry I couldn't be more helpful.		DialogTalkToBrotherJaredActTwo+<Option3d>d__10	MoveNext
+859	Herman	What's Mr Liu so impatient about?		DialogTalkToBrotherJaredActTwo+<Option3e>d__11	MoveNext
+76	BrotherJared	Oh, don't mind him. He just expects everything to go his way all the time!		DialogTalkToBrotherJaredActTwo+<Option3e>d__11	MoveNext
+77	BrotherJared	Jian is a man of action, but we have processes in place for a reason!		DialogTalkToBrotherJaredActTwo+<Option3e>d__11	MoveNext
+860	Herman	I thought Jian raised some rather urgent points.		DialogTalkToBrotherJaredActTwo+<Option3f>d__12	MoveNext
+78	BrotherJared	I agree, but we can't go barrelling in there and meddling with Lady Unterwald's affairs.		DialogTalkToBrotherJaredActTwo+<Option3f>d__12	MoveNext
+83	BrotherJared	It's much better to take a deliberate, more thought out approach.		DialogTalkToBrotherJaredActTwo+<Option3f>d__12	MoveNext
+861	Herman	It seems the voting has stalled. Any ideas?		DialogTalkToBrotherJaredActTwo+<Option3g>d__13	MoveNext
+84	BrotherJared	We'll need a coherent answer out of Mr Masson in order to break the deadlock.		DialogTalkToBrotherJaredActTwo+<Option3g>d__13	MoveNext
+95	BrotherJared	Perhaps you can persuade him in some way?		DialogTalkToBrotherJaredActTwo+<Option3g>d__13	MoveNext
+672	Herman	Talk to you later, I have to go...		DialogTalkToBrotherJaredActTwo+<Option4>d__14	MoveNext
+1792	Arthur	Any tips on catching that mouse?		DialogTalkToChefAntoineChapterTwo+<Option1>d__3	MoveNext
+81	ChefAntoine	It won't be easy, attorney. That little devil has shortcuts everywhere.		DialogTalkToChefAntoineChapterTwo+<Option1>d__3	MoveNext
+82	ChefAntoine	We tried to plug them all up, but there's too many!		DialogTalkToChefAntoineChapterTwo+<Option1>d__3	MoveNext
+1793	Arthur	Good news, I've apprehended that mouse!		DialogTalkToChefAntoineChapterTwo+<Option1a>d__4	MoveNext
+1794	Arthur	What should I do with this mouse?		DialogTalkToChefAntoineChapterTwo+<Option1b>d__5	MoveNext
+83	ChefAntoine	Give it here, attorney.		DialogTalkToChefAntoineChapterTwo+<Option1b>d__5	MoveNext
+84	ChefAntoine	No one lays a whisker on Fiametta without facing consequences!		DialogTalkToChefAntoineChapterTwo+<Option1b>d__5	MoveNext
+1795	Arthur	Hmm I think I'll hang onto her for now.		DialogTalkToChefAntoineChapterTwo+<Option1b>d__5	MoveNext
+85	ChefAntoine	It's your funeral, attorney.		DialogTalkToChefAntoineChapterTwo+<Option1b>d__5	MoveNext
+1796	Arthur	Any chance of a tour of the kitchen?		DialogTalkToChefAntoineChapterTwo+<Option2>d__6	MoveNext
+86	ChefAntoine	A tour? I'm afraid a tour of the kitchen will have to wait.		DialogTalkToChefAntoineChapterTwo+<Option2>d__6	MoveNext
+87	ChefAntoine	The timing right now? It's not ideal.		DialogTalkToChefAntoineChapterTwo+<Option2>d__6	MoveNext
+1797	Arthur	Oh, that's okay.		DialogTalkToChefAntoineChapterTwo+<Option2>d__6	MoveNext
+88	ChefAntoine	Ahh, you twist my arm, attorney. Of course, I'll give you a tour!		DialogTalkToChefAntoineChapterTwo+<Option2>d__6	MoveNext
+89	ChefAntoine	Come closer, and I will show you the star of the show. Fiametta!		DialogTalkToChefAntoineChapterTwo+<Option2>d__6	MoveNext
+1798	Arthur	You should tell me all about Fiametta!		DialogTalkToChefAntoineChapterTwo+<Option2a>d__7	MoveNext
+90	ChefAntoine	You really want to know?		DialogTalkToChefAntoineChapterTwo+<Option2a>d__7	MoveNext
+91	ChefAntoine	No, I'm not sure that you can handle it.		DialogTalkToChefAntoineChapterTwo+<Option2a>d__7	MoveNext
+1799	Arthur	I can handle it, give me the full spiel on Fiametta!		DialogTalkToChefAntoineChapterTwo+<Option2b>d__8	MoveNext
+92	ChefAntoine	Okay, well, you asked for it.		DialogTalkToChefAntoineChapterTwo+<Option2b>d__8	MoveNext
+93	ChefAntoine	Allow me to introduce you to Fiametta, referred to by her manufacturers as the Easy Chef 500. She comes forged in cast iron steel...		DialogTalkToChefAntoineChapterTwo+<Option2b>d__8	MoveNext
+94	ChefAntoine	Fiametta has not one, but two baking ovens! A broiler drawer that's ideal for browning the tops of casseroles, caramelising your meats, or even roasting your vegetables. But that's not all!		DialogTalkToChefAntoineChapterTwo+<Option2b>d__8	MoveNext
+1800	Arthur	It's not?!		DialogTalkToChefAntoineChapterTwo+<Option2b>d__8	MoveNext
+95	ChefAntoine	We're not talking your standard dual cook-top burners, we're not even talking four. Fiametta has six cook-top burners, an upper warming compartment that keeps optimum temperatures for your soups and sauces, and if that wasn't enough, a lower storage drawer for your additional kitchenware.		DialogTalkToChefAntoineChapterTwo+<Option2b>d__8	MoveNext
+1801	Arthur	Wow!		DialogTalkToChefAntoineChapterTwo+<Option2b>d__8	MoveNext
+1802	Arthur	I assume you've heard about Lady Unterwald?		DialogTalkToChefAntoineChapterTwo+<Option3>d__9	MoveNext
+96	ChefAntoine	Ah, attorney, c'est une tragédie !		DialogTalkToChefAntoineChapterTwo+<Option3>d__9	MoveNext
+97	ChefAntoine	It's terrible! We even had to throw away perfectly good ingredients to fit her in the pantry.		DialogTalkToChefAntoineChapterTwo+<Option3>d__9	MoveNext
+1803	Arthur	Excuse me?		DialogTalkToChefAntoineChapterTwo+<Option3>d__9	MoveNext
+98	ChefAntoine	You heard me. Don't go snooping around in the freezer, or you'll give yourself a scare.		DialogTalkToChefAntoineChapterTwo+<Option3>d__9	MoveNext
+1804	Arthur	Are you saying Lady Unterwald is stored in your freezer?		DialogTalkToChefAntoineChapterTwo+<Option3a>d__10	MoveNext
+99	ChefAntoine	Lady Unterwald needs to be on ice until the authorities can reach us.		DialogTalkToChefAntoineChapterTwo+<Option3a>d__10	MoveNext
+100	ChefAntoine	There was no other alternative, attorney!		DialogTalkToChefAntoineChapterTwo+<Option3a>d__10	MoveNext
+1805	Arthur	I don't think Lady Unterwald would have approved of your storage methods.		DialogTalkToChefAntoineChapterTwo+<Option3b>d__11	MoveNext
+101	ChefAntoine	Would you prefer Lady Unterwald to lay where she fell, in front of her paying passengers?		DialogTalkToChefAntoineChapterTwo+<Option3b>d__11	MoveNext
+102	ChefAntoine	When you consider the alternative, this is a more dignified resting place, no?		DialogTalkToChefAntoineChapterTwo+<Option3b>d__11	MoveNext
+1806	Arthur	I suppose so.		DialogTalkToChefAntoineChapterTwo+<Option3b>d__11	MoveNext
+1807	Arthur	I should get back to finding that mouse.		DialogTalkToChefAntoineChapterTwo+<Option4>d__12	MoveNext
+103	ChefAntoine	Good luck, attorney.		DialogTalkToChefAntoineChapterTwo+<Option4>d__12	MoveNext
+1808	Arthur	I need to go now.		DialogTalkToChefAntoineChapterTwo+<Option4a>d__13	MoveNext
+1769	Arthur	Did you say you had an inspection earlier?		DialogTalkToChefFrancoisChapterTwo+<Option1>d__3	MoveNext
+131	ChefFrancois	The health department sent a puny little drone to inspect our premises.		DialogTalkToChefFrancoisChapterTwo+<Option1>d__3	MoveNext
+132	ChefFrancois	If there's anything I detest more than rodents, it's health inspectors.		DialogTalkToChefFrancoisChapterTwo+<Option1>d__3	MoveNext
+133	ChefFrancois	Strutting about as if they rule the roost, they are the real pests!		DialogTalkToChefFrancoisChapterTwo+<Option1>d__3	MoveNext
+1770	Arthur	You mentioned the mouse only steals valuables?		DialogTalkToChefFrancoisChapterTwo+<Option2>d__4	MoveNext
+134	ChefFrancois	Indeed, we're down to our last cheese knife.		DialogTalkToChefFrancoisChapterTwo+<Option2>d__4	MoveNext
+135	ChefFrancois	It's also found a way into our pantry, there must be tunnels everywhere.		DialogTalkToChefFrancoisChapterTwo+<Option2>d__4	MoveNext
+1771	Arthur	Where do you think that mouse came from, anyway?		DialogTalkToChefFrancoisChapterTwo+<Option2a>d__5	MoveNext
+136	ChefFrancois	It's not uncommon for rodents to sneak aboard a departing train.		DialogTalkToChefFrancoisChapterTwo+<Option2a>d__5	MoveNext
+137	ChefFrancois	But that mouse? That little devil came from the gates of hell!		DialogTalkToChefFrancoisChapterTwo+<Option2a>d__5	MoveNext
+1772	Arthur	Tell me more about your rodent problem.		DialogTalkToChefFrancoisChapterTwo+<Option3>d__6	MoveNext
+138	ChefFrancois	That creature is no ordinary rodent, it's pure evil.		DialogTalkToChefFrancoisChapterTwo+<Option3>d__6	MoveNext
+101	ChefRemy	It's out there... watching us, plotting its next attack.		DialogTalkToChefFrancoisChapterTwo+<Option3>d__6	MoveNext
+139	ChefFrancois	Calm down, Remy. Our attorney is on the case!		DialogTalkToChefFrancoisChapterTwo+<Option3>d__6	MoveNext
+1773	Arthur	Any advice on nabbing that mouse?		DialogTalkToChefFrancoisChapterTwo+<Option3a>d__7	MoveNext
+140	ChefFrancois	I'd try to trap it in an enclosed space.		DialogTalkToChefFrancoisChapterTwo+<Option3a>d__7	MoveNext
+141	ChefFrancois	It won't be so simple, though. That little thief is a professional.		DialogTalkToChefFrancoisChapterTwo+<Option3a>d__7	MoveNext
+1775	Arthur	Mind if I have a poke around your kitchen?		DialogTalkToChefFrancoisChapterTwo+<Option3c>d__9	MoveNext
+142	ChefFrancois	Poke around?		DialogTalkToChefFrancoisChapterTwo+<Option3c>d__9	MoveNext
+143	ChefFrancois	You may have free rein of the kitchen, but there is to be no poking!		DialogTalkToChefFrancoisChapterTwo+<Option3c>d__9	MoveNext
+144	ChefFrancois	Good luck, attorney. We're counting on you.		DialogTalkToChefFrancoisChapterTwo+<Option4>d__10	MoveNext
+1777	Arthur	I'll leave you to it.		DialogTalkToChefFrancoisChapterTwo+<Option4a>d__11	MoveNext
+145	ChefFrancois	Merci, attorney.		DialogTalkToChefFrancoisChapterTwo+<Option4a>d__11	MoveNext
+1778	Arthur	What's making you so jittery?		DialogTalkToChefRemyChapterTwo+<Option1>d__3	MoveNext
+102	ChefRemy	That creature is out there... watching us, plotting its next attack.		DialogTalkToChefRemyChapterTwo+<Option1>d__3	MoveNext
+103	ChefRemy	Ugh, the mere thought of it makes my skin crawl!		DialogTalkToChefRemyChapterTwo+<Option1>d__3	MoveNext
+1779	Arthur	I'll bet that mouse is just as scared of you, as you are of it!		DialogTalkToChefRemyChapterTwo+<Option1a>d__4	MoveNext
+104	ChefRemy	Please don't say that word! You're making me itch!		DialogTalkToChefRemyChapterTwo+<Option1a>d__4	MoveNext
+1781	Arthur	Are you feeling a bit more at ease now?		DialogTalkToChefRemyChapterTwo+<Option1c>d__6	MoveNext
+105	ChefRemy	Knowing that vile beast is safely contained is a big weight off my mind.		DialogTalkToChefRemyChapterTwo+<Option1c>d__6	MoveNext
+106	ChefRemy	I cannot thank you enough, attorney.		DialogTalkToChefRemyChapterTwo+<Option1c>d__6	MoveNext
+1782	Arthur	Any advice for capturing that mouse?		DialogTalkToChefRemyChapterTwo+<Option2>d__7	MoveNext
+107	ChefRemy	D-don't try to touch it with your bare hands, they c-can be extremely vicious.		DialogTalkToChefRemyChapterTwo+<Option2>d__7	MoveNext
+1783	Arthur	Beware of the bite, got it.		DialogTalkToChefRemyChapterTwo+<Option2>d__7	MoveNext
+108	ChefRemy	Ugh, you just reminded me of those horrible gnawing teeth.		DialogTalkToChefRemyChapterTwo+<Option2>d__7	MoveNext
+109	ChefRemy	I'm feeling nauseous just thinking about it!		DialogTalkToChefRemyChapterTwo+<Option2>d__7	MoveNext
+110	ChefRemy	I don't care what you do, as long as you keep it far away from me!		DialogTalkToChefRemyChapterTwo+<Option2a>d__8	MoveNext
+1785	Arthur	Tell me, what's your role in the kitchen?		DialogTalkToChefRemyChapterTwo+<Option3>d__9	MoveNext
+111	ChefRemy	As the Entremétier, it's my job to prepare the entrées.		DialogTalkToChefRemyChapterTwo+<Option3>d__9	MoveNext
+112	ChefRemy	Between you and me, I think I was only hired to help François with his palate problem.		DialogTalkToChefRemyChapterTwo+<Option3>d__9	MoveNext
+1786	Arthur	There's a problem with the head chef's palate?		DialogTalkToChefRemyChapterTwo+<Option3a>d__10	MoveNext
+113	ChefRemy	Oui, I'm afraid his taste is as dull as dishwater!		DialogTalkToChefRemyChapterTwo+<Option3a>d__10	MoveNext
+114	ChefRemy	Don't speak a word of this to anyone, I'm afraid he's quite sensitive about it.		DialogTalkToChefRemyChapterTwo+<Option3a>d__10	MoveNext
+1787	Arthur	You taste all the food before it leaves the kitchen?		DialogTalkToChefRemyChapterTwo+<Option3b>d__11	MoveNext
+115	ChefRemy	I'm supposed to, but how can I taste anything with that rodent running around?		DialogTalkToChefRemyChapterTwo+<Option3b>d__11	MoveNext
+116	ChefRemy	I can't be expected to work under these conditions!		DialogTalkToChefRemyChapterTwo+<Option3b>d__11	MoveNext
+1788	Arthur	They've got you shucking oysters, huh?		DialogTalkToChefRemyChapterTwo+<Option3c>d__12	MoveNext
+117	ChefRemy	I don't mind it!		DialogTalkToChefRemyChapterTwo+<Option3c>d__12	MoveNext
+118	ChefRemy	Have you tried oysters before? They're a delicacy, no?		DialogTalkToChefRemyChapterTwo+<Option3c>d__12	MoveNext
+1789	Arthur	Turns out my stomach has a delicacy, so I think I'll give them a miss going forward.		DialogTalkToChefRemyChapterTwo+<Option3c>d__12	MoveNext
+1790	Arthur	I'd better get back to it.		DialogTalkToChefRemyChapterTwo+<Option4>d__13	MoveNext
+119	ChefRemy	Please hurry, I can't take much more of this.		DialogTalkToChefRemyChapterTwo+<Option4>d__13	MoveNext
+1791	Arthur	I'll leave you to your work.		DialogTalkToChefRemyChapterTwo+<Option4a>d__14	MoveNext
+120	ChefRemy	Merci!		DialogTalkToChefRemyChapterTwo+<Option4a>d__14	MoveNext
+868	Herman	What can you tell me about the Keeper of Many Idols?		DialogTalkToHandshakeLeaderActTwo+<Option1>d__4	MoveNext
+132	HandshakeLeader	Brother Brian? He has a good eye for detail.		DialogTalkToHandshakeLeaderActTwo+<Option1>d__4	MoveNext
+133	HandshakeLeader	We put him on security most nights, he seems to enjoy it.		DialogTalkToHandshakeLeaderActTwo+<Option1>d__4	MoveNext
+134	HandshakeLeader	We like to keep him busy, you see.		DialogTalkToHandshakeLeaderActTwo+<Option1>d__4	MoveNext
+685	Herman	How'd you end up as the leader of a secret society?		DialogTalkToHandshakeLeaderActTwo+<Option2>d__5	MoveNext
+65	HandshakeLeader	Same as all the other secret societies. We took a vote!		DialogTalkToHandshakeLeaderActTwo+<Option2>d__5	MoveNext
+66	HandshakeLeader	Fire away!		DialogTalkToHandshakeLeaderActTwo+<Option3>d__6	MoveNext
+67	HandshakeLeader	Hmm, let me think.		DialogTalkToHandshakeLeaderActTwo+<Option3a>d__7	MoveNext
+68	HandshakeLeader	Some sort of metal, was it? No, that's not right.		DialogTalkToHandshakeLeaderActTwo+<Option3a>d__7	MoveNext
+69	HandshakeLeader	You know, the same guy who made the idol also sculpted the Unterwald busts.		DialogTalkToHandshakeLeaderActTwo+<Option3a>d__7	MoveNext
+688	Herman	You mean the statues I've seen around the train?		DialogTalkToHandshakeLeaderActTwo+<Option3a>d__7	MoveNext
+70	HandshakeLeader	I wouldn't be surprised if they used the same material!		DialogTalkToHandshakeLeaderActTwo+<Option3a>d__7	MoveNext
+71	HandshakeLeader	Ah, I remember it being a majestic pose.		DialogTalkToHandshakeLeaderActTwo+<Option3b>d__8	MoveNext
+72	HandshakeLeader	I always thought it captured Lady Unterwald perfectly.		DialogTalkToHandshakeLeaderActTwo+<Option3b>d__8	MoveNext
+690	Herman	I don't suppose you remember the quote on the idol?		DialogTalkToHandshakeLeaderActTwo+<Option3c>d__9	MoveNext
+73	HandshakeLeader	Hmm, I think it was something sappy. Was it something about family?		DialogTalkToHandshakeLeaderActTwo+<Option3c>d__9	MoveNext
+74	HandshakeLeader	Very well, anything else?		DialogTalkToHandshakeLeaderActTwo+<Option3d>d__10	MoveNext
+692	Herman	Aren't you worried about Mr Liu?		DialogTalkToHandshakeLeaderActTwo+<Option3f>d__12	MoveNext
+75	HandshakeLeader	He did seem pretty irate, I hope he doesn't do anything rash.		DialogTalkToHandshakeLeaderActTwo+<Option3f>d__12	MoveNext
+693	Herman	I should be leaving now.		DialogTalkToHandshakeLeaderActTwo+<Option4>d__13	MoveNext
+76	HandshakeLeader	Farewell!		DialogTalkToHandshakeLeaderActTwo+<Option4>d__13	MoveNext
+673	Herman	You need an itinerary? What does that entail?		DialogTalkToSisterGretchenActTwo+<Option1>d__4	MoveNext
+44	SisterGretchen	Oh my goodness, what doesn't it entail?		DialogTalkToSisterGretchenActTwo+<Option1>d__4	MoveNext
+45	SisterGretchen	There's the two-hour all-hands meeting on the candles, somebody's got to maintain the weekly rota for the plumping up of the sofa cushions, and I didn't even mention the five-fingered handshake of formality.		DialogTalkToSisterGretchenActTwo+<Option1>d__4	MoveNext
+46	SisterGretchen	We change that twice daily, you know!		DialogTalkToSisterGretchenActTwo+<Option1>d__4	MoveNext
+674	Herman	So, wait a second. You just spend all your time in meetings?		DialogTalkToSisterGretchenActTwo+<Option1a>d__5	MoveNext
+47	SisterGretchen	You really think we should just light up a bunch of candles without having a long meeting about it beforehand?		DialogTalkToSisterGretchenActTwo+<Option1a>d__5	MoveNext
+48	SisterGretchen	Has everyone rolled up their sleeves? What's the consistency of the wax? Are we absolutely sure there's nothing flammable nearby?		DialogTalkToSisterGretchenActTwo+<Option1a>d__5	MoveNext
+675	Herman	How'd you end up in the Order of Idle Hands?		DialogTalkToSisterGretchenActTwo+<Option2>d__6	MoveNext
+49	SisterGretchen	Honestly, when I got here, there was no structure at all. I mostly joined out of pity.		DialogTalkToSisterGretchenActTwo+<Option2>d__6	MoveNext
+50	SisterGretchen	I've got a production background, so if there's a chart or a spreadsheet involved, sign me up!		DialogTalkToSisterGretchenActTwo+<Option2>d__6	MoveNext
+51	SisterGretchen	I also double as the fire marshal, can't be too careful around all these open flames!		DialogTalkToSisterGretchenActTwo+<Option2>d__6	MoveNext
+676	Herman	Indeed!		DialogTalkToSisterGretchenActTwo+<Option2>d__6	MoveNext
+862	Herman	Mr Liu seems quite irate at The Order. What happened?		DialogTalkToSisterGretchenActTwo+<Option2a>d__7	MoveNext
+61	SisterGretchen	Oh, he's probably just stewing over the sandwiches we'd bring in for lunch.		DialogTalkToSisterGretchenActTwo+<Option2a>d__7	MoveNext
+62	SisterGretchen	You know, those mini sandwiches with the crusts cut off?		DialogTalkToSisterGretchenActTwo+<Option2a>d__7	MoveNext
+79	SisterGretchen	He couldn't stand them!		DialogTalkToSisterGretchenActTwo+<Option2a>d__7	MoveNext
+863	Herman	Mr Liu disagreed with you over sandwiches?		DialogTalkToSisterGretchenActTwo+<Option2b>d__8	MoveNext
+80	SisterGretchen	It's not like I made them personally, but you should have heard him!		DialogTalkToSisterGretchenActTwo+<Option2b>d__8	MoveNext
+81	SisterGretchen	“It ruins the structural integrity of the sandwich, Gretchen!”		DialogTalkToSisterGretchenActTwo+<Option2b>d__8	MoveNext
+82	SisterGretchen	“That's where all the flavour and texture is, Gretchen!”		DialogTalkToSisterGretchenActTwo+<Option2b>d__8	MoveNext
+83	SisterGretchen	It was all downhill from there, really.		DialogTalkToSisterGretchenActTwo+<Option2b>d__8	MoveNext
+677	Herman	I have some questions about the missing hand idol.		DialogTalkToSisterGretchenActTwo+<Option3>d__9	MoveNext
+52	SisterGretchen	Hmm, the idol...		DialogTalkToSisterGretchenActTwo+<Option3a>d__10	MoveNext
+53	SisterGretchen	The Unterwald idol was pretty fancy, but I couldn't tell you what it was made of.		DialogTalkToSisterGretchenActTwo+<Option3a>d__10	MoveNext
+54	SisterGretchen	I don't remember it being an offensive gesture. Does that help?		DialogTalkToSisterGretchenActTwo+<Option3b>d__11	MoveNext
+680	Herman	I suppose it narrows it down.		DialogTalkToSisterGretchenActTwo+<Option3b>d__11	MoveNext
+55	SisterGretchen	There was! It was something involving the Unterwalds.		DialogTalkToSisterGretchenActTwo+<Option3c>d__12	MoveNext
+864	Herman	Why aren't you voting for direct action?		DialogTalkToSisterGretchenActTwo+<Option3e>d__14	MoveNext
+84	SisterGretchen	We can't go rushing around, meddling in Lady Unterwald's affairs!		DialogTalkToSisterGretchenActTwo+<Option3e>d__14	MoveNext
+85	SisterGretchen	There are long-established, extremely slow processes we must abide by.		DialogTalkToSisterGretchenActTwo+<Option3e>d__14	MoveNext
+865	Herman	Is the vote still deadlocked?		DialogTalkToSisterGretchenActTwo+<Option3f>d__15	MoveNext
+86	SisterGretchen	Rules are rules, we can't do anything until everyone here has cast their vote.		DialogTalkToSisterGretchenActTwo+<Option3f>d__15	MoveNext
+866	Herman	But we can call another vote at any time?		DialogTalkToSisterGretchenActTwo+<Option3f>d__15	MoveNext
+87	SisterGretchen	Of course, anyone present can request another vote.		DialogTalkToSisterGretchenActTwo+<Option3f>d__15	MoveNext
+88	SisterGretchen	You'll just need to ask the leader.		DialogTalkToSisterGretchenActTwo+<Option3f>d__15	MoveNext
+683	Herman	I should go.		DialogTalkToSisterGretchenActTwo+<Option4>d__17	MoveNext
+19	Hirsch	Hold on, gentlemen, I think he's coming round.		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+145	Herman	Wh-what happened?		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+4	SisterGretchen	His Hand!		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+4	BrotherJared	Poor thing!		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+21	Hirsch	Not to worry, though! I brought you to the experts. We managed to get you all patched up.		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+22	Hirsch	Here, take this hand cream. It's the good stuff. Loosens any cramps right up.		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+5	BrotherJared	It also moisturises!		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+146	Herman	Where am I?		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+23	Hirsch	No need to fret, Herman. You're in safe hands here.		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+24	Hirsch	Although the members need their table back, there's a meeting starting soon.		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+10	HandshakeLeader	Everyone, our meeting can now commence!		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+10	JianLiu	At last! I have much to discuss with you.		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+11	HandshakeLeader	Hold on, where's the hand idol?		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+6	BrotherJared	You know, the hand idol we use to signify that it's our turn to speak!		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+12	HandshakeLeader	SILENCE!		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+13	HandshakeLeader	Sorry! I'm getting ahead of myself.		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+14	HandshakeLeader	Brother Jared speaks the truth. We cannot proceed without the hand idol.		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+25	Hirsch	It's bound to turn up somewhere, it couldn't have gone far!		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+12	JianLiu	I really must insist we press on. This issue with Lady Unterwald, it cannot wait!		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+7	BrotherJared	We must be patient, Jian. The hand works in mysterious ways.		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+26	Hirsch	That's right.		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+13	JianLiu	So, you're all going to sit here and do nothing?		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+148	Herman	You know, I'm quite good at finding things. I may be able to assist?		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+14	JianLiu	Yes, that would be most appreciated!		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+15	HandshakeLeader	Oh! We could ask the Keeper of Many Idols!		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+8	BrotherJared	That's a grand idea!		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+16	HandshakeLeader	Are you there, Keeper Of Many Idols?		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+17	HandshakeLeader	KEEPER OF MANY IDOLS? Are you there?		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+18	HandshakeLeader	BRIAN!		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+0	BrotherBrian	Yes?		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+149	Herman	I shall enquire with Brian, the Keeper Of Many Idols.		RoomHandshakeClub+<OnEnterRoomAfterFadeActTwoSustainedInjury>d__17	MoveNext
+1040	Herman	This is the work of that meddling murine, no question.		RoomHandshakeClub+<OnLookAtPropMouseHoleActTwo>d__44	MoveNext
+29	ChefFrancois	Non mais, et puis quoi encore !		RoomKitchenCarriage+<OnEnterRoomAfterFadeActTwoReachedHatchedAPlan>d__79	MoveNext
+24	ChefFrancois	Quoi ! What is it you want? As you can see, we're very busy here.		RoomKitchenCarriage+<OnEnterRoomAfterFadeActTwoBeforeKitchenAccessFirstOccurrence>d__80	MoveNext
+17	ChefRemy	We're in the middle of dinner prep. What is it?		RoomKitchenCarriage+<OnEnterRoomAfterFadeActTwoBeforeKitchenAccessFirstOccurrence>d__80	MoveNext
+25	ChefFrancois	Back again? C'est une honte !		RoomKitchenCarriage+<OnEnterRoomAfterFadeActTwoBeforeKitchenAccessOption1>d__81	MoveNext
+18	ChefRemy	Pour qui tu te prends ! What is it you want?		RoomKitchenCarriage+<OnEnterRoomAfterFadeActTwoBeforeKitchenAccessOption1>d__81	MoveNext
+390	Herman	Pardon?		RoomKitchenCarriage+<OnEnterRoomAfterFadeActTwoBeforeKitchenAccessOption2>d__82	MoveNext
+23	ChefRemy	He says you're pushing your luck! What is it you want?		RoomKitchenCarriage+<OnEnterRoomAfterFadeActTwoBeforeKitchenAccessOption2>d__82	MoveNext
+228	Herman	It smells like onion soup.		RoomKitchenCarriage+<OnLookAtPropSaucepanActTwo>d__130	MoveNext
+1075	Herman	That's a well stocked spice rack!		RoomKitchenCarriage+<OnLookAtPropSpiceRackActTwo>d__137	MoveNext

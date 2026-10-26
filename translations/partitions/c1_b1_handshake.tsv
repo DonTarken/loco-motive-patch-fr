@@ -1,0 +1,250 @@
+1545	Arthur	Ah, the man behind the curtain!		CharacterBrotherBrian+<OnInteractActOneFirstOccurrence>d__2	MoveNext
+65	BrotherBrian	As I live and breathe.		CharacterBrotherBrian+<OnInteractActOneFirstOccurrence>d__2	MoveNext
+1546	Arthur	I was starting to think you were just a disembodied limb with anger issues!		CharacterBrotherBrian+<OnInteractActOneFirstOccurrence>d__2	MoveNext
+66	BrotherBrian	Yeah, well I'm sorry to disappoint you.		CharacterBrotherBrian+<OnInteractActOneFirstOccurrence>d__2	MoveNext
+67	BrotherBrian	Just tell me, how'd you figure out the five-fingered handshake of formality?		CharacterBrotherBrian+<OnInteractActOneFirstOccurrence>d__2	MoveNext
+68	BrotherBrian	Good evening, kid.		CharacterBrotherBrian+<OnInteractActOne>d__3	MoveNext
+9	BrotherBrian	Having a good time, sir?		CharacterBrotherBrian+<OnInteractActOneDrunk>d__4	MoveNext
+19	BrotherJared	Oh dear, now there's another one!		CharacterBrotherJared+<OnInteractActOneDrunk>d__14	MoveNext
+20	BrotherJared	Go and sober up on the sofa, Mr Ackerman.		CharacterBrotherJared+<OnInteractActOneDrunk>d__14	MoveNext
+1306	Arthur	Hey there.		CharacterBrotherJared+<OnInteractActOneFirstOccurrence>d__15	MoveNext
+21	BrotherJared	Greetings.		CharacterBrotherJared+<OnInteractActOneFirstOccurrence>d__15	MoveNext
+25	BrotherJared	I'm Brother Jared, Custodian of the Silken Palms.		CharacterBrotherJared+<OnInteractActOneFirstOccurrence>d__15	MoveNext
+26	BrotherJared	How can I be of assistance?		CharacterBrotherJared+<OnInteractActOneFirstOccurrence>d__15	MoveNext
+47	HandshakeLeader	I see.		CharacterHandshakeLeader+<OnInteractActOne>d__4	MoveNext
+19	HandshakeLeader	*sigh* Yes, very good.		CharacterHandshakeLeader+<OnInteractActOne>d__4	MoveNext
+5	SisterGretchen	Mm-hmm.		CharacterSisterGretchen+<OnInteractActOne>d__1	MoveNext
+13	SisterGretchen	Salutations!		CharacterSisterGretchen+<OnInteractActOne>d__1	MoveNext
+14	SisterGretchen	I'm Sister Gretchen, chief officer of the itinerary!		CharacterSisterGretchen+<OnInteractActOne>d__1	MoveNext
+1157	Arthur	Your payment, surely you had something agreed in writing?		DialogTalkToArtistActOne+<Option1>d__4	MoveNext
+53	Pierre	Alas, our arrangement was but a delicate dance of words.		DialogTalkToArtistActOne+<Option1>d__4	MoveNext
+1158	Arthur	You only had a verbal agreement?		DialogTalkToArtistActOne+<Option1>d__4	MoveNext
+54	Pierre	Oui, but Lady Unterwald is no longer here to keep her word.		DialogTalkToArtistActOne+<Option1>d__4	MoveNext
+55	Pierre	Never again, Monsieur.		DialogTalkToArtistActOne+<Option1>d__4	MoveNext
+1159	Arthur	Did you see anything suspicious during the speech?		DialogTalkToArtistActOne+<Option2>d__5	MoveNext
+56	Pierre	As you know, I capture every detail in the frame, just as I see it.		DialogTalkToArtistActOne+<Option2>d__5	MoveNext
+57	Pierre	But the lights went out moments before we went through that tunnel.		DialogTalkToArtistActOne+<Option2>d__5	MoveNext
+58	Pierre	When we emerged, all I could see was that look of terror, frozen on her face.		DialogTalkToArtistActOne+<Option2>d__5	MoveNext
+1160	Arthur	You didn't see anybody get close to Lady Unterwald?		DialogTalkToArtistActOne+<Option3>d__6	MoveNext
+59	Pierre	If somebody approached Lady Unterwald with a weapon, I would have captured it.		DialogTalkToArtistActOne+<Option3>d__6	MoveNext
+60	Pierre	I assure you, nobody moves faster than I can speed paint!		DialogTalkToArtistActOne+<Option3>d__6	MoveNext
+1161	Arthur	Who do you think would want to harm Lady Unterwald?		DialogTalkToArtistActOne+<Option4>d__7	MoveNext
+61	Pierre	Isn't it obvious? A rival artist, surely consumed by jealousy.		DialogTalkToArtistActOne+<Option4>d__7	MoveNext
+62	Pierre	They would stop at nothing to ruin my livelihood!		DialogTalkToArtistActOne+<Option4>d__7	MoveNext
+1162	Arthur	Someone's been threatening you?		DialogTalkToArtistActOne+<Option4>d__7	MoveNext
+63	Pierre	Well, no. But it's a chilling thought!		DialogTalkToArtistActOne+<Option4>d__7	MoveNext
+1163	Arthur	Won't you have to find yourself a new muse?		DialogTalkToArtistActOne+<Option5>d__8	MoveNext
+64	Pierre	First things first. Much like the greats before me, I shall channel my suffering into art.		DialogTalkToArtistActOne+<Option5>d__8	MoveNext
+65	Pierre	Only then can I begin the arduous task of finding myself a new muse.		DialogTalkToArtistActOne+<Option5>d__8	MoveNext
+1165	Arthur	There is something I'd like you to help me with.		DialogTalkToArtistActOne+<Option7>d__10	MoveNext
+69	Pierre	Ahh, what is it that you wish to capture? The human condition?		DialogTalkToArtistActOne+<Option7>d__10	MoveNext
+70	Pierre	I'll need to be paid in advance, and no, I don't work for exposure.		DialogTalkToArtistActOne+<Option7>d__10	MoveNext
+71	Pierre	I can't afford to make that mistake again.		DialogTalkToArtistActOne+<Option7>d__10	MoveNext
+1167	Arthur	This commission, what would you take as payment?		DialogTalkToArtistActOne+<Option8>d__11	MoveNext
+72	Pierre	I'll need an upfront cash payment. No cheques, IOU's or other empty promises.		DialogTalkToArtistActOne+<Option8>d__11	MoveNext
+1168	Arthur	Take care of yourself.		DialogTalkToArtistActOne+<Option10>d__13	MoveNext
+73	Pierre	I bid you adieu.		DialogTalkToArtistActOne+<Option10>d__13	MoveNext
+1314	Arthur	Sorry, can't tell you. It's a secret.		DialogTalkToBrotherBrianActOne+<Option1>d__4	MoveNext
+69	BrotherBrian	Funny guy, thinking you can keep secrets from a secret society.		DialogTalkToBrotherBrianActOne+<Option1>d__4	MoveNext
+70	BrotherBrian	That's hilarious stuff.		DialogTalkToBrotherBrianActOne+<Option1>d__4	MoveNext
+1554	Arthur	You have to admit, it's a little funny.		DialogTalkToBrotherBrianActOne+<Option1>d__4	MoveNext
+1316	Arthur	I just asked around, it seemed pretty easy to pick up!		DialogTalkToBrotherBrianActOne+<Option2>d__5	MoveNext
+71	BrotherBrian	I don't believe it for a second. You've been talking to that blabbering Doctor, haven't you?		DialogTalkToBrotherBrianActOne+<Option2>d__5	MoveNext
+1555	Arthur	I'm afraid I can't say.		DialogTalkToBrotherBrianActOne+<Option2>d__5	MoveNext
+72	BrotherBrian	Ugh! What part of ‘secret handshake' does that guy not get?		DialogTalkToBrotherBrianActOne+<Option2>d__5	MoveNext
+1556	Arthur	The secret part, I assume.		DialogTalkToBrotherBrianActOne+<Option2>d__5	MoveNext
+1318	Arthur	Just a little something I like to call intuition.		DialogTalkToBrotherBrianActOne+<Option3>d__6	MoveNext
+42	BrotherBrian	Mm-hmm. I doubt that very much.		DialogTalkToBrotherBrianActOne+<Option3>d__6	MoveNext
+1319	Arthur	I paid the world's fastest painter to capture your moves!		DialogTalkToBrotherBrianActOne+<Option4>d__7	MoveNext
+43	BrotherBrian	Pfft, come on. Nobody is that fast!		DialogTalkToBrotherBrianActOne+<Option4>d__7	MoveNext
+1557	Arthur	So, what does The Order of Idle Hands actually do?		DialogTalkToBrotherBrianActOne+<Option5>d__8	MoveNext
+73	BrotherBrian	The order was set up as a secret committee of sorts. We worked to ensure Lady Unterwald's business affairs were smoothly orchestrated behind the scenes.		DialogTalkToBrotherBrianActOne+<Option5>d__8	MoveNext
+1558	Arthur	And how's that going?		DialogTalkToBrotherBrianActOne+<Option5>d__8	MoveNext
+74	BrotherBrian	It hasn't been our finest hour.		DialogTalkToBrotherBrianActOne+<Option5>d__8	MoveNext
+1559	Arthur	What will you do about Lady Unterwald's murder?		DialogTalkToBrotherBrianActOne+<Option5a>d__9	MoveNext
+75	BrotherBrian	It's probably best we don't meddle any further. Not until Lady Unterwald's last will and testament is in our hands.		DialogTalkToBrotherBrianActOne+<Option5a>d__9	MoveNext
+1560	Arthur	I'm looking for the Doctor's medical briefcase.		DialogTalkToBrotherBrianActOne+<Option6>d__10	MoveNext
+76	BrotherBrian	Doctor Hirsch misplaced his bag, huh?		DialogTalkToBrotherBrianActOne+<Option6>d__10	MoveNext
+77	BrotherBrian	Any unattended luggage is usually thrown back into the storage room.		DialogTalkToBrotherBrianActOne+<Option6>d__10	MoveNext
+78	BrotherBrian	You'd need a key to get in there, though.		DialogTalkToBrotherBrianActOne+<Option6>d__10	MoveNext
+1561	Arthur	Do you have any ideas on opening a locked safe?		DialogTalkToBrotherBrianActOne+<Option6a>d__11	MoveNext
+79	BrotherBrian	Hmm. Got any explosives to hand?		DialogTalkToBrotherBrianActOne+<Option6a>d__11	MoveNext
+1562	Arthur	No, I didn't think to bring any with me.		DialogTalkToBrotherBrianActOne+<Option6a>d__11	MoveNext
+80	BrotherBrian	Too bad. In that case, you're playing by the safe's rules.		DialogTalkToBrotherBrianActOne+<Option6a>d__11	MoveNext
+1563	Arthur	So you want to know how I figured out the handshake?		DialogTalkToBrotherBrianActOne+<Option7>d__12	MoveNext
+51	BrotherBrian	Go on.		DialogTalkToBrotherBrianActOne+<Option7>d__12	MoveNext
+1325	Arthur	I should be going.		DialogTalkToBrotherBrianActOne+<Option8>d__13	MoveNext
+52	BrotherBrian	Come and find us as soon as you've recovered that will, Arthur.		DialogTalkToBrotherBrianActOne+<Option8>d__13	MoveNext
+1564	Arthur	Custodian of the Silken Palms?		DialogTalkToBrotherJaredActOne+<Option1>d__3	MoveNext
+40	BrotherJared	Oh yes!		DialogTalkToBrotherJaredActOne+<Option1>d__3	MoveNext
+41	BrotherJared	Did you know the hands are the most used part of the body?		DialogTalkToBrotherJaredActOne+<Option1>d__3	MoveNext
+1565	Arthur	Is that true?		DialogTalkToBrotherJaredActOne+<Option1>d__3	MoveNext
+85	BrotherJared	I'm the first line of defence against wrinkles, cracking and dehydration.		DialogTalkToBrotherJaredActOne+<Option1>d__3	MoveNext
+86	BrotherJared	It's a lot of responsibility!		DialogTalkToBrotherJaredActOne+<Option1>d__3	MoveNext
+1566	Arthur	What does the Custodian of the Silken Palms do, exactly?		DialogTalkToBrotherJaredActOne+<Option1a>d__4	MoveNext
+87	BrotherJared	Cuticle care, nail filing, the odd hand massage here and there.		DialogTalkToBrotherJaredActOne+<Option1a>d__4	MoveNext
+88	BrotherJared	I've even formulated my own hand cream, packed with essential oils. It's known to boost moisture levels and skin elasticity!		DialogTalkToBrotherJaredActOne+<Option1a>d__4	MoveNext
+64	SisterGretchen	They're quite therapeutic, you know!		DialogTalkToBrotherJaredActOne+<Option1a>d__4	MoveNext
+1568	Arthur	Moisturised any hands lately?		DialogTalkToBrotherJaredActOne+<Option1b>d__5	MoveNext
+89	BrotherJared	Why, were you looking to make an appointment?		DialogTalkToBrotherJaredActOne+<Option1b>d__5	MoveNext
+90	BrotherJared	I'm sure I could squeeze you in!		DialogTalkToBrotherJaredActOne+<Option1b>d__5	MoveNext
+1569	Arthur	Ah, that won't be necessary.		DialogTalkToBrotherJaredActOne+<Option1b>d__5	MoveNext
+91	BrotherJared	Another time, then!		DialogTalkToBrotherJaredActOne+<Option1b>d__5	MoveNext
+1335	Arthur	What's that book you're reading?		DialogTalkToBrotherJaredActOne+<Option2FirstOccurrence>d__7	MoveNext
+42	BrotherJared	Oh, this? It's Dr Phogg's Guide to Invis-Ability!		DialogTalkToBrotherJaredActOne+<Option2FirstOccurrence>d__7	MoveNext
+43	BrotherJared	The title is written in invisible ink, see?		DialogTalkToBrotherJaredActOne+<Option2FirstOccurrence>d__7	MoveNext
+1336	Arthur	Hm, I don't see!		DialogTalkToBrotherJaredActOne+<Option2FirstOccurrence>d__7	MoveNext
+44	BrotherJared	Exactly. That's how you know it's the real deal!		DialogTalkToBrotherJaredActOne+<Option2FirstOccurrence>d__7	MoveNext
+45	BrotherJared	The Order has its handshakes, but secret messages? Invisible ink?		DialogTalkToBrotherJaredActOne+<Option2FirstOccurrence>d__7	MoveNext
+46	BrotherJared	This is going to elevate us to a whole new level!		DialogTalkToBrotherJaredActOne+<Option2FirstOccurrence>d__7	MoveNext
+1337	Arthur	What's the book you're reading called again?		DialogTalkToBrotherJaredActOne+<Option2RepeatOccurrence>d__8	MoveNext
+1338	Arthur	I still don't see it.		DialogTalkToBrotherJaredActOne+<Option2RepeatOccurrence>d__8	MoveNext
+48	BrotherJared	Exactly. It's Dr Phogg's Guide to Invis-Ability!		DialogTalkToBrotherJaredActOne+<Option2RepeatOccurrence>d__8	MoveNext
+1339	Arthur	Does your guide book explain how to reveal hidden messages?		DialogTalkToBrotherJaredActOne+<Option2a>d__9	MoveNext
+51	BrotherJared	Well sure, there's a whole chapter on it!		DialogTalkToBrotherJaredActOne+<Option2a>d__9	MoveNext
+52	BrotherJared	But no spoilers, okay? I haven't gotten to that part yet!		DialogTalkToBrotherJaredActOne+<Option2a>d__9	MoveNext
+1340	Arthur	Can I borrow your copy of Dr Phogg's Guide to Invis-Ability?		DialogTalkToBrotherJaredActOne+<Option2b>d__10	MoveNext
+53	BrotherJared	No way, I'm not done with it yet.		DialogTalkToBrotherJaredActOne+<Option2b>d__10	MoveNext
+1435	Arthur	How's the book going?		DialogTalkToBrotherJaredActOne+<Option2c>d__11	MoveNext
+54	BrotherJared	It's become quite melancholy, I'm not sure what to make of it.		DialogTalkToBrotherJaredActOne+<Option2c>d__11	MoveNext
+1436	Arthur	A lot more rhyming, I imagine?		DialogTalkToBrotherJaredActOne+<Option2c>d__11	MoveNext
+55	BrotherJared	How did you know?		DialogTalkToBrotherJaredActOne+<Option2c>d__11	MoveNext
+1437	Arthur	Just a hunch.		DialogTalkToBrotherJaredActOne+<Option2c>d__11	MoveNext
+1342	Arthur	Have you seen the doctor's briefcase around?		DialogTalkToBrotherJaredActOne+<Option3>d__12	MoveNext
+56	BrotherJared	Can't say that I have, sorry!		DialogTalkToBrotherJaredActOne+<Option3>d__12	MoveNext
+1363	Arthur	Do you think Mr Masson will be okay?		DialogTalkToBrotherJaredActOne+<Option3a>d__13	MoveNext
+92	BrotherJared	He'll be sporting a headache and a sizable bar tab to settle, but I'm fairly confident that he'll recover.		DialogTalkToBrotherJaredActOne+<Option3a>d__13	MoveNext
+1343	Arthur	I should really get going.		DialogTalkToBrotherJaredActOne+<Option4>d__14	MoveNext
+59	BrotherJared	Don't be a stranger!		DialogTalkToBrotherJaredActOne+<Option4>d__14	MoveNext
+1576	Arthur	What were you calling yourselves again?		DialogTalkToHandshakeLeaderActOne+<Option1>d__3	MoveNext
+118	HandshakeLeader	The Order Of Idle Hands!		DialogTalkToHandshakeLeaderActOne+<Option1>d__3	MoveNext
+119	HandshakeLeader	Since its inception, the order has gently nudged Lady Unterwald's business endeavours.		DialogTalkToHandshakeLeaderActOne+<Option1>d__3	MoveNext
+120	HandshakeLeader	However, I must admit, tonight's events have caught us all off guard.		DialogTalkToHandshakeLeaderActOne+<Option1>d__3	MoveNext
+1577	Arthur	What are you doing about Lady Unterwald?		DialogTalkToHandshakeLeaderActOne+<Option1a>d__4	MoveNext
+121	HandshakeLeader	Our first order of business is to get that will and testament back.		DialogTalkToHandshakeLeaderActOne+<Option1a>d__4	MoveNext
+122	HandshakeLeader	Are you making any progress with the safe you discovered?		DialogTalkToHandshakeLeaderActOne+<Option1a>d__4	MoveNext
+1578	Arthur	I'm still working on it!		DialogTalkToHandshakeLeaderActOne+<Option1a>d__4	MoveNext
+123	HandshakeLeader	Just let us know when you've got that safe open, and we'll take it from there!		DialogTalkToHandshakeLeaderActOne+<Option1a>d__4	MoveNext
+1579	Arthur	Nice robes, did you make them yourselves?		DialogTalkToHandshakeLeaderActOne+<Option2>d__5	MoveNext
+124	HandshakeLeader	They were sourced from a small, independent seller.		DialogTalkToHandshakeLeaderActOne+<Option2>d__5	MoveNext
+94	BrotherJared	His mother, if you must know.		DialogTalkToHandshakeLeaderActOne+<Option2>d__5	MoveNext
+78	SisterGretchen	She's a wonderful seamstress!		DialogTalkToHandshakeLeaderActOne+<Option2>d__5	MoveNext
+1354	Arthur	Have you seen a medical briefcase around here?		DialogTalkToHandshakeLeaderActOne+<Option3>d__6	MoveNext
+87	HandshakeLeader	Sorry Arthur, I'm afraid we've been a little distracted.		DialogTalkToHandshakeLeaderActOne+<Option3>d__6	MoveNext
+1355	Arthur	What with the murder and everything?		DialogTalkToHandshakeLeaderActOne+<Option3>d__6	MoveNext
+88	HandshakeLeader	Yes, the murder. Thank you for reminding me.		DialogTalkToHandshakeLeaderActOne+<Option3>d__6	MoveNext
+1580	Arthur	What's with the gentleman on the sofa?		DialogTalkToHandshakeLeaderActOne+<Option3a>d__7	MoveNext
+89	HandshakeLeader	Doctor Hirsch brought him in this afternoon, it seems he went a bit overboard with the drinks.		DialogTalkToHandshakeLeaderActOne+<Option3a>d__7	MoveNext
+79	BrotherJared	Not to worry, though, Maurice is keeping an eye on him for us.		DialogTalkToHandshakeLeaderActOne+<Option3a>d__7	MoveNext
+80	BrotherJared	Isn't that right, Maurice?		DialogTalkToHandshakeLeaderActOne+<Option3a>d__7	MoveNext
+3	Maurice	Mm hm.		DialogTalkToHandshakeLeaderActOne+<Option3a>d__7	MoveNext
+1581	Arthur	Any idea when he'll be back to his senses?		DialogTalkToHandshakeLeaderActOne+<Option3b>d__8	MoveNext
+90	HandshakeLeader	Judging by his current condition, I doubt it'll be any time soon.		DialogTalkToHandshakeLeaderActOne+<Option3b>d__8	MoveNext
+1358	Arthur	I'll be going now.		DialogTalkToHandshakeLeaderActOne+<Option4>d__9	MoveNext
+91	HandshakeLeader	Speak soon.		DialogTalkToHandshakeLeaderActOne+<Option4>d__9	MoveNext
+65	SisterGretchen	I'm afraid not, but I'll make a mental note!		DialogTalkToSisterGretchenActOne+<Option1>d__3	MoveNext
+66	SisterGretchen	If anyone comes across it, you'll be the first to know!		DialogTalkToSisterGretchenActOne+<Option1>d__3	MoveNext
+1570	Arthur	Any ideas on how to get Lady Unterwald's safe open?		DialogTalkToSisterGretchenActOne+<Option1a>d__4	MoveNext
+67	SisterGretchen	That depends, what kind of locks are we working with?		DialogTalkToSisterGretchenActOne+<Option1a>d__4	MoveNext
+1571	Arthur	The safe has two mechanisms. A combination lock and a voice-activated lock.		DialogTalkToSisterGretchenActOne+<Option1a>d__4	MoveNext
+68	SisterGretchen	The combination sounds simple enough. It's likely a date or number sequence.		DialogTalkToSisterGretchenActOne+<Option1a>d__4	MoveNext
+69	SisterGretchen	But a voice activated lock..		DialogTalkToSisterGretchenActOne+<Option1a>d__4	MoveNext
+70	SisterGretchen	How's your Lady Unterwald impression?		DialogTalkToSisterGretchenActOne+<Option1a>d__4	MoveNext
+1573	Arthur	Far from convincing, I'm afraid.		DialogTalkToSisterGretchenActOne+<Option1a>d__4	MoveNext
+1373	Arthur	What's on the itinerary for today?		DialogTalkToSisterGretchenActOne+<Option2>d__5	MoveNext
+29	SisterGretchen	Oh, don't even get me started.		DialogTalkToSisterGretchenActOne+<Option2>d__5	MoveNext
+30	SisterGretchen	With the death of Lady Unterwald, my entire agenda just went up in smoke!		DialogTalkToSisterGretchenActOne+<Option2>d__5	MoveNext
+1374	Arthur	What an inconvenience!		DialogTalkToSisterGretchenActOne+<Option2>d__5	MoveNext
+31	SisterGretchen	I know! I'm going to have to start the whole thing from scratch.		DialogTalkToSisterGretchenActOne+<Option2>d__5	MoveNext
+1375	Arthur	How is the new itinerary coming along?		DialogTalkToSisterGretchenActOne+<Option2a>d__6	MoveNext
+71	SisterGretchen	I'm still trying to formulate a new agenda.		DialogTalkToSisterGretchenActOne+<Option2a>d__6	MoveNext
+72	SisterGretchen	So far I've written down ‘Recover the last will and testament of Lady Unterwald'		DialogTalkToSisterGretchenActOne+<Option2a>d__6	MoveNext
+73	SisterGretchen	How are you doing on that end?		DialogTalkToSisterGretchenActOne+<Option2a>d__6	MoveNext
+1574	Arthur	I'm still working on that.		DialogTalkToSisterGretchenActOne+<Option2a>d__6	MoveNext
+1377	Arthur	Any updates on the itinerary?		DialogTalkToSisterGretchenActOne+<Option2b>d__7	MoveNext
+34	SisterGretchen	Still just that one item, Mr Ackerman.		DialogTalkToSisterGretchenActOne+<Option2b>d__7	MoveNext
+35	SisterGretchen	Are you any closer to recovering Lady Unterwald's will?		DialogTalkToSisterGretchenActOne+<Option2b>d__7	MoveNext
+1378	Arthur	I'm working on it!		DialogTalkToSisterGretchenActOne+<Option2b>d__7	MoveNext
+1575	Arthur	Is this level of secrecy really necessary?		DialogTalkToSisterGretchenActOne+<Option3>d__8	MoveNext
+74	SisterGretchen	Back when I first joined, a simple nod and a wink sufficed.		DialogTalkToSisterGretchenActOne+<Option3>d__8	MoveNext
+75	SisterGretchen	Then, we transitioned to the passwords.		DialogTalkToSisterGretchenActOne+<Option3>d__8	MoveNext
+76	SisterGretchen	After that it was the handshakes.		DialogTalkToSisterGretchenActOne+<Option3>d__8	MoveNext
+77	SisterGretchen	Now Brother Jared is researching invisible ink!		DialogTalkToSisterGretchenActOne+<Option3>d__8	MoveNext
+93	BrotherJared	You can't stop the march of progression, Gretchen!		DialogTalkToSisterGretchenActOne+<Option3>d__8	MoveNext
+43	SisterGretchen	See you around!		DialogTalkToSisterGretchenActOne+<Option4>d__9	MoveNext
+0	Pierre	Are you ready?		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneArtistCapturesTheHandshake>d__35	MoveNext
+317	Arthur	Ready!		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneArtistCapturesTheHandshake>d__35	MoveNext
+1	Pierre	Then let us begin!		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneArtistCapturesTheHandshake>d__35	MoveNext
+2	Pierre	Show me, exaltation!		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneArtistCapturesTheHandshake>d__35	MoveNext
+3	Pierre	What a big smile, beautiful!		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneArtistCapturesTheHandshake>d__35	MoveNext
+4	Pierre	Give me contemplation!		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneArtistCapturesTheHandshake>d__35	MoveNext
+5	Pierre	Ah, I can see you're thinking very hard!		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneArtistCapturesTheHandshake>d__35	MoveNext
+6	Pierre	For this next one, you're flabbergasted!		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneArtistCapturesTheHandshake>d__35	MoveNext
+7	Pierre	Oui, oui! You've never looked more confused!		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneArtistCapturesTheHandshake>d__35	MoveNext
+8	Pierre	Ah, pure perfection!		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneArtistCapturesTheHandshake>d__35	MoveNext
+9	Pierre	I feel rejuvenated, thank you, Arthur.		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneArtistCapturesTheHandshake>d__35	MoveNext
+318	Arthur	Don't mention it!		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneArtistCapturesTheHandshake>d__35	MoveNext
+349	Arthur	Pierre managed to capture the handshakes in the background of these sketches!		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneArtistCapturesTheHandshake>d__35	MoveNext
+498	Arthur	I should take them to Dr Hirsch and see what he can tell me.		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneArtistCapturesTheHandshake>d__35	MoveNext
+5	Arthur	Come back when you know what you're doing, kid.		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneReturnFromHandshakeRoom>d__41	MoveNext
+6	ElusiveHand	Don't waste my time, kid.		RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneReturnFromHandshakeRoom>d__41	MoveNext
+92	HandshakeLeader	Arthur Ackerman. We've been expecting you for some time.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOnePalmReading>d__14	MoveNext
+401	Arthur	You have?		RoomHandshakeClub+<OnEnterRoomAfterFadeActOnePalmReading>d__14	MoveNext
+81	BrotherJared	Another newbie? Which one is this?		RoomHandshakeClub+<OnEnterRoomAfterFadeActOnePalmReading>d__14	MoveNext
+58	SisterGretchen	The uninitiated one.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOnePalmReading>d__14	MoveNext
+82	BrotherJared	The who?		RoomHandshakeClub+<OnEnterRoomAfterFadeActOnePalmReading>d__14	MoveNext
+59	SisterGretchen	You know, the dummy.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOnePalmReading>d__14	MoveNext
+291	Arthur	What's going on here?		RoomHandshakeClub+<OnEnterRoomAfterFadeActOnePalmReading>d__14	MoveNext
+93	HandshakeLeader	Come forth, my child.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOnePalmReading>d__14	MoveNext
+94	HandshakeLeader	Take my hand, let us see what the future has in store for you.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOnePalmReading>d__14	MoveNext
+402	Arthur	You're going to read my palm?		RoomHandshakeClub+<OnEnterRoomAfterFadeActOnePalmReading>d__14	MoveNext
+95	HandshakeLeader	One moment.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOnePalmReading>d__14	MoveNext
+35	HandshakeLeader	Ahh, yes, I see it now.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOnePalmReading>d__14	MoveNext
+60	SisterGretchen	What do you see?		RoomHandshakeClub+<OnEnterRoomAfterFadeActOnePalmReading>d__14	MoveNext
+96	HandshakeLeader	I see... a foul concoction. It will bring you closer to the truth.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOnePalmReading>d__14	MoveNext
+37	HandshakeLeader	Beware the doppelgänger, for they will be instrumental to your undoing.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOnePalmReading>d__14	MoveNext
+38	HandshakeLeader	Unaware to all, a dangerous secret has been hatched.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOnePalmReading>d__14	MoveNext
+39	HandshakeLeader	That which is lost must be found.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOnePalmReading>d__14	MoveNext
+40	HandshakeLeader	Three at odds must come together to break their chains.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOnePalmReading>d__14	MoveNext
+41	HandshakeLeader	Good fortune will come to you, but at a great price.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOnePalmReading>d__14	MoveNext
+403	Arthur	Fascinating! What does it all mean?		RoomHandshakeClub+<OnEnterRoomAfterFadeActOnePalmReading>d__14	MoveNext
+97	HandshakeLeader	Honestly? I have no idea.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+491	Arthur	What? Well, what good is that?		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+98	HandshakeLeader	Look, I'm trained to see the visions of the future.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+99	HandshakeLeader	The understanding part is a little trickier. I haven't mastered that yet.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+100	HandshakeLeader	Anyway, I suppose an introduction is in order.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+1	HandshakeLeader	Welcome to...		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+718	Arthur	The what?		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+1	BrotherJared	THE ORDER OF-		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+3	HandshakeLeader	Yes, thank you Brother Jared.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+101	HandshakeLeader	We are The Order Of Idle Hands. The guiding hand of the Unterwald empire.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+33	HandshakeLeader	We exist to protect Lady Unterwald and her interests.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+455	Arthur	But, Lady Unterwald is dead.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+34	HandshakeLeader	Yes, well.. Things have admittedly gone a bit astray in the last few hours.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+11	BrotherJared	Look, there's no need to rub it in, is there?		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+456	Arthur	Well, what are you going to do about it?		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+36	HandshakeLeader	Look, we've all had a very productive meeting...		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+1126	Arthur	And?		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+8	SisterGretchen	And we feel that we should probably defer to Lady Unterwald's final wishes on this.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+110	HandshakeLeader	The best way to do that would be to get a look at her last will and testament.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+12	BrotherJared	You mean the one that her careless attorney lost?		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+1531	Arthur	Okay, now who's rubbing it in?		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+111	HandshakeLeader	Now, now. I know tensions are high, but we need to keep our composure.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+112	HandshakeLeader	Perhaps you could provide a status report on your efforts, Arthur?		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+1532	Arthur	I'm still working to get the last will and testament back.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+1533	Arthur	While I was looking, I discovered a hidden safe in Lady Unterwald's quarters.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+24	BrotherJared	Is that so?		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+113	HandshakeLeader	I don't think we knew about that one, did we?		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+1534	Arthur	It's sealed shut, but with the right information I think we could get it open.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+1535	Arthur	It's possible that Lady Unterwald kept a copy of her will inside that safe.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+114	HandshakeLeader	Oh, well that is good news!		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+9	SisterGretchen	That would certainly save us the headache of coming up with a better plan.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+115	HandshakeLeader	Indeed. I think that wraps things up quite neatly then?		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+1536	Arthur	What do you mean?		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+116	HandshakeLeader	Alright, Arthur! Just let us know when you've got that safe open, and we'll take it from there!		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+1537	Arthur	Bu-		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+117	HandshakeLeader	Excellent work!		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited>d__15	MoveNext
+42	HandshakeLeader	Well, I don't know, do I? This is just the demo.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneDemoEndScene>d__16	MoveNext
+521	Arthur	Oh, right.		RoomHandshakeClub+<OnEnterRoomAfterFadeActOneDemoEndScene>d__16	MoveNext
+1329	Arthur	UhHh ohH		RoomHandshakeClub+<OnLookAtPropMouseHoleActOne>d__43	MoveNext
+379	Arthur	It's a mouse burrow.		RoomHandshakeClub+<OnLookAtPropMouseHoleActOne>d__43	MoveNext

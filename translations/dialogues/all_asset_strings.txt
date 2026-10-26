@@ -1,0 +1,683 @@
+﻿� #A�W
+� $$����������������
+�� ��?
+� ?��0
+� ��@1
+� ��`2
+� ���7
+- Button
+-�!�&Oh? I mean, yes, I could
+!@$qWhat doS6Tth
+�" 4�" 4
+&102 luggag|
+&1028 Grab
+&1062 Grab
+&1174 Mouse over
+&123 casino chipS
+&1293 Check out the overhead pipe@
+&1297 Check the tool cabinet
+&17 evidence board
+&183 Could that be freedom?
+&1890 This isn't about Lady Unterwald's murder?
+&24 Pick up the paper
+&2414 The panel is covered in dials
+&2486 Exam
+&2761 What's all this about budget cuts?
+&284 It's a dazzling crystal chandelie�
+&290 doorway
+&3170 Somebody else has an item I need!
+&32 UghW
+&345 What happened here?
+&387 rug
+&443 Go to the exterior carriag2
+&454 That's a fancy stovetop
+&455 When was this last cleaned?
+&47 Inspect the lam�
+&48 the door
+&549 Attempt to open the dooG
+&600 Break the wax seal
+&610 Head back insidZ
+&612 doorway
+&616 Climb on to the roof
+&653 Look at the kni�
+&659 Take the plunge�
+&682 Take the rubber tubin�
+&697 doorway
+&702 Grab a lump of coal
+&71 Look Outsido
+&714 Swipe the jail key"
+&72 doorway
+&734 Push the request button
+&757 diaW
+&759 dial
+&762 Look towards the engine room
+&795 Peek through the bars
+&832 Dog
+&857 Hagen
+&88 A fresh bundle of files!
+&98 doorway
+*sigh* Yes, very good�
+.*xbox[ ]*one.*
+'�; Ҭa
+�?�zxxx �
+[UNITY PRECONFIGURED JOYSTICK]
+^Guitar [0-9]+
+_�sMaybe I�(afun
+�+You know, my memory of that evening is a little haz
+>�7 �?�?��
+2D Renderer Data
+3Dconnexion KMJ Emulator
+''3RD PLACE RUNNER UP - MOST IMPROVED POLICING AWARD''
+�6$ �tS
+8Bitdo SN30 Pro
+A lick of paint here...
+A napkin? Is there something on my face?
+A pistol, cunningly disguised as lipstick?
+Aber ihr sollt eure Geschichte bekommen!
+Aber selbstverständlich!
+Aber, aberh
+Absolut prickelnd!
+Ach ja�
+Ach ja?
+Ach ja?�
+Ach jaH
+Ach nein?!
+Act One
+Add to Wishlist
+ADVERSARY PROCEEDIN:
+Advisory: Contains pure Ethanol�
+Afraid not, I need a cash payment.
+Agent M
+Ah ha ha�
+Ah ha ha!
+Aha, I knew it0
+Ahh, unrequited loveT
+All that thievery must be hungry work. With the right food, you could bait it out.
+All: Chrome, Opera
+All: Chrome, Opera, Windows: Edge, FirefƸ
+All: Chrome, Opera, Windows: EdgS
+Also, wo war ich?
+Am Wachssiegel herumpicken
+And I'd have complete immunity, right�
+And where is he now?
+And, you?
+AnyState -> Disabled
+Are ��
+you sure we can't check with the board, just in ca
+Are we really letting those three go?
+Are you working towards gettm&ot backl(
+Arrow Closed
+Arthur still has that wax seal. Melt it down and see if you can make an impression!
+'Atta boy!
+Attorney, I propose a traded
+Aua! Aua!
+Auf Wiedersehen! Irgendwelche 8G�en Worte?*
+Aufgepasst, Wel�:
+Axis 0
+Back to the Sleeper Carriage
+Background Light 2~
+Base Map
+Before U�lU2018.S�
+Before Unity 2018.:
+Before Unity 2018.3
+Bist du sicher, dass wir nicht vorsichtshalber beim Rad nachfragen können?
+Bitte sehr,N
+�. gefiederter Freund.#
+Bitte, ich brauche einfach mehr Zeit!
+Blend Style 2
+Blood Effect�
+''Board Reuss Express. Await further instructions from contact.''
+Border (5a
+Brian Gatewood
+Brilliant! I'll take a look aroundh
+Button �
+Button 1
+Camera Swag
+Can you describe that valve to me, Arthur?
+Can you recall what gesture the idol was making?
+Caoimhe Roddy
+CardGath� "�
+Caroline Daniel
+Centenario v0.1
+CENTENARIOV0.1-REGULAR SDF
+CH COMBATSTICK USB
+Change Selected Hotspot
+Character - Display Name
+Character- Diana
+Character- Don
+Character Light 2D
+Character Light Flicker
+Character- Pierre
+''CHEATING STRICTLY PROHIBITED.''
+Collision Rain
+CrouchExitD 6.
+CYBORG 3D USB
+Da klingelt bei mir nichts.
+Darius T Jackson
+Das Finanzamt wird den Nachlass mit einem feinzahnigen Kamm durchforsten!
+Das Gerät inspizieren
+Das ist absolut verständlich!
+Das sind nur alte Geburtstagskarten ...
+Das stimmt wohl.
+Das stimmt!
+das Testament
+Das war wohl zu erwarten, denn ihr habt alle ganz schön was abbekommen.
+Das wird nicht helfen, ihn zu öffnen.
+Default Style Sheet
+dem Bett
+dem Fenster
+Dem kann ich nur zustimmen.
+den aalglatten Mann
+den Barbesucher
+den Finanzunterlagen
+den Künstler
+den Pappbechern
+der Feuerkammer
+Der Gepäckraum
+der Laderampe
+der rostigen Stange
+Dialog- AristaConfessionDiana
+Dialog- HintLineChapterFour
+Dialog- HintLineChapterTwo
+Dialog- TalkToBrotherJaredActTwo
+Dialog- TalkToDonJailbreak
+Dialog- TalkToHirsch
+Dialog- TalkToMassonActTwo
+Dialog- TalkToRon
+Diana rendezvous with Arthur
+Diana talks with April Benelli on the radio
+Die Bewegung des Wassers hat eine befriedigende Wellenform.
+Die höfliche Mitteilung lesen
+Die letzte Runde war nur zum Aufwärmen.
+die modische Frau
+die rauchende Frau
+Die Schublade aufhebeln
+Do you have any advice for getting the board on my side?
+Doesn't ring a bell.
+Don't bore me by talking about that man, he sets my teeth on edge.
+Don't want anything getting out of there.
+D-Pad Up
+Du giftige Ziege!
+Du kannst das behalten.
+DU MUSST LAUTER SPRECHEN, MEIN LIEBER!
+Du unterschätzt den Mann.
+Du verräterische Ziege!
+Dust Mot
+Dust Particles
+Ehh, I'll talk to him later.
+Ein Glückstreffer!
+Eine bewundernde Fangemeinde?
+Eine Serviette? Habe ich etwas im Gesicht?
+Einen Moment, lass mich meine Magie wirken!
+eintönige Anzüge
+'Ellian' Rousseau
+Elliot Herriman
+Enjoy your nap, pal!
+Entry -> Base Layer.�#[*�g
+Entschuldige die Verzögerung, Kumpel.
+Es funktioniert!
+Es gibt nichts aufzuzeichnen.
+Es ist alles meine Schuld ...
+Es ist ein loderndes Feuer
+Es ist ein schmutziger Job, und wir dürfen ihn machen!
+Es ist laut und nervig
+Es sieht aus, als ob ...
+Es steckt fest!
+EunSeong Kim
+Examine the knife
+Explicit, I know.
+F430 Force Feedback
+Fang ganz am Anfang an.
+FightTwinsStruggle2� "
+Fire away!
+Font Atla
+Font Materi�B
+Font Textur�
+Form sentences�
+Francisco González
+Ganz genau.
+Gavin Harrison
+Gehst du schonL
+Geht es Ihnen gut?
+Get out, kidl
+Get to it, kid.
+Gib mir Begeisterung!
+gift basket
+Glaubst du das wirklich?
+glitschige Mischung
+glitschiges Messer
+Global Script
+Go onnnn!
+Good evening, sir.
+Google Inc.
+GS gamepad
+Gui- AutosaveDisclaimer
+Gute Reise!
+Guten Abend, Junge.
+Guter Junge!
+Guter Mann!
+Gütiger Himmel!
+Ha ha! I got hold of his keys!
+Habt ihr unser Gespräch mitgehört?
+Hah, I knew your voice sounded familiar!
+Haha, ja!
+half-eaten meal
+Halt dich gut fest!
+HALT SIE MIR FERN! JEDER IST AUF SICH ALLEIN GESTELLT!
+''HAMMER AND CHISEL''
+Hassan Motiwala
+Hat 0 Up
+Hat U�
+Heavens above!
+Here goes...
+Hey, the cork fits perfectly�
+Hier drüben.
+Hier, nimm das.
+Hier, nimm meine Karte.
+HJC Game ZD - V
+Hm, I might do�
+Hm, you're right. A proper introduction is in order.
+Hm. Das war fast zu einfach!
+Hm? Ich sehe ni...
+Hmm, I'll double-check.
+Hmm, let me thinkx
+Hmm, the magnification is very strong!
+Hold to Skip
+Hollie Emery
+Hör auf, herumzutrödeln.
+Hör zu, ich bin vom Finanzamtlichen Geheimdienst!
+Hört mir zu!
+Hover Text Siz�
+How about you, Arthur?
+How can I be of assistance?
+How can I get Arthur out of his room?
+How'd you mean?
+How's that?
+Hrmm. Pass.
+Huh, I guess this model is battery powered.
+Husban 'Mcdoogleh' Siddiqi
+I ALONE CONTROL THE MEANS OF PRODUCTION�
+I can still salvage this mission.
+I could use a camera-clad spy pigeon or two!
+I don't have to explain myself to you!
+I don't know how long we can maintain this boost!
+I got the magnetic ball, now what?
+I HAVE VALUE.
+I hope Diana is having better luck than meP
+I need another hint about the fingerprint lock.
+I need another hint about the mouse.
+I need to get the hearing horn repaired, any ideas?
+I should be able to capture Lady Unterwald's voice with this!
+I should cork up any mouse holes I find. There's bound to be more!
+I suppose so.
+I think that was the last one.
+I tried to observe the handshake, but it was too fast!
+I wonder who trained her to be such a kleptomaniac?
+Ich bin gleich wieder da.
+Ich bin mir aber ziemlich sicher, dass ich sie verloren habe, als diese Casinogorillas auf mich losgegangen sind!
+Ich bin natürlich gekommen, um euch beide zu retten!
+ICH BIN SELBSTBEWUSST|
+Ich brauche noch einen Hinweis zur Maus.
+Ich habe versucht, den Händedruck zu beobachten, aber er ging zu schnell!
+Ich mache besser weiter.
+Ich muss das Hörrohr reparieren. Irgendwelche Ideen?
+Ich muss mich vor dir nicht rechtfertigen!
+Ich sollte alle Mäuselöcher verstopfen, die ich finde. Es gibt bestimmt noch mehr!
+Ich verstehe.
+Ich wollte nur fragen, ob unser Gast etwas braucht.
+If only my arms were longer�
+Ihr geht nirgendwo hin|
+Ihr kennt euch?
+I'll just take a handful�
+I'll need one of you to distract that bozo outside.
+I'll take i�9
+I'm a field operative, working under the British Government.
+I'm glad we could assist each other today.
+I'm in�
+I'm not sure.
+I'm pretty sure I lost it when those casino goons jumped me, though!
+Imbeciles! Must I do everything myself?
+In der Tat.
+In for a penny(
+In Ordnung�
+In Ordnung!
+Indeed, I assume they recognised my VIP credentials.
+Is it expecting a fingerprint of some sortX
+Is that right?
+Ist es das, wonach du gesucht hast?
+IST JEMAND DA?
+It looks expensive, and it smells like mahogany!
+It looks like we're approaching a tunnel, ma'am�
+It may just be a flesh wound�
+It seems so. But we have bigger problems now�
+Item- Fan
+Item- HandCreamKnife
+Item- LuggageStorageKey
+It's a dirty job, and we get to do itH
+It's not as simple as it looks, you know�
+It's okay, let's just start small.
+I've got bad news for you, kid.
+I've got to make contact with the informant�
+JA, FORTFAHREN.
+Ja, Mutter!
+Jamie Rollo
+Jeden Tag!
+Jessica Blackbu�!
+Jetzt fängt es an, einen Sinn zu ergeben.
+Just a second, let me work my magic!
+Just browsing!
+Kangmin (Carter) Kim
+Kannst du dich erinnern, welche Geste der Götze gemacht hat?
+KEEP IT AWAY! IT'S EVERY MAN FOR HIMSELF�
+Keep trying!
+Kein Grund zur Panik.
+Kein Grund zur Sorge.
+KickR� "
+K-Krabbeln, kratzen, k-k-knabbern!
+Klar, als ob du irgendetwas hättest, was ich will.
+Kläre mich auf.
+Komm raus, du Feigling!
+Könnt ihr mir etwas über Herrn Liu erzählen?
+Kusch! Verschwinde von hier!
+Ladies, how are we this fine morning?
+Lagerschlüssel untersuchen
+Lalezar-Fallback SDF
+Lalezar-Regular Atlas Material
+Lalezar-Regular SDF Atlas
+Lalezar-Regular SDF Material
+LASS MICH RAUS!
+Lass sie nur nicht zu lange darauf schauen.
+Lassen Sie den Wasserhahn in Ruhe!
+Lateral Tilt
+Laufen (Halten)
+LblControlsXB (7)
+Left Joystick Horizonta�
+Left Joystick Horizontal
+Left Stick
+Left Stick X
+Legal Counsel
+Legt los, Jungs!
+leicht gerösteter Brief
+LET ME OUT(
+Let me think...
+Lever 3 Down
+LiberationSans SDF - Fallback
+Limelight-Fallback SDF
+Limelight-Regular SDF
+linebreaking following character�
+Load Game
+Loco Motive
+LOCO MOTIVE
+Logitech RumblePad 2 USB
+LOOK UPON YOUR WORKS AND DESPAIR, FOR I AM TESTAMENT TO THE FOLLY OF MAN!�
+Loukia 'Lucy' Kyriakidou
+Lounge Area�
+�L-qDamn, I
+M
+$u�Ahem! This i
+MACH SCHON!
+Mad Catz
+Main Action
+Main Camera
+Main Color
+Man sieht sich!
+MARKTWERT WIRD BESTIMMT.
+Mayflash PS3 Adapter
+Mein Fehler!
+Meine einzige Schwäche!
+Message text�
+Microsoft SideWinder Joystick
+Mieszko Zdebik
+Mit dem ungehobelten Kerl reden
+Mit Herrn Liu reden
+Mm-hmm. We've never sounded bettert
+Most appreciated�
+mouse 0
+Mouse Nub
+Mr Liu
+Mr Liu?
+Music by
+Mwaaaah! The French!
+My feelings exactly.
+My mistake!
+My-Power CO., LTD PS2 adapter
+Na dann.
+Na gut!
+Na gut! Frag los!
+Na gut, wird schon schiefgehen!
+NEIN! ICH BIN ZU JUNG ZUM STERBEN!
+NEIN, ABBRECHEN.
+NEIN, bleibt weg!
+Nein, danke!
+Nein, danke, ich muss beim klarem Verstand bleiben!
+Nein, ich habe mein Schicksal bereits in die Hände des Kellners gelegt.
+Nein, niemand sagt das!
+New Text
+Nicht vordrängeln!
+Nichts passiert.
+Nimm das!
+No drivers installed
+No exceptions(
+No keymap
+No one lays a whisker on Fiametta without facing consequences!
+No problem|
+No, I have no idea.
+No, thanks, I've got to stay sharp!
+Non mais, et puis quoi encore !
+Normal (Defocused)
+Normal map
+NotoSansKR-Regular Atlas Material
+Now, where was I�
+Nun, dann beeile dich.
+Nun, es war auf jeden Fall eine Handbewegung ...
+Nun, i-ich ...
+Nun, mal sehen ...
+Nun, nein.
+o$h�Sorry! I'
+Oh boy.
+Oh dear!
+Oh ja!
+Oh, nimm es Brian nicht übel. Er nimmt das alles nur sehr ernst.
+Oh, schick!
+Ohh, I've been a terrible mother!
+Onion soup, inspector.
+Ooh, fun.
+Open SettingW
+OpenDyslexic-Regular SDF Atlas
+OSX: Firefox, Safari
+Otherwise, they'll just bicker indefinitely.
+Oui, Chef!
+page dowO
+Panini Projection
+Part FouS
+Particle Systems
+Pech gehabt, alter Knab�
+Performance Designed Products
+Pick up the Prop
+Pipe Particle System
+Please! You aren't equipped to face a killer.
+Please, no!
+Profile Sub Type API available
+Prop Tooltip - Shorthan�
+Prop Tooltip - Shorthand
+PropSky (1)
+provisorisches Grab
+PS3 mode
+PS3 Mode
+Rain Parent
+Red Samurai Wireless Gamepad
+Rede weiter ...
+Rede weiter.
+Reden wir über unsichtbare Tinte?
+Requires Grendel adapter
+RevealPainting 8?
+Rich Heibel-Yanase
+Rim Layer
+Room- CellExterior
+Room- DianaQuarters
+Room- DiningCarriage
+Room- HandshakeClub
+Room- Interrogation
+Room- KitchenCarriage
+Room- LoungeCarriage
+Room- MotorbikeExterior
+Room- PublisherOffice
+Room- UnterwaldCarriage
+roulette table
+Run (Hold)
+Run (Hold@
+Safe travels!
+Saitek Pro Flight Yoke
+Saitek X52 Pro Flight Control System
+Savy Des-Etages
+Schauen wir uns das mal an, ja?
+schmutziges Geschirr
+See ya around.
+Sehen Sie!
+Sehr gut!
+Sehr wohl.
+Seit wann?!
+Seize him�
+SettingsOption, Assembly-CSharp
+Shona Feltham
+Sie hat es nicht genommen`
+Sie wollten nur ein paar kleinere Reparaturen vornehmen!
+Sind diese Zitronen kostenlos?
+Sind Sie das, Detektiv?
+sink cupboard
+Skip Dialoguq
+small safe
+Smoke Particle System
+So I've heard.
+So schnell!
+So, Stamp was right? This whole place is getting shuttered?
+So... this was Jian's plan all along�
+Solange du anfängst zu reden.
+Sollen wir die drei wirklich gehen lassen?
+Someone's been threatening you�
+Sorry, mother.
+Sounds prestigious.
+Speech Only
+Sprich leisel
+Sprite Li�
+Sprite Lit
+Standard (Specular setup)
+Stay out of troubleX
+Stick Center Hat
+Stick X
+Stop NaN
+Subtitle Speed
+Switch is set to DirectInput mode
+Switch is set to XInput mode
+Sysgration Ltd.
+T���� ��
+Teil Eins
+Teil Ei�p
+Teller mit Essensresten
+Thank you for calling the Reuss Express onboard service.
+That's probably to be expected, you all took quite the beating.
+That's the kind of shrewd business decision-making we can all get behindL
+The blade is sufficiently lubricated, and rather hard to handle.
+the deaf lady
+the doorway
+the hooded figure
+the man
+The Quick Brown Fox
+Jumped Over The Lazy Dog
+The tragic death of Lady Unterwald wasn't my doing, in fact it made my mission terribly complicated.
+There's a satisfying undulation to the water's motion.
+They may not have murdered Lady Unterwald, but they committed so many other crimes!
+They were merely attempting some minor repairs!
+Those weaponised vehicles, tuxedos and elaborate dinner parties aren't cheap, it turns out.
+Throttle - HOTAS Warthog
+Thrustmaster, Inc. USB Game Controllers
+Tja, also ...
+Tom KatkuH
+Too bad! Now go and cry elsewhere!
+Trotzdem sehr verdächtig, wenn du mich fragst.
+Trust me, I've got a system4
+TunnelMiddle (1)
+Tut mir leid, alter Knabe!
+Tut mir leid, Kumpel. Wenn man so viele Hände ausreichend mit Feuchtigkeit versorgt, verschwimmen sie alle irgendwie miteinander!
+Ugh, ich�� habe schon keine Kugeln meh
+Ugh, I'm out of bullets already!
+Uh, excuse me(
+UhHh ohH
+Um da reinzukommen, braucht man allerdings einen Schlüssel.
+Und nun sei verblüfft!
+Und vor allem?
+Unity 4.A
+''Unscroopalous'' isn't a real word, is it?
+Upper body strength?
+Verdammt richtig�
+Verflixt! Der Motor wurde herausgerissen!
+verkorktes Mäuseloch
+Very well�
+Very well!
+Very well.
+Very well..l
+Very... good.
+Verzeihung, Koch?
+Viel Glück euchH
+Vielleicht kannst du etwas Lärm machen, um seine Aufmerksamkeit zu bekommen?
+Wait right there! Don't you dare move an inch!
+Wait, I see something!
+WalkableArea (0)
+WalkableArea (1)
+Wall Light 2D (2)
+Warte mal kurz ...
+Wartet hier, Leute!
+Was macht ihr denn hier?
+Was trinkst du da?
+Was! Wo�
+WEAK, FRAGILE CREATURES!
+Weg da!
+Well, that's a twist.
+Well, that's just splendid. I feel safer already!
+Well, what can you tell me?
+WER IST DAS?
+Were you listening in on our conversation?
+Whammy Bar
+What do ya need?
+What do you have to say for yourself?
+What is this?
+What was that?
+What was thatD
+WHAT'S THAT,
+Which is...?
+Which table, sir�
+Who'd risk all that�
+Why do you persist in living?
+Why? What are you up toD
+Wie bitte?
+Wie kann ich helfen?
+Wie kommst du klar, Doc�
+Wie meinst du das?
+Wie schmeichelhaft!
+Wie war das?
+Wiee läuftsch?
+Will Prefab
+Window Light 2D
+Windows 10 (orig, post WAU)
+Wir hatten recht, dir zu misstrauen!
+World Rain
+Xbox 360 Controller
+Xero Adviso�
+Yeah, I see the problem. You're not fooling anyone with this at a glance.
+Yeah, look at this�
+Yeonjung Noh
+Yes, mother!
+Yoke Z
+You probably don't want to grab it with your bare hands. Find some protection!
+''Yours forever, George.''
+Zach Soare�
+Zänkische Speichellecker, alle miteinander!
+Zimmernummer inspizierx�
+Zisch ab, Junge.
+Zu gut.
+Zum Schlafwaggon gehen
+Zum Schlafwaggon zurückkehren
+Zumindest früher.
+zusammengeklappte Leiter
+Zuzanna Ryback�
+Zwiebelsuppe, Inspektor.

@@ -1,0 +1,211 @@
+﻿Id	Character	English	French	Class	Method
+530	Diana	April!		CharacterApril+<OnInteractMotorbikeExterior>d__21	MoveNext
+88	April	What is it, Diana?		CharacterApril+<OnInteractMotorbikeExterior>d__21	MoveNext
+139	April	Found something to break those bars yet?		CharacterApril+<OnInteractCellExterior>d__22	MoveNext
+262	Diana	Arthur?		CharacterArthur+<OnInteract>d__39	MoveNext
+143	Arthur	I think I could get a hand free. I'll give it a try!		CharacterArthur+<OnInteract>d__39	MoveNext
+982	Herman	I'm a little concerned about Dirk Chiselton.		CharacterArthur+<OnInteract>d__39	MoveNext
+160	Arthur	It couldn't hurt to look around.		CharacterArthur+<OnInteract>d__39	MoveNext
+732	Diana	Come on, we have to stop her!		CharacterArthur+<OnInteract>d__39	MoveNext
+0	Belle	Is this the Dirk Chiselton Hotline?		CharacterBelle+<OnInteractArthur>d__9	MoveNext
+1	Belle	Yes, I'm a little stuck and I need some answers!		CharacterBelle+<OnInteractArthur>d__9	MoveNext
+3	Belle	It's quite a sensitive matter.		CharacterBelle+<OnInteractArthur>d__9	MoveNext
+4	Belle	Excuse me, this is a private conversation!		CharacterBelle+<OnInteractArthur>d__9	MoveNext
+5	Belle	Excuse me, this is a private conversation!		CharacterBelle+<OnInteractArthur>d__9	MoveNext
+769	Arthur	I think she's busy.		CharacterBelle+<OnInteractArthur>d__9	MoveNext
+237	Herman	Oops, sorry.		CharacterBelle+<OnInteractHerman>d__10	MoveNext
+552	Herman	I'd rather not eavesdrop any further.		CharacterBelle+<OnInteractHerman>d__10	MoveNext
+14	BrotherBrian	Let me know when you have all the details.		CharacterBrotherBrian+<OnInteractCancelQuestions>d__7	MoveNext
+18	BrotherBrian	Do you remember the gesture the idol was making?		CharacterBrotherBrian+<OnInteractBeforeFirstQuestion>d__8	MoveNext
+20	BrotherBrian	Alright, I'll keep that in mind.		CharacterBrotherBrian+<OnInteractAfterFirstQuestion>d__9	MoveNext
+21	BrotherBrian	We still need to be sure we have the right idol. Was there any inscription on it?		CharacterBrotherBrian+<OnInteractAfterFirstQuestion>d__9	MoveNext
+22	BrotherBrian	Hmm, let's see here...		CharacterBrotherBrian+<OnInteractSearchForIncorrectIdol>d__11	MoveNext
+23	BrotherBrian	No luck, I'm afraid.		CharacterBrotherBrian+<OnInteractSearchForIncorrectIdol>d__11	MoveNext
+24	BrotherBrian	I had a look, but I can't find an idol that matches your description.		CharacterBrotherBrian+<OnInteractSearchForIncorrectIdol>d__11	MoveNext
+25	BrotherBrian	Perhaps you've misremembered some of the details?		CharacterBrotherBrian+<OnInteractSearchForIncorrectIdol>d__11	MoveNext
+26	BrotherBrian	Hmm, let's see here...		CharacterBrotherBrian+<OnInteractSearchForCorrectIdol>d__12	MoveNext
+27	BrotherBrian	Wait a minute. What's this?		CharacterBrotherBrian+<OnInteractSearchForCorrectIdol>d__12	MoveNext
+28	BrotherBrian	Aha! I think I've got it!		CharacterBrotherBrian+<OnInteractSearchForCorrectIdol>d__12	MoveNext
+439	Herman	You've found it?		CharacterBrotherBrian+<OnInteractSearchForCorrectIdol>d__12	MoveNext
+29	BrotherBrian	Have a look, the ''All-Hands Meeting'' Idol. It's exactly as you described.		CharacterBrotherBrian+<OnInteractSearchForCorrectIdol>d__12	MoveNext
+30	BrotherBrian	Took a bit of searching, I tell ya! It'd fallen behind a few palettes of industrial grade moisturiser.		CharacterBrotherBrian+<OnInteractSearchForCorrectIdol>d__12	MoveNext
+31	BrotherBrian	No, that's not it.		CharacterBrotherBrian+<OnInteractIdolCallouts>d__14	MoveNext
+32	BrotherBrian	Nothing but junk in this pile!		CharacterBrotherBrian+<OnInteractIdolCallouts>d__14	MoveNext
+33	BrotherBrian	No! Nope! Nada! That's not it, either!		CharacterBrotherBrian+<OnInteractIdolCallouts>d__14	MoveNext
+35	BrotherBrian	I don't even know what this thing is!		CharacterBrotherBrian+<OnInteractIdolCallouts>d__14	MoveNext
+36	BrotherBrian	What's that doing here?		CharacterBrotherBrian+<OnInteractIdolCallouts>d__14	MoveNext
+544	Herman	Hello, gentlemen.		CharacterByron+<OnInteractBeforeSustainedInjuryFirstOccurrence>d__10	MoveNext
+37	Byron	Who's this guy?		CharacterByron+<OnInteractBeforeSustainedInjuryFirstOccurrence>d__10	MoveNext
+2	BandSaxophone	No idea. He wasn't on the guest list.		CharacterByron+<OnInteractBeforeSustainedInjuryFirstOccurrence>d__10	MoveNext
+550	Herman	I'm looking for someone. Did you see Mr Liu come in here?		CharacterByron+<OnInteractBeforeSustainedInjuryFirstOccurrence>d__10	MoveNext
+3	BandSaxophone	Jian? Yeah, he was here.		CharacterByron+<OnInteractBeforeSustainedInjuryFirstOccurrence>d__10	MoveNext
+17	BandDrummer	Said he needed to adjust something backstage.		CharacterByron+<OnInteractBeforeSustainedInjuryFirstOccurrence>d__10	MoveNext
+38	Byron	Can we help you with something?		CharacterByron+<OnInteractBeforeSustainedInjuryFirstOccurrence>d__10	MoveNext
+551	Herman	Hello, gentlemen.		CharacterByron+<OnInteractBeforeSustainedInjury>d__11	MoveNext
+39	Byron	Can we help you with something?		CharacterByron+<OnInteractBeforeSustainedInjury>d__11	MoveNext
+630	Herman	May I join you?		CharacterByron+<OnInteractAfterSustainedInjury>d__12	MoveNext
+6	BandSaxophone	Of course, take a seat.		CharacterByron+<OnInteractAfterSustainedInjury>d__12	MoveNext
+1303	Arthur	This many?		CharacterCashier+<OnExchangeCasinoChips>d__10	MoveNext
+14	Cashier	Oh goodness!		CharacterCashier+<OnExchangeCasinoChips>d__10	MoveNext
+15	Cashier	Just a moment.		CharacterCashier+<OnExchangeCasinoChips>d__10	MoveNext
+631	Arthur	They seem busy.		CharacterConductor+<OnInteract>d__0	MoveNext
+277	Diana	Yes, Arthur?		CharacterDiana+<OnInteract>d__17	MoveNext
+1664	Arthur	I'm sorry about your mission going sideways.		CharacterDiana+<OnInteract>d__17	MoveNext
+607	Diana	It's not over yet, Arthur. We can still pull this off!		CharacterDiana+<OnInteract>d__17	MoveNext
+1658	Arthur	What's the plan?		CharacterDiana+<OnInteract>d__17	MoveNext
+598	Diana	First things first, we should take a look around.		CharacterDiana+<OnInteract>d__17	MoveNext
+706	Diana	We should help, we can't let them get away!		CharacterDiana+<OnInteract>d__17	MoveNext
+243	Diana	Diana Osterhagen. Pleased to finally make your acquaintance.		CharacterDiana+<OnInteractBeforeObtainedMysteriousNapkin>d__26	MoveNext
+780	Arthur	Lovely to meet you, Miss Osterhagen.		CharacterDiana+<OnInteractBeforeObtainedMysteriousNapkin>d__26	MoveNext
+1290	Arthur	I'm Arthur Ackerman.		CharacterDiana+<OnInteractBeforeObtainedMysteriousNapkin>d__26	MoveNext
+244	Diana	It's a terrible shock about Lady Unterwald. That wasn't part of the plan.		CharacterDiana+<OnInteractBeforeObtainedMysteriousNapkin>d__26	MoveNext
+1309	Arthur	Plan?		CharacterDiana+<OnInteractBeforeObtainedMysteriousNapkin>d__26	MoveNext
+245	Diana	Still, I was surprised at the low turnout for her announcement.		CharacterDiana+<OnInteractBeforeObtainedMysteriousNapkin>d__26	MoveNext
+1330	Arthur	Oh, well I'm afraid Lady Unterwald was estranged from her family.		CharacterDiana+<OnInteractBeforeObtainedMysteriousNapkin>d__26	MoveNext
+246	Diana	I heard her personal lawyer kept writing them out of the inheritance.		CharacterDiana+<OnInteractBeforeObtainedMysteriousNapkin>d__26	MoveNext
+1439	Arthur	Ah, well...		CharacterDiana+<OnInteractBeforeObtainedMysteriousNapkin>d__26	MoveNext
+247	Diana	Listen, we shouldn't talk here.		CharacterDiana+<OnInteractBeforeObtainedMysteriousNapkin>d__26	MoveNext
+1440	Arthur	We shouldn't?		CharacterDiana+<OnInteractBeforeObtainedMysteriousNapkin>d__26	MoveNext
+248	Diana	I'm all for exchanging pleasantries, but there's too many eyes on us.		CharacterDiana+<OnInteractBeforeObtainedMysteriousNapkin>d__26	MoveNext
+1441	Arthur	There are?		CharacterDiana+<OnInteractBeforeObtainedMysteriousNapkin>d__26	MoveNext
+249	Diana	Take this, follow the instructions and meet me at the rendezvous.		CharacterDiana+<OnInteractBeforeObtainedMysteriousNapkin>d__26	MoveNext
+250	Diana	If we have business to discuss, we'll discuss it there.		CharacterDiana+<OnInteractBeforeObtainedMysteriousNapkin>d__26	MoveNext
+1442	Arthur	A napkin? Is there something on my face?		CharacterDiana+<OnInteractBeforeObtainedMysteriousNapkin>d__26	MoveNext
+1443	Arthur	You said something about a plan?		CharacterDiana+<OnInteractBeforeObtainedMysteriousNapkin>d__26	MoveNext
+251	Diana	Trust me, that napkin has everything you need.		CharacterDiana+<OnInteractBeforeObtainedMysteriousNapkin>d__26	MoveNext
+1444	Arthur	I have some questions.		CharacterDiana+<OnInteractAfterObtainedMysteriousNapkin>d__27	MoveNext
+252	Diana	Alright, but you'd better make it quick.		CharacterDiana+<OnInteractAfterObtainedMysteriousNapkin>d__27	MoveNext
+575	Herman	What sort of favour are we talking about?		CharacterDon+<OnStopDialogTalkToDonForgery>d__36	MoveNext
+215	Don	There's a large, bearded guy in the dining carriage. Mr Masson, you can't miss him.		CharacterDon+<OnStopDialogTalkToDonForgery>d__36	MoveNext
+216	Don	He's got something I need for my latest job, but the fool's been holding out.		CharacterDon+<OnStopDialogTalkToDonForgery>d__36	MoveNext
+217	Don	I need you to take it off his hands and get it back for me.		CharacterDon+<OnStopDialogTalkToDonForgery>d__36	MoveNext
+1601	Arthur	But I didn't-		CharacterDon+<OnStopDialogTalkToDonJailCell>d__39	MoveNext
+197	Don	Relax, okay? We're drinking from the same bottle. They got me on a load of baloney too.		CharacterDon+<OnStopDialogTalkToDonJailCell>d__39	MoveNext
+198	Don	Listen, we can't stand around yacking all day, alright? We need to figure a way outta here!		CharacterDon+<OnStopDialogTalkToDonJailCell>d__39	MoveNext
+622	Herman	Could you forge a more convincing detective badge out of this toy?		CharacterDon+<OnShowDonToyDetectiveBadge>d__54	MoveNext
+135	Don	Ah, you've got a scheme already cooking I see!		CharacterDon+<OnShowDonToyDetectiveBadge>d__54	MoveNext
+136	Don	Let me take a look at that, see what we're working with here.		CharacterDon+<OnShowDonToyDetectiveBadge>d__54	MoveNext
+137	Don	Yeah, I see the problem. You're not fooling anyone with this at a glance.		CharacterDon+<OnShowDonToyDetectiveBadge>d__54	MoveNext
+138	Don	Just a second, let me work my magic!		CharacterDon+<OnShowDonToyDetectiveBadge>d__54	MoveNext
+139	Don	A lick of paint here...		CharacterDon+<OnShowDonToyDetectiveBadge>d__54	MoveNext
+140	Don	Bit of polish there...		CharacterDon+<OnShowDonToyDetectiveBadge>d__54	MoveNext
+142	Don	Listen, this'll be enough to get your foot in the door.		CharacterDon+<OnShowDonToyDetectiveBadge>d__54	MoveNext
+143	Don	Just don't let them look too long at it, alright?		CharacterDon+<OnShowDonToyDetectiveBadge>d__54	MoveNext
+141	Arthur	It turns out those twins can be pretty agile when they want to be.		CharacterHerman+<OnInteract>d__23	MoveNext
+961	Herman	Indeed...		CharacterHerman+<OnInteract>d__23	MoveNext
+43	Herman	I'm afraid there's not much I can do from over here.		CharacterHerman+<OnInteract>d__23	MoveNext
+456	Herman	Dirk Chiselton, my arch nemesis.		CharacterHerman+<OnInteract>d__23	MoveNext
+901	Herman	What do you think of this?		CharacterHerman+<OnShowDetectiveBadge>d__33	MoveNext
+908	Herman	Step aside, detective coming through.		CharacterHerman+<OnShowDetectiveBadge>d__33	MoveNext
+74	Hirsch	How can I be of service, detective?		CharacterHirsch+<OnStopDialogTalkToHirschAboutCases>d__24	MoveNext
+75	Hirsch	Herman, how can I help?		CharacterHirsch+<OnStopDialogTalkToHirschAboutCases>d__24	MoveNext
+240	Hirsch	How low will you go? How high will you jump?		CharacterHirsch+<OnSayPatternBump>d__35	MoveNext
+238	Hirsch	Aren't your eyes open? Are you not wide awake?		CharacterHirsch+<OnSayPatternHandshake>d__36	MoveNext
+237	Hirsch	You need to climb lightly, be careful not to slip.		CharacterHirsch+<OnSayPatternGrip>d__37	MoveNext
+239	Hirsch	Are you watching closely? Did you see me make my move?		CharacterHirsch+<OnSayPatternThumb>d__38	MoveNext
+1323	Arthur	Jimmy?		CharacterJimmy+<OnInteractCallOne>d__6	MoveNext
+24	Jimmy	Lamont told me not to talk to you, Mr Ackerman!		CharacterJimmy+<OnInteractCallOne>d__6	MoveNext
+1324	Arthur	Jimmy!		CharacterJimmy+<OnInteractCallTwo>d__7	MoveNext
+25	Jimmy	Please, Mr Ackerman! I'm already on thin ice around here.		CharacterJimmy+<OnInteractCallTwo>d__7	MoveNext
+1333	Arthur	Let's talk about this!		CharacterJimmy+<OnInteractCallThree>d__8	MoveNext
+26	Jimmy	I'm not allowed to talk to you! Just drop it!		CharacterJimmy+<OnInteractCallThree>d__8	MoveNext
+1341	Arthur	I'm sure we can work something out?		CharacterJimmy+<OnInteractCallFour>d__9	MoveNext
+27	Jimmy	La la la la, I can't hear you!		CharacterJimmy+<OnInteractCallFour>d__9	MoveNext
+1344	Arthur	Come on, we're all friends here!		CharacterJimmy+<OnInteractCallFive>d__10	MoveNext
+28	Jimmy	Mr Ackerman! I really must insist you stop!		CharacterJimmy+<OnInteractCallFive>d__10	MoveNext
+72	Lamont	What's that?!		CharacterJimmy+<OnInteractCallFive>d__10	MoveNext
+73	Lamont	You'd better not be talking to those prisoners, Jimmy!		CharacterJimmy+<OnInteractCallFive>d__10	MoveNext
+29	Jimmy	Oh, now you've done it!		CharacterJimmy+<OnInteractCallFive>d__10	MoveNext
+0	Kid	Beat it, pencil-neck. I'm still on break.		CharacterKid+<OnInteractFirstOccurrence>d__5	MoveNext
+452	Herman	Sorry?		CharacterKid+<OnInteractFirstOccurrence>d__5	MoveNext
+1	Kid	I ain't shining shoes right now, you hear me?		CharacterKid+<OnInteractFirstOccurrence>d__5	MoveNext
+2	Kid	Beat it, pencil-neck. I'm still on break.		CharacterKid+<OnInteractBeforeAskedAboutDetectiveKit>d__6	MoveNext
+454	Herman	What would you like to trade for your detective kit?		CharacterKid+<OnInteractBeforeOfferedPrototypeDoll>d__7	MoveNext
+3	Kid	Yeah, like you'd have anything I want.		CharacterKid+<OnInteractBeforeOfferedPrototypeDoll>d__7	MoveNext
+581	Herman	Are you enjoying the script?		CharacterKid+<OnInteractAfterTradingFakeNovel>d__8	MoveNext
+4	Kid	Shh! Can't you see I'm reading?		CharacterKid+<OnInteractAfterTradingFakeNovel>d__8	MoveNext
+582	Herman	How's the script so far?		CharacterKid+<OnInteractAfterTradingFakeNovel>d__8	MoveNext
+6	Kid	Kinda weird, Dirk Chiselton hasn't made an appearance yet.		CharacterKid+<OnInteractAfterTradingFakeNovel>d__8	MoveNext
+583	Herman	Thoughts on the script?		CharacterKid+<OnInteractAfterTradingFakeNovel>d__8	MoveNext
+7	Kid	It's a lot slower than his last one, he must be building up to a mind-blowing ending!		CharacterKid+<OnInteractAfterTradingFakeNovel>d__8	MoveNext
+695	Herman	Did you have any feedback on that script?		CharacterKid+<OnInteractAfterTradingFakeNovel>d__8	MoveNext
+8	Kid	I was expecting action, but there's been a lot of talking so far.		CharacterKid+<OnInteractAfterTradingFakeNovel>d__8	MoveNext
+696	Herman	More action?		CharacterKid+<OnInteractAfterTradingFakeNovel>d__8	MoveNext
+9	Kid	Yeah! Getting the bad guys in a headlock and showing them the ol' Hammer and Chisel!		CharacterKid+<OnInteractAfterTradingFakeNovel>d__8	MoveNext
+10	Kid	Tackling villains to the ground and giving them a bloody nose! That kind of thing!		CharacterKid+<OnInteractAfterTradingFakeNovel>d__8	MoveNext
+697	Herman	Ah, well, I'm sure that's all coming right up.		CharacterKid+<OnInteractAfterTradingFakeNovel>d__8	MoveNext
+11	Kid	Let's hope so.		CharacterKid+<OnInteractAfterTradingFakeNovel>d__8	MoveNext
+1048	Herman	I didn't mean to flatten him!		CharacterLadyUnterwald+<OnInteract>d__0	MoveNext
+1049	Herman	It was an accident!		CharacterLadyUnterwald+<OnInteract>d__0	MoveNext
+188	LadyUnterwald	Yes, I'm sure you accidentally climbed into the ventilation system for completely innocuous reasons.		CharacterLadyUnterwald+<OnInteract>d__0	MoveNext
+26	PublisherFlorence	What's on your mind, Mr Merman?		CharacterPublisherFlorence+<OnInteract>d__0	MoveNext
+21	PublisherFrank	How can I help, Herman?		CharacterPublisherFrank+<OnInteractBeforeDestroyedMachine>d__1	MoveNext
+22	PublisherFrank	What do you need, Herman?		CharacterPublisherFrank+<OnInteractAfterDestroyedMachine>d__2	MoveNext
+68	PublisherThomas	Talk to me, Hermie!		CharacterPublisherThomas+<OnInteractBeforeDestroyedMachine>d__3	MoveNext
+69	PublisherThomas	How can I help, Hermie?		CharacterPublisherThomas+<OnInteractAfterDestroyedMachine>d__4	MoveNext
+291	Diana	Hello, Quartermaster!		CharacterQuartermaster+<OnInteract>d__10	MoveNext
+4	Quartermaster	Mm-hmm. What do you need?		CharacterQuartermaster+<OnInteract>d__10	MoveNext
+6	Isaac	Wouldn't they have halted the train if someone died?		CharacterShelly+<OnInteractPartOne>d__7	MoveNext
+9	Shelly	They don't want to cause panic or suspicion amongst the throng.		CharacterShelly+<OnInteractPartOne>d__7	MoveNext
+7	Isaac	My money's on that wealthy tycoon. He seems like trouble to me.		CharacterShelly+<OnInteractPartOne>d__7	MoveNext
+10	Shelly	Who do you think it was?		CharacterShelly+<OnInteractPartOne>d__7	MoveNext
+8	Isaac	Somebody stood to gain from her death, believe me.		CharacterShelly+<OnInteractPartOne>d__7	MoveNext
+9	Isaac	If they comb over her will, they'll find their culprit.		CharacterShelly+<OnInteractPartOne>d__7	MoveNext
+10	Isaac	Power outages, vermin infestations, now murder!		CharacterShelly+<OnInteractPartOne>d__7	MoveNext
+11	Isaac	Whatever's going to happen next?		CharacterShelly+<OnInteractPartOne>d__7	MoveNext
+11	Shelly	I'm not waiting around to find out!		CharacterShelly+<OnInteractPartOne>d__7	MoveNext
+12	Isaac	Oh ho ho, quite right!		CharacterShelly+<OnInteractPartOne>d__7	MoveNext
+14	Shelly	Hey! I already told you once, this is a private conversation!		CharacterShelly+<OnInteractPartOne>d__7	MoveNext
+556	Herman	May I enter?		CharacterStageManager+<OnInteractFirstOccurrence>d__7	MoveNext
+557	Herman	I believe my acquaintance went in just ahead of me.		CharacterStageManager+<OnInteractFirstOccurrence>d__7	MoveNext
+51	StageManager	No, wise guy. I'm asking for your name.		CharacterStageManager+<OnInteractFirstOccurrence>d__7	MoveNext
+54	StageManager	Alright, I'll have to cross-reference you with the guest list.		CharacterStageManager+<OnStopDialogIntroduction>d__8	MoveNext
+52	StageManager	Nope, you're not on the list.		CharacterStageManager+<OnStopDialogIntroduction>d__8	MoveNext
+53	StageManager	Sorry, but rules are rules. I can't let you in.		CharacterStageManager+<OnStopDialogIntroduction>d__8	MoveNext
+9	StageManager	Herman, right?		CharacterStageManager+<OnInteractBeforeBusinessCard>d__9	MoveNext
+10	StageManager	Herman, how's it going?		CharacterStageManager+<OnInteractAfterBusinessCard>d__10	MoveNext
+632	Herman	Hello again!		CharacterStageManager+<OnInteractAfterUnlockedGreenRoomPartFour>d__12	MoveNext
+11	StageManager	Go right ahead, Herman.		CharacterStageManager+<OnInteractAfterUnlockedGreenRoom>d__13	MoveNext
+122	Susanne	Don't you remember how you used to say		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+123	Susanne	You'd always love me in the same old way?		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+124	Susanne	And now it's very strange		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+125	Susanne	That you should ever change		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+126	Susanne	Sometimes I think someone has won your heart		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+127	Susanne	Tempted you away		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+128	Susanne	But let me warn you tho' we're miles apart		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+129	Susanne	You'll regret some day		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+130	Susanne	After You've Gone, and left me crying,		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+131	Susanne	After You've Gone, There's no denying;		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+132	Susanne	You'll feel blue, You'll feel sad,		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+133	Susanne	You'll miss the dearest pal you've ever had.		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+134	Susanne	There'll come a time, Now don't forget it,		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+135	Susanne	There'll come a time, when you'll regret it;		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+136	Susanne	Some day when you grow lonely,		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+137	Susanne	your heart will break like mine and you'll want me only,		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+138	Susanne	After you've gone,		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+139	Susanne	After you've gone away.		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+140	Susanne	Now won't you listen dearie while I say,		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+141	Susanne	How could you tell me that you're goin' away?		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+142	Susanne	Don't say that we must part,		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+143	Susanne	Don't break my aching heart;		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+144	Susanne	You know I've loved you truly many years,		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+145	Susanne	Loved you night and day;		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+146	Susanne	How can you leave me, can't you see my tears?		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+147	Susanne	Listen while I say:		CharacterSusanne+<TempOrphanLinesSinging>d__21	MoveNext
+148	Susanne	I'm Susanne Goldschmidt, and we are Balboa Swing!		CharacterSusanne+<TempOrphanLinesCallouts>d__22	MoveNext
+149	Susanne	It's great to be here, thank you to Lady Unterwald for the invitation.		CharacterSusanne+<TempOrphanLinesCallouts>d__22	MoveNext
+150	Susanne	I've been cooking up a little number for you all tonight.		CharacterSusanne+<TempOrphanLinesCallouts>d__22	MoveNext
+151	Susanne	And it goes a little something like this...		CharacterSusanne+<TempOrphanLinesCallouts>d__22	MoveNext
+152	Susanne	Hit it, boys!		CharacterSusanne+<TempOrphanLinesCallouts>d__22	MoveNext
+153	Susanne	How about a round of applause for the piano?		CharacterSusanne+<TempOrphanLinesCallouts>d__22	MoveNext
+154	Susanne	Give it up for the bass!		CharacterSusanne+<TempOrphanLinesCallouts>d__22	MoveNext
+155	Susanne	Thank you, Thank you!		CharacterSusanne+<TempOrphanLinesCallouts>d__22	MoveNext
+156	Susanne	Make sure you tip your bartenders and waitresses tonight!		CharacterSusanne+<TempOrphanLinesCallouts>d__22	MoveNext
+13	WaiterTwo	I assure you, madam. There are no mice aboard.		CharacterWaiterTwo+<OnInteract>d__2	MoveNext
+3	Ruth	I'm telling you, I saw it scurry through a hole in the wall!		CharacterWaiterTwo+<OnInteract>d__2	MoveNext
+4	Ruth	It's a thief, too. I'm sure it ran off with my bracelet!		CharacterWaiterTwo+<OnInteract>d__2	MoveNext
+14	WaiterTwo	Are you sure you have not merely misplaced the item?		CharacterWaiterTwo+<OnInteract>d__2	MoveNext
+5	Ruth	How do you explain the hair in my soup?		CharacterWaiterTwo+<OnInteract>d__2	MoveNext
+15	WaiterTwo	Impossible, we maintain the strictest hygiene standards.		CharacterWaiterTwo+<OnInteract>d__2	MoveNext
+6	Ruth	I can hear it in the walls, it's keeping me up all night!		CharacterWaiterTwo+<OnInteract>d__2	MoveNext
+16	WaiterTwo	I assure you, the other guests have not reported any scratching or squeaking, madam.		CharacterWaiterTwo+<OnInteract>d__2	MoveNext

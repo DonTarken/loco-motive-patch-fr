@@ -1,0 +1,363 @@
+﻿Id	Character	English	French	Class	Method
+720	Arthur	Hello, I'm Arthur Ackerman.	Bonjour, je suis Arthur Ackerman.	CharacterArista+<OnInteractActOneFirstOccurrence>d__17	MoveNext
+67	Arista	YOU'LL HAVE TO SPEAK UP, DEAR!	PARLEZ PLUS FORT, MON PETIT !	CharacterArista+<OnInteractActOneFirstOccurrence>d__17	MoveNext
+68	Arista	I'm a little hard of hearing, you see.	Je suis un peu dure de la feuille, voyez-vous.	CharacterArista+<OnInteractActOneFirstOccurrence>d__17	MoveNext
+721	Arthur	Sorry, I'm Arthur Ackerman!	Pardon, je suis Arthur Ackerman !	CharacterArista+<OnInteractActOneFirstOccurrence>d__17	MoveNext
+69	Arista	WHO'S THAT?	QUI ÇA ?	CharacterArista+<OnInteractActOneFirstOccurrence>d__17	MoveNext
+722	Arthur	It's me! I'm an attorney at law!	C'est moi ! Je suis un homme de loi !	CharacterArista+<OnInteractActOneFirstOccurrence>d__17	MoveNext
+70	Arista	YOU'RE A TERRIBLE BORE?	VOUS ÊTES UN HOMME AUX ABOIS ?	CharacterArista+<OnInteractActOneFirstOccurrence>d__17	MoveNext
+723	Arthur	Are you doing this on purpose?	Vous le faites exprès, n'est-ce pas ?	CharacterArista+<OnInteractActOneFirstOccurrence>d__17	MoveNext
+71	Arista	Hehe, who's to say?	Héhé, qui peut le dire ?	CharacterArista+<OnInteractActOneFirstOccurrence>d__17	MoveNext
+72	Arista	Now, what is it you want?	Alors, que me voulez-vous ?	CharacterArista+<OnInteractActOneFirstOccurrence>d__17	MoveNext
+1072	Arthur	Hello again.	Rebonjour.	CharacterArista+<OnInteractActOne>d__18	MoveNext
+73	Arista	What is it you want, Arthur?	Qu'est-ce que vous voulez, Arthur ?	CharacterArista+<OnInteractActOne>d__18	MoveNext
+707	Arthur	Waasch schup?	Quoi de nsschouf ?	CharacterBergmann+<OnInteractActOneDrunk>d__38	MoveNext
+41	Bergmann	Sorry old chap!	Désolé, mon cher !	CharacterBergmann+<OnInteractActOneDrunk>d__38	MoveNext
+42	Bergmann	Can't understand a word!	Je n'y comprends goutte !	CharacterBergmann+<OnInteractActOneDrunk>d__38	MoveNext
+724	Arthur	Hello!	Bonjour !	CharacterBergmann+<OnInteractActOneFirstOccurence>d__39	MoveNext
+43	Bergmann	Ah, Ackerman, isn't it?	Ah, Ackerman, n'est-ce pas ?	CharacterBergmann+<OnInteractActOneFirstOccurence>d__39	MoveNext
+725	Arthur	Arthur A. Ackerman, at your service.	Arthur A. Ackerman, à votre service.	CharacterBergmann+<OnInteractActOneFirstOccurence>d__39	MoveNext
+44	Bergmann	I'm Kasper Bergmann, the treasurer of the Lady Unterwald estate.	Je suis Kasper Bergmann, le trésorier du domaine de Lady Unterwald.	CharacterBergmann+<OnInteractActOneFirstOccurence>d__39	MoveNext
+45	Bergmann	Can you believe it, Arthur? What a messy state of affairs we've found ourselves in.	Vous rendez-vous compte, Arthur ? Dans quel pétrin sans nom nous nous trouvons plongés.	CharacterBergmann+<OnInteractActOneFirstOccurence>d__39	MoveNext
+729	Arthur	My feelings exactly.	C'est exactement ce que je ressens.	CharacterBergmann+<OnInteractActOneFirstOccurence>d__39	MoveNext
+46	Bergmann	Is there something I can help you with?	Y a-t-il quelque chose que je puisse faire pour vous ?	CharacterBergmann+<OnInteractActOneFirstOccurence>d__39	MoveNext
+47	Bergmann	Hello again, Arthur.	Rebonjour, Arthur.	CharacterBergmann+<OnInteractActOne>d__40	MoveNext
+48	Bergmann	How can I help you?	Comment puis-je vous aider ?	CharacterBergmann+<OnInteractActOne>d__40	MoveNext
+731	Arthur	What do you make of this ledger, Bergmann?	Que pensez-vous de ce registre de comptes, Bergmann ?	CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+63	Bergmann	Wh- Where did you get that!	Où... où avez-vous trouvé ça ?!	CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+732	Arthur	I found it sealed away in the bottom of a locked drawer.	Je l'ai trouvé bien caché au fond d'un tiroir verrouillé.	CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+64	Bergmann	H- How peculiar! I've never seen that before in my life!	C-Comme c'est curieux ! Je n'ai jamais vu ce cahier de toute ma vie !	CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+733	Arthur	Really? Then we should pass this to the authorities when they arrive.	Vraiment ? Alors nous devrions le remettre à la police dès son arrivée.	CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+65	Bergmann	No!	Non !	CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+734	Arthur	I'd bet if they were to audit this ledger, the numbers wouldn't add up.	Je parie que si un inspecteur audite ce registre, les chiffres n'auront ni queue ni tête.	CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+66	Bergmann	Listen, Arthur. I'm in a bit of a bind here.	Écoutez, Arthur. Je suis dans une fâcheuse posture.	CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+67	Bergmann	Ashamed to say, I've fallen in with a rather unscrupulous individual.	J'ai honte de l'avouer, mais je me suis compromis avec un individu sans scrupules.	CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+1173	Arthur	Are you talking about Donny Donato?	Vous voulez parler de Donny Donato ?	CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+68	Bergmann	I'm afraid so.	J'en ai bien peur.	CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+69	Bergmann	They managed to exploit my weakness, don't you see?	Il a su exploiter ma faiblesse, vous comprenez ?	CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+70	Bergmann	I'm a victim in all this, Arthur!	Je suis une victime dans toute cette histoire, Arthur !	CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+1175	Arthur	It's time to come clean. What's going on?	Il est temps de tout avouer. Qu'est-ce qui se trame ?	CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+71	Bergmann	It's Donny. He's concocted a scheme to cheat at the casino tables.	C'est Donny. Il a monté une arnaque pour tricher aux tables du casino.	CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+72	Bergmann	We need to stop him, Arthur. I can't afford to lose more of the estate's money.	Nous devons l'arrêter, Arthur. Je ne peux pas me permettre de perdre davantage de l'argent de la succession.	CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+233	Diana	I can't understand you, sorry.	Je ne comprends rien à ce que tu dis, désolée.	CharacterDiana+<OnInteractActOneDrunk>d__18	MoveNext
+234	Diana	Did you find anything yet, Arthur?	Tu as trouvé quelque chose, Arthur ?	CharacterDiana+<OnInteractActOneBeforeGivingEvidence>d__19	MoveNext
+235	Diana	We need to get that will back, Arthur.	Il faut qu'on récupère ce testament, Arthur.	CharacterDiana+<OnInteractActOneAfterGivingEvidence>d__20	MoveNext
+236	Diana	Keep your guard up.	Reste sur tes gardes.	CharacterDiana+<OnInteractActOneAfterGivingEvidence>d__20	MoveNext
+237	Diana	I'll monitor the situation from here.	Je surveille la situation d'ici.	CharacterDiana+<OnInteractActOneAfterGivingEvidence>d__20	MoveNext
+238	Diana	We need to look into this further, Arthur.	Nous devons creuser ça de plus près, Arthur.	CharacterDiana+<OnInteractActOneAfterPhoneCall>d__21	MoveNext
+213	Arthur	Well, I've got Herman's keys.	Eh bien, j'ai les clés d'Herman.	CharacterDiana+<OnInteractActOneAfterPhoneCall>d__21	MoveNext
+214	Arthur	Maybe we can look for evidence in his room?	On pourrait peut-être chercher des indices dans sa chambre ?	CharacterDiana+<OnInteractActOneAfterPhoneCall>d__21	MoveNext
+241	Diana	The will is still missing.	Le testament manque toujours à l'appel.	CharacterDiana+<OnInteractActOneHermanQuartersMissingWill>d__22	MoveNext
+242	Diana	Have you seen it anywhere, Arthur?	Tu l'as aperçu quelque part, Arthur ?	CharacterDiana+<OnInteractActOneHermanQuartersMissingWill>d__22	MoveNext
+239	Diana	The missing will was here all along.	Le testament disparu était ici depuis le début.	CharacterDiana+<OnInteractActOneHermanQuartersWindowWill>d__23	MoveNext
+240	Diana	Better grab it before we lose it again, Arthur.	On ferait bien de le ramasser avant de le reperdre, Arthur.	CharacterDiana+<OnInteractActOneHermanQuartersWindowWill>d__23	MoveNext
+255	Diana	No, thanks!	Non merci !	CharacterDiana+<OnUseInvDianaActOneSleeperCarriage>d__31	MoveNext
+253	Diana	What is this?	Qu'est-ce que c'est ?	CharacterDiana+<OnUseInvDianaActOneSleeperCarriage>d__31	MoveNext
+254	Diana	Not here.	Pas ici.	CharacterDiana+<OnUseInvDianaActOneSleeperCarriage>d__31	MoveNext
+314	Diana	I really don't want to touch that.	Je n'ai vraiment pas envie de toucher à ça.	CharacterDiana+<OnUseInvDianaActOneDianaQuarters>d__32	MoveNext
+256	Diana	You hang on to it, Arthur.	Garde ça sur toi, Arthur.	CharacterDiana+<OnUseInvDianaActOneHermanQuarters>d__33	MoveNext
+0	Guard	Sorry, sir. The lounge and beyond are strictly off limits for now.	Désolé, monsieur. Le salon et les voitures suivantes sont formellement interdits pour le moment.	CharacterGuard+<OnInteractActOneHaltSequence>d__6	MoveNext
+633	Arthur	But there's a killer on the loose!	Mais il y a un assassin en liberté !	CharacterGuard+<OnInteractActOneHaltSequence>d__6	MoveNext
+634	Arthur	I'm the only one who had access to Lady Unterwald's will. I could be next!	Je suis le seul qui avait accès au testament de Lady Unterwald. Je pourrais être le prochain !	CharacterGuard+<OnInteractActOneHaltSequence>d__6	MoveNext
+1	Guard	No exceptions.	Aucune exception.	CharacterGuard+<OnInteractActOneHaltSequence>d__6	MoveNext
+1076	Arthur	Sorry about Lady Unterwald.	Toutes mes condoléances pour Lady Unterwald.	CharacterGunter+<OnInteractActOneChapterOneFirstOccurrence>d__19	MoveNext
+66	Gunter	What do you want, Arthur?	Qu'est-ce que vous voulez, Arthur ?	CharacterGunter+<OnInteractActOneChapterOneFirstOccurrence>d__19	MoveNext
+1077	Arthur	Hello there.	Bonjour.	CharacterGunter+<OnInteractActOneChapterOne>d__20	MoveNext
+1527	Arthur	What's going on?	Qu'est-ce qui se passe ?	CharacterGunter+<OnInteractActOneChapterTwoSleeperCarriageFirstOccurrence>d__23	MoveNext
+134	Hagen	Ahh! Nothing!	Ahh ! Rien du tout !	CharacterGunter+<OnInteractActOneChapterTwoSleeperCarriageFirstOccurrence>d__23	MoveNext
+147	Gunter	Nobody has seen Herman since he vanished.	Personne n'a revu Herman depuis sa disparition.	CharacterGunter+<OnInteractActOneChapterTwoSleeperCarriageFirstOccurrence>d__23	MoveNext
+135	Hagen	We're very concerned for his well-being!	Nous nous faisons un sang d'encre pour lui !	CharacterGunter+<OnInteractActOneChapterTwoSleeperCarriageFirstOccurrence>d__23	MoveNext
+148	Gunter	Now, if you'll excuse us, we're going to check his room.	À présent, si vous voulez bien nous excuser, nous allons fouiller sa cabine.	CharacterGunter+<OnInteractActOneChapterTwoSleeperCarriageFirstOccurrence>d__23	MoveNext
+1528	Arthur	How's the breaking and entering going?	Comment se passe votre effraction ?	CharacterGunter+<OnInteractActOneChapterTwoSleeperCarriage>d__24	MoveNext
+146	Gunter	Not now, Arthur! We're trying to concentrate!	Pas maintenant, Arthur ! Nous essayons de nous concentrer !	CharacterGunter+<OnInteractActOneChapterTwoSleeperCarriage>d__24	MoveNext
+69	Gunter	You're scaring me!	Tu me fais peur !	CharacterGunter+<OnInteractActOneDrunk>d__25	MoveNext
+59	Hagen	He's scaring me more!	C'est lui qui me fait le plus peur !	CharacterGunter+<OnInteractActOneDrunk>d__25	MoveNext
+735	Arthur	Not thissh again.	Pash encorrre çschâ.	CharacterGunter+<OnInteractActOneDrunk>d__25	MoveNext
+717	Arthur	How are you holding up, doc?	Comment vous tenez le coup, toubib ?	CharacterHirsch+<OnInteractActOneChapterOneFirstOccurrence>d__14	MoveNext
+1446	Arthur	Doctor?	Docteur ?	CharacterHirsch+<OnInteractActOneChapterOneFirstOccurrence>d__14	MoveNext
+719	Arthur	I think he's too distraught to talk right now.	Je crois qu'il est trop bouleversé pour parler en ce moment.	CharacterHirsch+<OnInteractActOneChapterOneFirstOccurrence>d__14	MoveNext
+213	Hirsch	I really thought Herman would be able to help us.	Je pensais vraiment qu'Herman pourrait nous sortir de là.	CharacterHirsch+<OnInteractActOneChapterOneCallout>d__16	MoveNext
+214	Hirsch	Forgive me, Lady Unterwald! I let you down.	Pardonnez-moi, Lady Unterwald ! Je vous ai fait faux bond.	CharacterHirsch+<OnInteractActOneChapterOneCallout>d__16	MoveNext
+215	Hirsch	I should have done something!	J'aurais dû agir !	CharacterHirsch+<OnInteractActOneChapterOneCallout>d__16	MoveNext
+216	Hirsch	Pull yourself together!	Ressaisissez-vous !	CharacterHirsch+<OnInteractActOneChapterOneCallout>d__16	MoveNext
+217	Hirsch	There's nothing I could've done!	Il n'y avait rien que je puisse faire !	CharacterHirsch+<OnInteractActOneChapterOneCallout>d__16	MoveNext
+53	Hirsch	My god! Are you okay, Arthur?	Mon Dieu ! Tout va bien, Arthur ?	CharacterHirsch+<OnInteractActOneChapterTwoDrunk>d__17	MoveNext
+63	Hirsch	How can I help, Arthur?	Comment puis-je vous aider, Arthur ?	CharacterHirsch+<OnInteractActOneChapterTwoFirstOccurrence>d__18	MoveNext
+0	Maurice	Good evening, sir.	Bonsoir, monsieur.	CharacterMaurice+<OnInteractActOne>d__5	MoveNext
+1	Maurice	Very good, sir.	Très bien, monsieur.	CharacterMaurice+<OnInteractActOneDrunk>d__7	MoveNext
+1	Ron	The name's Ron.	Moi c'est Ron.	CharacterRon+<OnInteractActOneFirstOccurrence>d__11	MoveNext
+751	Arthur	I'm Arthur Ackerman!	Je suis Arthur Ackerman !	CharacterRon+<OnInteractActOneFirstOccurrence>d__11	MoveNext
+2	Ron	Can I help you, Arthur?	Puis-je vous être utile, Arthur ?	CharacterRon+<OnInteractActOneFirstOccurrence>d__11	MoveNext
+8	Susanne	I can't understand you, Arthur.	Je ne vous comprends pas, Arthur.	CharacterSusanne+<OnInteractActOneDrunk>d__9	MoveNext
+700	Arthur	Arthur Ackerman, at your service.	Arthur Ackerman, à votre service.	CharacterSusanne+<OnInteractActOne>d__10	MoveNext
+10	Susanne	Susanne Goldschmidt.	Susanne Goldschmidt.	CharacterSusanne+<OnInteractActOne>d__10	MoveNext
+13	Susanne	Do you need anything?	Avez-vous besoin de quelque chose ?	CharacterSusanne+<OnInteractActOne>d__10	MoveNext
+14	Susanne	I heard about Lady Unterwald.	J'ai appris pour Lady Unterwald.	CharacterSusanne+<OnInteractActOne>d__10	MoveNext
+701	Arthur	Not at the moment!	Pas pour l'instant !	CharacterSusanne+<OnInteractActOne>d__10	MoveNext
+15	Susanne	Until next time.	À la prochaine.	CharacterSusanne+<OnInteractActOne>d__10	MoveNext
+1098	Arthur	Lady Unterwald was murdered! What should I do?	Lady Unterwald a été assassinée ! Que dois-je faire ?	DialogHintLineChapterOne+<Option1>d__5	MoveNext
+12	Chiselton	Sorry to hear that, pal. If you suspect foul play, you could talk to the other passengers? Search around for clues, maybe?	Triste nouvelle, l'ami. Si vous soupçonnez un crime, parlez aux autres passagers. Fouillez les recoins pour dénicher des indices, peut-être ?	DialogHintLineChapterOne+<Option1>d__5	MoveNext
+1099	Arthur	I need another hint, what should I do!	J'ai besoin d'un autre indice, qu'est-ce que je devrais faire ?!	DialogHintLineChapterOne+<Option1a>d__6	MoveNext
+13	Chiselton	Have you tried talking to everybody aboard the train? Searching Lady Unterwald's quarters might yield some results.	Avez-vous essayé d'interroger tout le monde à bord ? Fouiller les quartiers de Lady Unterwald pourrait s'avérer fructueux.	DialogHintLineChapterOne+<Option1a>d__6	MoveNext
+14	Chiselton	Head to Lady Unterwald's quarters, you might find some clues there!	Foncez dans les quartiers de Lady Unterwald, vous y trouverez sûrement des indices !	DialogHintLineChapterOne+<Option1b>d__7	MoveNext
+97	Chiselton	Talk to the sleazy gentleman in the dining carriage, then follow his instructions.	Parlez au monsieur louche dans le wagon-restaurant, puis suivez ses instructions.	DialogHintLineChapterOne+<Option1c>d__8	MoveNext
+1101	Arthur	I need to get into Lady Unterwald's room!	Je dois entrer dans la chambre de Lady Unterwald !	DialogHintLineChapterOne+<Option2>d__9	MoveNext
+15	Chiselton	Looks like you'll have to get past the guard first. Can you distract them somehow?	On dirait qu'il va d'abord falloir passer le garde. Pouvez-vous faire diversion ?	DialogHintLineChapterOne+<Option2>d__9	MoveNext
+1102	Arthur	I need another hint, how can I get past the guard?	J'ai besoin d'un autre indice, comment passer ce garde ?	DialogHintLineChapterOne+<Option2a>d__10	MoveNext
+16	Chiselton	Maybe you could convince them to leave their post. Do they have a weakness for anything?	Peut-être pourriez-vous le convaincre de quitter son poste. N'aurait-il pas un point faible ?	DialogHintLineChapterOne+<Option2a>d__10	MoveNext
+17	Chiselton	The guard suffers from a fragrance allergy. Can you find something that would trigger it?	Le garde souffre d'une terrible allergie au parfum. Trouveriez-vous de quoi la déclencher ?	DialogHintLineChapterOne+<Option2b>d__11	MoveNext
+98	Chiselton	There's a sleazy gentleman in the dining carriage who may have what you need.	Il y a un monsieur un peu louche au wagon-restaurant qui a peut-être ce qu'il vous faut.	DialogHintLineChapterOne+<Option2c>d__12	MoveNext
+99	Chiselton	Get the perfumed note off the sleazy gentleman in the dining carriage. It should be potent enough to deal with the guard.	Récupérez le mot parfumé auprès du type louche au wagon-restaurant. Son odeur devrait suffire à neutraliser le garde.	DialogHintLineChapterOne+<Option2d>d__13	MoveNext
+1107	Arthur	I've lost the will, how can I get it back?	J'ai perdu le testament, comment le récupérer ?	DialogHintLineChapterOne+<Option3>d__14	MoveNext
+21	Chiselton	Have you spotted it? The will might be flapping about somewhere.	L'avez-vous repéré ? Le testament doit flotter au vent quelque part.	DialogHintLineChapterOne+<Option3>d__14	MoveNext
+1108	Arthur	I need another hint about the will.	J'ai besoin d'un autre indice à propos du testament.	DialogHintLineChapterOne+<Option3a>d__15	MoveNext
+22	Chiselton	Explore all the carriages, you might be able to grab it!	Explorez toutes les voitures, vous devriez pouvoir l'attraper !	DialogHintLineChapterOne+<Option3a>d__15	MoveNext
+23	Chiselton	If you explore the carriages, you should be able to find it in the window!	En inspectant les fenêtres des voitures, vous devriez le voir voleter dehors !	DialogHintLineChapterOne+<Option3b>d__16	MoveNext
+1110	Arthur	I tried to get the will back, but it flew away!	J'ai essayé d'attraper le testament, mais il s'est envolé plus loin !	DialogHintLineChapterOne+<Option4>d__17	MoveNext
+24	Chiselton	There's a chance it flew by the sleeper carriage. Those rooms are locked though!	Il s'est peut-être posé près de la voiture-lits. Mais ces cabines sont verrouillées !	DialogHintLineChapterOne+<Option4>d__17	MoveNext
+25	Chiselton	You'll have to gain access to passengers' quarters before you can get to the will.	Vous devrez entrer dans les cabines des passagers pour atteindre le testament.	DialogHintLineChapterOne+<Option4a>d__18	MoveNext
+26	Chiselton	You'll need to access Herman's quarters, too bad he lost his keys!	Il vous faudra pénétrer dans la cabine d'Herman. Dommage qu'il ait perdu ses clés !	DialogHintLineChapterOne+<Option4b>d__19	MoveNext
+1113	Arthur	I found some keys, what should I do next?	J'ai trouvé des clés, que dois-je faire maintenant ?	DialogHintLineChapterOne+<Option5>d__20	MoveNext
+27	Chiselton	Could you return those keys to their rightful owner?	Pourriez-vous rendre ces clés à leur propriétaire légitime ?	DialogHintLineChapterOne+<Option5>d__20	MoveNext
+1114	Arthur	I need another hint about the keys.	J'ai besoin d'un autre indice sur les clés.	DialogHintLineChapterOne+<Option5a>d__21	MoveNext
+28	Chiselton	Those look like room keys. Can you locate the room number?	Ce sont des clés de cabine. Pouvez-vous identifier le numéro de chambre ?	DialogHintLineChapterOne+<Option5a>d__21	MoveNext
+29	Chiselton	Those are Don's keys. Maybe find the right room and drop them off?	Ce sont les clés de Don. Trouvez la bonne cabine et déposez-les à l'intérieur !	DialogHintLineChapterOne+<Option5b>d__22	MoveNext
+1116	Arthur	Where can I find Bergmann's ledger?	Où puis-je trouver le registre de Bergmann ?	DialogHintLineChapterOne+<Option6>d__23	MoveNext
+30	Chiselton	It sounds like Bergmann hid the ledger in a safe space.	On dirait bien que Bergmann a caché ce registre en lieu sûr.	DialogHintLineChapterOne+<Option6>d__23	MoveNext
+1117	Arthur	I need another hint about the ledger.	J'ai besoin d'un autre indice sur le registre.	DialogHintLineChapterOne+<Option6a>d__24	MoveNext
+31	Chiselton	The ledger is hidden in Lady Unterwald's quarters. But where?	Le registre est caché dans les quartiers de Lady Unterwald. Mais où donc ?	DialogHintLineChapterOne+<Option6a>d__24	MoveNext
+32	Chiselton	Did you try looking in Lady Unterwald's desk drawer?	Avez-vous pensé à fouiller le tiroir du bureau de Lady Unterwald ?	DialogHintLineChapterOne+<Option6b>d__25	MoveNext
+1825	Arthur	Lady Unterwald's drawer is locked, what do I do?	Le tiroir de Lady Unterwald est fermé à clé, que faire ?	DialogHintLineChapterOne+<Option7>d__26	MoveNext
+100	Chiselton	Perhaps you can find something to wedge it open?	Peut-être trouverez-vous de quoi le forcer en faisant levier ?	DialogHintLineChapterOne+<Option7>d__26	MoveNext
+1826	Arthur	I need another hint about the desk drawer.	J'ai besoin d'un autre indice sur le tiroir du bureau.	DialogHintLineChapterOne+<Option7a>d__27	MoveNext
+101	Chiselton	I'll bet you could fit something thin and metal in between the gap.	Je parie qu'une tige métallique fine pourrait s'insérer dans l'interstice.	DialogHintLineChapterOne+<Option7a>d__27	MoveNext
+102	Chiselton	If you wedged a metal hanger in there, I bet it'd open!	Si vous y enfonciez un cintre en métal, je parie qu'il s'ouvrirait d'un coup !	DialogHintLineChapterOne+<Option7b>d__28	MoveNext
+1828	Arthur	I found the ledger, what should I do with it?	J'ai trouvé le registre, qu'est-ce que j'en fais maintenant ?	DialogHintLineChapterOne+<Option8>d__29	MoveNext
+103	Chiselton	You could use that ledger to apply some pressure, no doubt.	Ce registre ferait un formidable moyen de pression, assurément.	DialogHintLineChapterOne+<Option8>d__29	MoveNext
+104	Chiselton	If Bergmann's been cooking the books, he wouldn't be too pleased to see that.	Si Bergmann a truqué les comptes, il ne verra pas ça d'un très bon œil.	DialogHintLineChapterOne+<Option8a>d__30	MoveNext
+105	Chiselton	I'd confront Bergmann with it, let's see what he has to say for himself then!	Confrontez Bergmann avec le registre, voyons comment il se justifie !	DialogHintLineChapterOne+<Option8b>d__31	MoveNext
+1119	Arthur	How do I stop Don's scheme?	Comment déjouer la combine de Don ?	DialogHintLineChapterOne+<Option9>d__32	MoveNext
+33	Chiselton	Have you observed Don at the roulette table? How is he manipulating the result?	Avez-vous observé Don à la roulette ? Comment truque-t-il les résultats ?	DialogHintLineChapterOne+<Option9>d__32	MoveNext
+1120	Arthur	I need another hint to stop Don's scheme!	J'ai besoin d'un autre indice pour contrer le coup de Don !	DialogHintLineChapterOne+<Option9a>d__33	MoveNext
+34	Chiselton	Don's rigged the game with a magnetic ball. Can you disrupt the magnetic field?	Don a truqué la roulette avec une bille magnétique. Pouvez-vous perturber le champ magnétique ?	DialogHintLineChapterOne+<Option9a>d__33	MoveNext
+35	Chiselton	A well-placed magnet of your own would likely throw off Don's scheme!	Un aimant bien placé perturberait complètement le stratagème de Don !	DialogHintLineChapterOne+<Option9b>d__34	MoveNext
+1122	Arthur	How do I stop Don getting more casino chips?	Comment empêcher Don d'obtenir d'autres jetons ?	DialogHintLineChapterOne+<Option10>d__35	MoveNext
+36	Chiselton	He must be getting them from somewhere! Is there a way to find out?	Il doit bien les tirer de quelque part ! Y a-t-il un moyen de le savoir ?	DialogHintLineChapterOne+<Option10>d__35	MoveNext
+1123	Arthur	I need another hint to stop Don getting chips!	J'ai besoin d'un autre indice pour bloquer les jetons de Don !	DialogHintLineChapterOne+<Option10a>d__36	MoveNext
+37	Chiselton	It looks like Don heads for his quarters, maybe you can beat him to it?	Don semble filer vers sa cabine. Peut-être pouvez-vous le prendre de vitesse ?	DialogHintLineChapterOne+<Option10a>d__36	MoveNext
+38	Chiselton	When Don leaves the table, get to his room before he does!	Dès que Don quitte la table, courez à sa chambre avant lui !	DialogHintLineChapterOne+<Option10b>d__37	MoveNext
+1125	Arthur	That's enough hints for now.	C'est assez d'indices pour le moment.	DialogHintLineChapterOne+<Option11>d__38	MoveNext
+833	Arthur	It's Doctor Hirsch's medical bag. I assume it's full of doctorly things.	C'est la sacoche médicale du Dr Hirsch. Bourrée d'instruments médicaux, j'imagine.	InventoryMedicalBriefcase+<OnLookAtInventoryActOne>d__1	MoveNext
+419	Diana	April, are you there?	April, tu me reçois ?	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+40	April	Diana?	Diana ?	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+41	April	What took you so long? I was starting to worry!	Qu'est-ce qui t'a pris si longtemps ? Je commençais à m'inquiéter !	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+425	Diana	I have to go. I'll keep you updated.	Je dois couper. Je te tiens au courant.	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+45	April	Diana, abort! Abort the mission!	Diana, annule ! Abandonne la mission !	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+426	Diana	So, you finally made it.	Alors, tu as enfin réussi à venir.	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+427	Diana	I was beginning to doubt your abilities!	Je commençais à douter de tes compétences !	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+284	Arthur	You didn't make it easy!	Vous ne m'avez pas facilité la tâche !	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+285	Arthur	Were you talking to someone in here?	Vous parliez à quelqu'un là-dedans ?	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+428	Diana	No. And that's none of your concern.	Non. Et cela ne vous regarde pas.	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+286	Arthur	Well, what can you tell me?	Alors, que pouvez-vous me dire ?	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+429	Diana	Hm, you're right. A proper introduction is in order.	Hmm, vous avez raison. Une présentation en bonne et due forme s'impose.	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+430	Diana	Diana Osterhagen, Inland Revenue Secret Service.	Diana Osterhagen, Services Secrets du Fisc britannique.	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+431	Diana	I'm a field operative, working under the British Government.	Je suis agent de terrain pour le gouvernement britannique.	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+386	Arthur	The Inland Revenue has a Secret Service branch? I've never heard of them.	Le fisc a des services secrets ? Je n'en ai jamais entendu parler.	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+432	Diana	That's the point, Arthur.	C'est tout l'intérêt, Arthur.	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+433	Diana	We've suspected the Unterwald estate has been concealing financial crimes for some time, but we weren't able to pin them down.	Nous soupçonnions le domaine Unterwald de dissimuler des fraudes massives depuis un moment, sans réussir à les coincer.	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+434	Diana	There was always an obstruction, someone with their thumb on the scale.	Il y avait toujours un obstacle, quelqu'un pour fausser la balance.	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+387	Arthur	Not just a thumb, but maybe a hand.	Pas seulement un pouce... peut-être une main entière.	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+435	Diana	We had nothing to go on, not until an informant made contact with the promise of information.	Nous n'avions aucune piste, jusqu'à ce qu'un informateur nous contacte en promettant des révélations.	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+393	Arthur	And...	Et...	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+394	Arthur	You think I'm that informant?	Vous pensez que je suis cet informateur ?	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+436	Diana	The informant would be wearing a blue suit with a red rosette.	L'informateur devait porter un costume bleu avec une rosette rouge.	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+437	Diana	Are you suggesting that doesn't match your description?	Vous insinuez que cela ne correspond pas à votre tenue ?	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+649	Arthur	The suit? Of course.	Le costume ? Évidemment.	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+650	Arthur	Lady Unterwald must have orchestrated this whole thing!	Lady Unterwald a manigancé toute cette mascarade !	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+438	Diana	What's that?	Qu'avez-vous dit ?	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+651	Arthur	Nothing! I was just thinking out loud.	Rien ! Je pensais tout haut.	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+439	Diana	So, what have you got? Do you have evidence of financial misconduct?	Alors, qu'avez-vous sous la main ? Des preuves de malversations financières ?	RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+28	Diana	Herman's belongings are still here. It doesn't look like he fled.	Les affaires d'Herman sont encore là. Il n'a pas l'air d'avoir pris la fuite.	RoomHermanQuarters+<OnEnterRoomAfterFadeActOneEnterWithDiana>d__19	MoveNext
+29	Diana	Let's take a look around, maybe we'll find a clue.	Jetons un coup d'œil aux alentours, on trouvera peut-être une piste.	RoomHermanQuarters+<OnEnterRoomAfterFadeActOneEnterWithDiana>d__19	MoveNext
+134	Arthur	I got it!	Je l'ai eu !	RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+10	Diana	Well done, Arthur!	Bien joué, Arthur !	RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+135	Arthur	Where there's a will, there's a way!	Là où il y a un testament, il y a un chemin !	RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+0	Gunter	Hellooo?	Il y a quelqu'uuun ?	RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+0	Hagen	Is that you, detective?	C'est vous, détective ?	RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+1	Gunter	Hey, you're not Herman!	Hé, vous n'êtes pas Herman !	RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+1	Hagen	What are you doing here?	Qu'est-ce que vous fabriquez ici ?	RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+136	Arthur	We were just...	Nous étions simplement...	RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+11	Diana	We could ask you the same question.	Nous pourrions vous retourner la question.	RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+2	Gunter	We were looking for the detective.	Nous cherchions le détective.	RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+2	Hagen	Wait, what's that you're holding?	Attendez, qu'avez-vous dans les mains ?	RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+137	Arthur	This is just a piece of paper, all very inconsequential.	Ce n'est qu'un vulgaire bout de papier sans la moindre importance.	RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+3	Hagen	You found the missing will?	Vous avez retrouvé le testament égaré ?	RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+4	Hagen	We can do the reading now, Mr Ackerman!	Nous pouvons enfin procéder à la lecture, M. Ackerman !	RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+138	Arthur	I don't think that's a good idea.	Je ne crois pas que ce soit une bonne idée.	RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+3	Gunter	We should get started right away!	Nous devrions commencer immédiatement !	RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+139	Arthur	There's still a lot of cross-referencing we need to per-	Il reste encore pas mal de recoupements juridiques à effec...	RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+4	Gunter	Oh, we insist!	Oh, nous insistons !	RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+206	Arthur	What drives a man to own this many bow ties?	Qu'est-ce qui peut pousser un homme à posséder autant de nœuds papillon ?	RoomHermanQuarters+<OnLookAtPropLuggageActOne>d__30	MoveNext
+31	Diana	Your guess is as good as mine. But we're not here to pursue crimes of fashion.	Aucune idée. Mais nous ne sommes pas là pour instruire un procès pour faute de goût.	RoomHermanQuarters+<OnLookAtPropLuggageActOne>d__30	MoveNext
+211	Arthur	Still mighty suspicious, if you ask me.	Ça reste sacrément louche, si vous voulez mon avis.	RoomHermanQuarters+<OnLookAtPropLuggageActOne>d__30	MoveNext
+212	Arthur	It's a cheap WHISPERNOTE knock-off.	C'est une contrefaçon bon marché de Whispernote.	RoomHermanQuarters+<OnLookAtPropTypewriterActOne>d__41	MoveNext
+221	Arthur	No self-respecting writer should be opting for an off-brand model.	Aucun écrivain digne de ce nom n'utiliserait une telle sous-marque.	RoomHermanQuarters+<OnLookAtPropTypewriterActOne>d__41	MoveNext
+32	Diana	Are you comparing office supplies right now?	Tu es sérieusement en train de comparer des fournitures de bureau là ?	RoomHermanQuarters+<OnLookAtPropTypewriterActOne>d__41	MoveNext
+618	Arthur	‘Herman Merman And The Suburban Burden'	« Herman Merman et le Fardeau de Banlieue »	RoomHermanQuarters+<OnLookAtPropManuscriptsActOne>d__45	MoveNext
+653	Arthur	Not one of his better titles. These must be unfinished works.	Pas son titre le plus inspiré. Ce doivent être des manuscrits inachevés.	RoomHermanQuarters+<OnLookAtPropManuscriptsActOne>d__45	MoveNext
+656	Arthur	I can't say I've read any of these before, and I don't think I'll be starting now.	Je ne peux pas dire que j'en aie lu un seul, et ce n'est certainement pas aujourd'hui que je vais commencer.	RoomHermanQuarters+<OnLookAtPropNovelsActOne>d__49	MoveNext
+662	Arthur	Looks like those twins were rifling through Herman's belongings.	On dirait bien que les jumeaux ont fouiné dans les affaires d'Herman.	RoomHermanQuarters+<OnLookAtPropPapersActOne>d__55	MoveNext
+33	Diana	Ugh. They give me the heebie-jeebies.	Beurk. Ils me flanquent des frissons dans le dos.	RoomHermanQuarters+<OnLookAtPropPapersActOne>d__55	MoveNext
+749	Arthur	It's a small collection of Dirk Chiselton adventures.	C'est une petite collection des aventures de Dirk Chiselton.	RoomHermanQuarters+<OnLookAtPropBooksActOne>d__59	MoveNext
+1226	Arthur	The paperbacks are dog-eared, like he read them in a bad mood.	Les pages sont toutes cornées, comme s'il les avait lues d'une humeur massacrante.	RoomHermanQuarters+<OnLookAtPropBooksActOne>d__59	MoveNext
+353	Arthur	And thasch why...	Et c'esscht pourrrquoi...	RoomLoungeCarriage+<OnEnterAfterFadeActOneDrunkMontage>d__38	MoveNext
+354	Arthur	...youUu' my besschd fierend!	...voussshh êtes ma meilleure amiiie !	RoomLoungeCarriage+<OnEnterAfterFadeActOneDrunkMontage>d__38	MoveNext
+0	Susanne	Yes, Arthur.	Oui, Arthur.	RoomLoungeCarriage+<OnEnterAfterFadeActOneDrunkMontage>d__38	MoveNext
+1	Susanne	We're all very pleased that you're finally having a good time.	Nous sommes tous ravis que vous passiez enfin du bon temps.	RoomLoungeCarriage+<OnEnterAfterFadeActOneDrunkMontage>d__38	MoveNext
+2	Susanne	But I can't understand a word you're saying.	Mais je ne comprends pas un traître mot de ce que vous marmonnez.	RoomLoungeCarriage+<OnEnterAfterFadeActOneDrunkMontage>d__38	MoveNext
+3	Susanne	None of us can!	Aucun de nous n'y comprend rien !	RoomLoungeCarriage+<OnEnterAfterFadeActOneDrunkMontage>d__38	MoveNext
+809	Arthur	Oof, that coffee did the trick, but my head is killing me.	Ouf, ce café m'a remis d'aplomb, mais j'ai une de ces migraines...	RoomLoungeCarriage+<OnEnterAfterFadeActOneSoberedUp>d__39	MoveNext
+810	Arthur	I hope I didn't embarrass myself.	J'espère que je ne me suis pas trop couvert de ridicule.	RoomLoungeCarriage+<OnEnterAfterFadeActOneSoberedUp>d__39	MoveNext
+12	Hirsch	Well, Arthur?	Alors, Arthur ?	RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+24	Bergmann	What does it say?	Qu'est-ce qu'il y a écrit ?	RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+356	Arthur	I'm not sure I should--	Je ne suis pas certain de devoir...	RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+2	Arista	GET ON WITH IT!	ACCOUCHERIEZ-VOUS ENFIN ?!	RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+357	Arthur	Alright, alright!	Très bien, très bien !	RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+358	Arthur	It reads as follows...	Le texte est le suivant...	RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+359	Arthur	I, Lady Unterwald, being of sound mind and legal capacity...	Moi, Lady Unterwald, saine d'esprit et en pleine possession de mes facultés juridiques...	RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+360	Arthur	Leave my entire estate to...	Lègue l'intégralité de mes biens et de mon domaine à...	RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+26	Bergmann	You poisonous goat!	Espèce de vipère malfaisante !	RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+27	Bergmann	You turned her against us.	Vous l'avez montée contre nous !	RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+362	Arthur	I -	Je...	RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+20	Hagen	We were right to distrust you!	Nous avions bien raison de nous méfier de vous !	RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+27	Gunter	Hand over that will!	Rendez-nous ce testament !	RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+28	Gunter	Hey, that's your hearing horn!	Hé, mais c'est votre cornet acoustique !	RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+4	Arista	It's all starting to make sense now.	Tout commence à s'éclairer.	RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+21	Hagen	What is it, mother?	Qu'y a-t-il, mère ?	RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+5	Arista	Arthur clearly manipulated my dear sister's living will in his own favour.	Arthur a de toute évidence manipulé les dernières volontés de ma chère sœur à son profit personnel.	RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+6	Arista	Then murdered her to claim the estate for himself!	Puis il l'a assassinée pour s'emparer de tout le domaine !	RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+364	Arthur	It's not what it looks like!	Ce n'est pas ce que vous croyez !	RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+14	Hirsch	Oh dear.	Grand Dieu.	RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+7	Arista	Seize him!	Attrapez-le !	RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+668	Arthur	I should confront Bergmann about this ledger.	Je devrais confronter Bergmann au sujet de ce registre.	RoomLoungeCarriage+<OnEnterAfterFadeActOneGotAccountingRecords>d__54	MoveNext
+1496	Arthur	Everything has been packed away, I must have missed their opening hours.	Tout a été remballé, j'ai dû rater les horaires d'ouverture.	RoomLoungeCarriage+<OnLookAtPropShoeshineSeatsActOne>d__85	MoveNext
+1497	Arthur	When this is all over, I'd like to curl up in this reading nook.	Quand tout sera terminé, j'aimerais bien m'affaler dans ce coin lecture.	RoomLoungeCarriage+<OnLookAtPropBookshelfLActOne>d__89	MoveNext
+1498	Arthur	Nah. I think enough people have died on stage tonight.	Non. Je crois qu'assez de gens sont morts sur scène ce soir.	RoomLoungeCarriage+<OnLookAtPropMicrophoneActOne>d__93	MoveNext
+1500	Arthur	It looks expensive, and it smells like mahogany!	Ça a l'air précieux, et ça sent le bon acajou massif !	RoomLoungeCarriage+<OnLookAtPropPianoActOne>d__97	MoveNext
+1501	Arthur	This led to the backstage area before they locked it up.	Cela menait aux coulisses avant qu'ils ne verrouillent la porte.	RoomLoungeCarriage+<OnLookAtPropBackstageDoorActOne>d__101	MoveNext
+1502	Arthur	I suppose it's a potential crime scene now.	J'imagine que c'est une scène de crime potentielle maintenant.	RoomLoungeCarriage+<OnLookAtPropBackstageDoorActOne>d__101	MoveNext
+1503	Arthur	It's the guest list for the Green Room. VIPs only.	C'est la liste des invités du Salon d'honneur. Réservé aux VIP.	RoomLoungeCarriage+<OnLookAtPropGuestListActOne>d__105	MoveNext
+1504	Arthur	I don't recognise most of these names, but I see Herman made the cut!	Je ne reconnais pas la plupart des noms, mais je vois qu'Herman est sur la liste !	RoomLoungeCarriage+<OnLookAtPropGuestListActOne>d__105	MoveNext
+227	Arthur	Hmm.	Hmm.	RoomSleeperCarriage+<OnActOneKnockOnDoor>d__66	MoveNext
+232	Arthur	I guess nobody's there.	J'imagine qu'il n'y a personne.	RoomSleeperCarriage+<OnActOneKnockOnDoor>d__66	MoveNext
+238	Arthur	Helloo?	Il y a quelqu'un ?	RoomSleeperCarriage+<OnActOneKnockOnDoor>d__66	MoveNext
+239	Arthur	Looks like nobody's home.	On dirait bien que c'est vide.	RoomSleeperCarriage+<OnActOneKnockOnDoor>d__66	MoveNext
+241	Arthur	Anyone in?	Quelqu'un ?	RoomSleeperCarriage+<OnActOneKnockOnDoor>d__66	MoveNext
+242	Arthur	They must have left.	Ils ont dû s'absenter.	RoomSleeperCarriage+<OnActOneKnockOnDoor>d__66	MoveNext
+246	Arthur	I guess nobody's home.	On dirait qu'il n'y a personne.	RoomSleeperCarriage+<OnActOneKnockOnDoor>d__66	MoveNext
+244	Arthur	I really shhould sober upp first.	Je devrrrais d'aborrrd me desschouler.	RoomSleeperCarriage+<OnInteractPropStorageDoorActOne>d__69	MoveNext
+247	Arthur	The luggage room.	Le fourgon à bagages.	RoomSleeperCarriage+<OnLookAtPropStorageDoorActOne>d__97	MoveNext
+243	Arthur	It's room 302.	C'est la cabine 302.	RoomSleeperCarriage+<OnLookAtPropGuestDoorActOne>d__101	MoveNext
+233	Arthur	It's room 304.	C'est la cabine 304.	RoomSleeperCarriage+<OnLookAtPropHermanDoorActOne>d__109	MoveNext
+293	Arthur	It's room 305.	C'est la cabine 305.	RoomSleeperCarriage+<OnLookAtPropArthurDoorActOne>d__113	MoveNext
+228	Arthur	It's room 306.	C'est la cabine 306.	RoomSleeperCarriage+<OnLookAtPropDianaDoorActOne>d__117	MoveNext
+258	Arthur	The door sign reads ''DO NOT DISTURB!''	Le panonceau indique « NE PAS DÉRANGER ! »	RoomSleeperCarriage+<OnLookAtPropDoorSignActOne>d__121	MoveNext
+259	Arthur	It's a fancy cart for transporting luggage.	C'est un chariot de luxe pour transporter les bagages.	RoomSleeperCarriage+<OnLookAtPropLuggageCartActOne>d__125	MoveNext
+260	Arthur	I've only ever seen these in hotels!	Je n'avais jamais vu ça ailleurs que dans les palaces !	RoomSleeperCarriage+<OnLookAtPropLuggageCartActOne>d__125	MoveNext
+275	Arthur	I think this was Lady Unterwald's husband.	Je crois que c'était le mari de Lady Unterwald.	RoomSleeperCarriage+<OnLookAtPropStatueLActOne>d__141	MoveNext
+276	Arthur	I wonder what happened to him?	Je me demande bien ce qui lui est arrivé ?	RoomSleeperCarriage+<OnLookAtPropStatueLActOne>d__141	MoveNext
+277	Arthur	''George Unterwald.''	« George Unterwald. »	RoomSleeperCarriage+<OnLookAtPropPlaqueLActOne>d__145	MoveNext
+278	Arthur	''A loving husband. Gone, but not forgotten.''	« Un époux chéri. Disparu, mais jamais oublié. »	RoomSleeperCarriage+<OnLookAtPropPlaqueLActOne>d__145	MoveNext
+281	Arthur	''Lady J. Unterwald.''	« Lady J. Unterwald. »	RoomSleeperCarriage+<OnLookAtPropPlaqueRActOne>d__153	MoveNext
+282	Arthur	''Heiress Of the Unterwald Empire.''	« Héritière de l'Empire Unterwald. »	RoomSleeperCarriage+<OnLookAtPropPlaqueRActOne>d__153	MoveNext
+162	Herman	Misplaced?	Égaré ?	RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+163	Herman	Must I remind you of who I am?	Dois-je vous rappeler à qui vous avez affaire ?	RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+166	Herman	Herman Merman and the Murmuring German?	Herman Merman et l'Allemand qui Chuchote ?	RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+167	Herman	Herman Merman and the Squirmin' Chairman?	Herman Merman et le Patron qui Gesticule ?	RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+2	Conductor	Sorry sir, not a big reader.	Désolé monsieur, je ne lis pas beaucoup.	RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+168	Herman	Not even ''Herman Merman and the Sermon of Vermin'' ?	Pas même « Herman Merman et le Sermon des Vermines » ?	RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+3	Conductor	No, sir...	Non, monsieur...	RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+170	Herman	My point being, I don't misplace things. I solve cases!	Tout cela pour dire que je n'égare JAMAIS rien. Je résous des mystères !	RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+4	Conductor	That's excellent news, sir.	C'est une excellente nouvelle, monsieur.	RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+5	Conductor	I'm sure you'll have no problem with the case of the missing room keys.	Je suis sûr que vous n'aurez aucun mal à résoudre l'affaire des clés de chambre disparues.	RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+171	Herman	Well...	Eh bien...	RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+172	Herman	Yes, you're quite right!	Oui, vous avez parfaitement raison !	RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+492	Arthur	Mr Masson thought I might find the medical briefcase in here.	M. Masson pensait que je trouverais la mallette médicale par ici.	RoomStorageRoom+<OnEnterRoomAfterFadeActOneBeforeMedicalBriefcaseObtained>d__12	MoveNext
+600	Arthur	Hey, that cheese I left has gone!	Hé, le bout de fromage que j'avais laissé s'est envolé !	RoomStorageRoom+<OnEnterRoomAfterFadeActOnePlacedCheeseBeforePluggedMouseBurrows>d__13	MoveNext
+601	Arthur	Good thing I've got some more with me.	Heureusement que j'en ai encore sur moi.	RoomStorageRoom+<OnEnterRoomAfterFadeActOnePlacedCheeseBeforePluggedMouseBurrows>d__13	MoveNext
+400	Arthur	That solves where Herman's keys went.	Voilà qui explique où sont passées les clés d'Herman.	RoomStorageRoom+<OnLookAtPropMouseHoleActOne>d__33	MoveNext
+825	Arthur	Hm. It looks like a rodent has eaten their way through this section.	Hmm. On dirait qu'un rongeur a grignoté son chemin à travers ce compartiment.	RoomStorageRoom+<OnLookAtPropMouseHoleActOne>d__33	MoveNext
+1052	Arthur	It looks too heavy to move.	C'est bien trop lourd pour être déplacé.	RoomStorageRoom+<OnLookAtPropHeavyChestActOne>d__37	MoveNext
+1053	Arthur	This could be the medical briefcase I'm looking for!	Ce pourrait bien être la mallette médicale que je cherche !	RoomStorageRoom+<OnLookAtPropBriefcaseActOne>d__41	MoveNext
+1054	Arthur	They're all tightly secured to the luggage rack.	Elles sont toutes solidement arrimées au porte-bagages.	RoomStorageRoom+<OnLookAtPropBriefcasesActOne>d__45	MoveNext
+1245	Arthur	I wonder what's inside?	Je me demande ce qu'il y a dedans ?	RoomStorageRoom+<OnLookAtPropHeavyCaseActOne>d__49	MoveNext
+955	Arthur	Locked tight. I don't think I'm getting through there.	Fermé à double tour. Pas moyen de passer par là.	RoomStorageRoom+<OnLookAtPropLockActOne>d__53	MoveNext
+821	Arthur	Bergmann said that he'd hidden the company accounts ledger somewhere in here.	Bergmann a dit qu'il avait caché le registre des comptes quelque part par ici.	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartOne>d__32	MoveNext
+407	Arthur	Who'd want to kill Lady Unterwald?	Qui pouvait bien vouloir assassiner Lady Unterwald ?	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartOne>d__32	MoveNext
+199	Hirsch	Ah, Arthur. Thank you for coming.	Ah, Arthur. Merci d'être venu.	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+200	Hirsch	Doctor Hirsch, at your service. I'm Lady Unterwald's personal physician.	Docteur Hirsch, à votre service. J'étais le médecin personnel de Lady Unterwald.	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+201	Hirsch	Or, at least, I was.	Ou du moins, je l'étais.	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+486	Arthur	I'm sorry about Lady Unterwald, Doctor Hearse.	Je suis navré pour Lady Unterwald, Docteur Corbillard.	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+202	Hirsch	It's Hirsch. H-I-R-S-C-H!	C'est Hirsch. H-I-R-S-C-H !	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+203	Hirsch	Ohh, they're not going to call me Doctor Hearse, are they?	Ohh, ils ne vont tout de même pas m'appeler Docteur Corbillard, n'est-ce pas ?	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+204	Hirsch	I can see the headlines already. The doctor of death, who failed to save Lady Unterwald!	Je vois déjà les gros titres : Le toubib de la mort, incapable de sauver Lady Unterwald !	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+205	Hirsch	There's nothing I could've done without my medical briefcase!	Je ne pouvais rien faire sans ma mallette médicale !	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+487	Arthur	How can I help? What do you need?	Comment puis-je vous aider ? De quoi avez-vous besoin ?	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+206	Hirsch	With Herman gone, I need you to help me find some answers.	Maintenant qu'Herman a disparu, j'ai besoin de vous pour faire la lumière.	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+605	Arthur	Answers?	Faire la lumière ?	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+207	Hirsch	Help me look around, does anything look out of place?	Aidez-moi à examiner la pièce. Quelque chose vous paraît suspect ?	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+489	Arthur	This is the ledger that Bergmann mentioned.	C'est le registre comptable dont Bergmann parlait.	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpenedDrawer>d__43	MoveNext
+490	Arthur	I should ask him about those discrepancies.	Je devrais l'interroger sur ces anomalies financières.	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpenedDrawer>d__43	MoveNext
+1538	Arthur	I think that did it!	Je crois que ça a marché !	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+61	Hirsch	Stand back, Arthur!	Reculez, Arthur !	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+224	Hirsch	What is all this paperwork?	Qu'est-ce que c'est que toute cette paperasse ?	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+413	Arthur	This is one of Lady Unterwald's wills, alright.	C'est bien l'un des testaments de Lady Unterwald, aucun doute.	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+225	Hirsch	Another will?	Encore un testament ?	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+414	Arthur	Wait, there's another one!	Attendez, en voilà un autre !	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+415	Arthur	And another!	Et encore un !	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+417	Arthur	There are hundreds of wills here.	Il y a des centaines de testaments ici.	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+418	Arthur	Every alteration Lady Unterwald ever made. These could go back years!	Toutes les modifications que Lady Unterwald a ordonnées. Ça remonte à des années !	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+419	Arthur	Somebody would have to go through all this paperwork to check.	Quelqu'un va devoir éplucher toute cette paperasse pour vérifier.	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+226	Hirsch	My goodness!	Bonté divine !	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+420	Arthur	Finally, some bureaucracy!	Enfin, un peu de bureaucratie !	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+421	Arthur	62,015.	62 015.	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+422	Arthur	62,016.	62 016.	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+201	Diana	So, did you find what you were looking for?	Alors, tu as trouvé ce que tu cherchais ?	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+1539	Arthur	Not exactly.	Pas exactement.	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+423	Arthur	I'll still need to locate the lost will, but I should be able to compare it against these revisions.	Je dois toujours retrouver le testament égaré, mais je pourrai le confronter à ces versions révisées.	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+1540	Arthur	How's the espionage going?	Comment se passe l'espionnage ?	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+1541	Arthur	The safe didn't contain any financial records, if that's why you're here.	Le coffre ne contenait aucun document financier, si c'est ce qui vous intéresse.	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+476	Diana	No, that's not the reason I came.	Non, ce n'est pas pour cela que je suis venue.	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+477	Diana	Listen, I recorded a suspicious phone call shortly after the death of Lady Unterwald.	Écoute, j'ai intercepté un appel téléphonique suspect peu après la mort de Lady Unterwald.	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+1542	Arthur	What kind of phone call?	Quel genre d'appel ?	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+478	Diana	Here, you can play it on your recorder.	Tiens, tu peux l'écouter sur ton magnétophone.	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+497	Arthur	I should attend to Lady Unterwald before I leave.	Je devrais m'occuper de Lady Unterwald avant de partir.	RoomUnterwaldCarriage+<OnEnterRegionToLoungeCarriageActOne>d__56	MoveNext
+648	Arthur	I can't leave, Doctor Hirsch still needs my help.	Je ne peux pas partir, le Dr Hirsch a encore besoin de mon aide.	RoomUnterwaldCarriage+<OnEnterRegionToLoungeCarriageActOne>d__56	MoveNext
+430	Arthur	I'll need to figure out how to get that will back.	Je dois trouver le moyen de remettre la main sur ce testament.	RoomUnterwaldCarriage+<OnLookAtPropBriefcaseActOneChapterOne>d__73	MoveNext
+54	Hirsch	I'm afraid we must all come to live with our mistakes, Arthur.	Hélas, nous devons tous apprendre à vivre avec nos erreurs, Arthur.	RoomUnterwaldCarriage+<OnLookAtPropBriefcaseActOneDoctorHirsch>d__74	MoveNext
+436	Arthur	I never took Lady Unterwald to be particularly musical.	Je n'avais jamais pris Lady Unterwald pour une mélomane passionnée.	RoomUnterwaldCarriage+<OnLookAtPropInstrumentCaseActOneChapterOne>d__87	MoveNext
+437	Arthur	I don't think it was a secret that she disdained most noises.	Ce n'était un secret pour personne qu'elle abhorrait le moindre vacarme.	RoomUnterwaldCarriage+<OnLookAtPropInstrumentCaseActOneChapterOne>d__87	MoveNext
+55	Hirsch	She didn't. At least not to my knowledge.	Elle ne l'était pas. Du moins, pas à ma connaissance.	RoomUnterwaldCarriage+<OnLookAtPropInstrumentCaseActOneDoctorHirsch>d__88	MoveNext
+441	Arthur	Lady Unterwald was clearly respected and admired.	Lady Unterwald était indéniablement respectée et admirée.	RoomUnterwaldCarriage+<OnLookAtPropFlowersActOneChapterOne>d__101	MoveNext
+442	Arthur	So who'd want to take her out of the picture?	Alors qui pouvait vouloir la rayer de la carte ?	RoomUnterwaldCarriage+<OnLookAtPropFlowersActOneChapterOne>d__101	MoveNext
+56	Hirsch	I hope we'll be able to find out, Arthur.	J'espère que nous le saurons bientôt, Arthur.	RoomUnterwaldCarriage+<OnLookAtPropFlowersActOneDoctorHirsch>d__102	MoveNext
+57	Hirsch	It's a habanero pepper plant. Stay well away if you want to keep your taste buds.	C'est un plant de piment habanero. Tenez-vous à bonne distance si vous tenez à votre palais.	RoomUnterwaldCarriage+<OnLookAtPropChilliPlantActOneDoctorHirsch>d__109	MoveNext
+459	Arthur	Lady Unterwald hated balloons.	Lady Unterwald avait horreur des ballons.	RoomUnterwaldCarriage+<OnLookAtPropBalloonActOneChapterOne>d__117	MoveNext
+461	Arthur	Who's there?	Qui est là ?	RoomUnterwaldCarriage+<OnLookAtPropWardrobeActOneChapterOneTalkToHerman>d__124	MoveNext
+214	Herman	Nobody!	Personne !	RoomUnterwaldCarriage+<OnLookAtPropWardrobeActOneChapterOneTalkToHerman>d__124	MoveNext
+463	Arthur	We can only hope these coats were made from faux fur.	On ne peut qu'espérer que ces manteaux soient en fausse fourrure.	RoomUnterwaldCarriage+<OnLookAtPropWardrobeActOneChapterOne>d__125	MoveNext
+502	Arthur	Lady Unterwald hated all that clacking.	Lady Unterwald détestait tout ce cliquetis.	RoomUnterwaldCarriage+<OnLookAtPropTypewriterActOneChapterOne>d__138	MoveNext
+58	Hirsch	Jian Liu? You know, I haven't seen him for a while.	Jian Liu ? Vous savez, je ne l'ai pas croisé depuis un bon moment.	RoomUnterwaldCarriage+<OnLookAtPropCardActOneDoctorHirsch>d__146	MoveNext
+476	Arthur	It seems to be stuck.	Ça a l'air coincé.	RoomUnterwaldCarriage+<OnInteractPropDrawerActOneBeforeLostWill>d__151	MoveNext
+92	LadyUnterwald	Arthur, please leave that alone.	Arthur, cessez de toucher à tout, je vous prie.	RoomUnterwaldCarriage+<OnInteractPropDrawerActOneBeforeLostWill>d__151	MoveNext
+93	LadyUnterwald	Didn't anyone ever tell you it's rude to go through a lady's drawers?	Personne ne vous a appris qu'il est très impoli de fouiller dans les tiroirs d'une dame ?	RoomUnterwaldCarriage+<OnInteractPropDrawerActOneBeforeLostWill>d__151	MoveNext
+477	Arthur	Sorry.	Pardon.	RoomUnterwaldCarriage+<OnInteractPropDrawerActOneBeforeLostWill>d__151	MoveNext
+94	LadyUnterwald	Arthur, stop that now!	Arthur, arrêtez ça sur-le-champ !	RoomUnterwaldCarriage+<OnInteractPropDrawerActOneBeforeLostWill>d__151	MoveNext
+478	Arthur	It won't happen again.	Ça ne se reproduira plus.	RoomUnterwaldCarriage+<OnInteractPropDrawerActOneBeforeLostWill>d__151	MoveNext
+95	LadyUnterwald	Arthur, if you want to keep your fingers you'll leave that drawer alone.	Arthur, si vous tenez à vos doigts, vous avez intérêt à laisser ce tiroir tranquille.	RoomUnterwaldCarriage+<OnInteractPropDrawerActOneBeforeLostWill>d__151	MoveNext
+479	Arthur	I can't help myself!	C'est plus fort que moi !	RoomUnterwaldCarriage+<OnInteractPropDrawerActOneBeforeLostWill>d__151	MoveNext
+480	Arthur	I better not.	Je ferais mieux d'éviter.	RoomUnterwaldCarriage+<OnInteractPropDrawerActOneBeforeLostWill>d__151	MoveNext
+481	Arthur	The drawer is stuck.	Le tiroir est coincé.	RoomUnterwaldCarriage+<OnInteractPropDrawerActOneAfterLostWill>d__152	MoveNext
+482	Arthur	If I wedged something in the gap, I might be able to pry it open.	Si je glissais quelque chose dans l'interstice, je pourrais peut-être le forcer.	RoomUnterwaldCarriage+<OnInteractPropDrawerActOneAfterLostWill>d__152	MoveNext
+829	Arthur	Bergmann could've put that ledger in this drawer.	Bergmann a très bien pu dissimuler ce registre dans ce tiroir.	RoomUnterwaldCarriage+<OnInteractPropDrawerActOneBeforeUnstuckDrawer>d__153	MoveNext
+488	Arthur	It's an empty drawer.	C'est un tiroir vide.	RoomUnterwaldCarriage+<OnInteractPropDrawerActOneAfterUnstuckDrawer>d__154	MoveNext

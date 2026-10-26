@@ -1,17 +1,17 @@
 ﻿Id	Character	English	French	Class	Method
-9000	Arthur	I can't use that.	Je ne peux pas utiliser ça.	Inventory	OnLookAtInventory
-9001	Arthur	It's nothing interesting.	Rien d'intéressant.	Inventory	OnLookAtInventory
-9002	Arthur	Nothing happened.	Il ne se passe rien.	Inventory	OnLookAtInventory
-9003	Arthur	Nah.	Nan.	Inventory	OnLookAtInventory
-9004	Arthur	Nope.	Non.	Inventory	OnLookAtInventory
-9005	Arthur	That doesn't work.	Ça ne marche pas.	Inventory	OnLookAtInventory
-9006	Arthur	No.	Non.	Inventory	OnLookAtInventory
-9007	Arthur	I'm not handing over my ill-gotten gains without a reason!	Je ne vais pas céder mon précieux butin sans une bonne raison !	Inventory	OnLookAtInventory
-9008	Arthur	I think I'll hang on to this for now.	Je crois que je vais garder ça pour le moment.	Inventory	OnLookAtInventory
-9009	Arthur	They wouldn't appreciate that.	Ils n'apprécieraient pas vraiment ça.	Inventory	OnLookAtInventory
-9010	Arthur	I'd rather keep it.	Je préfère le garder.	Inventory	OnLookAtInventory
+9000	Arthur	I can't use that.	Ça ne marchera jamais.	Inventory	OnLookAtInventory
+9001	Arthur	It's nothing interesting.	Rien qui vaille le coup d'œil.	Inventory	OnLookAtInventory
+9002	Arthur	Nothing happened.	Pas l'ombre d'un résultat.	Inventory	OnLookAtInventory
+9003	Arthur	Nah.	Pas question.	Inventory	OnLookAtInventory
+9004	Arthur	Nope.	Aucune chance.	Inventory	OnLookAtInventory
+9005	Arthur	That doesn't work.	Ça ne prend pas.	Inventory	OnLookAtInventory
+9006	Arthur	No.	Surtout pas.	Inventory	OnLookAtInventory
+9007	Arthur	I'm not handing over my ill-gotten gains without a reason!	Hors de question de lâcher mon précieux butin sans une fichue bonne raison !	Inventory	OnLookAtInventory
+9008	Arthur	I think I'll hang on to this for now.	Je ferais mieux de garder ça sous le coude.	Inventory	OnLookAtInventory
+9009	Arthur	They wouldn't appreciate that.	Ils ne trouveraient pas ça très drôle.	Inventory	OnLookAtInventory
+9010	Arthur	I'd rather keep it.	Je préfère le garder bien au chaud.	Inventory	OnLookAtInventory
 9011	Arthur	What do you make of this?	Qu'est-ce que tu penses de ça ?	Inventory	OnLookAtInventory
-9012	Arthur	I don't think it's going to get us closer to that train!	Je ne crois pas que ça va nous rapprocher de ce train !	Inventory	OnLookAtInventory
+9012	Arthur	I don't think it's going to get us closer to that train!	Je doute que ça nous rapproche de ce train !	Inventory	OnLookAtInventory
 9013	Arthur	Adversary Proceeding	Procédure contradictoire	Inventory	OnLookAtInventory
 9014	Arthur	The Late Lady Unterwald	Feue Lady Unterwald	Inventory	OnLookAtInventory
 9015	Arthur	Burden of Proof	La charge de la preuve	Inventory	OnLookAtInventory
@@ -21,193 +21,1061 @@
 9019	Arthur	False Pretences	Faux-semblants	Inventory	OnLookAtInventory
 9020	Arthur	Dispute Resolution	Règlement du litige	Inventory	OnLookAtInventory
 9021	Arthur	Hold to Skip	Maintenir pour passer	Inventory	OnLookAtInventory
-9022	Arthur	I'm sure we'd find a lot of creative accounting in here.	Je suis sûr qu'on trouverait pas mal de comptabilité créative là-dedans.	Inventory	OnLookAtInventory
-9023	Arthur	It's a very thick manuscript. Typical overachiever.	C'est un manuscrit bien épais. Typique des perfectionnistes zélés.	Inventory	OnLookAtInventory
-9024	Arthur	It's the manuscript to my latest masterpiece.	C'est le manuscrit de mon tout dernier chef-d'œuvre.	Inventory	OnLookAtInventory
-9025	Arthur	Herman Merman and the Suburban Burden!	Herman Merman et le Fardeau de Banlieue !	Inventory	OnLookAtInventory
-9026	Arthur	I'll slip my manuscript inside Dirk Chiselton's cover.	Je vais glisser mon manuscrit sous la couverture de Dirk Chiselton.	Inventory	OnLookAtInventory
-9027	Arthur	At first glance, this looks like a Dirk Chiselton manuscript!	Au premier coup d'œil, on dirait un manuscrit de Dirk Chiselton !	Inventory	OnLookAtInventory
-9028	Arthur	Dirk Chiselton sent over a manuscript?	Dirk Chiselton a envoyé un manuscrit ?	Inventory	OnLookAtInventory
-9029	Arthur	Sorry, Dirk, I need it more than you do.	Désolé, Dirk, j'en ai plus besoin que toi.	Inventory	OnLookAtInventory
-9030	Arthur	It's weighty. Could be 70,000 words by my estimate.	C'est lourd. 70 000 mots d'après mon estimation.	Inventory	OnLookAtInventory
-9031	Arthur	It’s the romance novel I retrieved from the bin.	C'est le roman à l'eau de rose que j'ai repêché dans la corbeille.	Inventory	OnLookAtInventory
-9032	Arthur	Perhaps I should have left it there.	J'aurais peut-être dû le laisser là-bas.	Inventory	OnLookAtInventory
-9033	Arthur	It’s the cover page I tore from Dirk Chiselton’s manuscript.	C'est la page de couverture que j'ai arrachée du manuscrit de Dirk Chiselton.	Inventory	OnLookAtInventory
-9034	Arthur	Alright, Agent M. You'll be nice and snug inside this pod.	Très bien, Agent M. Tu seras bien au chaud dans cette capsule.	Inventory	OnLookAtInventory
-9035	Arthur	She's the cutest little agent, ever!	C'est la plus mignonne petite agente de tous les temps !	Inventory	OnLookAtInventory
-9036	Arthur	I wonder who trained her to be such a kleptomaniac?	Je me demande bien qui l'a dressée à devenir une telle kleptomane ?	Inventory	OnLookAtInventory
-9037	Arthur	Are you alright in there, little one?	Tout va bien là-dedans, ma petite ?	Inventory	OnLookAtInventory
-9038	Arthur	She ate all my pocket cheese!	Elle a mangé tout mon fromage de poche !	Inventory	OnLookAtInventory
-9039	Arthur	It's the key I used to get out of my chains!	C'est la clé que j'ai utilisée pour me libérer des fers !	Inventory	OnLookAtInventory
-9040	Arthur	This looks like it might unlock a set of chains.	On dirait que ça pourrait ouvrir des fers.	Inventory	OnLookAtInventory
-9041	Arthur	It's a small key, but I have no idea what it unlocks.	C'est une petite clé, mais je n'ai aucune idée de ce qu'elle ouvre.	Inventory	OnLookAtInventory
-9042	Arthur	This key might unlock those chains!	Cette clé pourrait bien ouvrir ces fers !	Inventory	OnLookAtInventory
-9043	Arthur	It's an anklet key, primarily used for locking prison chains.	C'est une clé de cheville, servant surtout à verrouiller les chaînes de prisonniers.	Inventory	OnLookAtInventory
-9044	Arthur	It's a set of heavy-duty chains!	C'est un ensemble de fers bien solides !	Inventory	OnLookAtInventory
-9045	Arthur	It's a heavy-duty set of prison chains!	C'est un jeu de chaînes de prisonnier ultra résistant !	Inventory	OnLookAtInventory
-9046	Arthur	It's a pile of heavy chains.	C'est un tas de lourdes chaînes.	Inventory	OnLookAtInventory
-9047	Arthur	Hmm. This syringe has a label marked ‘Antidote'.	Hmm. Cette seringue porte une étiquette indiquant « Antidote ».	Inventory	OnLookAtInventory
-9048	Arthur	It's the antidote I used to revive Dr Hirsch!	C'est l'antidote que j'ai utilisé pour ranimer le Dr Hirsch !	Inventory	OnLookAtInventory
-9049	Arthur	I can see the various handshakes in the background of these sketches!	On aperçoit les différentes poignées de main en arrière-plan de ces croquis !	Inventory	OnLookAtInventory
-9050	Arthur	I'll still need some help to figure out the correct order.	J'aurai quand même besoin d'aide pour trouver le bon ordre.	Inventory	OnLookAtInventory
-9051	Arthur	Perhaps you'd settle for a simple fist bump?	Peut-être qu'un simple check du poing vous suffirait ?	Inventory	OnLookAtInventory
-9052	Arthur	If you think I'm still sleeping, you should give me a shake!	Si vous pensez que je dors encore, vous devriez me secouer !	Inventory	OnLookAtInventory
-9053	Arthur	I assure you, these palms, they have a strong grip!	Je vous assure que ces paumes ont une poigne d'acier !	Inventory	OnLookAtInventory
-9054	Arthur	I've watched your dance of digits, and I handedly approve.	J'ai observé votre ballet de doigts, et j'approuve haut la main.	Inventory	OnLookAtInventory
-9055	Arthur	I'm sure I can put Don's winnings to better use.	Je suis convaincu que je peux faire un meilleur usage des gains de Don.	Inventory	OnLookAtInventory
-9056	Arthur	I'm sure Bergmann will choose his words more carefully in future.	Je suis sûr que Bergmann pèsera mieux ses mots à l'avenir.	Inventory	OnLookAtInventory
-9057	Arthur	Hey, it fits!	Eh, ça rentre parfaitement !	Inventory	OnLookAtInventory
-9058	Arthur	Nice, that looks like it's worked.	Chouette, on dirait que ça a fonctionné.	Inventory	OnLookAtInventory
-9059	Arthur	Aha, a perfect fit!	Aha, ça s'emboîte à merveille !	Inventory	OnLookAtInventory
-9060	Arthur	It's just the right size, that was lucky.	C'est pile à la bonne taille, quelle chance.	Inventory	OnLookAtInventory
-9061	Arthur	I don't want to risk recording over Bergmann's reel.	Je ne veux pas risquer d'enregistrer par-dessus la bande de Bergmann.	Inventory	OnLookAtInventory
-9062	Arthur	I'll need another wire reel to record anything new.	J'aurai besoin d'une autre bobine de fil pour enregistrer du nouveau contenu.	Inventory	OnLookAtInventory
-9063	Arthur	It's Don's recording device. It's not much use to me without another wire reel, though.	C'est l'enregistreur de Don. Mais il ne m'est pas d'une grande utilité sans une autre bobine de fil.	Inventory	OnLookAtInventory
-9064	Arthur	We could record something with this if we found another wire reel.	On pourrait enregistrer quelque chose avec ça si on trouvait une autre bobine.	Inventory	OnLookAtInventory
-9065	Arthur	This portable recording device could be useful if it wasn't empty.	Cet enregistreur portatif pourrait être utile s'il n'était pas vide.	Inventory	OnLookAtInventory
-9066	Arthur	Donny was using this device to record Bergmann!	Donny utilisait cet appareil pour enregistrer Bergmann !	Inventory	OnLookAtInventory
-9067	Arthur	It's loaded up with a fresh wire reel, ready for recording.	Il est chargé avec une bobine de fil neuve, prêt à enregistrer.	Inventory	OnLookAtInventory
-9068	Arthur	I should get one of these to take notes on the fly.	Je devrais m'en procurer un pour prendre des notes à la volée.	Inventory	OnLookAtInventory
-9069	Arthur	It's not as discreet as a phone tap, but it gets the job done.	Ce n'est pas aussi discret qu'une écoute téléphonique, mais ça fait le travail.	Inventory	OnLookAtInventory
-9070	Arthur	I can put this wire reel into a recording device to record something.	Je peux insérer cette bobine de fil dans un enregistreur pour enregistrer du son.	Inventory	OnLookAtInventory
-9071	Arthur	It's an empty wire reel, handy if I need to record something.	C'est une bobine de fil vide, pratique si j'ai besoin d'enregistrer.	Inventory	OnLookAtInventory
-9072	Arthur	Lord Unterwald planned to use this to document his astronomical observations.	Lord Unterwald prévoyait d'utiliser ceci pour documenter ses observations astronomiques.	Inventory	OnLookAtInventory
-9073	Arthur	It's a little dusty, but I'm sure it would still record audio.	C'est un peu poussiéreux, mais je suis certain que ça enregistre encore.	Inventory	OnLookAtInventory
-9074	Arthur	Lady Unterwald recorded her own album of songs!	Lady Unterwald a enregistré son propre album de chansons !	Inventory	OnLookAtInventory
-9075	Arthur	It's Lady Unterwald's voice, from beyond the grave!	C'est la voix de Lady Unterwald, d'outre-tombe !	Inventory	OnLookAtInventory
-9076	Arthur	Thank you for calling the Reuss Express onboard service.	Merci d'avoir contacté le service de bord du Reuss Express.	Inventory	OnLookAtInventory
-9077	Arthur	This call may be recorded for training purposes.	Cet appel peut être enregistré à des fins de formation.	Inventory	OnLookAtInventory
-9078	Arthur	This pocket cheese should be useful, and not just for snacking purposes!	Ce fromage de poche devrait s'avérer utile, et pas seulement pour le grignotage !	Inventory	OnLookAtInventory
-9079	Arthur	Just one of these peppers would make any dish unbearably hot.	Un seul de ces piments rendrait n'importe quel plat atrocement brûlant.	Inventory	OnLookAtInventory
-9080	Arthur	It's a harmless lemon.	C'est un citron tout à fait inoffensif.	Inventory	OnLookAtInventory
-9081	Arthur	I've concocted the world's spiciest soup.	J'ai concocté la soupe la plus épicée du monde.	Inventory	OnLookAtInventory
-9082	Arthur	It's all of the sugar, and none of the fun!	Tout le sucre, et aucun plaisir !	Inventory	OnLookAtInventory
-9083	Arthur	It's the blue suit jacket that Mr Liu was wearing.	C'est la veste de costume bleue que portait M. Liu.	Inventory	OnLookAtInventory
-9084	Arthur	It's a pair of Lady Unterwald's boots. We happen to have the same shoe size!	C'est une paire de bottes de Lady Unterwald. Il se trouve qu'on fait la même pointure !	Inventory	OnLookAtInventory
-9085	Arthur	I think I might be onto something here!	Je crois que je tiens une piste intéressante !	Inventory	OnLookAtInventory
-9086	Arthur	Herman Merman, you've done it again! I should be able to get on the roof with these.	Herman Merman, tu as encore frappé ! Je devrais pouvoir monter sur le toit avec ça.	Inventory	OnLookAtInventory
-9087	Arthur	I've successfully attached a suction cup to one of the boots.	J'ai réussi à fixer une ventouse sur l'une des bottes.	Inventory	OnLookAtInventory
-9088	Arthur	I've assembled a working pair of suction boots!	J'ai assemblé une paire de bottes à ventouses fonctionnelle !	Inventory	OnLookAtInventory
-9089	Arthur	A classic wooden hanger. The second best kind of hanger, in my opinion!	Un cintre en bois classique. Le deuxième meilleur type de cintre, à mon humble avis !	Inventory	OnLookAtInventory
-9090	Arthur	Versatile, flexible, durable. The best kind of hanger!	Polyvalent, souple, résistant. Le meilleur type de cintre qui soit !	Inventory	OnLookAtInventory
-9091	Arthur	That drawer put up a fight, but the hanger still has some life left in it.	Ce tiroir ne s'est pas laissé faire, mais le cintre a encore de beaux restes.	Inventory	OnLookAtInventory
-9092	Arthur	A bit of experimentation might give this Bud-Lite a bigger kick.	Une petite expérimentation pourrait donner un peu plus de piquant à cette Bud-Lite.	Inventory	OnLookAtInventory
-9093	Arthur	It's already full.	C'est déjà plein.	Inventory	OnLookAtInventory
-9094	Arthur	Now that it's sealed, it makes a pretty cool, if not gross, container!	Maintenant que c'est scellé, ça fait un récipient plutôt chouette, quoique un peu répugnant !	Inventory	OnLookAtInventory
-9095	Arthur	It's a ''FULL-STOP'' brand recorker. ''The last word in cork plugging.''	C'est un reboucheur de marque « FULL-STOP ». « Le fin mot du bouchonnage. »	Inventory	OnLookAtInventory
-9096	Arthur	The water and sawdust have combined into a thick, sticky paste.	L'eau et la sciure se sont amalgamées en une pâte épaisse et collante.	Inventory	OnLookAtInventory
-9097	Arthur	I'm not quite sure what this is, but the bottle is neat!	Je ne sais pas trop ce que c'est, mais la bouteille a fière allure !	Inventory	OnLookAtInventory
-9098	Arthur	It's a vial of enigmatic liquid, I can hear it gently fizzing in my suit jacket pocket.	C'est une fiole de liquide énigmatique, je l'entends pétiller doucement dans ma poche.	Inventory	OnLookAtInventory
-9099	Arthur	I doubt the truth spray is potent enough, but I love the bottle!	Je doute que ce spray de vérité soit assez puissant, mais j'adore le flacon !	Inventory	OnLookAtInventory
-9100	Arthur	This stuff worked wonders on Bergmann, it just needs a little kick-start to get going.	Ce produit a fait des merveilles sur Bergmann, il lui faut juste un petit coup de fouet pour démarrer.	Inventory	OnLookAtInventory
-9101	Arthur	It's sloshing about with precious fuel!	Il déborde d'un précieux carburant !	Inventory	OnLookAtInventory
-9102	Arthur	It's empty! That's not much use to me.	C'est vide ! Ça ne m'est pas d'une grande utilité.	Inventory	OnLookAtInventory
-9103	Arthur	I've filled the cup with plenty of drinking water.	J'ai rempli le gobelet avec une bonne rasade d'eau potable.	Inventory	OnLookAtInventory
-9104	Arthur	I'll mix some of this fuel with the gunpowder.	Je vais mélanger un peu de ce carburant avec la poudre à canon.	Inventory	OnLookAtInventory
-9105	Arthur	It's an overpowering blend of cheap perfume, plant life and ethanol!	C'est un mélange foudroyant de parfum bon marché, de sève végétale et d'éthanol !	Inventory	OnLookAtInventory
-9106	Arthur	It's full of minty fresh mouthwash!	C'est rempli d'un bain de bouche à la menthe bien fraîche !	Inventory	OnLookAtInventory
-9107	Arthur	I've poured the Bud-Lite in here, but for a stronger kick, I'll need to add a potent alcoholic mixer.	J'ai versé la Bud-Lite ici, mais pour un effet plus corsé, il faudra ajouter un mélange alcoolisé bien puissant.	Inventory	OnLookAtInventory
-9108	Arthur	It's a dangerous concoction of fuel and high octane explosives!	C'est une concoction périlleuse de carburant et d'explosifs à haut indice d'octane !	Inventory	OnLookAtInventory
-9109	Arthur	The liquid would pour straight through.	Le liquide coulerait directement à travers.	Inventory	OnLookAtInventory
-9110	Arthur	I'm sure there's a good reason why I'd need an old lady's hearing aid.	Je suis sûr qu'il y a une excellente raison pour laquelle j'aurais besoin du cornet acoustique d'une vieille dame.	Inventory	OnLookAtInventory
-9111	Arthur	Although, I can't think of one just yet.	Bien que je n'en voie pas encore la raison.	Inventory	OnLookAtInventory
-9112	Arthur	It’s the horn that Arista instructed me to repair.	C'est le cornet qu'Arista m'a demandé de réparer.	Inventory	OnLookAtInventory
-9113	Arthur	''Rinse after brushing. Contains alcohol, do not ingest solution.''	« Rincer après brossage. Contient de l'alcool, ne pas avaler la solution. »	Inventory	OnLookAtInventory
-9114	Arthur	I've soaked the napkin in turpentine.	J'ai imbibé la serviette de térébenthine.	Inventory	OnLookAtInventory
-9115	Arthur	It's a powerful cleaning solvent. This stuff would remove pretty much anything!	C'est un solvant de nettoyage très puissant. Ça dissoudrait quasiment n'importe quoi !	Inventory	OnLookAtInventory
-9116	Arthur	Huh, I guess this model is battery powered.	Tiens, j'imagine que ce modèle fonctionne sur piles.	Inventory	OnLookAtInventory
-9117	Arthur	This should make the desk fan significantly more powerful.	Ça devrait rendre ce ventilateur de bureau nettement plus puissant.	Inventory	OnLookAtInventory
-9118	Arthur	''IT'S THE END OF THE LINE''	« C'EST LE TERMINUS »	Inventory	OnLookAtInventory
-9119	Arthur	''The Unterwald empire came to a grisly end last night, when the wealthy heiress was unexpectedly assassinated aboard her own train.''	« L'empire Unterwald a connu une fin tragique hier soir, lorsque la richissime héritière a été assassinée à bord de son propre train. »	Inventory	OnLookAtInventory
-9120	Arthur	''Three suspects are currently held in custody, awaiting questioning.''	« Trois suspects sont actuellement placés en garde à vue dans l'attente de leur interrogatoire. »	Inventory	OnLookAtInventory
-9121	Arthur	It's bad luck to open an umbrella indoors, but maybe I can find a use for it.	Ouvrir un parapluie à l'intérieur porte malheur, mais je pourrais peut-être lui trouver une utilité.	Inventory	OnLookAtInventory
-9122	Arthur	It's a steaming hot cup of coffee. It kind of burns!	C'est une tasse de café brûlant. Ça pique un peu les doigts !	Inventory	OnLookAtInventory
-9123	Arthur	I sshould shpeak to Mr Masson first.	Je devrrrais d'aborrrd parler à M. Masson.	Inventory	OnLookAtInventory
-9124	Arthur	Lady Unterwald asked me to deliver this to Arthur Ackerman!	Lady Unterwald m'a demandé de remettre ceci à Arthur Ackerman !	Inventory	OnLookAtInventory
-9125	Arthur	It's the last correspondence I received from Lady Unterwald.	C'est la dernière correspondance que j'ai reçue de Lady Unterwald.	Inventory	OnLookAtInventory
-9126	Arthur	It's a letter from Lady Unterwald, asking me to wear the suit she provided.	C'est une lettre de Lady Unterwald, me demandant de porter le costume qu'elle a fourni.	Inventory	OnLookAtInventory
-9127	Arthur	It's a letter from Lady Unterwald, she'd like to meet in her quarters.	C'est une lettre de Lady Unterwald, elle souhaite me rencontrer dans ses quartiers.	Inventory	OnLookAtInventory
-9128	Arthur	I'm supposed to deliver this letter to Mr Ackerman.	Je suis censé remettre cette lettre à M. Ackerman.	Inventory	OnLookAtInventory
-9129	Arthur	It's an excellent forgery, Donny did a great job!	C'est un faux remarquable, Donny a fait du beau travail !	Inventory	OnLookAtInventory
-9130	Arthur	I was sure Diana wrote something on this napkin, but it's blank!	J'étais sûr que Diana avait écrit quelque chose sur cette serviette, mais elle est vierge !	Inventory	OnLookAtInventory
-9131	Arthur	I think there's something here but it's not quite legible.	Je crois qu'il y a quelque chose ici, mais ce n'est pas très lisible.	Inventory	OnLookAtInventory
-9132	Arthur	It's the napkin that I grabbed from the bar.	C'est la serviette que j'ai attrapée au bar.	Inventory	OnLookAtInventory
-9133	Arthur	It's a signed business card from Beverly Moore.	C'est une carte de visite signée de Beverly Moore.	Inventory	OnLookAtInventory
-9134	Arthur	''Moore Or Less - Talent agency to the adequate.''	« Moore ou Moins - L'agence de talents pour les passables. »	Inventory	OnLookAtInventory
-9135	Arthur	The heat revealed the number 306. How mysterious!	La chaleur a fait apparaître le numéro 306. Quel mystère !	Inventory	OnLookAtInventory
-9136	Arthur	It's Donny's recipe for a powerful drink.	C'est la recette de Donny pour un cocktail particulièrement costaud.	Inventory	OnLookAtInventory
-9137	Arthur	Looks like Don booked the honeymoon suite. Room 303!	On dirait que Don a réservé la suite nuptiale. Chambre 303 !	Inventory	OnLookAtInventory
-9138	Arthur	These must be Herman's keys, Room 304.	Ce doivent être les clés d'Herman, chambre 304.	Inventory	OnLookAtInventory
-9139	Arthur	My own private quarters, room 304.	Mes quartiers personnels, chambre 304.	Inventory	OnLookAtInventory
-9140	Arthur	It's a toy set lock pick. Likely effective against only the weakest of locks.	C'est un rossignol de dinette pour enfant. Utile uniquement contre les serrures les plus dérisoires.	Inventory	OnLookAtInventory
-9141	Arthur	My memory of getting these keys is a little fuzzy.	Le souvenir de la façon dont j'ai obtenu ces clés est un peu flou.	Inventory	OnLookAtInventory
-9142	Arthur	I think this hardened blob was Lady Unterwald's wax seal.	Je pense que ce pâté durci était le sceau en cire de Lady Unterwald.	Inventory	OnLookAtInventory
-9143	Arthur	The wax has cooled down and hardened.	La cire a refroidi et a durci.	Inventory	OnLookAtInventory
-9144	Arthur	It's a hardened ball of wax.	C'est une boule de cire durcie.	Inventory	OnLookAtInventory
-9145	Arthur	Ooh, that's hot!	Ouh, c'est chaud !	Inventory	OnLookAtInventory
-9146	Arthur	The wax must have melted from the heat. It looks malleable!	La cire a dû fondre sous l'effet de la chaleur. Elle a l'air malléable !	Inventory	OnLookAtInventory
-9147	Arthur	It's a wax impression of a fingerprint.	C'est une empreinte digitale moulée dans la cire.	Inventory	OnLookAtInventory
-9148	Arthur	It's a wax impression of Lady Unterwald's fingerprint.	C'est l'empreinte digitale de Lady Unterwald moulée dans la cire.	Inventory	OnLookAtInventory
-9149	Arthur	It's a fingerprint impression made from wax.	C'est un moulage d'empreinte digitale en cire.	Inventory	OnLookAtInventory
-9150	Arthur	It's a wax seal from the Unterwald estate.	C'est un sceau de cire du domaine Unterwald.	Inventory	OnLookAtInventory
-9151	Arthur	This is the last wax seal I'll receive from Lady Unterwald.	C'est le tout dernier sceau de cire que je recevrai de Lady Unterwald.	Inventory	OnLookAtInventory
-9152	Arthur	This seal has been on quite the adventure, eh? I feel strangely attached to it.	Ce sceau a vécu une sacrée aventure, hein ? Je m'y sens étrangement attaché.	Inventory	OnLookAtInventory
-9153	Arthur	It's one of Lady Unterwald's wax seals, malleable and quite soft to the touch.	C'est l'un des sceaux de cire de Lady Unterwald, malléable et doux au toucher.	Inventory	OnLookAtInventory
-9154	Arthur	It's a wax seal, embossed with the emblem of the Wald-Bahn empire.	C'est un sceau de cire frappé de l'emblème de l'empire Wald-Bahn.	Inventory	OnLookAtInventory
-9155	Arthur	It's a kitchen plunger, great for unblocking clogged sinks!	C'est une ventouse de cuisine, idéale pour déboucher les éviers obstrués !	Inventory	OnLookAtInventory
-9156	Arthur	Probably best not to dwell on the horrors this plunger has seen.	Il vaut sans doute mieux ne pas imaginer les horreurs que cette ventouse a traversées.	Inventory	OnLookAtInventory
-9157	Arthur	It's an odd looking plunger.	C'est une ventouse à l'allure étrange.	Inventory	OnLookAtInventory
-9158	Arthur	It's my trusty prison cell plunger!	C'est ma fidèle ventouse de cellule de prison !	Inventory	OnLookAtInventory
-9159	Arthur	It's a plunger made from a rusty metal pole.	C'est une ventouse bricolée à partir d'une barre de métal rouillée.	Inventory	OnLookAtInventory
-9160	Arthur	It's the suction cup from a plunger!	C'est la coupelle d'aspiration d'une ventouse !	Inventory	OnLookAtInventory
-9161	Arthur	It's the business end of a plunger.	C'est la partie active d'une ventouse.	Inventory	OnLookAtInventory
-9162	Arthur	It looks like a suction cup to me.	On dirait bien une ventouse d'adhérence.	Inventory	OnLookAtInventory
-9163	Arthur	I'd like to think Lady Unterwald would want me to have this.	J'aime à penser que Lady Unterwald aurait souhaité que je l'aie.	Inventory	OnLookAtInventory
-9164	Arthur	Looks like a rusty metal pole.	On dirait une barre de métal rouillée.	Inventory	OnLookAtInventory
-9165	Arthur	It seems to be some sort of metal pole.	Ça ressemble à une sorte de tige en métal.	Inventory	OnLookAtInventory
-9166	Arthur	A rusty metal pole might be useful in our current circumstances.	Une barre en métal rouillée pourrait bien nous être utile dans notre situation.	Inventory	OnLookAtInventory
-9167	Arthur	It's the rubber tubing I cut from the car.	C'est la tubulure en caoutchouc que j'ai découpée sur la voiture.	Inventory	OnLookAtInventory
-9168	Arthur	It's an official field agent wiring kit!	C'est un kit de câblage officiel d'agent de terrain !	Inventory	OnLookAtInventory
-9169	Arthur	It's a ''Mega-Stich'' brand heavy duty stapler. This thing can staple through 250 sheets!	C'est une agrafeuse industrielle de marque « Mega-Stitch ». Cet engin peut traverser 250 feuilles d'un coup !	Inventory	OnLookAtInventory
-9170	Arthur	For a toy badge, it's quite convincing.	Pour un insigne en plastique, il fait plutôt illusion.	Inventory	OnLookAtInventory
-9171	Arthur	It's a toy badge, but it should still provide an air of authority.	C'est un insigne factice, mais il devrait quand même m'octroyer un brin d'autorité.	Inventory	OnLookAtInventory
-9172	Arthur	Jian Liu had this in his pocket.	Jian Liu avait ça dans sa poche.	Inventory	OnLookAtInventory
-9173	Arthur	It's a genuine pearl necklace.	C'est un authentique collier de perles.	Inventory	OnLookAtInventory
-9174	Arthur	The craftsmanship of this fountain pen is exquisite!	La confection de ce stylo-plume est tout bonnement exquise !	Inventory	OnLookAtInventory
-9175	Arthur	It looks harmless enough.	Ça a l'air bien inoffensif.	Inventory	OnLookAtInventory
-9176	Arthur	I can break the tip off this incendiary pencil, to retrieve the gunpowder inside.	Je peux casser la mine de ce crayon incendiaire pour en extraire la poudre à canon.	Inventory	OnLookAtInventory
-9177	Arthur	I should use the one I took before taking another.	Je devrais utiliser celui que j'ai pris avant d'en piquer un autre.	Inventory	OnLookAtInventory
-9178	Arthur	It's a case of explosives, disguised as harmless stationary.	C'est un étui d'explosifs déguisé en fournitures de bureau inoffensives.	Inventory	OnLookAtInventory
-9179	Arthur	It'll cost a fortune to get the smell of cheap perfume out of this jacket.	Ça va me coûter une petite fortune pour chasser cette odeur de parfum bon marché de ma veste.	Inventory	OnLookAtInventory
-9180	Arthur	They smell quite fragrant!	Elles sentent drôlement bon !	Inventory	OnLookAtInventory
-9181	Arthur	The doll's looking a little scrawny without all that packing sawdust.	La poupée a l'air un peu rabougrie sans toute cette sciure de rembourrage.	Inventory	OnLookAtInventory
-9182	Arthur	This looks very familiar.	Ça me rappelle furieusement quelque chose.	Inventory	OnLookAtInventory
-9183	Arthur	You can withstand the heat with a pair of these oven gloves!	On peut résister à n'importe quelle chaleur avec cette paire de gants de cuisine !	Inventory	OnLookAtInventory
-9184	Arthur	Popcorn isn't just delicious, it doubles as a cheap packing material.	Le popcorn n'est pas seulement délicieux, il sert aussi de matériau de calage économique.	Inventory	OnLookAtInventory
-9185	Arthur	It's a paper cup I swiped from the water cooler.	C'est un gobelet en carton que j'ai chipé à la fontaine d'eau.	Inventory	OnLookAtInventory
-9186	Arthur	I placed sawdust in the bottom of the cup.	J'ai mis de la sciure au fond du gobelet.	Inventory	OnLookAtInventory
-9187	Arthur	It's a pile of sawdust I removed from the doll.	C'est un tas de sciure que j'ai retiré de la poupée.	Inventory	OnLookAtInventory
-9188	Arthur	It looks like Don's been practicing poetry.	On dirait que Don s'est mis à la poésie.	Inventory	OnLookAtInventory
-9189	Arthur	There's no way I'm reading that.	Hors de question que je lise ça.	Inventory	OnLookAtInventory
-9190	Arthur	I'm a little too familiar with how sharp this blade is.	Je ne connais que trop bien le tranchant affûté de cette lame.	Inventory	OnLookAtInventory
-9191	Arthur	Now, this is an exciting piece of high-end stationary!	Voilà un superbe accessoire de papeterie haut de gamme !	Inventory	OnLookAtInventory
-9192	Arthur	This letter opener looks like it'd slice through more than paper.	Ce coupe-papier a l'air de pouvoir trancher bien plus que de la simple papeterie.	Inventory	OnLookAtInventory
-9193	Arthur	I wouldn't trust either of those two with something this sharp.	Je ne ferais confiance à aucun de ces deux-là avec un objet aussi coupant.	Inventory	OnLookAtInventory
-9194	Arthur	The blade is sufficiently lubricated, and rather hard to handle.	La lame est abondamment lubrifiée, et plutôt difficile à manier.	Inventory	OnLookAtInventory
-9195	Arthur	This would surely lubricate anything it touches.	Ça lubrifierait à coup sûr n'importe quoi au moindre contact.	Inventory	OnLookAtInventory
-9196	Arthur	Half a slab of unsalted butter. I think it's slowly melting in my pocket.	Une demi-plaquette de beurre doux. J'ai l'impression qu'elle fond lentement dans ma poche.	Inventory	OnLookAtInventory
-9197	Arthur	It's a highly moisturising hand repair cream. For dry, cracked and injured hands.	C'est une crème pour les mains réparatrice et très hydratante. Pour peaux sèches, gercées et abîmées.	Inventory	OnLookAtInventory
-9198	Arthur	Owning a magnet this large has its positives and negatives.	Posséder un aimant de cette taille a ses côtés positifs et négatifs.	Inventory	OnLookAtInventory
-9199	Arthur	Don could move this up to three spaces with his watch.	Don pouvait déplacer ça jusqu'à trois cases grâce à sa montre.	Inventory	OnLookAtInventory
-9200	Arthur	That's the magnetic ball Donny used to rig his roulette games!	C'est la bille magnétique que Donny utilisait pour truquer ses parties de roulette !	Inventory	OnLookAtInventory
-9201	Arthur	It looks like a roulette ball from the casino.	On dirait une bille de roulette provenant du casino.	Inventory	OnLookAtInventory
-9202	Arthur	That's odd, what's a roulette ball doing here?	Étrange, que fait une bille de roulette ici ?	Inventory	OnLookAtInventory
-9203	Arthur	Hmm, the magnification is very strong!	Hmm, le grossissement est particulièrement puissant !	Inventory	OnLookAtInventory
-9204	Arthur	I'm rich! Although, are these chips even real?	Je suis riche ! Enfin, ces jetons sont-ils seulement authentiques ?	Inventory	OnLookAtInventory
-9205	Arthur	It's an idol, no doubt modelled after Lady Unterwald's own hand!	C'est une idole, sans nul doute sculptée d'après la propre main de Lady Unterwald !	Inventory	OnLookAtInventory
-9206	Arthur	These little pods transport items throughout the whole tube system!	Ces petites capsules transportent des objets à travers tout le réseau pneumatique !	Inventory	OnLookAtInventory
-9207	Arthur	It's explosive powder I cut from the pencil!	C'est de la poudre explosive que j'ai extraite du crayon !	Inventory	OnLookAtInventory
-9208	Arthur	It's Dr Phogg's Guide to Invis-Ability!	C'est le Guide de l'Invis-Abilité du Dr Phogg !	Inventory	OnLookAtInventory
-9209	Arthur	''Apply gentle heat to the paper to reveal messages written in invisible ink.''	« Appliquer une chaleur douce sur le papier pour faire apparaître les messages à l'encre invisible. »	Inventory	OnLookAtInventory
-9210	Arthur	''Avoid using candles, matches, or any open flames, they might just send your message up in smoke.''	« Éviter les bougies, allumettes ou flammes nues qui réduiraient votre message en cendres. »	Inventory	OnLookAtInventory
-9211	Arthur	Hmm, maybe I can find what I'm looking for in the kitchen?	Hmm, peut-être trouverai-je ce que je cherche en cuisine ?	Inventory	OnLookAtInventory
+9022	Arthur	Accounting Records	Registres comptables	Inventory	OnLookAtInventory
+9023	Arthur	the Accounting Records	Registres comptables	Inventory	OnLookAtInventory
+9024	Arthur	a Accounting Records	Registres comptables	Inventory	OnLookAtInventory
+9025	Arthur	an Accounting Records	Registres comptables	Inventory	OnLookAtInventory
+9026	Arthur	Use Accounting Records with	Utiliser Registres comptables avec	Inventory	OnLookAtInventory
+9027	Arthur	Use Accounting Records with...	Utiliser Registres comptables avec...	Inventory	OnLookAtInventory
+9028	Arthur	Look at Accounting Records	Regarder Registres comptables	Inventory	OnLookAtInventory
+9029	Arthur	Action Manuscript	Manuscrit d'action	Inventory	OnLookAtInventory
+9030	Arthur	the Action Manuscript	Manuscrit d'action	Inventory	OnLookAtInventory
+9031	Arthur	a Action Manuscript	Manuscrit d'action	Inventory	OnLookAtInventory
+9032	Arthur	an Action Manuscript	Manuscrit d'action	Inventory	OnLookAtInventory
+9033	Arthur	Use Action Manuscript with	Utiliser Manuscrit d'action avec	Inventory	OnLookAtInventory
+9034	Arthur	Use Action Manuscript with...	Utiliser Manuscrit d'action avec...	Inventory	OnLookAtInventory
+9035	Arthur	Look at Action Manuscript	Regarder Manuscrit d'action	Inventory	OnLookAtInventory
+9036	Arthur	Adventure Manuscript	Manuscrit d'aventure	Inventory	OnLookAtInventory
+9037	Arthur	the Adventure Manuscript	Manuscrit d'aventure	Inventory	OnLookAtInventory
+9038	Arthur	a Adventure Manuscript	Manuscrit d'aventure	Inventory	OnLookAtInventory
+9039	Arthur	an Adventure Manuscript	Manuscrit d'aventure	Inventory	OnLookAtInventory
+9040	Arthur	Use Adventure Manuscript with	Utiliser Manuscrit d'aventure avec	Inventory	OnLookAtInventory
+9041	Arthur	Use Adventure Manuscript with...	Utiliser Manuscrit d'aventure avec...	Inventory	OnLookAtInventory
+9042	Arthur	Look at Adventure Manuscript	Regarder Manuscrit d'aventure	Inventory	OnLookAtInventory
+9043	Arthur	Agent M	Agent M	Inventory	OnLookAtInventory
+9044	Arthur	the Agent M	Agent M	Inventory	OnLookAtInventory
+9045	Arthur	a Agent M	Agent M	Inventory	OnLookAtInventory
+9046	Arthur	an Agent M	Agent M	Inventory	OnLookAtInventory
+9047	Arthur	Use Agent M with	Utiliser Agent M avec	Inventory	OnLookAtInventory
+9048	Arthur	Use Agent M with...	Utiliser Agent M avec...	Inventory	OnLookAtInventory
+9049	Arthur	Look at Agent M	Regarder Agent M	Inventory	OnLookAtInventory
+9050	Arthur	Anklet Key	Clé des fers	Inventory	OnLookAtInventory
+9051	Arthur	the Anklet Key	Clé des fers	Inventory	OnLookAtInventory
+9052	Arthur	a Anklet Key	Clé des fers	Inventory	OnLookAtInventory
+9053	Arthur	an Anklet Key	Clé des fers	Inventory	OnLookAtInventory
+9054	Arthur	Use Anklet Key with	Utiliser Clé des fers avec	Inventory	OnLookAtInventory
+9055	Arthur	Use Anklet Key with...	Utiliser Clé des fers avec...	Inventory	OnLookAtInventory
+9056	Arthur	Look at Anklet Key	Regarder Clé des fers	Inventory	OnLookAtInventory
+9057	Arthur	Antidote	Antidote	Inventory	OnLookAtInventory
+9058	Arthur	the Antidote	Antidote	Inventory	OnLookAtInventory
+9059	Arthur	a Antidote	Antidote	Inventory	OnLookAtInventory
+9060	Arthur	an Antidote	Antidote	Inventory	OnLookAtInventory
+9061	Arthur	Use Antidote with	Utiliser Antidote avec	Inventory	OnLookAtInventory
+9062	Arthur	Use Antidote with...	Utiliser Antidote avec...	Inventory	OnLookAtInventory
+9063	Arthur	Look at Antidote	Regarder Antidote	Inventory	OnLookAtInventory
+9064	Arthur	Artist's Sketches	Croquis de l'artiste	Inventory	OnLookAtInventory
+9065	Arthur	the Artist's Sketches	Croquis de l'artiste	Inventory	OnLookAtInventory
+9066	Arthur	a Artist's Sketches	Croquis de l'artiste	Inventory	OnLookAtInventory
+9067	Arthur	an Artist's Sketches	Croquis de l'artiste	Inventory	OnLookAtInventory
+9068	Arthur	Use Artist's Sketches with	Utiliser Croquis de l'artiste avec	Inventory	OnLookAtInventory
+9069	Arthur	Use Artist's Sketches with...	Utiliser Croquis de l'artiste avec...	Inventory	OnLookAtInventory
+9070	Arthur	Look at Artist's Sketches	Regarder Croquis de l'artiste	Inventory	OnLookAtInventory
+9071	Arthur	Bag of Cash	Sac de billets	Inventory	OnLookAtInventory
+9072	Arthur	the Bag of Cash	Sac de billets	Inventory	OnLookAtInventory
+9073	Arthur	a Bag of Cash	Sac de billets	Inventory	OnLookAtInventory
+9074	Arthur	an Bag of Cash	Sac de billets	Inventory	OnLookAtInventory
+9075	Arthur	Use Bag of Cash with	Utiliser Sac de billets avec	Inventory	OnLookAtInventory
+9076	Arthur	Use Bag of Cash with...	Utiliser Sac de billets avec...	Inventory	OnLookAtInventory
+9077	Arthur	Look at Bag of Cash	Regarder Sac de billets	Inventory	OnLookAtInventory
+9078	Arthur	Bergmann's Recording	Enregistrement de Bergmann	Inventory	OnLookAtInventory
+9079	Arthur	the Bergmann's Recording	Enregistrement de Bergmann	Inventory	OnLookAtInventory
+9080	Arthur	a Bergmann's Recording	Enregistrement de Bergmann	Inventory	OnLookAtInventory
+9081	Arthur	an Bergmann's Recording	Enregistrement de Bergmann	Inventory	OnLookAtInventory
+9082	Arthur	Use Bergmann's Recording with	Utiliser Enregistrement de Bergmann avec	Inventory	OnLookAtInventory
+9083	Arthur	Use Bergmann's Recording with...	Utiliser Enregistrement de Bergmann avec...	Inventory	OnLookAtInventory
+9084	Arthur	Look at Bergmann's Recording	Regarder Enregistrement de Bergmann	Inventory	OnLookAtInventory
+9085	Arthur	Block of Cheese	Morceau de fromage	Inventory	OnLookAtInventory
+9086	Arthur	the Block of Cheese	Morceau de fromage	Inventory	OnLookAtInventory
+9087	Arthur	a Block of Cheese	Morceau de fromage	Inventory	OnLookAtInventory
+9088	Arthur	an Block of Cheese	Morceau de fromage	Inventory	OnLookAtInventory
+9089	Arthur	Use Block of Cheese with	Utiliser Morceau de fromage avec	Inventory	OnLookAtInventory
+9090	Arthur	Use Block of Cheese with...	Utiliser Morceau de fromage avec...	Inventory	OnLookAtInventory
+9091	Arthur	Look at Block of Cheese	Regarder Morceau de fromage	Inventory	OnLookAtInventory
+9092	Arthur	Blue Suit	Costume bleu	Inventory	OnLookAtInventory
+9093	Arthur	the Blue Suit	Costume bleu	Inventory	OnLookAtInventory
+9094	Arthur	a Blue Suit	Costume bleu	Inventory	OnLookAtInventory
+9095	Arthur	an Blue Suit	Costume bleu	Inventory	OnLookAtInventory
+9096	Arthur	Use Blue Suit with	Utiliser Costume bleu avec	Inventory	OnLookAtInventory
+9097	Arthur	Use Blue Suit with...	Utiliser Costume bleu avec...	Inventory	OnLookAtInventory
+9098	Arthur	Look at Blue Suit	Regarder Costume bleu	Inventory	OnLookAtInventory
+9099	Arthur	Boots	Bottes	Inventory	OnLookAtInventory
+9100	Arthur	the Boots	Bottes	Inventory	OnLookAtInventory
+9101	Arthur	a Boots	Bottes	Inventory	OnLookAtInventory
+9102	Arthur	an Boots	Bottes	Inventory	OnLookAtInventory
+9103	Arthur	Use Boots with	Utiliser Bottes avec	Inventory	OnLookAtInventory
+9104	Arthur	Use Boots with...	Utiliser Bottes avec...	Inventory	OnLookAtInventory
+9105	Arthur	Look at Boots	Regarder Bottes	Inventory	OnLookAtInventory
+9106	Arthur	Broken Boots	Bottes abîmées	Inventory	OnLookAtInventory
+9107	Arthur	the Broken Boots	Bottes abîmées	Inventory	OnLookAtInventory
+9108	Arthur	a Broken Boots	Bottes abîmées	Inventory	OnLookAtInventory
+9109	Arthur	an Broken Boots	Bottes abîmées	Inventory	OnLookAtInventory
+9110	Arthur	Use Broken Boots with	Utiliser Bottes abîmées avec	Inventory	OnLookAtInventory
+9111	Arthur	Use Broken Boots with...	Utiliser Bottes abîmées avec...	Inventory	OnLookAtInventory
+9112	Arthur	Look at Broken Boots	Regarder Bottes abîmées	Inventory	OnLookAtInventory
+9113	Arthur	Broken Hanger	Cintre cassé	Inventory	OnLookAtInventory
+9114	Arthur	the Broken Hanger	Cintre cassé	Inventory	OnLookAtInventory
+9115	Arthur	a Broken Hanger	Cintre cassé	Inventory	OnLookAtInventory
+9116	Arthur	an Broken Hanger	Cintre cassé	Inventory	OnLookAtInventory
+9117	Arthur	Use Broken Hanger with	Utiliser Cintre cassé avec	Inventory	OnLookAtInventory
+9118	Arthur	Use Broken Hanger with...	Utiliser Cintre cassé avec...	Inventory	OnLookAtInventory
+9119	Arthur	Look at Broken Hanger	Regarder Cintre cassé	Inventory	OnLookAtInventory
+9120	Arthur	Bud Lite	Bière légère	Inventory	OnLookAtInventory
+9121	Arthur	the Bud Lite	Bière légère	Inventory	OnLookAtInventory
+9122	Arthur	a Bud Lite	Bière légère	Inventory	OnLookAtInventory
+9123	Arthur	an Bud Lite	Bière légère	Inventory	OnLookAtInventory
+9124	Arthur	Use Bud Lite with	Utiliser Bière légère avec	Inventory	OnLookAtInventory
+9125	Arthur	Use Bud Lite with...	Utiliser Bière légère avec...	Inventory	OnLookAtInventory
+9126	Arthur	Look at Bud Lite	Regarder Bière légère	Inventory	OnLookAtInventory
+9127	Arthur	Business Card	Carte de visite	Inventory	OnLookAtInventory
+9128	Arthur	the Business Card	Carte de visite	Inventory	OnLookAtInventory
+9129	Arthur	a Business Card	Carte de visite	Inventory	OnLookAtInventory
+9130	Arthur	an Business Card	Carte de visite	Inventory	OnLookAtInventory
+9131	Arthur	Use Business Card with	Utiliser Carte de visite avec	Inventory	OnLookAtInventory
+9132	Arthur	Use Business Card with...	Utiliser Carte de visite avec...	Inventory	OnLookAtInventory
+9133	Arthur	Look at Business Card	Regarder Carte de visite	Inventory	OnLookAtInventory
+9134	Arthur	Butter	Beurre	Inventory	OnLookAtInventory
+9135	Arthur	the Butter	Beurre	Inventory	OnLookAtInventory
+9136	Arthur	a Butter	Beurre	Inventory	OnLookAtInventory
+9137	Arthur	an Butter	Beurre	Inventory	OnLookAtInventory
+9138	Arthur	Use Butter with	Utiliser Beurre avec	Inventory	OnLookAtInventory
+9139	Arthur	Use Butter with...	Utiliser Beurre avec...	Inventory	OnLookAtInventory
+9140	Arthur	Look at Butter	Regarder Beurre	Inventory	OnLookAtInventory
+9141	Arthur	Butter Knife	Couteau à beurre	Inventory	OnLookAtInventory
+9142	Arthur	the Butter Knife	Couteau à beurre	Inventory	OnLookAtInventory
+9143	Arthur	a Butter Knife	Couteau à beurre	Inventory	OnLookAtInventory
+9144	Arthur	an Butter Knife	Couteau à beurre	Inventory	OnLookAtInventory
+9145	Arthur	Use Butter Knife with	Utiliser Couteau à beurre avec	Inventory	OnLookAtInventory
+9146	Arthur	Use Butter Knife with...	Utiliser Couteau à beurre avec...	Inventory	OnLookAtInventory
+9147	Arthur	Look at Butter Knife	Regarder Couteau à beurre	Inventory	OnLookAtInventory
+9148	Arthur	Casino Chips	Jetons de casino	Inventory	OnLookAtInventory
+9149	Arthur	the Casino Chips	Jetons de casino	Inventory	OnLookAtInventory
+9150	Arthur	a Casino Chips	Jetons de casino	Inventory	OnLookAtInventory
+9151	Arthur	an Casino Chips	Jetons de casino	Inventory	OnLookAtInventory
+9152	Arthur	Use Casino Chips with	Utiliser Jetons de casino avec	Inventory	OnLookAtInventory
+9153	Arthur	Use Casino Chips with...	Utiliser Jetons de casino avec...	Inventory	OnLookAtInventory
+9154	Arthur	Look at Casino Chips	Regarder Jetons de casino	Inventory	OnLookAtInventory
+9155	Arthur	Chains	Fers	Inventory	OnLookAtInventory
+9156	Arthur	the Chains	Fers	Inventory	OnLookAtInventory
+9157	Arthur	a Chains	Fers	Inventory	OnLookAtInventory
+9158	Arthur	an Chains	Fers	Inventory	OnLookAtInventory
+9159	Arthur	Use Chains with	Utiliser Fers avec	Inventory	OnLookAtInventory
+9160	Arthur	Use Chains with...	Utiliser Fers avec...	Inventory	OnLookAtInventory
+9161	Arthur	Look at Chains	Regarder Fers	Inventory	OnLookAtInventory
+9162	Arthur	Chiselton's Book Cover	Couverture de livre de Chiselton	Inventory	OnLookAtInventory
+9163	Arthur	the Chiselton's Book Cover	Couverture de livre de Chiselton	Inventory	OnLookAtInventory
+9164	Arthur	a Chiselton's Book Cover	Couverture de livre de Chiselton	Inventory	OnLookAtInventory
+9165	Arthur	an Chiselton's Book Cover	Couverture de livre de Chiselton	Inventory	OnLookAtInventory
+9166	Arthur	Use Chiselton's Book Cover with	Utiliser Couverture de livre de Chiselton avec	Inventory	OnLookAtInventory
+9167	Arthur	Use Chiselton's Book Cover with...	Utiliser Couverture de livre de Chiselton avec...	Inventory	OnLookAtInventory
+9168	Arthur	Look at Chiselton's Book Cover	Regarder Couverture de livre de Chiselton	Inventory	OnLookAtInventory
+9169	Arthur	Coal	Charbon	Inventory	OnLookAtInventory
+9170	Arthur	the Coal	Charbon	Inventory	OnLookAtInventory
+9171	Arthur	a Coal	Charbon	Inventory	OnLookAtInventory
+9172	Arthur	an Coal	Charbon	Inventory	OnLookAtInventory
+9173	Arthur	Use Coal with	Utiliser Charbon avec	Inventory	OnLookAtInventory
+9174	Arthur	Use Coal with...	Utiliser Charbon avec...	Inventory	OnLookAtInventory
+9175	Arthur	Look at Coal	Regarder Charbon	Inventory	OnLookAtInventory
+9176	Arthur	Coffee	Café	Inventory	OnLookAtInventory
+9177	Arthur	the Coffee	Café	Inventory	OnLookAtInventory
+9178	Arthur	a Coffee	Café	Inventory	OnLookAtInventory
+9179	Arthur	an Coffee	Café	Inventory	OnLookAtInventory
+9180	Arthur	Use Coffee with	Utiliser Café avec	Inventory	OnLookAtInventory
+9181	Arthur	Use Coffee with...	Utiliser Café avec...	Inventory	OnLookAtInventory
+9182	Arthur	Look at Coffee	Regarder Café	Inventory	OnLookAtInventory
+9183	Arthur	Corked Horn	Cornet bouché	Inventory	OnLookAtInventory
+9184	Arthur	the Corked Horn	Cornet bouché	Inventory	OnLookAtInventory
+9185	Arthur	a Corked Horn	Cornet bouché	Inventory	OnLookAtInventory
+9186	Arthur	an Corked Horn	Cornet bouché	Inventory	OnLookAtInventory
+9187	Arthur	Use Corked Horn with	Utiliser Cornet bouché avec	Inventory	OnLookAtInventory
+9188	Arthur	Use Corked Horn with...	Utiliser Cornet bouché avec...	Inventory	OnLookAtInventory
+9189	Arthur	Look at Corked Horn	Regarder Cornet bouché	Inventory	OnLookAtInventory
+9190	Arthur	Corking Device	Boucheuse	Inventory	OnLookAtInventory
+9191	Arthur	the Corking Device	Boucheuse	Inventory	OnLookAtInventory
+9192	Arthur	a Corking Device	Boucheuse	Inventory	OnLookAtInventory
+9193	Arthur	an Corking Device	Boucheuse	Inventory	OnLookAtInventory
+9194	Arthur	Use Corking Device with	Utiliser Boucheuse avec	Inventory	OnLookAtInventory
+9195	Arthur	Use Corking Device with...	Utiliser Boucheuse avec...	Inventory	OnLookAtInventory
+9196	Arthur	Look at Corking Device	Regarder Boucheuse	Inventory	OnLookAtInventory
+9197	Arthur	Cup of Paste	Gobelet de pâte adhésive	Inventory	OnLookAtInventory
+9198	Arthur	the Cup of Paste	Gobelet de pâte adhésive	Inventory	OnLookAtInventory
+9199	Arthur	a Cup of Paste	Gobelet de pâte adhésive	Inventory	OnLookAtInventory
+9200	Arthur	an Cup of Paste	Gobelet de pâte adhésive	Inventory	OnLookAtInventory
+9201	Arthur	Use Cup of Paste with	Utiliser Gobelet de pâte adhésive avec	Inventory	OnLookAtInventory
+9202	Arthur	Use Cup of Paste with...	Utiliser Gobelet de pâte adhésive avec...	Inventory	OnLookAtInventory
+9203	Arthur	Look at Cup of Paste	Regarder Gobelet de pâte adhésive	Inventory	OnLookAtInventory
+9204	Arthur	Deactivated Truth Serum	Sérum de vérité neutralisé	Inventory	OnLookAtInventory
+9205	Arthur	the Deactivated Truth Serum	Sérum de vérité neutralisé	Inventory	OnLookAtInventory
+9206	Arthur	a Deactivated Truth Serum	Sérum de vérité neutralisé	Inventory	OnLookAtInventory
+9207	Arthur	an Deactivated Truth Serum	Sérum de vérité neutralisé	Inventory	OnLookAtInventory
+9208	Arthur	Use Deactivated Truth Serum with	Utiliser Sérum de vérité neutralisé avec	Inventory	OnLookAtInventory
+9209	Arthur	Use Deactivated Truth Serum with...	Utiliser Sérum de vérité neutralisé avec...	Inventory	OnLookAtInventory
+9210	Arthur	Look at Deactivated Truth Serum	Regarder Sérum de vérité neutralisé	Inventory	OnLookAtInventory
+9211	Arthur	Detective Badge	Insigne de détective	Inventory	OnLookAtInventory
+9212	Arthur	the Detective Badge	Insigne de détective	Inventory	OnLookAtInventory
+9213	Arthur	a Detective Badge	Insigne de détective	Inventory	OnLookAtInventory
+9214	Arthur	an Detective Badge	Insigne de détective	Inventory	OnLookAtInventory
+9215	Arthur	Use Detective Badge with	Utiliser Insigne de détective avec	Inventory	OnLookAtInventory
+9216	Arthur	Use Detective Badge with...	Utiliser Insigne de détective avec...	Inventory	OnLookAtInventory
+9217	Arthur	Look at Detective Badge	Regarder Insigne de détective	Inventory	OnLookAtInventory
+9218	Arthur	Photo of Diana	Photo de Diana	Inventory	OnLookAtInventory
+9219	Arthur	the Photo of Diana	Photo de Diana	Inventory	OnLookAtInventory
+9220	Arthur	a Photo of Diana	Photo de Diana	Inventory	OnLookAtInventory
+9221	Arthur	an Photo of Diana	Photo de Diana	Inventory	OnLookAtInventory
+9222	Arthur	Use Photo of Diana with	Utiliser Photo de Diana avec	Inventory	OnLookAtInventory
+9223	Arthur	Use Photo of Diana with...	Utiliser Photo de Diana avec...	Inventory	OnLookAtInventory
+9224	Arthur	Look at Photo of Diana	Regarder Photo de Diana	Inventory	OnLookAtInventory
+9225	Arthur	Don's Room Key	Clé de la cabine de Don	Inventory	OnLookAtInventory
+9226	Arthur	the Don's Room Key	Clé de la cabine de Don	Inventory	OnLookAtInventory
+9227	Arthur	a Don's Room Key	Clé de la cabine de Don	Inventory	OnLookAtInventory
+9228	Arthur	an Don's Room Key	Clé de la cabine de Don	Inventory	OnLookAtInventory
+9229	Arthur	Use Don's Room Key with	Utiliser Clé de la cabine de Don avec	Inventory	OnLookAtInventory
+9230	Arthur	Use Don's Room Key with...	Utiliser Clé de la cabine de Don avec...	Inventory	OnLookAtInventory
+9231	Arthur	Look at Don's Room Key	Regarder Clé de la cabine de Don	Inventory	OnLookAtInventory
+9232	Arthur	Empty Canister	Cartouche vide	Inventory	OnLookAtInventory
+9233	Arthur	the Empty Canister	Cartouche vide	Inventory	OnLookAtInventory
+9234	Arthur	a Empty Canister	Cartouche vide	Inventory	OnLookAtInventory
+9235	Arthur	an Empty Canister	Cartouche vide	Inventory	OnLookAtInventory
+9236	Arthur	Use Empty Canister with	Utiliser Cartouche vide avec	Inventory	OnLookAtInventory
+9237	Arthur	Use Empty Canister with...	Utiliser Cartouche vide avec...	Inventory	OnLookAtInventory
+9238	Arthur	Look at Empty Canister	Regarder Cartouche vide	Inventory	OnLookAtInventory
+9239	Arthur	Empty Fuel Canister	Bidon de carburant vide	Inventory	OnLookAtInventory
+9240	Arthur	the Empty Fuel Canister	Bidon de carburant vide	Inventory	OnLookAtInventory
+9241	Arthur	a Empty Fuel Canister	Bidon de carburant vide	Inventory	OnLookAtInventory
+9242	Arthur	an Empty Fuel Canister	Bidon de carburant vide	Inventory	OnLookAtInventory
+9243	Arthur	Use Empty Fuel Canister with	Utiliser Bidon de carburant vide avec	Inventory	OnLookAtInventory
+9244	Arthur	Use Empty Fuel Canister with...	Utiliser Bidon de carburant vide avec...	Inventory	OnLookAtInventory
+9245	Arthur	Look at Empty Fuel Canister	Regarder Bidon de carburant vide	Inventory	OnLookAtInventory
+9246	Arthur	Empty Tape Recorder	Magnétophone vide	Inventory	OnLookAtInventory
+9247	Arthur	the Empty Tape Recorder	Magnétophone vide	Inventory	OnLookAtInventory
+9248	Arthur	a Empty Tape Recorder	Magnétophone vide	Inventory	OnLookAtInventory
+9249	Arthur	an Empty Tape Recorder	Magnétophone vide	Inventory	OnLookAtInventory
+9250	Arthur	Use Empty Tape Recorder with	Utiliser Magnétophone vide avec	Inventory	OnLookAtInventory
+9251	Arthur	Use Empty Tape Recorder with...	Utiliser Magnétophone vide avec...	Inventory	OnLookAtInventory
+9252	Arthur	Look at Empty Tape Recorder	Regarder Magnétophone vide	Inventory	OnLookAtInventory
+9253	Arthur	Fake Novel	Faux roman	Inventory	OnLookAtInventory
+9254	Arthur	the Fake Novel	Faux roman	Inventory	OnLookAtInventory
+9255	Arthur	a Fake Novel	Faux roman	Inventory	OnLookAtInventory
+9256	Arthur	an Fake Novel	Faux roman	Inventory	OnLookAtInventory
+9257	Arthur	Use Fake Novel with	Utiliser Faux roman avec	Inventory	OnLookAtInventory
+9258	Arthur	Use Fake Novel with...	Utiliser Faux roman avec...	Inventory	OnLookAtInventory
+9259	Arthur	Look at Fake Novel	Regarder Faux roman	Inventory	OnLookAtInventory
+9260	Arthur	Fan	Éventail	Inventory	OnLookAtInventory
+9261	Arthur	the Fan	Éventail	Inventory	OnLookAtInventory
+9262	Arthur	a Fan	Éventail	Inventory	OnLookAtInventory
+9263	Arthur	an Fan	Éventail	Inventory	OnLookAtInventory
+9264	Arthur	Use Fan with	Utiliser Éventail avec	Inventory	OnLookAtInventory
+9265	Arthur	Use Fan with...	Utiliser Éventail avec...	Inventory	OnLookAtInventory
+9266	Arthur	Look at Fan	Regarder Éventail	Inventory	OnLookAtInventory
+9267	Arthur	Filled Cup	Gobelet rempli	Inventory	OnLookAtInventory
+9268	Arthur	the Filled Cup	Gobelet rempli	Inventory	OnLookAtInventory
+9269	Arthur	a Filled Cup	Gobelet rempli	Inventory	OnLookAtInventory
+9270	Arthur	an Filled Cup	Gobelet rempli	Inventory	OnLookAtInventory
+9271	Arthur	Use Filled Cup with	Utiliser Gobelet rempli avec	Inventory	OnLookAtInventory
+9272	Arthur	Use Filled Cup with...	Utiliser Gobelet rempli avec...	Inventory	OnLookAtInventory
+9273	Arthur	Look at Filled Cup	Regarder Gobelet rempli	Inventory	OnLookAtInventory
+9274	Arthur	Filled Fuel Canister	Bidon de carburant plein	Inventory	OnLookAtInventory
+9275	Arthur	the Filled Fuel Canister	Bidon de carburant plein	Inventory	OnLookAtInventory
+9276	Arthur	a Filled Fuel Canister	Bidon de carburant plein	Inventory	OnLookAtInventory
+9277	Arthur	an Filled Fuel Canister	Bidon de carburant plein	Inventory	OnLookAtInventory
+9278	Arthur	Use Filled Fuel Canister with	Utiliser Bidon de carburant plein avec	Inventory	OnLookAtInventory
+9279	Arthur	Use Filled Fuel Canister with...	Utiliser Bidon de carburant plein avec...	Inventory	OnLookAtInventory
+9280	Arthur	Look at Filled Fuel Canister	Regarder Bidon de carburant plein	Inventory	OnLookAtInventory
+9281	Arthur	Forged Guest List	Fausse liste d'invités	Inventory	OnLookAtInventory
+9282	Arthur	the Forged Guest List	Fausse liste d'invités	Inventory	OnLookAtInventory
+9283	Arthur	a Forged Guest List	Fausse liste d'invités	Inventory	OnLookAtInventory
+9284	Arthur	an Forged Guest List	Fausse liste d'invités	Inventory	OnLookAtInventory
+9285	Arthur	Use Forged Guest List with	Utiliser Fausse liste d'invités avec	Inventory	OnLookAtInventory
+9286	Arthur	Use Forged Guest List with...	Utiliser Fausse liste d'invités avec...	Inventory	OnLookAtInventory
+9287	Arthur	Look at Forged Guest List	Regarder Fausse liste d'invités	Inventory	OnLookAtInventory
+9288	Arthur	Funnel Fan	Entonnoir-ventilateur	Inventory	OnLookAtInventory
+9289	Arthur	the Funnel Fan	Entonnoir-ventilateur	Inventory	OnLookAtInventory
+9290	Arthur	a Funnel Fan	Entonnoir-ventilateur	Inventory	OnLookAtInventory
+9291	Arthur	an Funnel Fan	Entonnoir-ventilateur	Inventory	OnLookAtInventory
+9292	Arthur	Use Funnel Fan with	Utiliser Entonnoir-ventilateur avec	Inventory	OnLookAtInventory
+9293	Arthur	Use Funnel Fan with...	Utiliser Entonnoir-ventilateur avec...	Inventory	OnLookAtInventory
+9294	Arthur	Look at Funnel Fan	Regarder Entonnoir-ventilateur	Inventory	OnLookAtInventory
+9295	Arthur	Gadget Grab Bag	Trousse de gadgets	Inventory	OnLookAtInventory
+9296	Arthur	the Gadget Grab Bag	Trousse de gadgets	Inventory	OnLookAtInventory
+9297	Arthur	a Gadget Grab Bag	Trousse de gadgets	Inventory	OnLookAtInventory
+9298	Arthur	an Gadget Grab Bag	Trousse de gadgets	Inventory	OnLookAtInventory
+9299	Arthur	Use Gadget Grab Bag with	Utiliser Trousse de gadgets avec	Inventory	OnLookAtInventory
+9300	Arthur	Use Gadget Grab Bag with...	Utiliser Trousse de gadgets avec...	Inventory	OnLookAtInventory
+9301	Arthur	Look at Gadget Grab Bag	Regarder Trousse de gadgets	Inventory	OnLookAtInventory
+9302	Arthur	Gramophone Record	Disque de gramophone	Inventory	OnLookAtInventory
+9303	Arthur	the Gramophone Record	Disque de gramophone	Inventory	OnLookAtInventory
+9304	Arthur	a Gramophone Record	Disque de gramophone	Inventory	OnLookAtInventory
+9305	Arthur	an Gramophone Record	Disque de gramophone	Inventory	OnLookAtInventory
+9306	Arthur	Use Gramophone Record with	Utiliser Disque de gramophone avec	Inventory	OnLookAtInventory
+9307	Arthur	Use Gramophone Record with...	Utiliser Disque de gramophone avec...	Inventory	OnLookAtInventory
+9308	Arthur	Look at Gramophone Record	Regarder Disque de gramophone	Inventory	OnLookAtInventory
+9309	Arthur	Gunpowder	Poudre à canon	Inventory	OnLookAtInventory
+9310	Arthur	the Gunpowder	Poudre à canon	Inventory	OnLookAtInventory
+9311	Arthur	a Gunpowder	Poudre à canon	Inventory	OnLookAtInventory
+9312	Arthur	an Gunpowder	Poudre à canon	Inventory	OnLookAtInventory
+9313	Arthur	Use Gunpowder with	Utiliser Poudre à canon avec	Inventory	OnLookAtInventory
+9314	Arthur	Use Gunpowder with...	Utiliser Poudre à canon avec...	Inventory	OnLookAtInventory
+9315	Arthur	Look at Gunpowder	Regarder Poudre à canon	Inventory	OnLookAtInventory
+9316	Arthur	Habanero Pepper	Piment habanero	Inventory	OnLookAtInventory
+9317	Arthur	the Habanero Pepper	Piment habanero	Inventory	OnLookAtInventory
+9318	Arthur	a Habanero Pepper	Piment habanero	Inventory	OnLookAtInventory
+9319	Arthur	an Habanero Pepper	Piment habanero	Inventory	OnLookAtInventory
+9320	Arthur	Use Habanero Pepper with	Utiliser Piment habanero avec	Inventory	OnLookAtInventory
+9321	Arthur	Use Habanero Pepper with...	Utiliser Piment habanero avec...	Inventory	OnLookAtInventory
+9322	Arthur	Look at Habanero Pepper	Regarder Piment habanero	Inventory	OnLookAtInventory
+9323	Arthur	Hand Cream	Crème pour les mains	Inventory	OnLookAtInventory
+9324	Arthur	the Hand Cream	Crème pour les mains	Inventory	OnLookAtInventory
+9325	Arthur	a Hand Cream	Crème pour les mains	Inventory	OnLookAtInventory
+9326	Arthur	an Hand Cream	Crème pour les mains	Inventory	OnLookAtInventory
+9327	Arthur	Use Hand Cream with	Utiliser Crème pour les mains avec	Inventory	OnLookAtInventory
+9328	Arthur	Use Hand Cream with...	Utiliser Crème pour les mains avec...	Inventory	OnLookAtInventory
+9329	Arthur	Look at Hand Cream	Regarder Crème pour les mains	Inventory	OnLookAtInventory
+9330	Arthur	Cream-Coated Knife	Couteau enduit de crème	Inventory	OnLookAtInventory
+9331	Arthur	the Cream-Coated Knife	Couteau enduit de crème	Inventory	OnLookAtInventory
+9332	Arthur	a Cream-Coated Knife	Couteau enduit de crème	Inventory	OnLookAtInventory
+9333	Arthur	an Cream-Coated Knife	Couteau enduit de crème	Inventory	OnLookAtInventory
+9334	Arthur	Use Cream-Coated Knife with	Utiliser Couteau enduit de crème avec	Inventory	OnLookAtInventory
+9335	Arthur	Use Cream-Coated Knife with...	Utiliser Couteau enduit de crème avec...	Inventory	OnLookAtInventory
+9336	Arthur	Look at Cream-Coated Knife	Regarder Couteau enduit de crème	Inventory	OnLookAtInventory
+9337	Arthur	Hand Idol	Idole de la Main	Inventory	OnLookAtInventory
+9338	Arthur	the Hand Idol	Idole de la Main	Inventory	OnLookAtInventory
+9339	Arthur	a Hand Idol	Idole de la Main	Inventory	OnLookAtInventory
+9340	Arthur	an Hand Idol	Idole de la Main	Inventory	OnLookAtInventory
+9341	Arthur	Use Hand Idol with	Utiliser Idole de la Main avec	Inventory	OnLookAtInventory
+9342	Arthur	Use Hand Idol with...	Utiliser Idole de la Main avec...	Inventory	OnLookAtInventory
+9343	Arthur	Look at Hand Idol	Regarder Idole de la Main	Inventory	OnLookAtInventory
+9344	Arthur	Hardened Wax	Pain de cire durcie	Inventory	OnLookAtInventory
+9345	Arthur	the Hardened Wax	Pain de cire durcie	Inventory	OnLookAtInventory
+9346	Arthur	a Hardened Wax	Pain de cire durcie	Inventory	OnLookAtInventory
+9347	Arthur	an Hardened Wax	Pain de cire durcie	Inventory	OnLookAtInventory
+9348	Arthur	Use Hardened Wax with	Utiliser Pain de cire durcie avec	Inventory	OnLookAtInventory
+9349	Arthur	Use Hardened Wax with...	Utiliser Pain de cire durcie avec...	Inventory	OnLookAtInventory
+9350	Arthur	Look at Hardened Wax	Regarder Pain de cire durcie	Inventory	OnLookAtInventory
+9351	Arthur	Hearing Horn	Cornet acoustique	Inventory	OnLookAtInventory
+9352	Arthur	the Hearing Horn	Cornet acoustique	Inventory	OnLookAtInventory
+9353	Arthur	a Hearing Horn	Cornet acoustique	Inventory	OnLookAtInventory
+9354	Arthur	an Hearing Horn	Cornet acoustique	Inventory	OnLookAtInventory
+9355	Arthur	Use Hearing Horn with	Utiliser Cornet acoustique avec	Inventory	OnLookAtInventory
+9356	Arthur	Use Hearing Horn with...	Utiliser Cornet acoustique avec...	Inventory	OnLookAtInventory
+9357	Arthur	Look at Hearing Horn	Regarder Cornet acoustique	Inventory	OnLookAtInventory
+9358	Arthur	Herman's Room Key	Clé de la cabine d'Herman	Inventory	OnLookAtInventory
+9359	Arthur	the Herman's Room Key	Clé de la cabine d'Herman	Inventory	OnLookAtInventory
+9360	Arthur	a Herman's Room Key	Clé de la cabine d'Herman	Inventory	OnLookAtInventory
+9361	Arthur	an Herman's Room Key	Clé de la cabine d'Herman	Inventory	OnLookAtInventory
+9362	Arthur	Use Herman's Room Key with	Utiliser Clé de la cabine d'Herman avec	Inventory	OnLookAtInventory
+9363	Arthur	Use Herman's Room Key with...	Utiliser Clé de la cabine d'Herman avec...	Inventory	OnLookAtInventory
+9364	Arthur	Look at Herman's Room Key	Regarder Clé de la cabine d'Herman	Inventory	OnLookAtInventory
+9365	Arthur	Hooked Walking Cane	Canne à crochet	Inventory	OnLookAtInventory
+9366	Arthur	the Hooked Walking Cane	Canne à crochet	Inventory	OnLookAtInventory
+9367	Arthur	a Hooked Walking Cane	Canne à crochet	Inventory	OnLookAtInventory
+9368	Arthur	an Hooked Walking Cane	Canne à crochet	Inventory	OnLookAtInventory
+9369	Arthur	Use Hooked Walking Cane with	Utiliser Canne à crochet avec	Inventory	OnLookAtInventory
+9370	Arthur	Use Hooked Walking Cane with...	Utiliser Canne à crochet avec...	Inventory	OnLookAtInventory
+9371	Arthur	Look at Hooked Walking Cane	Regarder Canne à crochet	Inventory	OnLookAtInventory
+9372	Arthur	Horn Full of Blue Liquid	Cornet de liquide bleu	Inventory	OnLookAtInventory
+9373	Arthur	the Horn Full of Blue Liquid	Cornet de liquide bleu	Inventory	OnLookAtInventory
+9374	Arthur	a Horn Full of Blue Liquid	Cornet de liquide bleu	Inventory	OnLookAtInventory
+9375	Arthur	an Horn Full of Blue Liquid	Cornet de liquide bleu	Inventory	OnLookAtInventory
+9376	Arthur	Use Horn Full of Blue Liquid with	Utiliser Cornet de liquide bleu avec	Inventory	OnLookAtInventory
+9377	Arthur	Use Horn Full of Blue Liquid with...	Utiliser Cornet de liquide bleu avec...	Inventory	OnLookAtInventory
+9378	Arthur	Look at Horn Full of Blue Liquid	Regarder Cornet de liquide bleu	Inventory	OnLookAtInventory
+9379	Arthur	Horn Full of Pink Liquid	Cornet de liquide rose	Inventory	OnLookAtInventory
+9380	Arthur	the Horn Full of Pink Liquid	Cornet de liquide rose	Inventory	OnLookAtInventory
+9381	Arthur	a Horn Full of Pink Liquid	Cornet de liquide rose	Inventory	OnLookAtInventory
+9382	Arthur	an Horn Full of Pink Liquid	Cornet de liquide rose	Inventory	OnLookAtInventory
+9383	Arthur	Use Horn Full of Pink Liquid with	Utiliser Cornet de liquide rose avec	Inventory	OnLookAtInventory
+9384	Arthur	Use Horn Full of Pink Liquid with...	Utiliser Cornet de liquide rose avec...	Inventory	OnLookAtInventory
+9385	Arthur	Look at Horn Full of Pink Liquid	Regarder Cornet de liquide rose	Inventory	OnLookAtInventory
+9386	Arthur	Incendiary Fuel Tank	Réservoir incendiaire	Inventory	OnLookAtInventory
+9387	Arthur	the Incendiary Fuel Tank	Réservoir incendiaire	Inventory	OnLookAtInventory
+9388	Arthur	a Incendiary Fuel Tank	Réservoir incendiaire	Inventory	OnLookAtInventory
+9389	Arthur	an Incendiary Fuel Tank	Réservoir incendiaire	Inventory	OnLookAtInventory
+9390	Arthur	Use Incendiary Fuel Tank with	Utiliser Réservoir incendiaire avec	Inventory	OnLookAtInventory
+9391	Arthur	Use Incendiary Fuel Tank with...	Utiliser Réservoir incendiaire avec...	Inventory	OnLookAtInventory
+9392	Arthur	Look at Incendiary Fuel Tank	Regarder Réservoir incendiaire	Inventory	OnLookAtInventory
+9393	Arthur	Incendiary Pencils	Crayons incendiaires	Inventory	OnLookAtInventory
+9394	Arthur	the Incendiary Pencils	Crayons incendiaires	Inventory	OnLookAtInventory
+9395	Arthur	a Incendiary Pencils	Crayons incendiaires	Inventory	OnLookAtInventory
+9396	Arthur	an Incendiary Pencils	Crayons incendiaires	Inventory	OnLookAtInventory
+9397	Arthur	Use Incendiary Pencils with	Utiliser Crayons incendiaires avec	Inventory	OnLookAtInventory
+9398	Arthur	Use Incendiary Pencils with...	Utiliser Crayons incendiaires avec...	Inventory	OnLookAtInventory
+9399	Arthur	Look at Incendiary Pencils	Regarder Crayons incendiaires	Inventory	OnLookAtInventory
+9400	Arthur	Invisible Book	Livre invisible	Inventory	OnLookAtInventory
+9401	Arthur	the Invisible Book	Livre invisible	Inventory	OnLookAtInventory
+9402	Arthur	a Invisible Book	Livre invisible	Inventory	OnLookAtInventory
+9403	Arthur	an Invisible Book	Livre invisible	Inventory	OnLookAtInventory
+9404	Arthur	Use Invisible Book with	Utiliser Livre invisible avec	Inventory	OnLookAtInventory
+9405	Arthur	Use Invisible Book with...	Utiliser Livre invisible avec...	Inventory	OnLookAtInventory
+9406	Arthur	Look at Invisible Book	Regarder Livre invisible	Inventory	OnLookAtInventory
+9407	Arthur	Kitchen Boots	Bottes de cuisine	Inventory	OnLookAtInventory
+9408	Arthur	the Kitchen Boots	Bottes de cuisine	Inventory	OnLookAtInventory
+9409	Arthur	a Kitchen Boots	Bottes de cuisine	Inventory	OnLookAtInventory
+9410	Arthur	an Kitchen Boots	Bottes de cuisine	Inventory	OnLookAtInventory
+9411	Arthur	Use Kitchen Boots with	Utiliser Bottes de cuisine avec	Inventory	OnLookAtInventory
+9412	Arthur	Use Kitchen Boots with...	Utiliser Bottes de cuisine avec...	Inventory	OnLookAtInventory
+9413	Arthur	Look at Kitchen Boots	Regarder Bottes de cuisine	Inventory	OnLookAtInventory
+9414	Arthur	Kitchen Plunger	Ventouse de cuisine	Inventory	OnLookAtInventory
+9415	Arthur	the Kitchen Plunger	Ventouse de cuisine	Inventory	OnLookAtInventory
+9416	Arthur	a Kitchen Plunger	Ventouse de cuisine	Inventory	OnLookAtInventory
+9417	Arthur	an Kitchen Plunger	Ventouse de cuisine	Inventory	OnLookAtInventory
+9418	Arthur	Use Kitchen Plunger with	Utiliser Ventouse de cuisine avec	Inventory	OnLookAtInventory
+9419	Arthur	Use Kitchen Plunger with...	Utiliser Ventouse de cuisine avec...	Inventory	OnLookAtInventory
+9420	Arthur	Look at Kitchen Plunger	Regarder Ventouse de cuisine	Inventory	OnLookAtInventory
+9421	Arthur	Knife	Couteau	Inventory	OnLookAtInventory
+9422	Arthur	the Knife	Couteau	Inventory	OnLookAtInventory
+9423	Arthur	a Knife	Couteau	Inventory	OnLookAtInventory
+9424	Arthur	an Knife	Couteau	Inventory	OnLookAtInventory
+9425	Arthur	Use Knife with	Utiliser Couteau avec	Inventory	OnLookAtInventory
+9426	Arthur	Use Knife with...	Utiliser Couteau avec...	Inventory	OnLookAtInventory
+9427	Arthur	Look at Knife	Regarder Couteau	Inventory	OnLookAtInventory
+9428	Arthur	Lady Unterwald's Letter	Lettre de Lady Unterwald	Inventory	OnLookAtInventory
+9429	Arthur	the Lady Unterwald's Letter	Lettre de Lady Unterwald	Inventory	OnLookAtInventory
+9430	Arthur	a Lady Unterwald's Letter	Lettre de Lady Unterwald	Inventory	OnLookAtInventory
+9431	Arthur	an Lady Unterwald's Letter	Lettre de Lady Unterwald	Inventory	OnLookAtInventory
+9432	Arthur	Use Lady Unterwald's Letter with	Utiliser Lettre de Lady Unterwald avec	Inventory	OnLookAtInventory
+9433	Arthur	Use Lady Unterwald's Letter with...	Utiliser Lettre de Lady Unterwald avec...	Inventory	OnLookAtInventory
+9434	Arthur	Look at Lady Unterwald's Letter	Regarder Lettre de Lady Unterwald	Inventory	OnLookAtInventory
+9435	Arthur	Leftover Mixture	Reste de préparation	Inventory	OnLookAtInventory
+9436	Arthur	the Leftover Mixture	Reste de préparation	Inventory	OnLookAtInventory
+9437	Arthur	a Leftover Mixture	Reste de préparation	Inventory	OnLookAtInventory
+9438	Arthur	an Leftover Mixture	Reste de préparation	Inventory	OnLookAtInventory
+9439	Arthur	Use Leftover Mixture with	Utiliser Reste de préparation avec	Inventory	OnLookAtInventory
+9440	Arthur	Use Leftover Mixture with...	Utiliser Reste de préparation avec...	Inventory	OnLookAtInventory
+9441	Arthur	Look at Leftover Mixture	Regarder Reste de préparation	Inventory	OnLookAtInventory
+9442	Arthur	Lemon	Citron	Inventory	OnLookAtInventory
+9443	Arthur	the Lemon	Citron	Inventory	OnLookAtInventory
+9444	Arthur	a Lemon	Citron	Inventory	OnLookAtInventory
+9445	Arthur	an Lemon	Citron	Inventory	OnLookAtInventory
+9446	Arthur	Use Lemon with	Utiliser Citron avec	Inventory	OnLookAtInventory
+9447	Arthur	Use Lemon with...	Utiliser Citron avec...	Inventory	OnLookAtInventory
+9448	Arthur	Look at Lemon	Regarder Citron	Inventory	OnLookAtInventory
+9449	Arthur	Letter Opener	Coupe-papier	Inventory	OnLookAtInventory
+9450	Arthur	the Letter Opener	Coupe-papier	Inventory	OnLookAtInventory
+9451	Arthur	a Letter Opener	Coupe-papier	Inventory	OnLookAtInventory
+9452	Arthur	an Letter Opener	Coupe-papier	Inventory	OnLookAtInventory
+9453	Arthur	Use Letter Opener with	Utiliser Coupe-papier avec	Inventory	OnLookAtInventory
+9454	Arthur	Use Letter Opener with...	Utiliser Coupe-papier avec...	Inventory	OnLookAtInventory
+9455	Arthur	Look at Letter Opener	Regarder Coupe-papier	Inventory	OnLookAtInventory
+9456	Arthur	Letter to Arthur	Lettre pour Arthur	Inventory	OnLookAtInventory
+9457	Arthur	the Letter to Arthur	Lettre pour Arthur	Inventory	OnLookAtInventory
+9458	Arthur	a Letter to Arthur	Lettre pour Arthur	Inventory	OnLookAtInventory
+9459	Arthur	an Letter to Arthur	Lettre pour Arthur	Inventory	OnLookAtInventory
+9460	Arthur	Use Letter to Arthur with	Utiliser Lettre pour Arthur avec	Inventory	OnLookAtInventory
+9461	Arthur	Use Letter to Arthur with...	Utiliser Lettre pour Arthur avec...	Inventory	OnLookAtInventory
+9462	Arthur	Look at Letter to Arthur	Regarder Lettre pour Arthur	Inventory	OnLookAtInventory
+9463	Arthur	Lockpick	Rossignol	Inventory	OnLookAtInventory
+9464	Arthur	the Lockpick	Rossignol	Inventory	OnLookAtInventory
+9465	Arthur	a Lockpick	Rossignol	Inventory	OnLookAtInventory
+9466	Arthur	an Lockpick	Rossignol	Inventory	OnLookAtInventory
+9467	Arthur	Use Lockpick with	Utiliser Rossignol avec	Inventory	OnLookAtInventory
+9468	Arthur	Use Lockpick with...	Utiliser Rossignol avec...	Inventory	OnLookAtInventory
+9469	Arthur	Look at Lockpick	Regarder Rossignol	Inventory	OnLookAtInventory
+9470	Arthur	Luggage Storage Key	Clé du fourgon à bagages	Inventory	OnLookAtInventory
+9471	Arthur	the Luggage Storage Key	Clé du fourgon à bagages	Inventory	OnLookAtInventory
+9472	Arthur	a Luggage Storage Key	Clé du fourgon à bagages	Inventory	OnLookAtInventory
+9473	Arthur	an Luggage Storage Key	Clé du fourgon à bagages	Inventory	OnLookAtInventory
+9474	Arthur	Use Luggage Storage Key with	Utiliser Clé du fourgon à bagages avec	Inventory	OnLookAtInventory
+9475	Arthur	Use Luggage Storage Key with...	Utiliser Clé du fourgon à bagages avec...	Inventory	OnLookAtInventory
+9476	Arthur	Look at Luggage Storage Key	Regarder Clé du fourgon à bagages	Inventory	OnLookAtInventory
+9477	Arthur	Magnet	Aimant	Inventory	OnLookAtInventory
+9478	Arthur	the Magnet	Aimant	Inventory	OnLookAtInventory
+9479	Arthur	a Magnet	Aimant	Inventory	OnLookAtInventory
+9480	Arthur	an Magnet	Aimant	Inventory	OnLookAtInventory
+9481	Arthur	Use Magnet with	Utiliser Aimant avec	Inventory	OnLookAtInventory
+9482	Arthur	Use Magnet with...	Utiliser Aimant avec...	Inventory	OnLookAtInventory
+9483	Arthur	Look at Magnet	Regarder Aimant	Inventory	OnLookAtInventory
+9484	Arthur	Magnetic Ball	Bille magnétique	Inventory	OnLookAtInventory
+9485	Arthur	the Magnetic Ball	Bille magnétique	Inventory	OnLookAtInventory
+9486	Arthur	a Magnetic Ball	Bille magnétique	Inventory	OnLookAtInventory
+9487	Arthur	an Magnetic Ball	Bille magnétique	Inventory	OnLookAtInventory
+9488	Arthur	Use Magnetic Ball with	Utiliser Bille magnétique avec	Inventory	OnLookAtInventory
+9489	Arthur	Use Magnetic Ball with...	Utiliser Bille magnétique avec...	Inventory	OnLookAtInventory
+9490	Arthur	Look at Magnetic Ball	Regarder Bille magnétique	Inventory	OnLookAtInventory
+9491	Arthur	Magnifying Glass	Loupe	Inventory	OnLookAtInventory
+9492	Arthur	the Magnifying Glass	Loupe	Inventory	OnLookAtInventory
+9493	Arthur	a Magnifying Glass	Loupe	Inventory	OnLookAtInventory
+9494	Arthur	an Magnifying Glass	Loupe	Inventory	OnLookAtInventory
+9495	Arthur	Use Magnifying Glass with	Utiliser Loupe avec	Inventory	OnLookAtInventory
+9496	Arthur	Use Magnifying Glass with...	Utiliser Loupe avec...	Inventory	OnLookAtInventory
+9497	Arthur	Look at Magnifying Glass	Regarder Loupe	Inventory	OnLookAtInventory
+9498	Arthur	Makeshift Plunger	Ventouse de fortune	Inventory	OnLookAtInventory
+9499	Arthur	the Makeshift Plunger	Ventouse de fortune	Inventory	OnLookAtInventory
+9500	Arthur	a Makeshift Plunger	Ventouse de fortune	Inventory	OnLookAtInventory
+9501	Arthur	an Makeshift Plunger	Ventouse de fortune	Inventory	OnLookAtInventory
+9502	Arthur	Use Makeshift Plunger with	Utiliser Ventouse de fortune avec	Inventory	OnLookAtInventory
+9503	Arthur	Use Makeshift Plunger with...	Utiliser Ventouse de fortune avec...	Inventory	OnLookAtInventory
+9504	Arthur	Look at Makeshift Plunger	Regarder Ventouse de fortune	Inventory	OnLookAtInventory
+9505	Arthur	Medical Briefcase	Mallette de médecin	Inventory	OnLookAtInventory
+9506	Arthur	the Medical Briefcase	Mallette de médecin	Inventory	OnLookAtInventory
+9507	Arthur	a Medical Briefcase	Mallette de médecin	Inventory	OnLookAtInventory
+9508	Arthur	an Medical Briefcase	Mallette de médecin	Inventory	OnLookAtInventory
+9509	Arthur	Use Medical Briefcase with	Utiliser Mallette de médecin avec	Inventory	OnLookAtInventory
+9510	Arthur	Use Medical Briefcase with...	Utiliser Mallette de médecin avec...	Inventory	OnLookAtInventory
+9511	Arthur	Look at Medical Briefcase	Regarder Mallette de médecin	Inventory	OnLookAtInventory
+9512	Arthur	Medical Records	Dossiers médicaux	Inventory	OnLookAtInventory
+9513	Arthur	the Medical Records	Dossiers médicaux	Inventory	OnLookAtInventory
+9514	Arthur	a Medical Records	Dossiers médicaux	Inventory	OnLookAtInventory
+9515	Arthur	an Medical Records	Dossiers médicaux	Inventory	OnLookAtInventory
+9516	Arthur	Use Medical Records with	Utiliser Dossiers médicaux avec	Inventory	OnLookAtInventory
+9517	Arthur	Use Medical Records with...	Utiliser Dossiers médicaux avec...	Inventory	OnLookAtInventory
+9518	Arthur	Look at Medical Records	Regarder Dossiers médicaux	Inventory	OnLookAtInventory
+9519	Arthur	Melted Wax	Cire fondue	Inventory	OnLookAtInventory
+9520	Arthur	the Melted Wax	Cire fondue	Inventory	OnLookAtInventory
+9521	Arthur	a Melted Wax	Cire fondue	Inventory	OnLookAtInventory
+9522	Arthur	an Melted Wax	Cire fondue	Inventory	OnLookAtInventory
+9523	Arthur	Use Melted Wax with	Utiliser Cire fondue avec	Inventory	OnLookAtInventory
+9524	Arthur	Use Melted Wax with...	Utiliser Cire fondue avec...	Inventory	OnLookAtInventory
+9525	Arthur	Look at Melted Wax	Regarder Cire fondue	Inventory	OnLookAtInventory
+9526	Arthur	Metal Hanger	Cintre métallique	Inventory	OnLookAtInventory
+9527	Arthur	the Metal Hanger	Cintre métallique	Inventory	OnLookAtInventory
+9528	Arthur	a Metal Hanger	Cintre métallique	Inventory	OnLookAtInventory
+9529	Arthur	an Metal Hanger	Cintre métallique	Inventory	OnLookAtInventory
+9530	Arthur	Use Metal Hanger with	Utiliser Cintre métallique avec	Inventory	OnLookAtInventory
+9531	Arthur	Use Metal Hanger with...	Utiliser Cintre métallique avec...	Inventory	OnLookAtInventory
+9532	Arthur	Look at Metal Hanger	Regarder Cintre métallique	Inventory	OnLookAtInventory
+9533	Arthur	Mocktail	Cocktail sans alcool	Inventory	OnLookAtInventory
+9534	Arthur	the Mocktail	Cocktail sans alcool	Inventory	OnLookAtInventory
+9535	Arthur	a Mocktail	Cocktail sans alcool	Inventory	OnLookAtInventory
+9536	Arthur	an Mocktail	Cocktail sans alcool	Inventory	OnLookAtInventory
+9537	Arthur	Use Mocktail with	Utiliser Cocktail sans alcool avec	Inventory	OnLookAtInventory
+9538	Arthur	Use Mocktail with...	Utiliser Cocktail sans alcool avec...	Inventory	OnLookAtInventory
+9539	Arthur	Look at Mocktail	Regarder Cocktail sans alcool	Inventory	OnLookAtInventory
+9540	Arthur	Mouse	Petite souris	Inventory	OnLookAtInventory
+9541	Arthur	the Mouse	Petite souris	Inventory	OnLookAtInventory
+9542	Arthur	a Mouse	Petite souris	Inventory	OnLookAtInventory
+9543	Arthur	an Mouse	Petite souris	Inventory	OnLookAtInventory
+9544	Arthur	Use Mouse with	Utiliser Petite souris avec	Inventory	OnLookAtInventory
+9545	Arthur	Use Mouse with...	Utiliser Petite souris avec...	Inventory	OnLookAtInventory
+9546	Arthur	Look at Mouse	Regarder Petite souris	Inventory	OnLookAtInventory
+9547	Arthur	Mouse Canister	Tube pour souris	Inventory	OnLookAtInventory
+9548	Arthur	the Mouse Canister	Tube pour souris	Inventory	OnLookAtInventory
+9549	Arthur	a Mouse Canister	Tube pour souris	Inventory	OnLookAtInventory
+9550	Arthur	an Mouse Canister	Tube pour souris	Inventory	OnLookAtInventory
+9551	Arthur	Use Mouse Canister with	Utiliser Tube pour souris avec	Inventory	OnLookAtInventory
+9552	Arthur	Use Mouse Canister with...	Utiliser Tube pour souris avec...	Inventory	OnLookAtInventory
+9553	Arthur	Look at Mouse Canister	Regarder Tube pour souris	Inventory	OnLookAtInventory
+9554	Arthur	Mouthwash	Bain de bouche	Inventory	OnLookAtInventory
+9555	Arthur	the Mouthwash	Bain de bouche	Inventory	OnLookAtInventory
+9556	Arthur	a Mouthwash	Bain de bouche	Inventory	OnLookAtInventory
+9557	Arthur	an Mouthwash	Bain de bouche	Inventory	OnLookAtInventory
+9558	Arthur	Use Mouthwash with	Utiliser Bain de bouche avec	Inventory	OnLookAtInventory
+9559	Arthur	Use Mouthwash with...	Utiliser Bain de bouche avec...	Inventory	OnLookAtInventory
+9560	Arthur	Look at Mouthwash	Regarder Bain de bouche	Inventory	OnLookAtInventory
+9561	Arthur	Mysterious Napkin	Serviette mystérieuse	Inventory	OnLookAtInventory
+9562	Arthur	the Mysterious Napkin	Serviette mystérieuse	Inventory	OnLookAtInventory
+9563	Arthur	a Mysterious Napkin	Serviette mystérieuse	Inventory	OnLookAtInventory
+9564	Arthur	an Mysterious Napkin	Serviette mystérieuse	Inventory	OnLookAtInventory
+9565	Arthur	Use Mysterious Napkin with	Utiliser Serviette mystérieuse avec	Inventory	OnLookAtInventory
+9566	Arthur	Use Mysterious Napkin with...	Utiliser Serviette mystérieuse avec...	Inventory	OnLookAtInventory
+9567	Arthur	Look at Mysterious Napkin	Regarder Serviette mystérieuse	Inventory	OnLookAtInventory
+9568	Arthur	Napkin	Serviette	Inventory	OnLookAtInventory
+9569	Arthur	the Napkin	Serviette	Inventory	OnLookAtInventory
+9570	Arthur	a Napkin	Serviette	Inventory	OnLookAtInventory
+9571	Arthur	an Napkin	Serviette	Inventory	OnLookAtInventory
+9572	Arthur	Use Napkin with	Utiliser Serviette avec	Inventory	OnLookAtInventory
+9573	Arthur	Use Napkin with...	Utiliser Serviette avec...	Inventory	OnLookAtInventory
+9574	Arthur	Look at Napkin	Regarder Serviette	Inventory	OnLookAtInventory
+9575	Arthur	Newspaper	Journal du jour	Inventory	OnLookAtInventory
+9576	Arthur	the Newspaper	Journal du jour	Inventory	OnLookAtInventory
+9577	Arthur	a Newspaper	Journal du jour	Inventory	OnLookAtInventory
+9578	Arthur	an Newspaper	Journal du jour	Inventory	OnLookAtInventory
+9579	Arthur	Use Newspaper with	Utiliser Journal du jour avec	Inventory	OnLookAtInventory
+9580	Arthur	Use Newspaper with...	Utiliser Journal du jour avec...	Inventory	OnLookAtInventory
+9581	Arthur	Look at Newspaper	Regarder Journal du jour	Inventory	OnLookAtInventory
+9582	Arthur	Opened Doll	Poupée ouverte	Inventory	OnLookAtInventory
+9583	Arthur	the Opened Doll	Poupée ouverte	Inventory	OnLookAtInventory
+9584	Arthur	a Opened Doll	Poupée ouverte	Inventory	OnLookAtInventory
+9585	Arthur	an Opened Doll	Poupée ouverte	Inventory	OnLookAtInventory
+9586	Arthur	Use Opened Doll with	Utiliser Poupée ouverte avec	Inventory	OnLookAtInventory
+9587	Arthur	Use Opened Doll with...	Utiliser Poupée ouverte avec...	Inventory	OnLookAtInventory
+9588	Arthur	Look at Opened Doll	Regarder Poupée ouverte	Inventory	OnLookAtInventory
+9589	Arthur	Oven Gloves	Maniques de cuisine	Inventory	OnLookAtInventory
+9590	Arthur	the Oven Gloves	Maniques de cuisine	Inventory	OnLookAtInventory
+9591	Arthur	a Oven Gloves	Maniques de cuisine	Inventory	OnLookAtInventory
+9592	Arthur	an Oven Gloves	Maniques de cuisine	Inventory	OnLookAtInventory
+9593	Arthur	Use Oven Gloves with	Utiliser Maniques de cuisine avec	Inventory	OnLookAtInventory
+9594	Arthur	Use Oven Gloves with...	Utiliser Maniques de cuisine avec...	Inventory	OnLookAtInventory
+9595	Arthur	Look at Oven Gloves	Regarder Maniques de cuisine	Inventory	OnLookAtInventory
+9596	Arthur	Package	Colis	Inventory	OnLookAtInventory
+9597	Arthur	the Package	Colis	Inventory	OnLookAtInventory
+9598	Arthur	a Package	Colis	Inventory	OnLookAtInventory
+9599	Arthur	an Package	Colis	Inventory	OnLookAtInventory
+9600	Arthur	Use Package with	Utiliser Colis avec	Inventory	OnLookAtInventory
+9601	Arthur	Use Package with...	Utiliser Colis avec...	Inventory	OnLookAtInventory
+9602	Arthur	Look at Package	Regarder Colis	Inventory	OnLookAtInventory
+9603	Arthur	Packing Peanuts	Particules d'emballage	Inventory	OnLookAtInventory
+9604	Arthur	the Packing Peanuts	Particules d'emballage	Inventory	OnLookAtInventory
+9605	Arthur	a Packing Peanuts	Particules d'emballage	Inventory	OnLookAtInventory
+9606	Arthur	an Packing Peanuts	Particules d'emballage	Inventory	OnLookAtInventory
+9607	Arthur	Use Packing Peanuts with	Utiliser Particules d'emballage avec	Inventory	OnLookAtInventory
+9608	Arthur	Use Packing Peanuts with...	Utiliser Particules d'emballage avec...	Inventory	OnLookAtInventory
+9609	Arthur	Look at Packing Peanuts	Regarder Particules d'emballage	Inventory	OnLookAtInventory
+9610	Arthur	Paper Cup	Gobelet en papier	Inventory	OnLookAtInventory
+9611	Arthur	the Paper Cup	Gobelet en papier	Inventory	OnLookAtInventory
+9612	Arthur	a Paper Cup	Gobelet en papier	Inventory	OnLookAtInventory
+9613	Arthur	an Paper Cup	Gobelet en papier	Inventory	OnLookAtInventory
+9614	Arthur	Use Paper Cup with	Utiliser Gobelet en papier avec	Inventory	OnLookAtInventory
+9615	Arthur	Use Paper Cup with...	Utiliser Gobelet en papier avec...	Inventory	OnLookAtInventory
+9616	Arthur	Look at Paper Cup	Regarder Gobelet en papier	Inventory	OnLookAtInventory
+9617	Arthur	Pearl Necklace	Collier de perles	Inventory	OnLookAtInventory
+9618	Arthur	the Pearl Necklace	Collier de perles	Inventory	OnLookAtInventory
+9619	Arthur	a Pearl Necklace	Collier de perles	Inventory	OnLookAtInventory
+9620	Arthur	an Pearl Necklace	Collier de perles	Inventory	OnLookAtInventory
+9621	Arthur	Use Pearl Necklace with	Utiliser Collier de perles avec	Inventory	OnLookAtInventory
+9622	Arthur	Use Pearl Necklace with...	Utiliser Collier de perles avec...	Inventory	OnLookAtInventory
+9623	Arthur	Look at Pearl Necklace	Regarder Collier de perles	Inventory	OnLookAtInventory
+9624	Arthur	Fountain Pen	Stylo-plume	Inventory	OnLookAtInventory
+9625	Arthur	the Fountain Pen	Stylo-plume	Inventory	OnLookAtInventory
+9626	Arthur	a Fountain Pen	Stylo-plume	Inventory	OnLookAtInventory
+9627	Arthur	an Fountain Pen	Stylo-plume	Inventory	OnLookAtInventory
+9628	Arthur	Use Fountain Pen with	Utiliser Stylo-plume avec	Inventory	OnLookAtInventory
+9629	Arthur	Use Fountain Pen with...	Utiliser Stylo-plume avec...	Inventory	OnLookAtInventory
+9630	Arthur	Look at Fountain Pen	Regarder Stylo-plume	Inventory	OnLookAtInventory
+9631	Arthur	Pencil	Crayon	Inventory	OnLookAtInventory
+9632	Arthur	the Pencil	Crayon	Inventory	OnLookAtInventory
+9633	Arthur	a Pencil	Crayon	Inventory	OnLookAtInventory
+9634	Arthur	an Pencil	Crayon	Inventory	OnLookAtInventory
+9635	Arthur	Use Pencil with	Utiliser Crayon avec	Inventory	OnLookAtInventory
+9636	Arthur	Use Pencil with...	Utiliser Crayon avec...	Inventory	OnLookAtInventory
+9637	Arthur	Look at Pencil	Regarder Crayon	Inventory	OnLookAtInventory
+9638	Arthur	Perfumed Love Note	Billet doux parfumé	Inventory	OnLookAtInventory
+9639	Arthur	the Perfumed Love Note	Billet doux parfumé	Inventory	OnLookAtInventory
+9640	Arthur	a Perfumed Love Note	Billet doux parfumé	Inventory	OnLookAtInventory
+9641	Arthur	an Perfumed Love Note	Billet doux parfumé	Inventory	OnLookAtInventory
+9642	Arthur	Use Perfumed Love Note with	Utiliser Billet doux parfumé avec	Inventory	OnLookAtInventory
+9643	Arthur	Use Perfumed Love Note with...	Utiliser Billet doux parfumé avec...	Inventory	OnLookAtInventory
+9644	Arthur	Look at Perfumed Love Note	Regarder Billet doux parfumé	Inventory	OnLookAtInventory
+9645	Arthur	Rose Petal	Pétale de rose	Inventory	OnLookAtInventory
+9646	Arthur	the Rose Petal	Pétale de rose	Inventory	OnLookAtInventory
+9647	Arthur	a Rose Petal	Pétale de rose	Inventory	OnLookAtInventory
+9648	Arthur	an Rose Petal	Pétale de rose	Inventory	OnLookAtInventory
+9649	Arthur	Use Rose Petal with	Utiliser Pétale de rose avec	Inventory	OnLookAtInventory
+9650	Arthur	Use Rose Petal with...	Utiliser Pétale de rose avec...	Inventory	OnLookAtInventory
+9651	Arthur	Look at Rose Petal	Regarder Pétale de rose	Inventory	OnLookAtInventory
+9652	Arthur	Phonograph Recording	Disque phonographique	Inventory	OnLookAtInventory
+9653	Arthur	the Phonograph Recording	Disque phonographique	Inventory	OnLookAtInventory
+9654	Arthur	a Phonograph Recording	Disque phonographique	Inventory	OnLookAtInventory
+9655	Arthur	an Phonograph Recording	Disque phonographique	Inventory	OnLookAtInventory
+9656	Arthur	Use Phonograph Recording with	Utiliser Disque phonographique avec	Inventory	OnLookAtInventory
+9657	Arthur	Use Phonograph Recording with...	Utiliser Disque phonographique avec...	Inventory	OnLookAtInventory
+9658	Arthur	Look at Phonograph Recording	Regarder Disque phonographique	Inventory	OnLookAtInventory
+9659	Arthur	Plunger Head	Embout de ventouse	Inventory	OnLookAtInventory
+9660	Arthur	the Plunger Head	Embout de ventouse	Inventory	OnLookAtInventory
+9661	Arthur	a Plunger Head	Embout de ventouse	Inventory	OnLookAtInventory
+9662	Arthur	an Plunger Head	Embout de ventouse	Inventory	OnLookAtInventory
+9663	Arthur	Use Plunger Head with	Utiliser Embout de ventouse avec	Inventory	OnLookAtInventory
+9664	Arthur	Use Plunger Head with...	Utiliser Embout de ventouse avec...	Inventory	OnLookAtInventory
+9665	Arthur	Look at Plunger Head	Regarder Embout de ventouse	Inventory	OnLookAtInventory
+9666	Arthur	Poetry Book	Recueil de poèmes	Inventory	OnLookAtInventory
+9667	Arthur	the Poetry Book	Recueil de poèmes	Inventory	OnLookAtInventory
+9668	Arthur	a Poetry Book	Recueil de poèmes	Inventory	OnLookAtInventory
+9669	Arthur	an Poetry Book	Recueil de poèmes	Inventory	OnLookAtInventory
+9670	Arthur	Use Poetry Book with	Utiliser Recueil de poèmes avec	Inventory	OnLookAtInventory
+9671	Arthur	Use Poetry Book with...	Utiliser Recueil de poèmes avec...	Inventory	OnLookAtInventory
+9672	Arthur	Look at Poetry Book	Regarder Recueil de poèmes	Inventory	OnLookAtInventory
+9673	Arthur	Prototype Doll	Poupée prototype	Inventory	OnLookAtInventory
+9674	Arthur	the Prototype Doll	Poupée prototype	Inventory	OnLookAtInventory
+9675	Arthur	a Prototype Doll	Poupée prototype	Inventory	OnLookAtInventory
+9676	Arthur	an Prototype Doll	Poupée prototype	Inventory	OnLookAtInventory
+9677	Arthur	Use Prototype Doll with	Utiliser Poupée prototype avec	Inventory	OnLookAtInventory
+9678	Arthur	Use Prototype Doll with...	Utiliser Poupée prototype avec...	Inventory	OnLookAtInventory
+9679	Arthur	Look at Prototype Doll	Regarder Poupée prototype	Inventory	OnLookAtInventory
+9680	Arthur	Tape Recorder	Magnétophone	Inventory	OnLookAtInventory
+9681	Arthur	the Tape Recorder	Magnétophone	Inventory	OnLookAtInventory
+9682	Arthur	a Tape Recorder	Magnétophone	Inventory	OnLookAtInventory
+9683	Arthur	an Tape Recorder	Magnétophone	Inventory	OnLookAtInventory
+9684	Arthur	Use Tape Recorder with	Utiliser Magnétophone avec	Inventory	OnLookAtInventory
+9685	Arthur	Use Tape Recorder with...	Utiliser Magnétophone avec...	Inventory	OnLookAtInventory
+9686	Arthur	Look at Tape Recorder	Regarder Magnétophone	Inventory	OnLookAtInventory
+9687	Arthur	Repaired Hearing Horn	Cornet acoustique réparé	Inventory	OnLookAtInventory
+9688	Arthur	the Repaired Hearing Horn	Cornet acoustique réparé	Inventory	OnLookAtInventory
+9689	Arthur	a Repaired Hearing Horn	Cornet acoustique réparé	Inventory	OnLookAtInventory
+9690	Arthur	an Repaired Hearing Horn	Cornet acoustique réparé	Inventory	OnLookAtInventory
+9691	Arthur	Use Repaired Hearing Horn with	Utiliser Cornet acoustique réparé avec	Inventory	OnLookAtInventory
+9692	Arthur	Use Repaired Hearing Horn with...	Utiliser Cornet acoustique réparé avec...	Inventory	OnLookAtInventory
+9693	Arthur	Look at Repaired Hearing Horn	Regarder Cornet acoustique réparé	Inventory	OnLookAtInventory
+9694	Arthur	Romance Manuscript	Roman à l'eau de rose	Inventory	OnLookAtInventory
+9695	Arthur	the Romance Manuscript	Roman à l'eau de rose	Inventory	OnLookAtInventory
+9696	Arthur	a Romance Manuscript	Roman à l'eau de rose	Inventory	OnLookAtInventory
+9697	Arthur	an Romance Manuscript	Roman à l'eau de rose	Inventory	OnLookAtInventory
+9698	Arthur	Use Romance Manuscript with	Utiliser Roman à l'eau de rose avec	Inventory	OnLookAtInventory
+9699	Arthur	Use Romance Manuscript with...	Utiliser Roman à l'eau de rose avec...	Inventory	OnLookAtInventory
+9700	Arthur	Look at Romance Manuscript	Regarder Roman à l'eau de rose	Inventory	OnLookAtInventory
+9701	Arthur	Rosebud Cocktail	Cocktail Rosebud	Inventory	OnLookAtInventory
+9702	Arthur	the Rosebud Cocktail	Cocktail Rosebud	Inventory	OnLookAtInventory
+9703	Arthur	a Rosebud Cocktail	Cocktail Rosebud	Inventory	OnLookAtInventory
+9704	Arthur	an Rosebud Cocktail	Cocktail Rosebud	Inventory	OnLookAtInventory
+9705	Arthur	Use Rosebud Cocktail with	Utiliser Cocktail Rosebud avec	Inventory	OnLookAtInventory
+9706	Arthur	Use Rosebud Cocktail with...	Utiliser Cocktail Rosebud avec...	Inventory	OnLookAtInventory
+9707	Arthur	Look at Rosebud Cocktail	Regarder Cocktail Rosebud	Inventory	OnLookAtInventory
+9708	Arthur	Rosebud Recipe	Recette du Rosebud	Inventory	OnLookAtInventory
+9709	Arthur	the Rosebud Recipe	Recette du Rosebud	Inventory	OnLookAtInventory
+9710	Arthur	a Rosebud Recipe	Recette du Rosebud	Inventory	OnLookAtInventory
+9711	Arthur	an Rosebud Recipe	Recette du Rosebud	Inventory	OnLookAtInventory
+9712	Arthur	Use Rosebud Recipe with	Utiliser Recette du Rosebud avec	Inventory	OnLookAtInventory
+9713	Arthur	Use Rosebud Recipe with...	Utiliser Recette du Rosebud avec...	Inventory	OnLookAtInventory
+9714	Arthur	Look at Rosebud Recipe	Regarder Recette du Rosebud	Inventory	OnLookAtInventory
+9715	Arthur	Rubber Tubing	Tube en caoutchouc	Inventory	OnLookAtInventory
+9716	Arthur	the Rubber Tubing	Tube en caoutchouc	Inventory	OnLookAtInventory
+9717	Arthur	a Rubber Tubing	Tube en caoutchouc	Inventory	OnLookAtInventory
+9718	Arthur	an Rubber Tubing	Tube en caoutchouc	Inventory	OnLookAtInventory
+9719	Arthur	Use Rubber Tubing with	Utiliser Tube en caoutchouc avec	Inventory	OnLookAtInventory
+9720	Arthur	Use Rubber Tubing with...	Utiliser Tube en caoutchouc avec...	Inventory	OnLookAtInventory
+9721	Arthur	Look at Rubber Tubing	Regarder Tube en caoutchouc	Inventory	OnLookAtInventory
+9722	Arthur	Rusty Pole	Barre de fer rouillée	Inventory	OnLookAtInventory
+9723	Arthur	the Rusty Pole	Barre de fer rouillée	Inventory	OnLookAtInventory
+9724	Arthur	a Rusty Pole	Barre de fer rouillée	Inventory	OnLookAtInventory
+9725	Arthur	an Rusty Pole	Barre de fer rouillée	Inventory	OnLookAtInventory
+9726	Arthur	Use Rusty Pole with	Utiliser Barre de fer rouillée avec	Inventory	OnLookAtInventory
+9727	Arthur	Use Rusty Pole with...	Utiliser Barre de fer rouillée avec...	Inventory	OnLookAtInventory
+9728	Arthur	Look at Rusty Pole	Regarder Barre de fer rouillée	Inventory	OnLookAtInventory
+9729	Arthur	Sawdust	Sciure de bois	Inventory	OnLookAtInventory
+9730	Arthur	the Sawdust	Sciure de bois	Inventory	OnLookAtInventory
+9731	Arthur	a Sawdust	Sciure de bois	Inventory	OnLookAtInventory
+9732	Arthur	an Sawdust	Sciure de bois	Inventory	OnLookAtInventory
+9733	Arthur	Use Sawdust with	Utiliser Sciure de bois avec	Inventory	OnLookAtInventory
+9734	Arthur	Use Sawdust with...	Utiliser Sciure de bois avec...	Inventory	OnLookAtInventory
+9735	Arthur	Look at Sawdust	Regarder Sciure de bois	Inventory	OnLookAtInventory
+9736	Arthur	Cup of Sawdust	Gobelet de sciure	Inventory	OnLookAtInventory
+9737	Arthur	the Cup of Sawdust	Gobelet de sciure	Inventory	OnLookAtInventory
+9738	Arthur	a Cup of Sawdust	Gobelet de sciure	Inventory	OnLookAtInventory
+9739	Arthur	an Cup of Sawdust	Gobelet de sciure	Inventory	OnLookAtInventory
+9740	Arthur	Use Cup of Sawdust with	Utiliser Gobelet de sciure avec	Inventory	OnLookAtInventory
+9741	Arthur	Use Cup of Sawdust with...	Utiliser Gobelet de sciure avec...	Inventory	OnLookAtInventory
+9742	Arthur	Look at Cup of Sawdust	Regarder Gobelet de sciure	Inventory	OnLookAtInventory
+9743	Arthur	Secret Note	Message secret	Inventory	OnLookAtInventory
+9744	Arthur	the Secret Note	Message secret	Inventory	OnLookAtInventory
+9745	Arthur	a Secret Note	Message secret	Inventory	OnLookAtInventory
+9746	Arthur	an Secret Note	Message secret	Inventory	OnLookAtInventory
+9747	Arthur	Use Secret Note with	Utiliser Message secret avec	Inventory	OnLookAtInventory
+9748	Arthur	Use Secret Note with...	Utiliser Message secret avec...	Inventory	OnLookAtInventory
+9749	Arthur	Look at Secret Note	Regarder Message secret	Inventory	OnLookAtInventory
+9750	Arthur	Set List	Programme des morceaux	Inventory	OnLookAtInventory
+9751	Arthur	the Set List	Programme des morceaux	Inventory	OnLookAtInventory
+9752	Arthur	a Set List	Programme des morceaux	Inventory	OnLookAtInventory
+9753	Arthur	an Set List	Programme des morceaux	Inventory	OnLookAtInventory
+9754	Arthur	Use Set List with	Utiliser Programme des morceaux avec	Inventory	OnLookAtInventory
+9755	Arthur	Use Set List with...	Utiliser Programme des morceaux avec...	Inventory	OnLookAtInventory
+9756	Arthur	Look at Set List	Regarder Programme des morceaux	Inventory	OnLookAtInventory
+9757	Arthur	Slippery Knife	Couteau glissant	Inventory	OnLookAtInventory
+9758	Arthur	the Slippery Knife	Couteau glissant	Inventory	OnLookAtInventory
+9759	Arthur	a Slippery Knife	Couteau glissant	Inventory	OnLookAtInventory
+9760	Arthur	an Slippery Knife	Couteau glissant	Inventory	OnLookAtInventory
+9761	Arthur	Use Slippery Knife with	Utiliser Couteau glissant avec	Inventory	OnLookAtInventory
+9762	Arthur	Use Slippery Knife with...	Utiliser Couteau glissant avec...	Inventory	OnLookAtInventory
+9763	Arthur	Look at Slippery Knife	Regarder Couteau glissant	Inventory	OnLookAtInventory
+9764	Arthur	Slippery Mixture	Mélange glissant	Inventory	OnLookAtInventory
+9765	Arthur	the Slippery Mixture	Mélange glissant	Inventory	OnLookAtInventory
+9766	Arthur	a Slippery Mixture	Mélange glissant	Inventory	OnLookAtInventory
+9767	Arthur	an Slippery Mixture	Mélange glissant	Inventory	OnLookAtInventory
+9768	Arthur	Use Slippery Mixture with	Utiliser Mélange glissant avec	Inventory	OnLookAtInventory
+9769	Arthur	Use Slippery Mixture with...	Utiliser Mélange glissant avec...	Inventory	OnLookAtInventory
+9770	Arthur	Look at Slippery Mixture	Regarder Mélange glissant	Inventory	OnLookAtInventory
+9771	Arthur	Cup of Soup	Tasse de bouillon	Inventory	OnLookAtInventory
+9772	Arthur	the Cup of Soup	Tasse de bouillon	Inventory	OnLookAtInventory
+9773	Arthur	a Cup of Soup	Tasse de bouillon	Inventory	OnLookAtInventory
+9774	Arthur	an Cup of Soup	Tasse de bouillon	Inventory	OnLookAtInventory
+9775	Arthur	Use Cup of Soup with	Utiliser Tasse de bouillon avec	Inventory	OnLookAtInventory
+9776	Arthur	Use Cup of Soup with...	Utiliser Tasse de bouillon avec...	Inventory	OnLookAtInventory
+9777	Arthur	Look at Cup of Soup	Regarder Tasse de bouillon	Inventory	OnLookAtInventory
+9778	Arthur	Stapler	Agrafeuse	Inventory	OnLookAtInventory
+9779	Arthur	the Stapler	Agrafeuse	Inventory	OnLookAtInventory
+9780	Arthur	a Stapler	Agrafeuse	Inventory	OnLookAtInventory
+9781	Arthur	an Stapler	Agrafeuse	Inventory	OnLookAtInventory
+9782	Arthur	Use Stapler with	Utiliser Agrafeuse avec	Inventory	OnLookAtInventory
+9783	Arthur	Use Stapler with...	Utiliser Agrafeuse avec...	Inventory	OnLookAtInventory
+9784	Arthur	Look at Stapler	Regarder Agrafeuse	Inventory	OnLookAtInventory
+9785	Arthur	Suction Boots	Bottes ventouses	Inventory	OnLookAtInventory
+9786	Arthur	the Suction Boots	Bottes ventouses	Inventory	OnLookAtInventory
+9787	Arthur	a Suction Boots	Bottes ventouses	Inventory	OnLookAtInventory
+9788	Arthur	an Suction Boots	Bottes ventouses	Inventory	OnLookAtInventory
+9789	Arthur	Use Suction Boots with	Utiliser Bottes ventouses avec	Inventory	OnLookAtInventory
+9790	Arthur	Use Suction Boots with...	Utiliser Bottes ventouses avec...	Inventory	OnLookAtInventory
+9791	Arthur	Look at Suction Boots	Regarder Bottes ventouses	Inventory	OnLookAtInventory
+9792	Arthur	Surgical Spirit	Alcool à 90°	Inventory	OnLookAtInventory
+9793	Arthur	the Surgical Spirit	Alcool à 90°	Inventory	OnLookAtInventory
+9794	Arthur	a Surgical Spirit	Alcool à 90°	Inventory	OnLookAtInventory
+9795	Arthur	an Surgical Spirit	Alcool à 90°	Inventory	OnLookAtInventory
+9796	Arthur	Use Surgical Spirit with	Utiliser Alcool à 90° avec	Inventory	OnLookAtInventory
+9797	Arthur	Use Surgical Spirit with...	Utiliser Alcool à 90° avec...	Inventory	OnLookAtInventory
+9798	Arthur	Look at Surgical Spirit	Regarder Alcool à 90°	Inventory	OnLookAtInventory
+9799	Arthur	Alcohol-Soaked Napkin	Serviette imbibée d'alcool	Inventory	OnLookAtInventory
+9800	Arthur	the Alcohol-Soaked Napkin	Serviette imbibée d'alcool	Inventory	OnLookAtInventory
+9801	Arthur	a Alcohol-Soaked Napkin	Serviette imbibée d'alcool	Inventory	OnLookAtInventory
+9802	Arthur	an Alcohol-Soaked Napkin	Serviette imbibée d'alcool	Inventory	OnLookAtInventory
+9803	Arthur	Use Alcohol-Soaked Napkin with	Utiliser Serviette imbibée d'alcool avec	Inventory	OnLookAtInventory
+9804	Arthur	Use Alcohol-Soaked Napkin with...	Utiliser Serviette imbibée d'alcool avec...	Inventory	OnLookAtInventory
+9805	Arthur	Look at Alcohol-Soaked Napkin	Regarder Serviette imbibée d'alcool	Inventory	OnLookAtInventory
+9806	Arthur	Toilet Boots	Bottes d'aisance	Inventory	OnLookAtInventory
+9807	Arthur	the Toilet Boots	Bottes d'aisance	Inventory	OnLookAtInventory
+9808	Arthur	a Toilet Boots	Bottes d'aisance	Inventory	OnLookAtInventory
+9809	Arthur	an Toilet Boots	Bottes d'aisance	Inventory	OnLookAtInventory
+9810	Arthur	Use Toilet Boots with	Utiliser Bottes d'aisance avec	Inventory	OnLookAtInventory
+9811	Arthur	Use Toilet Boots with...	Utiliser Bottes d'aisance avec...	Inventory	OnLookAtInventory
+9812	Arthur	Look at Toilet Boots	Regarder Bottes d'aisance	Inventory	OnLookAtInventory
+9813	Arthur	Toilet Plunger	Ventouse de toilettes	Inventory	OnLookAtInventory
+9814	Arthur	the Toilet Plunger	Ventouse de toilettes	Inventory	OnLookAtInventory
+9815	Arthur	a Toilet Plunger	Ventouse de toilettes	Inventory	OnLookAtInventory
+9816	Arthur	an Toilet Plunger	Ventouse de toilettes	Inventory	OnLookAtInventory
+9817	Arthur	Use Toilet Plunger with	Utiliser Ventouse de toilettes avec	Inventory	OnLookAtInventory
+9818	Arthur	Use Toilet Plunger with...	Utiliser Ventouse de toilettes avec...	Inventory	OnLookAtInventory
+9819	Arthur	Look at Toilet Plunger	Regarder Ventouse de toilettes	Inventory	OnLookAtInventory
+9820	Arthur	Toy Detective Badge	Faux insigne de détective	Inventory	OnLookAtInventory
+9821	Arthur	the Toy Detective Badge	Faux insigne de détective	Inventory	OnLookAtInventory
+9822	Arthur	a Toy Detective Badge	Faux insigne de détective	Inventory	OnLookAtInventory
+9823	Arthur	an Toy Detective Badge	Faux insigne de détective	Inventory	OnLookAtInventory
+9824	Arthur	Use Toy Detective Badge with	Utiliser Faux insigne de détective avec	Inventory	OnLookAtInventory
+9825	Arthur	Use Toy Detective Badge with...	Utiliser Faux insigne de détective avec...	Inventory	OnLookAtInventory
+9826	Arthur	Look at Toy Detective Badge	Regarder Faux insigne de détective	Inventory	OnLookAtInventory
+9827	Arthur	Umbrella	Parapluie	Inventory	OnLookAtInventory
+9828	Arthur	the Umbrella	Parapluie	Inventory	OnLookAtInventory
+9829	Arthur	a Umbrella	Parapluie	Inventory	OnLookAtInventory
+9830	Arthur	an Umbrella	Parapluie	Inventory	OnLookAtInventory
+9831	Arthur	Use Umbrella with	Utiliser Parapluie avec	Inventory	OnLookAtInventory
+9832	Arthur	Use Umbrella with...	Utiliser Parapluie avec...	Inventory	OnLookAtInventory
+9833	Arthur	Look at Umbrella	Regarder Parapluie	Inventory	OnLookAtInventory
+9834	Arthur	Lady Unterwald's Recording	Enregistrement de Lady Unterwald	Inventory	OnLookAtInventory
+9835	Arthur	the Lady Unterwald's Recording	Enregistrement de Lady Unterwald	Inventory	OnLookAtInventory
+9836	Arthur	a Lady Unterwald's Recording	Enregistrement de Lady Unterwald	Inventory	OnLookAtInventory
+9837	Arthur	an Lady Unterwald's Recording	Enregistrement de Lady Unterwald	Inventory	OnLookAtInventory
+9838	Arthur	Use Lady Unterwald's Recording with	Utiliser Enregistrement de Lady Unterwald avec	Inventory	OnLookAtInventory
+9839	Arthur	Use Lady Unterwald's Recording with...	Utiliser Enregistrement de Lady Unterwald avec...	Inventory	OnLookAtInventory
+9840	Arthur	Look at Lady Unterwald's Recording	Regarder Enregistrement de Lady Unterwald	Inventory	OnLookAtInventory
+9841	Arthur	Walking Cane	Canne de marche	Inventory	OnLookAtInventory
+9842	Arthur	the Walking Cane	Canne de marche	Inventory	OnLookAtInventory
+9843	Arthur	a Walking Cane	Canne de marche	Inventory	OnLookAtInventory
+9844	Arthur	an Walking Cane	Canne de marche	Inventory	OnLookAtInventory
+9845	Arthur	Use Walking Cane with	Utiliser Canne de marche avec	Inventory	OnLookAtInventory
+9846	Arthur	Use Walking Cane with...	Utiliser Canne de marche avec...	Inventory	OnLookAtInventory
+9847	Arthur	Look at Walking Cane	Regarder Canne de marche	Inventory	OnLookAtInventory
+9848	Arthur	Wax Imprint	Empreinte en cire	Inventory	OnLookAtInventory
+9849	Arthur	the Wax Imprint	Empreinte en cire	Inventory	OnLookAtInventory
+9850	Arthur	a Wax Imprint	Empreinte en cire	Inventory	OnLookAtInventory
+9851	Arthur	an Wax Imprint	Empreinte en cire	Inventory	OnLookAtInventory
+9852	Arthur	Use Wax Imprint with	Utiliser Empreinte en cire avec	Inventory	OnLookAtInventory
+9853	Arthur	Use Wax Imprint with...	Utiliser Empreinte en cire avec...	Inventory	OnLookAtInventory
+9854	Arthur	Look at Wax Imprint	Regarder Empreinte en cire	Inventory	OnLookAtInventory
+9855	Arthur	Wax Seal	Sceau de cire	Inventory	OnLookAtInventory
+9856	Arthur	the Wax Seal	Sceau de cire	Inventory	OnLookAtInventory
+9857	Arthur	a Wax Seal	Sceau de cire	Inventory	OnLookAtInventory
+9858	Arthur	an Wax Seal	Sceau de cire	Inventory	OnLookAtInventory
+9859	Arthur	Use Wax Seal with	Utiliser Sceau de cire avec	Inventory	OnLookAtInventory
+9860	Arthur	Use Wax Seal with...	Utiliser Sceau de cire avec...	Inventory	OnLookAtInventory
+9861	Arthur	Look at Wax Seal	Regarder Sceau de cire	Inventory	OnLookAtInventory
+9862	Arthur	Will of Lady Unterwald	Testament de Lady Unterwald	Inventory	OnLookAtInventory
+9863	Arthur	the Will of Lady Unterwald	Testament de Lady Unterwald	Inventory	OnLookAtInventory
+9864	Arthur	a Will of Lady Unterwald	Testament de Lady Unterwald	Inventory	OnLookAtInventory
+9865	Arthur	an Will of Lady Unterwald	Testament de Lady Unterwald	Inventory	OnLookAtInventory
+9866	Arthur	Use Will of Lady Unterwald with	Utiliser Testament de Lady Unterwald avec	Inventory	OnLookAtInventory
+9867	Arthur	Use Will of Lady Unterwald with...	Utiliser Testament de Lady Unterwald avec...	Inventory	OnLookAtInventory
+9868	Arthur	Look at Will of Lady Unterwald	Regarder Testament de Lady Unterwald	Inventory	OnLookAtInventory
+9869	Arthur	Wire Cutters	Pince coupante	Inventory	OnLookAtInventory
+9870	Arthur	the Wire Cutters	Pince coupante	Inventory	OnLookAtInventory
+9871	Arthur	a Wire Cutters	Pince coupante	Inventory	OnLookAtInventory
+9872	Arthur	an Wire Cutters	Pince coupante	Inventory	OnLookAtInventory
+9873	Arthur	Use Wire Cutters with	Utiliser Pince coupante avec	Inventory	OnLookAtInventory
+9874	Arthur	Use Wire Cutters with...	Utiliser Pince coupante avec...	Inventory	OnLookAtInventory
+9875	Arthur	Look at Wire Cutters	Regarder Pince coupante	Inventory	OnLookAtInventory
+9876	Arthur	Reel of Wire	Bobine de fil de fer	Inventory	OnLookAtInventory
+9877	Arthur	the Reel of Wire	Bobine de fil de fer	Inventory	OnLookAtInventory
+9878	Arthur	a Reel of Wire	Bobine de fil de fer	Inventory	OnLookAtInventory
+9879	Arthur	an Reel of Wire	Bobine de fil de fer	Inventory	OnLookAtInventory
+9880	Arthur	Use Reel of Wire with	Utiliser Bobine de fil de fer avec	Inventory	OnLookAtInventory
+9881	Arthur	Use Reel of Wire with...	Utiliser Bobine de fil de fer avec...	Inventory	OnLookAtInventory
+9882	Arthur	Look at Reel of Wire	Regarder Bobine de fil de fer	Inventory	OnLookAtInventory
+9883	Arthur	Wooden Hanger	Cintre en bois	Inventory	OnLookAtInventory
+9884	Arthur	the Wooden Hanger	Cintre en bois	Inventory	OnLookAtInventory
+9885	Arthur	a Wooden Hanger	Cintre en bois	Inventory	OnLookAtInventory
+9886	Arthur	an Wooden Hanger	Cintre en bois	Inventory	OnLookAtInventory
+9887	Arthur	Use Wooden Hanger with	Utiliser Cintre en bois avec	Inventory	OnLookAtInventory
+9888	Arthur	Use Wooden Hanger with...	Utiliser Cintre en bois avec...	Inventory	OnLookAtInventory
+9889	Arthur	Look at Wooden Hanger	Regarder Cintre en bois	Inventory	OnLookAtInventory
+9890	Arthur	I'm sure we'd find a lot of creative accounting in here.	Je suis sûr qu'on trouverait pas mal de comptabilité créative là-dedans.	Inventory	OnLookAtInventory
+9891	Arthur	It's a very thick manuscript. Typical overachiever.	C'est un manuscrit bien épais. Typique des perfectionnistes zélés.	Inventory	OnLookAtInventory
+9892	Arthur	It's the manuscript to my latest masterpiece.	C'est le manuscrit de mon tout dernier chef-d'œuvre.	Inventory	OnLookAtInventory
+9893	Arthur	Herman Merman and the Suburban Burden!	Herman Merman et le Fardeau de Banlieue !	Inventory	OnLookAtInventory
+9894	Arthur	I'll slip my manuscript inside Dirk Chiselton's cover.	Je vais glisser mon manuscrit sous la couverture de Dirk Chiselton.	Inventory	OnLookAtInventory
+9895	Arthur	At first glance, this looks like a Dirk Chiselton manuscript!	Au premier coup d'œil, on dirait un manuscrit de Dirk Chiselton !	Inventory	OnLookAtInventory
+9896	Arthur	Dirk Chiselton sent over a manuscript?	Dirk Chiselton a envoyé un manuscrit ?	Inventory	OnLookAtInventory
+9897	Arthur	Sorry, Dirk, I need it more than you do.	Désolé, Dirk, j'en ai plus besoin que toi.	Inventory	OnLookAtInventory
+9898	Arthur	It's weighty. Could be 70,000 words by my estimate.	C'est lourd. 70 000 mots d'après mon estimation.	Inventory	OnLookAtInventory
+9899	Arthur	It’s the romance novel I retrieved from the bin.	C'est le roman à l'eau de rose que j'ai repêché dans la corbeille.	Inventory	OnLookAtInventory
+9900	Arthur	Perhaps I should have left it there.	J'aurais peut-être dû le laisser là-bas.	Inventory	OnLookAtInventory
+9901	Arthur	It’s the cover page I tore from Dirk Chiselton’s manuscript.	C'est la page de couverture que j'ai arrachée du manuscrit de Dirk Chiselton.	Inventory	OnLookAtInventory
+9902	Arthur	Alright, Agent M. You'll be nice and snug inside this pod.	Très bien, Agent M. Tu seras bien au chaud dans cette capsule.	Inventory	OnLookAtInventory
+9903	Arthur	She's the cutest little agent, ever!	C'est la plus mignonne petite agente de tous les temps !	Inventory	OnLookAtInventory
+9904	Arthur	I wonder who trained her to be such a kleptomaniac?	Je me demande bien qui l'a dressée à devenir une telle kleptomane ?	Inventory	OnLookAtInventory
+9905	Arthur	Are you alright in there, little one?	Tout va bien là-dedans, ma petite ?	Inventory	OnLookAtInventory
+9906	Arthur	She ate all my pocket cheese!	Elle a mangé tout mon fromage de poche !	Inventory	OnLookAtInventory
+9907	Arthur	It's the key I used to get out of my chains!	C'est la clé que j'ai utilisée pour me libérer des fers !	Inventory	OnLookAtInventory
+9908	Arthur	This looks like it might unlock a set of chains.	On dirait que ça pourrait ouvrir des fers.	Inventory	OnLookAtInventory
+9909	Arthur	It's a small key, but I have no idea what it unlocks.	C'est une petite clé, mais je n'ai aucune idée de ce qu'elle ouvre.	Inventory	OnLookAtInventory
+9910	Arthur	This key might unlock those chains!	Cette clé pourrait bien ouvrir ces fers !	Inventory	OnLookAtInventory
+9911	Arthur	It's an anklet key, primarily used for locking prison chains.	C'est une clé de cheville, servant surtout à verrouiller les chaînes de prisonniers.	Inventory	OnLookAtInventory
+9912	Arthur	It's a set of heavy-duty chains!	C'est un ensemble de fers bien solides !	Inventory	OnLookAtInventory
+9913	Arthur	It's a heavy-duty set of prison chains!	C'est un jeu de chaînes de prisonnier ultra résistant !	Inventory	OnLookAtInventory
+9914	Arthur	It's a pile of heavy chains.	C'est un tas de lourdes chaînes.	Inventory	OnLookAtInventory
+9915	Arthur	Hmm. This syringe has a label marked ‘Antidote'.	Hmm. Cette seringue porte une étiquette indiquant « Antidote ».	Inventory	OnLookAtInventory
+9916	Arthur	It's the antidote I used to revive Dr Hirsch!	C'est l'antidote que j'ai utilisé pour ranimer le Dr Hirsch !	Inventory	OnLookAtInventory
+9917	Arthur	I can see the various handshakes in the background of these sketches!	On aperçoit les différentes poignées de main en arrière-plan de ces croquis !	Inventory	OnLookAtInventory
+9918	Arthur	I'll still need some help to figure out the correct order.	J'aurai quand même besoin d'aide pour trouver le bon ordre.	Inventory	OnLookAtInventory
+9919	Arthur	Perhaps you'd settle for a simple fist bump?	Peut-être qu'un simple check du poing vous conviendrait ?	Inventory	OnLookAtInventory
+9920	Arthur	If you think I'm still sleeping, you should give me a shake!	Si vous me croyez encore endormi, venez donc me secouer !	Inventory	OnLookAtInventory
+9921	Arthur	I assure you, these palms, they have a strong grip!	Je vous garantis que ces paumes ont une poigne de fer !	Inventory	OnLookAtInventory
+9922	Arthur	I've watched your dance of digits, and I handedly approve.	J'ai observé votre ballet de phalanges, et j'approuve haut la main !	Inventory	OnLookAtInventory
+9923	Arthur	I'm sure I can put Don's winnings to better use.	Je suis convaincu que je peux faire un meilleur usage des gains de Don.	Inventory	OnLookAtInventory
+9924	Arthur	I'm sure Bergmann will choose his words more carefully in future.	Je suis sûr que Bergmann pèsera mieux ses mots à l'avenir.	Inventory	OnLookAtInventory
+9925	Arthur	Hey, it fits!	Eh, ça rentre parfaitement !	Inventory	OnLookAtInventory
+9926	Arthur	Nice, that looks like it's worked.	Chouette, on dirait que ça a fonctionné.	Inventory	OnLookAtInventory
+9927	Arthur	Aha, a perfect fit!	Aha, ça s'emboîte à merveille !	Inventory	OnLookAtInventory
+9928	Arthur	It's just the right size, that was lucky.	C'est pile à la bonne taille, quelle chance.	Inventory	OnLookAtInventory
+9929	Arthur	I don't want to risk recording over Bergmann's reel.	Je ne veux pas risquer d'enregistrer par-dessus la bande de Bergmann.	Inventory	OnLookAtInventory
+9930	Arthur	I'll need another wire reel to record anything new.	J'aurai besoin d'une autre bobine de fil pour enregistrer du nouveau contenu.	Inventory	OnLookAtInventory
+9931	Arthur	It's Don's recording device. It's not much use to me without another wire reel, though.	C'est l'enregistreur de Don. Mais il ne m'est pas d'une grande utilité sans une autre bobine de fil.	Inventory	OnLookAtInventory
+9932	Arthur	We could record something with this if we found another wire reel.	On pourrait enregistrer quelque chose avec ça si on trouvait une autre bobine.	Inventory	OnLookAtInventory
+9933	Arthur	This portable recording device could be useful if it wasn't empty.	Cet enregistreur portatif pourrait être utile s'il n'était pas vide.	Inventory	OnLookAtInventory
+9934	Arthur	Donny was using this device to record Bergmann!	Donny utilisait cet appareil pour enregistrer Bergmann !	Inventory	OnLookAtInventory
+9935	Arthur	It's loaded up with a fresh wire reel, ready for recording.	Il est chargé avec une bobine de fil neuve, prêt à enregistrer.	Inventory	OnLookAtInventory
+9936	Arthur	I should get one of these to take notes on the fly.	Je devrais m'en procurer un pour prendre des notes à la volée.	Inventory	OnLookAtInventory
+9937	Arthur	It's not as discreet as a phone tap, but it gets the job done.	Ce n'est pas aussi discret qu'une écoute téléphonique, mais ça fait le travail.	Inventory	OnLookAtInventory
+9938	Arthur	I can put this wire reel into a recording device to record something.	Je peux insérer cette bobine de fil dans un enregistreur pour enregistrer du son.	Inventory	OnLookAtInventory
+9939	Arthur	It's an empty wire reel, handy if I need to record something.	C'est une bobine de fil vide, pratique si j'ai besoin d'enregistrer.	Inventory	OnLookAtInventory
+9940	Arthur	Lord Unterwald planned to use this to document his astronomical observations.	Lord Unterwald prévoyait d'utiliser ceci pour documenter ses observations astronomiques.	Inventory	OnLookAtInventory
+9941	Arthur	It's a little dusty, but I'm sure it would still record audio.	C'est un peu poussiéreux, mais je suis certain que ça enregistre encore.	Inventory	OnLookAtInventory
+9942	Arthur	Lady Unterwald recorded her own album of songs!	Lady Unterwald a enregistré son propre album de chansons !	Inventory	OnLookAtInventory
+9943	Arthur	It's Lady Unterwald's voice, from beyond the grave!	C'est la voix de Lady Unterwald, d'outre-tombe !	Inventory	OnLookAtInventory
+9944	Arthur	Thank you for calling the Reuss Express onboard service.	Merci d'avoir contacté le service de bord du Reuss Express.	Inventory	OnLookAtInventory
+9945	Arthur	This call may be recorded for training purposes.	Cet appel peut être enregistré à des fins de formation.	Inventory	OnLookAtInventory
+9946	Arthur	This pocket cheese should be useful, and not just for snacking purposes!	Ce fromage de poche devrait s'avérer utile, et pas seulement pour le grignotage !	Inventory	OnLookAtInventory
+9947	Arthur	Just one of these peppers would make any dish unbearably hot.	Un seul de ces piments rendrait n'importe quel plat atrocement brûlant.	Inventory	OnLookAtInventory
+9948	Arthur	It's a harmless lemon.	C'est un citron tout à fait inoffensif.	Inventory	OnLookAtInventory
+9949	Arthur	I've concocted the world's spiciest soup.	J'ai concocté la soupe la plus épicée du monde.	Inventory	OnLookAtInventory
+9950	Arthur	It's all of the sugar, and none of the fun!	Tout le sucre, et aucun plaisir !	Inventory	OnLookAtInventory
+9951	Arthur	It's the blue suit jacket that Mr Liu was wearing.	C'est la veste de costume bleue que portait M. Liu.	Inventory	OnLookAtInventory
+9952	Arthur	It's a pair of Lady Unterwald's boots. We happen to have the same shoe size!	C'est une paire de bottes de Lady Unterwald. Il se trouve qu'on fait la même pointure !	Inventory	OnLookAtInventory
+9953	Arthur	I think I might be onto something here!	Je crois que je tiens une piste intéressante !	Inventory	OnLookAtInventory
+9954	Arthur	Herman Merman, you've done it again! I should be able to get on the roof with these.	Herman Merman, tu as encore frappé ! Je devrais pouvoir monter sur le toit avec ça.	Inventory	OnLookAtInventory
+9955	Arthur	I've successfully attached a suction cup to one of the boots.	J'ai réussi à fixer une ventouse sur l'une des bottes.	Inventory	OnLookAtInventory
+9956	Arthur	I've assembled a working pair of suction boots!	J'ai assemblé une paire de bottes à ventouses fonctionnelle !	Inventory	OnLookAtInventory
+9957	Arthur	A classic wooden hanger. The second best kind of hanger, in my opinion!	Un cintre en bois classique. Le deuxième meilleur type de cintre, à mon humble avis !	Inventory	OnLookAtInventory
+9958	Arthur	Versatile, flexible, durable. The best kind of hanger!	Polyvalent, souple, résistant. Le meilleur type de cintre qui soit !	Inventory	OnLookAtInventory
+9959	Arthur	That drawer put up a fight, but the hanger still has some life left in it.	Ce tiroir ne s'est pas laissé faire, mais le cintre a encore de beaux restes.	Inventory	OnLookAtInventory
+9960	Arthur	A bit of experimentation might give this Bud-Lite a bigger kick.	Une petite expérimentation pourrait donner un peu plus de piquant à cette Bud-Lite.	Inventory	OnLookAtInventory
+9961	Arthur	It's already full.	C'est déjà plein.	Inventory	OnLookAtInventory
+9962	Arthur	Now that it's sealed, it makes a pretty cool, if not gross, container!	Maintenant que c'est scellé, ça fait un récipient plutôt chouette, quoique un peu répugnant !	Inventory	OnLookAtInventory
+9963	Arthur	It's a ''FULL-STOP'' brand recorker. ''The last word in cork plugging.''	C'est un reboucheur de marque « FULL-STOP ». « Le fin mot du bouchonnage. »	Inventory	OnLookAtInventory
+9964	Arthur	The water and sawdust have combined into a thick, sticky paste.	L'eau et la sciure se sont amalgamées en une pâte épaisse et collante.	Inventory	OnLookAtInventory
+9965	Arthur	I'm not quite sure what this is, but the bottle is neat!	Je ne sais pas trop ce que c'est, mais la bouteille a fière allure !	Inventory	OnLookAtInventory
+9966	Arthur	It's a vial of enigmatic liquid, I can hear it gently fizzing in my suit jacket pocket.	C'est une fiole de liquide énigmatique, je l'entends pétiller doucement dans ma poche.	Inventory	OnLookAtInventory
+9967	Arthur	I doubt the truth spray is potent enough, but I love the bottle!	Je doute que ce spray de vérité soit assez puissant, mais j'adore le flacon !	Inventory	OnLookAtInventory
+9968	Arthur	This stuff worked wonders on Bergmann, it just needs a little kick-start to get going.	Ce produit a fait des merveilles sur Bergmann, il lui faut juste un petit coup de fouet pour démarrer.	Inventory	OnLookAtInventory
+9969	Arthur	It's sloshing about with precious fuel!	Il déborde d'un précieux carburant !	Inventory	OnLookAtInventory
+9970	Arthur	It's empty! That's not much use to me.	C'est vide ! Ça ne m'est pas d'une grande utilité.	Inventory	OnLookAtInventory
+9971	Arthur	I've filled the cup with plenty of drinking water.	J'ai rempli le gobelet avec une bonne rasade d'eau potable.	Inventory	OnLookAtInventory
+9972	Arthur	I'll mix some of this fuel with the gunpowder.	Je vais mélanger un peu de ce carburant avec la poudre à canon.	Inventory	OnLookAtInventory
+9973	Arthur	It's an overpowering blend of cheap perfume, plant life and ethanol!	C'est un mélange foudroyant de parfum bon marché, de sève végétale et d'éthanol !	Inventory	OnLookAtInventory
+9974	Arthur	It's full of minty fresh mouthwash!	C'est rempli d'un bain de bouche à la menthe bien fraîche !	Inventory	OnLookAtInventory
+9975	Arthur	I've poured the Bud-Lite in here, but for a stronger kick, I'll need to add a potent alcoholic mixer.	J'ai versé la Bud-Lite ici, mais pour un effet plus corsé, il faudra ajouter un mélange alcoolisé bien puissant.	Inventory	OnLookAtInventory
+9976	Arthur	It's a dangerous concoction of fuel and high octane explosives!	C'est une concoction périlleuse de carburant et d'explosifs à haut indice d'octane !	Inventory	OnLookAtInventory
+9977	Arthur	The liquid would pour straight through.	Le liquide coulerait directement à travers.	Inventory	OnLookAtInventory
+9978	Arthur	I'm sure there's a good reason why I'd need an old lady's hearing aid.	Je suis sûr qu'il y a une excellente raison pour laquelle j'aurais besoin du cornet acoustique d'une vieille dame.	Inventory	OnLookAtInventory
+9979	Arthur	Although, I can't think of one just yet.	Bien que je n'en voie pas encore la raison.	Inventory	OnLookAtInventory
+9980	Arthur	It’s the horn that Arista instructed me to repair.	C'est le cornet qu'Arista m'a demandé de réparer.	Inventory	OnLookAtInventory
+9981	Arthur	''Rinse after brushing. Contains alcohol, do not ingest solution.''	« Rincer après brossage. Contient de l'alcool, ne pas avaler la solution. »	Inventory	OnLookAtInventory
+9982	Arthur	I've soaked the napkin in turpentine.	J'ai imbibé la serviette de térébenthine.	Inventory	OnLookAtInventory
+9983	Arthur	It's a powerful cleaning solvent. This stuff would remove pretty much anything!	C'est un solvant de nettoyage très puissant. Ça dissoudrait quasiment n'importe quoi !	Inventory	OnLookAtInventory
+9984	Arthur	Huh, I guess this model is battery powered.	Tiens, j'imagine que ce modèle fonctionne sur piles.	Inventory	OnLookAtInventory
+9985	Arthur	This should make the desk fan significantly more powerful.	Ça devrait rendre ce ventilateur de bureau nettement plus puissant.	Inventory	OnLookAtInventory
+9986	Arthur	''IT'S THE END OF THE LINE''	« C'EST LE TERMINUS »	Inventory	OnLookAtInventory
+9987	Arthur	''The Unterwald empire came to a grisly end last night, when the wealthy heiress was unexpectedly assassinated aboard her own train.''	« L'empire Unterwald a connu une fin tragique hier soir, lorsque la richissime héritière a été assassinée à bord de son propre train. »	Inventory	OnLookAtInventory
+9988	Arthur	''Three suspects are currently held in custody, awaiting questioning.''	« Trois suspects sont actuellement placés en garde à vue dans l'attente de leur interrogatoire. »	Inventory	OnLookAtInventory
+9989	Arthur	It's bad luck to open an umbrella indoors, but maybe I can find a use for it.	Ouvrir un parapluie à l'intérieur porte malheur, mais je pourrais peut-être lui trouver une utilité.	Inventory	OnLookAtInventory
+9990	Arthur	It's a steaming hot cup of coffee. It kind of burns!	C'est une tasse de café brûlant. Ça pique un peu les doigts !	Inventory	OnLookAtInventory
+9991	Arthur	I sshould shpeak to Mr Masson first.	Je devrrrais d'aborrrd parler à M. Masson.	Inventory	OnLookAtInventory
+9992	Arthur	Lady Unterwald asked me to deliver this to Arthur Ackerman!	Lady Unterwald m'a demandé de remettre ceci à Arthur Ackerman !	Inventory	OnLookAtInventory
+9993	Arthur	It's the last correspondence I received from Lady Unterwald.	C'est la dernière correspondance que j'ai reçue de Lady Unterwald.	Inventory	OnLookAtInventory
+9994	Arthur	It's a letter from Lady Unterwald, asking me to wear the suit she provided.	C'est une lettre de Lady Unterwald, me demandant de porter le costume qu'elle a fourni.	Inventory	OnLookAtInventory
+9995	Arthur	It's a letter from Lady Unterwald, she'd like to meet in her quarters.	C'est une lettre de Lady Unterwald, elle souhaite me rencontrer dans ses quartiers.	Inventory	OnLookAtInventory
+9996	Arthur	I'm supposed to deliver this letter to Mr Ackerman.	Je suis censé remettre cette lettre à M. Ackerman.	Inventory	OnLookAtInventory
+9997	Arthur	It's an excellent forgery, Donny did a great job!	C'est un faux remarquable, Donny a fait du beau travail !	Inventory	OnLookAtInventory
+9998	Arthur	I was sure Diana wrote something on this napkin, but it's blank!	J'étais sûr que Diana avait écrit quelque chose sur cette serviette, mais elle est vierge !	Inventory	OnLookAtInventory
+9999	Arthur	I think there's something here but it's not quite legible.	Je crois qu'il y a quelque chose ici, mais ce n'est pas très lisible.	Inventory	OnLookAtInventory
+10000	Arthur	It's the napkin that I grabbed from the bar.	C'est la serviette que j'ai attrapée au bar.	Inventory	OnLookAtInventory
+10001	Arthur	It's a signed business card from Beverly Moore.	C'est une carte de visite signée de Beverly Moore.	Inventory	OnLookAtInventory
+10002	Arthur	''Moore Or Less - Talent agency to the adequate.''	« Moore ou Moins - L'agence de talents pour les passables. »	Inventory	OnLookAtInventory
+10003	Arthur	The heat revealed the number 306. How mysterious!	La chaleur a fait apparaître le numéro 306. Quel mystère !	Inventory	OnLookAtInventory
+10004	Arthur	It's Donny's recipe for a powerful drink.	C'est la recette de Donny pour un cocktail particulièrement costaud.	Inventory	OnLookAtInventory
+10005	Arthur	Looks like Don booked the honeymoon suite. Room 303!	On dirait que Don a réservé la suite nuptiale. Cabine 303 !	Inventory	OnLookAtInventory
+10006	Arthur	These must be Herman's keys, Room 304.	Ce doivent être les clés d'Herman, cabine 304.	Inventory	OnLookAtInventory
+10007	Arthur	My own private quarters, room 304.	Mes quartiers personnels, cabine 304.	Inventory	OnLookAtInventory
+10008	Arthur	It's a toy set lock pick. Likely effective against only the weakest of locks.	C'est un rossignol de dînette pour enfant. Utile uniquement contre les serrures les plus dérisoires.	Inventory	OnLookAtInventory
+10009	Arthur	My memory of getting these keys is a little fuzzy.	Le souvenir de la façon dont j'ai obtenu ces clés est un peu flou.	Inventory	OnLookAtInventory
+10010	Arthur	I think this hardened blob was Lady Unterwald's wax seal.	Je pense que ce pâté durci était le sceau en cire de Lady Unterwald.	Inventory	OnLookAtInventory
+10011	Arthur	The wax has cooled down and hardened.	La cire a refroidi et a durci.	Inventory	OnLookAtInventory
+10012	Arthur	It's a hardened ball of wax.	C'est une boule de cire durcie.	Inventory	OnLookAtInventory
+10013	Arthur	Ooh, that's hot!	Ouh, c'est chaud !	Inventory	OnLookAtInventory
+10014	Arthur	The wax must have melted from the heat. It looks malleable!	La cire a dû fondre sous l'effet de la chaleur. Elle a l'air malléable !	Inventory	OnLookAtInventory
+10015	Arthur	It's a wax impression of a fingerprint.	C'est une empreinte digitale moulée dans la cire.	Inventory	OnLookAtInventory
+10016	Arthur	It's a wax impression of Lady Unterwald's fingerprint.	C'est l'empreinte digitale de Lady Unterwald moulée dans la cire.	Inventory	OnLookAtInventory
+10017	Arthur	It's a fingerprint impression made from wax.	C'est un moulage d'empreinte digitale en cire.	Inventory	OnLookAtInventory
+10018	Arthur	It's a wax seal from the Unterwald estate.	C'est un sceau de cire du domaine Unterwald.	Inventory	OnLookAtInventory
+10019	Arthur	This is the last wax seal I'll receive from Lady Unterwald.	C'est le tout dernier sceau de cire que je recevrai de Lady Unterwald.	Inventory	OnLookAtInventory
+10020	Arthur	This seal has been on quite the adventure, eh? I feel strangely attached to it.	Ce sceau a vécu une sacrée aventure, hein ? Je m'y sens étrangement attaché.	Inventory	OnLookAtInventory
+10021	Arthur	It's one of Lady Unterwald's wax seals, malleable and quite soft to the touch.	C'est l'un des sceaux de cire de Lady Unterwald, malléable et doux au toucher.	Inventory	OnLookAtInventory
+10022	Arthur	It's a wax seal, embossed with the emblem of the Wald-Bahn empire.	C'est un sceau de cire frappé de l'emblème de l'empire Wald-Bahn.	Inventory	OnLookAtInventory
+10023	Arthur	It's a kitchen plunger, great for unblocking clogged sinks!	C'est une ventouse de cuisine, idéale pour déboucher les éviers obstrués !	Inventory	OnLookAtInventory
+10024	Arthur	Probably best not to dwell on the horrors this plunger has seen.	Il vaut sans doute mieux ne pas imaginer les horreurs que cette ventouse a traversées.	Inventory	OnLookAtInventory
+10025	Arthur	It's an odd looking plunger.	C'est une ventouse à l'allure étrange.	Inventory	OnLookAtInventory
+10026	Arthur	It's my trusty prison cell plunger!	C'est ma fidèle ventouse de cellule de prison !	Inventory	OnLookAtInventory
+10027	Arthur	It's a plunger made from a rusty metal pole.	C'est une ventouse bricolée à partir d'une barre de fer rouillée.	Inventory	OnLookAtInventory
+10028	Arthur	It's the suction cup from a plunger!	C'est la ventouse d'adhérence !	Inventory	OnLookAtInventory
+10029	Arthur	It's the business end of a plunger.	C'est la partie active d'une ventouse.	Inventory	OnLookAtInventory
+10030	Arthur	It looks like a suction cup to me.	On dirait bien une ventouse d'adhérence.	Inventory	OnLookAtInventory
+10031	Arthur	I'd like to think Lady Unterwald would want me to have this.	J'aime à penser que Lady Unterwald aurait souhaité que je l'aie.	Inventory	OnLookAtInventory
+10032	Arthur	Looks like a rusty metal pole.	On dirait une barre de fer rouillée.	Inventory	OnLookAtInventory
+10033	Arthur	It seems to be some sort of metal pole.	Ça ressemble à une sorte de tige en métal.	Inventory	OnLookAtInventory
+10034	Arthur	A rusty metal pole might be useful in our current circumstances.	Une barre en fer rouillée pourrait bien nous être utile dans notre situation.	Inventory	OnLookAtInventory
+10035	Arthur	It's the rubber tubing I cut from the car.	C'est la tubulure en caoutchouc que j'ai découpée sur la voiture.	Inventory	OnLookAtInventory
+10036	Arthur	It's an official field agent wiring kit!	C'est un kit de câblage officiel d'agent de terrain !	Inventory	OnLookAtInventory
+10037	Arthur	It's a ''Mega-Stich'' brand heavy duty stapler. This thing can staple through 250 sheets!	C'est une agrafeuse industrielle de marque « Mega-Stitch ». Cet engin peut traverser 250 feuilles d'un coup !	Inventory	OnLookAtInventory
+10038	Arthur	For a toy badge, it's quite convincing.	Pour un faux insigne, il fait plutôt illusion.	Inventory	OnLookAtInventory
+10039	Arthur	It's a toy badge, but it should still provide an air of authority.	C'est un insigne factice, mais il devrait quand même m'octroyer un brin d'autorité.	Inventory	OnLookAtInventory
+10040	Arthur	Jian Liu had this in his pocket.	Jian Liu avait ça dans sa poche.	Inventory	OnLookAtInventory
+10041	Arthur	It's a genuine pearl necklace.	C'est un authentique collier de perles.	Inventory	OnLookAtInventory
+10042	Arthur	The craftsmanship of this fountain pen is exquisite!	La confection de ce stylo-plume est tout bonnement exquise !	Inventory	OnLookAtInventory
+10043	Arthur	It looks harmless enough.	Ça a l'air bien inoffensif.	Inventory	OnLookAtInventory
+10044	Arthur	I can break the tip off this incendiary pencil, to retrieve the gunpowder inside.	Je peux casser la mine de ce crayon incendiaire pour en extraire la poudre à canon.	Inventory	OnLookAtInventory
+10045	Arthur	I should use the one I took before taking another.	Je devrais utiliser celui que j'ai pris avant d'en piquer un autre.	Inventory	OnLookAtInventory
+10046	Arthur	It's a case of explosives, disguised as harmless stationary.	C'est un étui d'explosifs déguisé en fournitures de bureau inoffensives.	Inventory	OnLookAtInventory
+10047	Arthur	It'll cost a fortune to get the smell of cheap perfume out of this jacket.	Ça va me coûter une petite fortune pour chasser cette odeur de parfum bon marché de ma veste.	Inventory	OnLookAtInventory
+10048	Arthur	They smell quite fragrant!	Elles sentent drôlement bon !	Inventory	OnLookAtInventory
+10049	Arthur	The doll's looking a little scrawny without all that packing sawdust.	La poupée a l'air un peu rabougrie sans toute cette sciure de rembourrage.	Inventory	OnLookAtInventory
+10050	Arthur	This looks very familiar.	Ça me rappelle furieusement quelque chose.	Inventory	OnLookAtInventory
+10051	Arthur	You can withstand the heat with a pair of these oven gloves!	On peut résister à n'importe quelle chaleur avec cette paire de maniques !	Inventory	OnLookAtInventory
+10052	Arthur	Popcorn isn't just delicious, it doubles as a cheap packing material.	Le popcorn n'est pas seulement délicieux, il sert aussi de calage économique.	Inventory	OnLookAtInventory
+10053	Arthur	It's a paper cup I swiped from the water cooler.	C'est un gobelet en carton que j'ai chipé à la fontaine d'eau.	Inventory	OnLookAtInventory
+10054	Arthur	I placed sawdust in the bottom of the cup.	J'ai mis de la sciure au fond du gobelet.	Inventory	OnLookAtInventory
+10055	Arthur	It's a pile of sawdust I removed from the doll.	C'est un tas de sciure que j'ai retiré de la poupée.	Inventory	OnLookAtInventory
+10056	Arthur	It looks like Don's been practicing poetry.	On dirait que Don s'est mis à la poésie.	Inventory	OnLookAtInventory
+10057	Arthur	There's no way I'm reading that.	Hors de question que je lise ça.	Inventory	OnLookAtInventory
+10058	Arthur	I'm a little too familiar with how sharp this blade is.	Je ne connais que trop bien le tranchant affûté de cette lame.	Inventory	OnLookAtInventory
+10059	Arthur	Now, this is an exciting piece of high-end stationary!	Voilà un superbe accessoire de papeterie haut de gamme !	Inventory	OnLookAtInventory
+10060	Arthur	This letter opener looks like it'd slice through more than paper.	Ce coupe-papier a l'air de pouvoir trancher bien plus que de la simple papeterie.	Inventory	OnLookAtInventory
+10061	Arthur	I wouldn't trust either of those two with something this sharp.	Je ne ferais confiance à aucun de ces deux-là avec un objet aussi coupant.	Inventory	OnLookAtInventory
+10062	Arthur	The blade is sufficiently lubricated, and rather hard to handle.	La lame est abondamment lubrifiée, et plutôt difficile à manier.	Inventory	OnLookAtInventory
+10063	Arthur	This would surely lubricate anything it touches.	Ça lubrifierait à coup sûr n'importe quoi au moindre contact.	Inventory	OnLookAtInventory
+10064	Arthur	Half a slab of unsalted butter. I think it's slowly melting in my pocket.	Une demi-plaquette de beurre doux. J'ai l'impression qu'elle fond lentement dans ma poche.	Inventory	OnLookAtInventory
+10065	Arthur	It's a highly moisturising hand repair cream. For dry, cracked and injured hands.	C'est une crème pour les mains réparatrice et très hydratante. Pour peaux sèches, gercées et abîmées.	Inventory	OnLookAtInventory
+10066	Arthur	Owning a magnet this large has its positives and negatives.	Posséder un aimant de cette taille a ses côtés positifs et négatifs.	Inventory	OnLookAtInventory
+10067	Arthur	Don could move this up to three spaces with his watch.	Don pouvait déplacer ça jusqu'à trois cases grâce à sa montre.	Inventory	OnLookAtInventory
+10068	Arthur	That's the magnetic ball Donny used to rig his roulette games!	C'est la bille magnétique que Donny utilisait pour truquer ses parties de roulette !	Inventory	OnLookAtInventory
+10069	Arthur	It looks like a roulette ball from the casino.	On dirait une bille de roulette provenant du casino.	Inventory	OnLookAtInventory
+10070	Arthur	That's odd, what's a roulette ball doing here?	Étrange, que fait une bille de roulette ici ?	Inventory	OnLookAtInventory
+10071	Arthur	Hmm, the magnification is very strong!	Hmm, le grossissement est particulièrement puissant !	Inventory	OnLookAtInventory
+10072	Arthur	I'm rich! Although, are these chips even real?	Je suis riche ! Enfin, ces jetons sont-ils seulement authentiques ?	Inventory	OnLookAtInventory
+10073	Arthur	It's an idol, no doubt modelled after Lady Unterwald's own hand!	C'est une idole, sans nul doute sculptée d'après la propre main de Lady Unterwald !	Inventory	OnLookAtInventory
+10074	Arthur	These little pods transport items throughout the whole tube system!	Ces petites capsules transportent des objets à travers tout le réseau pneumatique !	Inventory	OnLookAtInventory
+10075	Arthur	It's explosive powder I cut from the pencil!	C'est de la poudre explosive que j'ai extraite du crayon !	Inventory	OnLookAtInventory
+10076	Arthur	It's Dr Phogg's Guide to Invis-Ability!	C'est le Guide de l'Invis-Abilité du Dr Phogg !	Inventory	OnLookAtInventory
+10077	Arthur	''Apply gentle heat to the paper to reveal messages written in invisible ink.''	« Appliquer une chaleur douce sur le papier pour faire apparaître les messages à l'encre invisible. »	Inventory	OnLookAtInventory
+10078	Arthur	''Avoid using candles, matches, or any open flames, they might just send your message up in smoke.''	« Éviter les bougies, allumettes ou flammes nues qui réduiraient votre message en cendres. »	Inventory	OnLookAtInventory
+10079	Arthur	Hmm, maybe I can find what I'm looking for in the kitchen?	Hmm, peut-être trouverai-je ce que je cherche en cuisine ?	Inventory	OnLookAtInventory

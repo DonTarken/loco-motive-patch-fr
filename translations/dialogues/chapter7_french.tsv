@@ -1,0 +1,63 @@
+﻿Id	Character	English	French	Class	Method
+787	Diana	Somebody else has an item I need!	Quelqu'un d'autre a un objet dont j'ai besoin !	DialogHintLineChapterSeven+<Option1>d__6	MoveNext
+338	Chiselton	The mansion has a pneumatic tube system, right? Place items in there and the others will be able to collect them!	Le manoir dispose d'un réseau pneumatique, non ? Placez les objets dedans et les autres pourront les réceptionner !	DialogHintLineChapterSeven+<Option1>d__6	MoveNext
+788	Diana	I think Doctor Hirsch is dead, what do we do?	Je crois que le docteur Hirsch est mort, que fait-on ?	DialogHintLineChapterSeven+<Option2>d__7	MoveNext
+339	Chiselton	You should check the body, see if they had anything important on them.	Vous devriez fouiller le corps pour voir s'il portait des objets utiles.	DialogHintLineChapterSeven+<Option2>d__7	MoveNext
+789	Diana	I need another hint about Doctor Hirsch!	J'ai besoin d'un autre indice sur le docteur Hirsch !	DialogHintLineChapterSeven+<Option2a>d__8	MoveNext
+340	Chiselton	Are you sure they're dead?	Êtes-vous certain qu'il est mort ?	DialogHintLineChapterSeven+<Option2a>d__8	MoveNext
+790	Diana	I need another hint about Doctor Hirsch!	J'ai besoin d'un autre indice sur le docteur Hirsch !	DialogHintLineChapterSeven+<Option2b>d__9	MoveNext
+341	Chiselton	There may be hope for the doctor yet!	Il y a peut-être encore un espoir pour le bon docteur !	DialogHintLineChapterSeven+<Option2b>d__9	MoveNext
+342	Chiselton	You should be able to revive him with the right equipment.	Vous devriez pouvoir le réanimer avec le matériel approprié.	DialogHintLineChapterSeven+<Option2b>d__9	MoveNext
+791	Diana	Any ideas as to where an old lady would keep her will?	Une idée de l'endroit où une vieille dame cacherait son testament ?	DialogHintLineChapterSeven+<Option3>d__10	MoveNext
+343	Chiselton	I'd bet it's hidden away, have you checked everywhere?	Je parie qu'il est bien dissimulé. Avez-vous regardé partout ?	DialogHintLineChapterSeven+<Option3>d__10	MoveNext
+792	Diana	I need another hint about finding the will.	J'ai besoin d'un autre indice pour trouver le testament.	DialogHintLineChapterSeven+<Option3a>d__11	MoveNext
+344	Chiselton	Lady Unterwald would have kept it somewhere safe, I'm sure.	Lady Unterwald l'aura mis en lieu sûr, à n'en pas douter.	DialogHintLineChapterSeven+<Option3a>d__11	MoveNext
+793	Diana	I need another hint about finding the will.	J'ai besoin d'un autre indice pour trouver le testament.	DialogHintLineChapterSeven+<Option3b>d__12	MoveNext
+345	Chiselton	Lady Unterwald likely secured the will in a hidden safe. See if you can track it down.	Lady Unterwald l'a très certainement enfermé dans un coffre dérobé. Voyez si vous pouvez le localiser.	DialogHintLineChapterSeven+<Option3b>d__12	MoveNext
+794	Diana	I need another hint about finding the will.	J'ai besoin d'un autre indice pour trouver le testament.	DialogHintLineChapterSeven+<Option3c>d__13	MoveNext
+346	Chiselton	Check behind paintings, that's where I'd keep a safe!	Regardez derrière les tableaux, c'est là que je planquerais un coffre !	DialogHintLineChapterSeven+<Option3c>d__13	MoveNext
+795	Diana	I've found the safe, how do I open it?	J'ai trouvé le coffre, comment l'ouvrir ?	DialogHintLineChapterSeven+<Option4>d__14	MoveNext
+347	Chiselton	If you could listen more closely to the contact points, I'm confident you could get that safe open in no time.	Si vous pouviez tendre l'oreille près des goupilles, je suis sûr que vous l'ouvririez en deux temps trois mouvements.	DialogHintLineChapterSeven+<Option4>d__14	MoveNext
+796	Diana	I need another hint about opening the safe.	J'ai besoin d'un autre indice pour ouvrir le coffre.	DialogHintLineChapterSeven+<Option4a>d__15	MoveNext
+797	Diana	I need another hint about opening the safe.	J'ai besoin d'un autre indice pour ouvrir le coffre.	DialogHintLineChapterSeven+<Option4b>d__16	MoveNext
+798	Diana	I need a hint about one of the safe mechanisms.	J'ai besoin d'un indice sur l'un des mécanismes du coffre.	DialogHintLineChapterSeven+<Option5>d__17	MoveNext
+350	Chiselton	Which one did you have in mind?	Auquel pensez-vous en particulier ?	DialogHintLineChapterSeven+<Option5>d__17	MoveNext
+799	Diana	I need a hint about the fingerprint lock.	J'ai besoin d'un indice sur la serrure à empreintes digitales.	DialogHintLineChapterSeven+<Option5a>d__18	MoveNext
+351	Chiselton	Maybe there's something that could replicate Lady Unterwald's hand?	Peut-être existe-t-il quelque chose capable de reproduire la main de Lady Unterwald ?	DialogHintLineChapterSeven+<Option5a>d__18	MoveNext
+800	Diana	I need another hint about the fingerprint lock.	J'ai besoin d'un autre indice sur la serrure à empreintes.	DialogHintLineChapterSeven+<Option5aa>d__19	MoveNext
+352	Chiselton	Perhaps Lady Unterwald left her prints somewhere.	Peut-être que Lady Unterwald a laissé ses empreintes quelque part.	DialogHintLineChapterSeven+<Option5aa>d__19	MoveNext
+801	Diana	I need another hint about the fingerprint lock.	J'ai besoin d'un autre indice sur la serrure à empreintes.	DialogHintLineChapterSeven+<Option5ab>d__20	MoveNext
+353	Chiselton	That statue in the basement, it's based on Lady Unterwald, right?	Cette statue au sous-sol est bien modelée d'après Lady Unterwald, non ?	DialogHintLineChapterSeven+<Option5ab>d__20	MoveNext
+802	Diana	I need another hint about the fingerprint lock.	J'ai besoin d'un autre indice sur la serrure à empreintes.	DialogHintLineChapterSeven+<Option5ac>d__21	MoveNext
+354	Chiselton	Perhaps you can make an impression of the statue's hand?	Peut-être pourriez-vous faire une empreinte de la main de la statue ?	DialogHintLineChapterSeven+<Option5ac>d__21	MoveNext
+803	Diana	I need another hint about the fingerprint lock.	J'ai besoin d'un autre indice sur la serrure à empreintes.	DialogHintLineChapterSeven+<Option5ad>d__22	MoveNext
+355	Chiselton	Arthur still has that wax seal. Melt it down and see if you can make an impression!	Arthur a toujours ce sceau de cire. Faites-le fondre pour voir si vous pouvez mouler une empreinte !	DialogHintLineChapterSeven+<Option5ad>d__22	MoveNext
+804	Diana	I need a hint about the voice lock.	J'ai besoin d'un indice sur la serrure vocale.	DialogHintLineChapterSeven+<Option5b>d__23	MoveNext
+356	Chiselton	You used a recording of Lady Unterwald before. That trick might work again!	Vous avez déjà utilisé un enregistrement de Lady Unterwald par le passé. L'astuce pourrait encore fonctionner !	DialogHintLineChapterSeven+<Option5b>d__23	MoveNext
+805	Diana	I need another hint about the voice lock.	J'ai besoin d'un autre indice sur la serrure vocale.	DialogHintLineChapterSeven+<Option5ba>d__24	MoveNext
+357	Chiselton	There's a gramophone in the library, that could be useful.	Il y a un gramophone dans la bibliothèque, ça pourrait servir.	DialogHintLineChapterSeven+<Option5ba>d__24	MoveNext
+806	Diana	I need another hint about the voice lock.	J'ai besoin d'un autre indice sur la serrure vocale.	DialogHintLineChapterSeven+<Option5bb>d__25	MoveNext
+358	Chiselton	Have you looked through the library's vinyl collection?	Avez-vous fouillé la collection de disques vinyles de la bibliothèque ?	DialogHintLineChapterSeven+<Option5bb>d__25	MoveNext
+807	Diana	I need another hint about the voice lock.	J'ai besoin d'un autre indice sur la serrure vocale.	DialogHintLineChapterSeven+<Option5bc>d__26	MoveNext
+359	Chiselton	Does anyone have an item that can record voices?	Quelqu'un possède-t-il un appareil capable d'enregistrer les voix ?	DialogHintLineChapterSeven+<Option5bc>d__26	MoveNext
+808	Diana	Actually, I wanted to ask about something else.	En fait, je voulais poser une question sur autre chose.	DialogHintLineChapterSeven+<Option5c>d__27	MoveNext
+360	Chiselton	No problem.	Pas de problème.	DialogHintLineChapterSeven+<Option5c>d__27	MoveNext
+755	Diana	The boiler isn't hot enough, what should I do?	La chaudière n'est pas assez chaude, que faire ?	DialogHintLineChapterSeven+<Option6>d__28	MoveNext
+365	Chiselton	You'll probably have to help it along a bit. Got anything on you?	Il va falloir lui donner un coup de pouce. Vous avez quelque chose sur vous ?	DialogHintLineChapterSeven+<Option6>d__28	MoveNext
+778	Diana	I need another hint about the boiler.	J'ai besoin d'un autre indice sur la chaudière.	DialogHintLineChapterSeven+<Option6a>d__29	MoveNext
+366	Chiselton	What have you got on you? Anything particularly reactive to heat?	Qu'avez-vous sur vous ? Quelque chose de particulièrement inflammable ?	DialogHintLineChapterSeven+<Option6a>d__29	MoveNext
+777	Diana	I need another hint about the boiler.	J'ai besoin d'un autre indice sur la chaudière.	DialogHintLineChapterSeven+<Option6b>d__30	MoveNext
+367	Chiselton	That truth serum certainly went up before, maybe it's reactive to heat?	Ce sérum de vérité a bien flambé tout à l'heure, peut-être qu'il réagit fortement à la chaleur ?	DialogHintLineChapterSeven+<Option6b>d__30	MoveNext
+761	Diana	I need another hint about the boiler.	J'ai besoin d'un autre indice sur la chaudière.	DialogHintLineChapterSeven+<Option6c>d__31	MoveNext
+368	Chiselton	Feed that truth serum into the boiler, and I bet it'll start pumping out some real heat!	Versez ce sérum de vérité dans la chaudière, et elle se mettra à cracher des flammes d'enfer !	DialogHintLineChapterSeven+<Option6c>d__31	MoveNext
+813	Diana	I've got it from here, thanks.	Je prends les choses en main d'ici, merci.	DialogHintLineChapterSeven+<Option7>d__32	MoveNext
+44	Bailey	Are we really letting those three go?	Est-ce qu'on va vraiment relâcher ces trois-là dans la nature ?	RoomCellExterior+<OnEnterRoomAfterFadeChapterFinale>d__22	MoveNext
+39	Lamont	How'd you mean?	Qu'est-ce que tu veux dire ?	RoomCellExterior+<OnEnterRoomAfterFadeChapterFinale>d__22	MoveNext
+45	Bailey	They may not have murdered Lady Unterwald, but they committed so many other crimes!	Ils n'ont peut-être pas assassiné Lady Unterwald, mais ils ont commis une ribambelle d'autres crimes !	RoomCellExterior+<OnEnterRoomAfterFadeChapterFinale>d__22	MoveNext
+70	Lamont	You forget we've got them on record, confessing to the lot!	Tu oublies qu'on a leurs aveux enregistrés pour l'intégralité du tableau !	RoomCellExterior+<OnEnterRoomAfterFadeChapterFinale>d__22	MoveNext
+46	Bailey	I suppose so.	J'imagine, oui.	RoomCellExterior+<OnEnterRoomAfterFadeChapterFinale>d__22	MoveNext
+71	Lamont	Hah! Have a little faith, Bailey. We were always one step ahead.	Ha ! Aie un peu foi en nous, Bailey. Nous avons toujours eu une longueur d'avance.	RoomCellExterior+<OnEnterRoomAfterFadeChapterFinale>d__22	MoveNext
+10	Jimmy	I'm in.	Je suis à l'intérieur.	RoomInterrogation+<OnEnterRoomAfterFadeChapterFinale>d__51	MoveNext
+0	April	Good work, Agent. You know what you have to do.	Beau travail, Agent. Vous savez ce qu'il vous reste à faire.	RoomInterrogation+<OnEnterRoomAfterFadeChapterFinale>d__51	MoveNext
+1	April	Leave no trace.	Ne laissez aucune trace.	RoomInterrogation+<OnEnterRoomAfterFadeChapterFinale>d__51	MoveNext
+11	Jimmy	Yes, Ma'am.	Bien, Madame.	RoomInterrogation+<OnEnterRoomAfterFadeChapterFinale>d__51	MoveNext

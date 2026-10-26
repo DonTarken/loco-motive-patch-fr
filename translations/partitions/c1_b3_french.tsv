@@ -1,0 +1,182 @@
+﻿Id	Character	English	French	Class	Method
+1	Cashier	Good evening, hun.	Bonsoir, mon chou.	CharacterCashier+<OnInteractActOnePartOne>d__4	MoveNext
+2	Cashier	Do you have any winnings?	Vous avez des gains à encaisser ?	CharacterCashier+<OnInteractActOnePartOne>d__4	MoveNext
+779	Arthur	Oh, no I'm not the gambling type.	Oh non, je ne suis pas trop du genre joueur.	CharacterCashier+<OnInteractActOnePartOne>d__4	MoveNext
+3	Cashier	Well, bring any chips to me and I'll convert them into cash for you!	Eh bien, apportez-moi vos jetons et je vous les changerai en billets tout neufs !	CharacterCashier+<OnInteractActOnePartOne>d__4	MoveNext
+1347	Arthur	As a matter of fact, I do.	Justement, il se trouve que oui.	CharacterCashier+<OnInteractActOnePartTwoFirstOccurrence>d__5	MoveNext
+6	Cashier	Great! How much do you want to exchange?	Merveilleux ! Combien voulez-vous échanger ?	CharacterCashier+<OnInteractActOnePartTwoFirstOccurrence>d__5	MoveNext
+8	Cashier	Congratulations again on your big win.	Toutes mes félicitations encore pour ce magnifique coup de chance !	CharacterCashier+<OnInteractActOnePartTwo>d__6	MoveNext
+781	Arthur	Thanks!	Merci !	CharacterCashier+<OnInteractActOnePartTwo>d__6	MoveNext
+773	Arthur	Are you ignoring me?	Vous m'ignorez ?	CharacterCasinoEnforcerOne+<OnInteractActOneChapterOne>d__9	MoveNext
+774	Arthur	Hey.	Hé.	CharacterCasinoEnforcerOne+<OnInteractActOneChapterOne>d__9	MoveNext
+5	CasinoEnforcerOne	Buzz off, kid.	Du vent, petit.	CharacterCasinoEnforcerOne+<OnInteractActOneChapterOne>d__9	MoveNext
+6	CasinoEnforcerOne	I won't ask nicely again.	Je ne le redirai pas gentiment.	CharacterCasinoEnforcerOne+<OnInteractActOneChapterOne>d__9	MoveNext
+771	Arthur	I'd better not anger him further.	Je ferais mieux de ne pas l'énerver davantage.	CharacterCasinoEnforcerOne+<OnInteractActOneChapterOne>d__9	MoveNext
+1451	Arthur	What did you do with Donny Donato?	Qu'avez-vous fait de Donny Donato ?	CharacterCasinoEnforcerOne+<OnInteractActOneChapterTwo>d__10	MoveNext
+7	CasinoEnforcerOne	The casino cheat? He's been handled.	Le tricheur du casino ? Son cas a été réglé.	CharacterCasinoEnforcerOne+<OnInteractActOneChapterTwo>d__10	MoveNext
+1452	Arthur	Handled? That sounds ominous.	Son cas a été réglé ? C'est plutôt inquiétant dit comme ça.	CharacterCasinoEnforcerOne+<OnInteractActOneChapterTwo>d__10	MoveNext
+1453	Arthur	What did you really do with Donny? Is he safe?	Qu'avez-vous vraiment fait de Donny ? Est-il sain et sauf ?	CharacterCasinoEnforcerOne+<OnInteractActOneChapterTwo>d__10	MoveNext
+8	CasinoEnforcerOne	You ask too many questions.	Tu poses trop de questions.	CharacterCasinoEnforcerOne+<OnInteractActOneChapterTwo>d__10	MoveNext
+9	CasinoEnforcerOne	Keep talking like that, maybe you'll find out first-hand.	Continue comme ça et tu le découvriras à tes dépens.	CharacterCasinoEnforcerOne+<OnInteractActOneChapterTwo>d__10	MoveNext
+1455	Arthur	I'd better not.	Je ferais mieux d'éviter.	CharacterCasinoEnforcerOne+<OnInteractActOneChapterTwo>d__10	MoveNext
+776	Arthur	Hi there.	Salut.	CharacterCasinoEnforcerTwo+<OnInteractActOneChapterOne>d__9	MoveNext
+777	Arthur	Do you not want to talk to me?	Vous ne voulez pas me parler ?	CharacterCasinoEnforcerTwo+<OnInteractActOneChapterOne>d__9	MoveNext
+778	Arthur	Hello again, friend.	Rebonjour, l'ami.	CharacterCasinoEnforcerTwo+<OnInteractActOneChapterOne>d__9	MoveNext
+8	CasinoEnforcerTwo	Don't push your luck, pal.	Tente pas trop ta chance, l'ami.	CharacterCasinoEnforcerTwo+<OnInteractActOneChapterOne>d__9	MoveNext
+9	CasinoEnforcerTwo	Now I'm starting to get mad.	Là, je commence sérieusement à m'énerver.	CharacterCasinoEnforcerTwo+<OnInteractActOneChapterOne>d__9	MoveNext
+775	Arthur	Probably best to leave him alone.	Le plus sage est de le laisser tranquille.	CharacterCasinoEnforcerTwo+<OnInteractActOneChapterOne>d__9	MoveNext
+1456	Arthur	Where are you holding Donny Donato?	Où retenez-vous Donny Donato ?	CharacterCasinoEnforcerTwo+<OnInteractActOneChapterTwo>d__10	MoveNext
+10	CasinoEnforcerTwo	He won't be a problem for the casino going forward.	Il ne posera plus aucun problème au casino à l'avenir.	CharacterCasinoEnforcerTwo+<OnInteractActOneChapterTwo>d__10	MoveNext
+1457	Arthur	Is Donny still aboard the train, at least?	Est-ce qu'au moins Donny est toujours à bord du train ?	CharacterCasinoEnforcerTwo+<OnInteractActOneChapterTwo>d__10	MoveNext
+11	CasinoEnforcerTwo	Were you a close associate of this casino cheat?	Tu étais un complice de ce tricheur de bas étage ?	CharacterCasinoEnforcerTwo+<OnInteractActOneChapterTwo>d__10	MoveNext
+12	CasinoEnforcerTwo	Are you going to be a problem that needs solving?	Tu vas devenir un problème qu'on doit régler aussi ?	CharacterCasinoEnforcerTwo+<OnInteractActOneChapterTwo>d__10	MoveNext
+1458	Arthur	No, that won't be necessary!	Non non, ce ne sera pas nécessaire !	CharacterCasinoEnforcerTwo+<OnInteractActOneChapterTwo>d__10	MoveNext
+1459	Arthur	I really shouldn't bother them again.	Je devrais vraiment arrêter de leur chercher des poux.	CharacterCasinoEnforcerTwo+<OnInteractActOneChapterTwo>d__10	MoveNext
+83	Don	Beat it kid, can't you see I'm on a winning streak?	Du balai petit, tu vois pas que je suis dans une veine d'enfer ?	CharacterDon+<OnInteractActOneCasinoCarriage>d__33	MoveNext
+108	Don	Hey, while you're here, you could do me a little favour.	Hé, pendant que t'es là, tu pourrais me rendre un petit service.	CharacterDon+<OnActOneGetPerfumedNote>d__44	MoveNext
+109	Don	You take this note and give it to that dame behind me, will ya?	Prends ce mot et refile-le à la dame derrière moi, d'accord ?	CharacterDon+<OnActOneGetPerfumedNote>d__44	MoveNext
+683	Arthur	What is it?	Qu'est-ce que c'est ?	CharacterDon+<OnActOneGetPerfumedNote>d__44	MoveNext
+110	Don	It's a proposal of sorts, requesting we both make tracks to my suite.	C'est une proposition galante pour l'inviter à me rejoindre dans ma suite.	CharacterDon+<OnActOneGetPerfumedNote>d__44	MoveNext
+111	Don	You get my drift?	Tu vois le genre ?	CharacterDon+<OnActOneGetPerfumedNote>d__44	MoveNext
+684	Arthur	I don't like the sound of that.	Ça ne me dit rien qui vaille.	CharacterDon+<OnActOneGetPerfumedNote>d__44	MoveNext
+685	Arthur	Why is it so damp?	Pourquoi est-il si humide ?	CharacterDon+<OnActOneGetPerfumedNote>d__44	MoveNext
+112	Don	I soaked it in perfume. You don't know squat about wooing a dame, do ya?	Je l'ai aspergé de parfum. Tu piges rien à l'art de séduire une dame, pas vrai ?	CharacterDon+<OnActOneGetPerfumedNote>d__44	MoveNext
+686	Arthur	Gross.	Écœurant.	CharacterDon+<OnActOneGetPerfumedNote>d__44	MoveNext
+691	Arthur	I wouldn't want him to know that I borrowed it.	Je ne voudrais pas qu'il sache que je lui ai emprunté.	CharacterDon+<OnUseInvDonActOneMagnet>d__50	MoveNext
+692	Arthur	But, maybe I can use this to foil his scheme.	Mais je peux peut-être m'en servir pour déjouer sa combine.	CharacterDon+<OnUseInvDonActOneMagnet>d__50	MoveNext
+694	Arthur	Well, I-	Eh bien, je...	CharacterDon+<OnActOneReturnToDon>d__57	MoveNext
+120	Don	'Atta boy!	C'est bien, mon petit !	CharacterDon+<OnActOneReturnToDon>d__57	MoveNext
+121	Don	You just watch and learn now.	Regarde bien et prends des notes.	CharacterDon+<OnActOneReturnToDon>d__57	MoveNext
+122	Don	So, dollface. How about it?	Alors, ma jolie ? Qu'est-ce qu'on dit ?	CharacterDon+<OnActOneReturnToDon>d__57	MoveNext
+123	Don	I don't write love letters for every broad I see, you know. You should be grateful!	J'écris pas des billets doux à toutes les pépées que je croise, tu sais. Tu devrais être flattée !	CharacterDon+<OnActOneReturnToDon>d__57	MoveNext
+5	Susanne	In that case, allow me to show you my gratitude.	Dans ce cas, permettez-moi de vous témoigner toute ma gratitude.	CharacterDon+<OnActOneReturnToDon>d__57	MoveNext
+6	Susanne	See you around, Arthur.	À plus tard, Arthur.	CharacterDon+<OnActOneReturnToDon>d__57	MoveNext
+695	Arthur	Ahh, unrequited love.	Ahh, l'amour non partagé...	CharacterDon+<OnActOneReturnToDon>d__57	MoveNext
+0	Mary	I'm feeling lucky.	Je le sens bien cette fois.	CharacterHarold+<OnInteractActOne>d__5	MoveNext
+6	Harold	You said that last time!	C'est ce que tu as dit la dernière fois !	CharacterHarold+<OnInteractActOne>d__5	MoveNext
+7	Harold	Trust me, I've got a system.	Fais-moi confiance, j'ai une martingale infaillible.	CharacterHarold+<OnInteractActOne>d__5	MoveNext
+0	Edna	That's what they all say.	C'est ce qu'ils disent tous.	CharacterHarold+<OnInteractActOne>d__5	MoveNext
+1	Edna	Who's the suit?	C'est qui ce costard-cravate ?	CharacterHarold+<OnInteractActOne>d__5	MoveNext
+1	Mary	You better not be bad luck, mister.	Vous avez intérêt à pas nous porter la poisse, monsieur.	CharacterHarold+<OnInteractActOne>d__5	MoveNext
+314	Arthur	Let's try this one more time.	Essayons encore une fois.	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+44	Arthur	You know, you're starting to feel like bad luck, kid!	Tu sais que tu commences à me porter la guigne, toi ?	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+45	Arthur	Step away from the table, pronto.	Éloigne-toi de la table, et fissa !	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+46	Don	I ain't messing around no more.	Finie la rigolade.	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+47	Don	All on red.	Tout sur le rouge.	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+48	Don	All on black.	Tout sur le noir.	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+0	Harold	Bad luck old chap.	Pas de chance, mon cher.	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+1	Harold	Never mind, at least you tried!	Ne t'en fais pas, au moins tu as essayé !	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+2	Harold	Oh dear!	Oh la la !	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+49	Don	That's not possible!	C'est pas possible !	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+50	Don	Uh, excuse me.	Euh, pardonnez-moi.	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneFoundCasinoChips>d__29	MoveNext
+129	Don	Eegh!	Aïe !	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDonCaught>d__30	MoveNext
+130	Don	Oooh!	Ooh !	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDonCaught>d__30	MoveNext
+131	Don	Oww!	Aouch !	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDonCaught>d__30	MoveNext
+132	Don	Arghh!	Arghh !	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDonCaught>d__30	MoveNext
+133	Don	Alright, sto-	Ça va, arrê-	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDonCaught>d__30	MoveNext
+134	Don	Oooh! Ahhh!	Oooh ! Ahhh !	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDonCaught>d__30	MoveNext
+144	Don	Ooh! Not the face!!	Ooh ! Pas sur le visage !!	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDonCaught>d__30	MoveNext
+315	Arthur	Ouch.	Aïe.	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDonCaught>d__30	MoveNext
+316	Arthur	I guess the house always wins.	Le casino est toujours gagnant, à ce qu'on dit.	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDonCaught>d__30	MoveNext
+0	Narrator/Unknown	Psst.	Psst.	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDemoEndScene>d__31	MoveNext
+1	Narrator/Unknown	Over here.	Par ici.	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDemoEndScene>d__31	MoveNext
+2	ElusiveHand	Right this way, sir.	Par ici, monsieur.	RoomCasinoCarriage+<OnEnterRoomAfterFadeActOneDemoEndScene>d__31	MoveNext
+322	Arthur	Uh, hello?	Euh, bonjour ?	RoomCasinoCarriage+<OnInteractPropCurtainActOne>d__46	MoveNext
+7	Arthur	Oh boy.	Oh la la.	RoomCasinoCarriage+<OnInteractPropCurtainActOne>d__46	MoveNext
+8	Arthur	It's ol' clammy hands again.	Voilà encore ces vieilles mains moites.	RoomCasinoCarriage+<OnInteractPropCurtainActOne>d__46	MoveNext
+0	James	I'm afraid the Reuss Express has been slipping in standards for some time now.	Le standing du Reuss Express laisse franchement à désirer depuis quelque temps.	RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+0	James	But to have vermin aboard the train, have things really got so bad?	Mais avoir de la vermine à bord... en est-on réellement arrivés là ?	RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+0	James	I'm telling you, it was as big as a house cat!	Je vous jure qu'elle était aussi grosse qu'un chat d'appartement !	RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+0	James	How revolting!	Quelle horreur !	RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+1	James	I heard the Lady took a tumble on stage during her big speech.	J'ai entendu dire que la Lady a fait une lourde chute sur scène pendant son discours.	RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+1	James	Oh my, I hope she's not too badly hurt!	Bonté divine, j'espère qu'elle ne s'est pas fait trop mal !	RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+1	James	Hard to tell, they're keeping it all hush-hush.	Difficile à dire, ils étouffent complètement l'affaire.	RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+2	James	I heard Lady Unterwald's bumbling attorney lost her will and testament!	Il paraît que son incapable d'avocat a égaré son testament !	RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+1	James	Really? How awful!	Vraiment ? Quel désastre !	RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+2	James	It was quite a sight to behold, apparently.	Un spectacle d'anthologie, à ce qu'on m'a raconté.	RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+2	James	He was chasing down the carriage after it!	Il courait comme un dératé dans tout le wagon pour le rattraper !	RoomCasinoCarriage+<OnInteractPropPatronsActOne>d__80	MoveNext
+340	Narrator/Unknown	Sleeper Carriage.	Voiture-lits.	RoomCasinoCarriage+<OnLookAtPropSignLActOne>d__84	MoveNext
+341	Narrator/Unknown	Kitchen Carriage.	Voiture-cuisine.	RoomCasinoCarriage+<OnLookAtPropSignLActOne>d__84	MoveNext
+342	Narrator/Unknown	Kitchen Pantry.	Garde-manger.	RoomCasinoCarriage+<OnLookAtPropSignLActOne>d__84	MoveNext
+343	Narrator/Unknown	Service Carriages.	Voitures de service.	RoomCasinoCarriage+<OnLookAtPropSignLActOne>d__84	MoveNext
+327	Narrator/Unknown	I imagine it's a fun way to lose all your savings.	Une façon ludique de dilapider toutes ses économies, j'imagine.	RoomCasinoCarriage+<OnLookAtPropStaticSlotMachineActOne>d__88	MoveNext
+0	Narrator/Unknown	You're half right, I'm not having much fun.	Vous n'avez qu'à moitié raison : je ne m'amuse pas du tout.	RoomCasinoCarriage+<OnLookAtPropStaticSlotMachineActOne>d__88	MoveNext
+333	Narrator/Unknown	I'm not sure I know the rules.	Je ne suis pas certain de maîtriser les règles.	RoomCasinoCarriage+<OnLookAtPropRouletteTableActOne>d__92	MoveNext
+334	Narrator/Unknown	Besides, it makes me dizzy.	Et puis, ça me donne le tournis.	RoomCasinoCarriage+<OnLookAtPropRouletteTableActOne>d__92	MoveNext
+328	Narrator/Unknown	I wouldn't want to be the poor sap who has to dust a moving chandelier.	Je ne voudrais pas être le pauvre bougre chargé de dépoussiérer un lustre en plein roulis.	RoomCasinoCarriage+<OnLookAtPropChandeliersActOne>d__96	MoveNext
+329	Narrator/Unknown	''CHEATING STRICTLY PROHIBITED.''	« TRICHE STRICTEMENT INTERDITE. »	RoomCasinoCarriage+<OnLookAtPropNoticeActOne>d__100	MoveNext
+330	Narrator/Unknown	''THERE IS TO BE NO: CARD-COUNTING, MONEY LAUNDERING, CHEATING THE SYSTEM, WINNING TOO FREQUENTLY, EXPLOITATION OF EVERYDAY ITEMS AND/OR NATURAL PHENOMENA.''	« SONT STRICTEMENT PROSCRITS : LE COMPTAGE DE CARTES, LE BLANCHIMENT D'ARGENT, LE DÉTOURNEMENT DU RÈGLEMENT, LES GAINS TROP FRÉQUENTS ET L'USAGE DE PHÉNOMÈNES PHYSIQUES. »	RoomCasinoCarriage+<OnLookAtPropNoticeActOne>d__100	MoveNext
+331	Narrator/Unknown	''RULE BREAKERS WILL FIND THEMSELVES IMMEDIATELY EJECTED FROM THE PREMISES.''	« TOUT CONTREVENANT SERA IMMÉDIATEMENT RECONDUIT HORS DE L'ÉTABLISSEMENT. »	RoomCasinoCarriage+<OnLookAtPropNoticeActOne>d__100	MoveNext
+332	Cashier	Ejected?	Éjectés ?	RoomCasinoCarriage+<OnLookAtPropNoticeActOne>d__100	MoveNext
+0	Cashier	Oh yes, hun. Usually they go straight out the window.	Oh oui, mon chou. En général, ils passent directement par la fenêtre.	RoomCasinoCarriage+<OnLookAtPropNoticeActOne>d__100	MoveNext
+337	Narrator/Unknown	Unterwald Carriages.	Voitures Unterwald.	RoomCasinoCarriage+<OnLookAtPropSignRActOne>d__104	MoveNext
+153	Arthur	That should be all of them.	Ça devrait suffire.	RoomDonQuarters+<OnEnterRoomAfterFadeActOneGrabbedDonChips>d__16	MoveNext
+165	Arthur	I better find somewhere to hide, and fast!	Je ferais mieux de trouver une cachette, et vite !	RoomDonQuarters+<OnEnterRoomAfterFadeActOneFailedToHideFromDon>d__17	MoveNext
+0	Don	This damn watch must be on the fritz.	Cette satanée montre doit être détraquée.	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+1	Don	At this rate I'm gonna run out of chips!	À ce train-là, je vais être à sec de jetons !	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+2	Don	Wait a second...	Attends une seconde...	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+4	Don	No, I've been robbed!	Non ! On m'a dévalisé !	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+5	Don	So this is what it feels like...	Alors c'est ça que ça fait...	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+6	Don	Okay, Don.	Très bien, Don.	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+7	Don	The jig is up.	La fête est finie.	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+8	Don	I owe a lot of money.	Je dois une somme folle.	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+9	Don	No need to panic.	Pas de panique.	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+10	Don	I can jump off at the next bend.	Je peux sauter en marche au prochain virage.	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+11	Don	Yeah, maybe cross at the border.	Ouais, et passer la frontière en loucedé.	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+0	CasinoEnforcerOne	Greetings, Mr Donato.	Bien le bonjour, M. Donato.	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+0	CasinoEnforcerTwo	Might we ask to have a friendly chat.	Pouvons-nous vous demander une petite causerie entre amis ?	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+1	CasinoEnforcerOne	About your most recent gambling activities?	Au sujet de vos récents exploits à la roulette ?	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+12	Don	S-Sure thing.	B-Bien sûr, voyons.	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+1	CasinoEnforcerTwo	A most unscrupulous individual is gambling with counterfeit chips.	Un individu particulièrement indélicat joue avec des jetons contrefaits.	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+13	Don	F-Fake chips?	D-Des faux jetons ?	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+2	CasinoEnforcerOne	We suspect this individual has also taken a creative approach to magnetism.	Nous soupçonnons cet individu d'avoir aussi une approche très créative du magnétisme.	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+2	CasinoEnforcerTwo	An unsanctioned use of physical phenomena.	Une utilisation non autorisée des lois de la physique.	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+14	Don	M-Magnetism?	Du m-magnétisme ?	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+3	CasinoEnforcerTwo	The capacity to attract and repulse forces between objects.	La capacité d'attirer et de repousser des corps matériels.	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+15	Don	I wouldn't know anything about that.	Je n'y connais absolument rien, moi !	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+3	CasinoEnforcerOne	Then allow my associate to demonstrate...	Alors permettez à mon confrère de vous faire une démonstration...	RoomDonQuarters+<OnEnterRoomAfterFadeActOneDonTriesToEscape>d__19	MoveNext
+16	Don	Hey, who switched off the lights!	Hé, qui a éteint la lumière ?!	RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+18	Don	Between the two of us, I'm not the bad guy, y'hear?	Entre nous deux, c'est pas moi le pourri, tu m'entends ?	RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+4	Bergmann	Ah, so it's all my fault.	Ah, évidemment, c'est de ma faute.	RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+5	Bergmann	I suppose in your mind I bankrupted the company? I killed Lady Unterwald?	Dans votre tête, c'est moi qui ai coulé l'entreprise ? C'est moi qui ai tué Lady Unterwald ?	RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+6	Bergmann	Don't be so absurd. We're done here.	Ne soyez pas ridicule. Nous en avons terminé.	RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+20	Don	You're not done until I say so.	On n'a pas fini tant que JE ne l'ai pas dit.	RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+21	Don	I have a feeling the authorities would find THIS very compelling.	J'ai comme l'impression que la police va trouver ÇA très instructif.	RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+22	Don	...I killed Lady Unterwald.	...J'ai tué Lady Unterwald.	RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+7	Bergmann	You've been RECORDING?!	Vous nous avez ENREGISTRÉS ?!	RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+23	Don	When you're in my line of work you need a little insurance, y'know? Consider it an incentive to stay in line.	Dans mon métier, on a besoin d'une petite assurance-vie, tu vois ? Prends ça comme un encouragement à filer droit.	RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+24	Don	Besides, I've got a new scheme in play. I'm telling ya, Bergmann. I won't lose this time!	Et puis, j'ai un nouveau coup en préparation. Je te le dis, Bergmann : je ne peux pas perdre cette fois !	RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+8	Bergmann	You better be right.	Vous avez intérêt à ne pas vous planter.	RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+161	Arthur	It sounds like Bergmann has fallen in with the wrong crowd.	On dirait que Bergmann s'est fourvoyé en mauvaise compagnie.	RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+162	Arthur	I should get my hands on that ledger in Lady Unterwald's quarters.	Je devrais mettre la main sur ce registre dans les quartiers de Lady Unterwald.	RoomDonQuarters+<OnInteractPropCupboardActOneHidSuccess>d__24	MoveNext
+171	Arthur	I'd better get out the way again.	Je ferais bien de me planquer à nouveau.	RoomDonQuarters+<OnEnterRoomAfterFadeActOneChipStashReveal>d__31	MoveNext
+25	Don	Damn thievin' casino.	Sale casino de voleurs.	RoomDonQuarters+<OnEnterRoomAfterFadeActOneChipStashReveal>d__31	MoveNext
+26	Don	I'm supposed to be stealin' from them!	C'est MOI qui suis censé les plumer !	RoomDonQuarters+<OnEnterRoomAfterFadeActOneChipStashReveal>d__31	MoveNext
+27	Don	Eh, no matter.	Bof, peu importe.	RoomDonQuarters+<OnEnterRoomAfterFadeActOneChipStashReveal>d__31	MoveNext
+28	Don	Still got plenty of chips left.	Il me reste un paquet de jetons.	RoomDonQuarters+<OnEnterRoomAfterFadeActOneChipStashReveal>d__31	MoveNext
+29	Don	Should be enough to get my winnings back.	Ça devrait suffire pour me refaire.	RoomDonQuarters+<OnEnterRoomAfterFadeActOneChipStashReveal>d__31	MoveNext
+30	Don	And then some!	Et même plus encore !	RoomDonQuarters+<OnEnterRoomAfterFadeActOneChipStashReveal>d__31	MoveNext
+158	Arthur	There's nothing in there I need.	Il n'y a rien là-dedans dont j'aie besoin.	RoomDonQuarters+<OnInteractPropCupboardActOne>d__49	MoveNext
+168	Arthur	That's a seriously powerful magnet.	C'est un aimant redoutablement puissant.	RoomDonQuarters+<OnLookAtPropMagnetizerActOne>d__53	MoveNext
+182	Arthur	Ugh.	Pouah.	RoomDonQuarters+<OnLookAtPropPlateActOne>d__57	MoveNext
+183	Arthur	A bit garish for my taste, but this is the honeymoon suite.	Un peu tapageur à mon goût, mais c'est la suite nuptiale après tout.	RoomDonQuarters+<OnLookAtPropBedActOne>d__61	MoveNext
+189	Arthur	I guess Don's been winning big at the casino.	On dirait que Don a amassé un joli pactole au casino.	RoomDonQuarters+<OnLookAtPropChampagneActOne>d__69	MoveNext
+193	Arthur	I'll bet these look convincing with a lick of paint.	Je parie qu'avec un coup de peinture, ils font illusion à la perfection.	RoomDonQuarters+<OnLookAtPropWoodenChipsActOne>d__73	MoveNext
+210	Arthur	I have no clue what these are for, but I bet Don's up to something shady.	Aucune idée de leur usage, mais je parie que Don prépare un coup tordu.	RoomDonQuarters+<OnLookAtPropWoodenChipsActOne>d__73	MoveNext
+264	Arthur	Don must be using these fraudulent chips to cheat in the casino.	Don doit se servir de ces faux jetons pour tricher au casino.	RoomDonQuarters+<OnLookAtPropWoodenChipsActOne>d__73	MoveNext
+288	Arthur	Don was gambling with fraudulent chips, what a slimeball!	Don jouait avec des jetons contrefaits, quelle crapule !	RoomDonQuarters+<OnLookAtPropWoodenChipsActOne>d__73	MoveNext
+469	Arthur	There are piles of wooden casino chips in these boxes.	Ces boîtes débordent de piles de jetons de casino en bois.	RoomDonQuarters+<OnLookAtPropClosetWoodenChipsActOne>d__77	MoveNext
+470	Arthur	Seems like Don is stirring up trouble for the casino.	On dirait bien que Don cherche des ennuis au casino.	RoomDonQuarters+<OnLookAtPropClosetWoodenChipsActOne>d__77	MoveNext
+471	Arthur	Bergmann said Don was scamming the casino using magnetism and fake chips.	Bergmann a dit que Don arnaquait le casino avec du magnétisme et des faux jetons.	RoomDonQuarters+<OnLookAtPropClosetWoodenChipsActOne>d__77	MoveNext
+472	Arthur	These are all that's left of Don's gambling scheme.	C'est tout ce qu'il reste de la combine de jeu de Don.	RoomDonQuarters+<OnLookAtPropClosetWoodenChipsActOne>d__77	MoveNext
+711	Arthur	If I seal up these burrows, I'd have a better chance of catching the mouse.	Si je bouche ces terriers, j'aurai plus de chances d'attraper la souris.	RoomDonQuarters+<OnLookAtPropMouseHoleActOne>d__81	MoveNext
+194	Arthur	A tiny entrance for an unwanted guest.	Une minuscule entrée pour une intruse indésirable.	RoomDonQuarters+<OnLookAtPropMouseHoleActOne>d__81	MoveNext
+196	Arthur	They've settled into quite a hypnotic pattern.	Leurs mouvements dessinent un motif hypnotique.	RoomDonQuarters+<OnLookAtPropMetalBallsActOne>d__85	MoveNext
+39	Don	You following me, kid?	Tu me suis, petit ?	RoomSleeperCarriage+<OnEnterRoomAfterFadeActOneDonReturningWithChips>d__25	MoveNext
+40	Don	Take a hike!	Fiche le camp !	RoomSleeperCarriage+<OnEnterRoomAfterFadeActOneDonReturningWithChips>d__25	MoveNext
+224	Arthur	Where did he get all of those casino chips from?	Où a-t-il bien pu dégoter tous ces jetons de casino ?	RoomSleeperCarriage+<OnEnterRoomAfterFadeActOneDonReturningWithChips>d__25	MoveNext
+225	Arthur	He's always a step ahead.	Il a toujours une longueur d'avance.	RoomSleeperCarriage+<OnEnterRoomAfterFadeActOneDonReturningWithChips>d__25	MoveNext
+235	Arthur	I shouldn't open the door while he's in there.	Je ne devrais pas ouvrir tant qu'il est à l'intérieur.	RoomSleeperCarriage+<OnInteractPropDonDoorActOne>d__77	MoveNext
+236	Arthur	Don? Are you in there?	Don ? Vous êtes là ?	RoomSleeperCarriage+<OnInteractPropDonDoorActOne>d__77	MoveNext
+237	Arthur	I could let myself in and leave the keys inside.	Je pourrais entrer et déposer les clés à l'intérieur.	RoomSleeperCarriage+<OnInteractPropDonDoorActOne>d__77	MoveNext
+240	Arthur	It's room 303.	C'est la cabine 303.	RoomSleeperCarriage+<OnLookAtPropDonDoorActOne>d__105	MoveNext

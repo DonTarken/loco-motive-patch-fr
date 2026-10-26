@@ -1,0 +1,170 @@
+0	Bartender	Hey! You're looking a little worse for wear there, pal.		CharacterBartender+<OnInteractChapterOneDrunk>d__21	MoveNext
+617	Arthur	I'm ferfectly pine, I asshure you.		CharacterBartender+<OnInteractChapterOneDrunk>d__21	MoveNext
+1	Bartender	Here's a coffee, on the house.		CharacterBartender+<OnInteractChapterOneDrunk>d__21	MoveNext
+610	Arthur	Thanksh!		CharacterBartender+<OnInteractChapterOneDrunk>d__21	MoveNext
+612	Arthur	Evening, Barkeep!		CharacterBartender+<OnInteractActOne>d__22	MoveNext
+10	Bartender	What'll it be?		CharacterBartender+<OnInteractActOne>d__22	MoveNext
+20	Bartender	That's the plant fibres, and the floral essence, accounted for.		CharacterBartender+<OnActOneCreateBudLiteSequence>d__32	MoveNext
+21	Bartender	Everything I need to make a Rosebud.		CharacterBartender+<OnActOneCreateBudLiteSequence>d__32	MoveNext
+22	Bartender	Now, I can't legally give you the real deal if you're anywhere under 200lbs.		CharacterBartender+<OnActOneCreateBudLiteSequence>d__32	MoveNext
+23	Bartender	Your liver would give in.		CharacterBartender+<OnActOneCreateBudLiteSequence>d__32	MoveNext
+626	Arthur	So what can you give me?		CharacterBartender+<OnActOneCreateBudLiteSequence>d__32	MoveNext
+24	Bartender	I'll make you a Bud-Lite.		CharacterBartender+<OnActOneCreateBudLiteSequence>d__32	MoveNext
+25	Bartender	It has all of the flavour of the Rosebud.		CharacterBartender+<OnActOneCreateBudLiteSequence>d__32	MoveNext
+26	Bartender	But you'll still be able to...		CharacterBartender+<OnActOneCreateBudLiteSequence>d__32	MoveNext
+627	Arthur	Form sentences?		CharacterBartender+<OnActOneCreateBudLiteSequence>d__32	MoveNext
+28	Bartender	Precisely.		CharacterBartender+<OnActOneCreateBudLiteSequence>d__32	MoveNext
+628	Arthur	It's delicious!		CharacterBartender+<OnActOneCreateBudLiteSequence>d__32	MoveNext
+29	Bartender	Enjoy!		CharacterBartender+<OnActOneCreateBudLiteSequence>d__32	MoveNext
+629	Arthur	I might be able to make it stronger with some experimentation.		CharacterBartender+<OnActOneCreateBudLiteSequence>d__32	MoveNext
+630	Arthur	And something to mix it all up in.		CharacterBartender+<OnActOneCreateBudLiteSequence>d__32	MoveNext
+22	ChefAntoine	Oh, my beauty, what have they done to you?		CharacterChefAntoine+<OnInteractActOneFirstOccurrence>d__7	MoveNext
+79	ChefAntoine	Oui ?		CharacterChefAntoine+<OnInteractActOneFirstOccurrence>d__7	MoveNext
+130	ChefFrancois	Hello again, attorney.		CharacterChefFrancois+<OnInteractActOne>d__6	MoveNext
+36	ChefRemy	Don't sneak up on me like that!		CharacterChefRemy+<OnInteractActOneBeforeReturnedMouseOption1>d__20	MoveNext
+37	ChefRemy	Ahh! You gave me a fright!		CharacterChefRemy+<OnInteractActOneBeforeReturnedMouseOption2>d__21	MoveNext
+38	ChefRemy	How can I help?		CharacterChefRemy+<OnInteractActOneAfterReturnedMouse>d__22	MoveNext
+75	Don	The name's Donnola, kid.		CharacterDon+<OnInteractActOneDiningCarriage>d__32	MoveNext
+76	Don	But most people call me Don, or Donny. You get my gist?		CharacterDon+<OnInteractActOneDiningCarriage>d__32	MoveNext
+77	Don	That's a nice suit. So what's your deal, you some sort of tycoon or something?		CharacterDon+<OnInteractActOneDiningCarriage>d__32	MoveNext
+675	Arthur	Well, not really. You see, there's this old lady who told me to put it on, and I-		CharacterDon+<OnInteractActOneDiningCarriage>d__32	MoveNext
+78	Don	Let me stop you there, I don't think I wanna know more.		CharacterDon+<OnInteractActOneDiningCarriage>d__32	MoveNext
+79	Don	Besides, you're killing my vibe with that sweet patootie over there, you dig?		CharacterDon+<OnInteractActOneDiningCarriage>d__32	MoveNext
+80	Don	You delivered my proposal yet, kid?		CharacterDon+<OnInteractActOneDiningCarriage>d__32	MoveNext
+676	Arthur	Oh, not yet.		CharacterDon+<OnInteractActOneDiningCarriage>d__32	MoveNext
+81	Don	You gotta give it to the dame behind me, ya dig?		CharacterDon+<OnInteractActOneDiningCarriage>d__32	MoveNext
+654	Arthur	Ehh, I'll talk to him later.		CharacterDon+<OnInteractActOneDiningCarriage>d__32	MoveNext
+82	Don	Come back when you've handed over that note.		CharacterDon+<OnInteractActOneDiningCarriage>d__32	MoveNext
+9	Masson	Mmm-wah?		CharacterMasson+<OnInteractActOne>d__5	MoveNext
+658	Arthur	Mr Masson?		CharacterMasson+<OnInteractActOneDrunkFirstOccurrence>d__6	MoveNext
+10	Masson	Muahh, I see you're enjoying my shignature drink?		CharacterMasson+<OnInteractActOneDrunkFirstOccurrence>d__6	MoveNext
+11	Masson	Good man!		CharacterMasson+<OnInteractActOneDrunkFirstOccurrence>d__6	MoveNext
+659	Arthur	Ah, so you've finally schobered up?		CharacterMasson+<OnInteractActOneDrunkFirstOccurrence>d__6	MoveNext
+12	Masson	Muah, of coursshe I haven't!		CharacterMasson+<OnInteractActOneDrunkFirstOccurrence>d__6	MoveNext
+13	Masson	Don't you see? We're the ssschame amount of drunk.		CharacterMasson+<OnInteractActOneDrunkFirstOccurrence>d__6	MoveNext
+660	Arthur	Ohhh. I guess that makes sschense?		CharacterMasson+<OnInteractActOneDrunkFirstOccurrence>d__6	MoveNext
+14	Masson	What do you want, my dear boy?		CharacterMasson+<OnInteractActOneDrunkFirstOccurrence>d__6	MoveNext
+665	Arthur	Thanks for the help, Mr Masson.		CharacterMasson+<OnInteractActOneSoberedUpFirstOccurrence>d__9	MoveNext
+16	Masson	MmEmAAw! *Hic*		CharacterMasson+<OnInteractActOneSoberedUpFirstOccurrence>d__9	MoveNext
+17	Masson	t *Hic*		CharacterMasson+<OnInteractActOneSoberedUpFirstOccurrence>d__9	MoveNext
+666	Arthur	Oh right.		CharacterMasson+<OnInteractActOneSoberedUpFirstOccurrence>d__9	MoveNext
+667	Arthur	I should leave him to rest.		CharacterMasson+<OnInteractActOneSoberedUp>d__10	MoveNext
+868	Arthur	I'm sorry for your loss.		CharacterPierre+<OnInteractActOneFirstOccurrence>d__16	MoveNext
+13	Pierre	Monsieur, I've lost everything!		CharacterPierre+<OnInteractActOneFirstOccurrence>d__16	MoveNext
+869	Arthur	You must have been very close.		CharacterPierre+<OnInteractActOneFirstOccurrence>d__16	MoveNext
+14	Pierre	No, it's not that...		CharacterPierre+<OnInteractActOneFirstOccurrence>d__16	MoveNext
+15	Pierre	She owed me so much money!		CharacterPierre+<OnInteractActOneFirstOccurrence>d__16	MoveNext
+16	Pierre	I was going to get paid after the speech.		CharacterPierre+<OnInteractActOneFirstOccurrence>d__16	MoveNext
+753	Arthur	Oh.		CharacterPierre+<OnInteractActOneFirstOccurrence>d__16	MoveNext
+920	Arthur	There, there.		CharacterPierre+<OnInteractActOneFirstOccurrence>d__16	MoveNext
+74	Pierre	Not now, Monsieur. Can't you see I'm with my latest muse?		CharacterPierre+<OnInteractActOneGotSketches>d__18	MoveNext
+150	Arista	Oh, Pierre, you do know how to flatter me.		CharacterPierre+<OnInteractActOneGotSketches>d__18	MoveNext
+1215	Narrator/Unknown	Where can I get a drink?		DialogTalkToWaiterChapterOne+<Option1>d__3	MoveNext
+4	Narrator/Unknown	You'll have to enquire at the bar, sir.		DialogTalkToWaiterChapterOne+<Option1>d__3	MoveNext
+1216	Narrator/Unknown	What's this I'm hearing about a rodent problem?		DialogTalkToWaiterChapterOne+<Option2>d__4	MoveNext
+5	Narrator/Unknown	Nothing to concern yourself with, sir.		DialogTalkToWaiterChapterOne+<Option2>d__4	MoveNext
+6	Narrator/Unknown	Some of the passengers are complaining about missing valuables.		DialogTalkToWaiterChapterOne+<Option2>d__4	MoveNext
+7	Narrator/Unknown	They believe a common rodent to be stealing from them.		DialogTalkToWaiterChapterOne+<Option2>d__4	MoveNext
+1217	Narrator/Unknown	So there isn't a rodent sneaking around stealing jewellery?		DialogTalkToWaiterChapterOne+<Option3>d__5	MoveNext
+8	Narrator/Unknown	The Reuss Express is vermin free, I assure you.		DialogTalkToWaiterChapterOne+<Option3>d__5	MoveNext
+9	Narrator/Unknown	I suspect certain passengers have merely been careless with their valuables.		DialogTalkToWaiterChapterOne+<Option3>d__5	MoveNext
+1218	Narrator/Unknown	Is it too late to order from the kitchen?		DialogTalkToWaiterChapterOne+<Option4>d__6	MoveNext
+10	Narrator/Unknown	I'm afraid the kitchen is temporarily closed for repairs.		DialogTalkToWaiterChapterOne+<Option4>d__6	MoveNext
+1219	Narrator/Unknown	What repairs are taking place in the kitchen?		DialogTalkToWaiterChapterOne+<Option5>d__7	MoveNext
+11	Narrator/Unknown	Ah, there's nothing to be concerned about.		DialogTalkToWaiterChapterOne+<Option5>d__7	MoveNext
+12	Narrator/Unknown	I believe the kitchen staff encountered an overzealous health inspector.		DialogTalkToWaiterChapterOne+<Option5>d__7	MoveNext
+1220	Narrator/Unknown	Do you know when the kitchen will reopen?		DialogTalkToWaiterChapterOne+<Option6>d__8	MoveNext
+13	Narrator/Unknown	I'm sure things will be up and running again shortly.		DialogTalkToWaiterChapterOne+<Option6>d__8	MoveNext
+14	Narrator/Unknown	Just as soon as the kitchen staff have regained their composure.		DialogTalkToWaiterChapterOne+<Option6>d__8	MoveNext
+1221	Narrator/Unknown	Did you see anything during Lady Unterwald's speech?		DialogTalkToWaiterChapterOne+<Option7>d__9	MoveNext
+15	Narrator/Unknown	Apart from a traumatic event I shall never recover from?		DialogTalkToWaiterChapterOne+<Option7>d__9	MoveNext
+1222	Narrator/Unknown	Yes, of course. Did you see anything suspicious?		DialogTalkToWaiterChapterOne+<Option7>d__9	MoveNext
+16	Narrator/Unknown	We were all thrown into darkness, as you well know.		DialogTalkToWaiterChapterOne+<Option7>d__9	MoveNext
+17	Narrator/Unknown	If you're asking me to identify a suspect, I can't help you.		DialogTalkToWaiterChapterOne+<Option7>d__9	MoveNext
+1223	Narrator/Unknown	I'll see you around!		DialogTalkToWaiterChapterOne+<Option8>d__10	MoveNext
+283	Arthur	I need to find out who killed Lady Unterwald, or I could be the next one to vanish!		RoomDiningCarriage+<OnEnterRoomAfterFadeActOneChapterOneExposition>d__22	MoveNext
+383	Arthur	I'll need to talk to the other passengers, maybe they saw something.		RoomDiningCarriage+<OnEnterRoomAfterFadeActOneChapterOneExposition>d__22	MoveNext
+384	Arthur	Lady Unterwald's quarters could hold some clues.		RoomDiningCarriage+<OnEnterRoomAfterFadeActOneChapterOneExposition>d__22	MoveNext
+108	Bergmann	Thanks for dealing with Don, Arthur.		RoomDiningCarriage+<OnEnterRoomAfterFadeActOneChapterTwoExposition>d__23	MoveNext
+109	Bergmann	I know you didn't have to help me, considering the circumstances.		RoomDiningCarriage+<OnEnterRoomAfterFadeActOneChapterTwoExposition>d__23	MoveNext
+351	Arthur	I still have a responsibility to the estate, and Don was gambling estate funds.		RoomDiningCarriage+<OnEnterRoomAfterFadeActOneChapterTwoExposition>d__23	MoveNext
+110	Bergmann	Quite right, quite right.		RoomDiningCarriage+<OnEnterRoomAfterFadeActOneChapterTwoExposition>d__23	MoveNext
+111	Bergmann	One last thing, I believe the doctor was looking to speak with you.		RoomDiningCarriage+<OnEnterRoomAfterFadeActOneChapterTwoExposition>d__23	MoveNext
+352	Arthur	They were?		RoomDiningCarriage+<OnEnterRoomAfterFadeActOneChapterTwoExposition>d__23	MoveNext
+112	Bergmann	Indeed. I believe he's just about managed to pull himself together.		RoomDiningCarriage+<OnEnterRoomAfterFadeActOneChapterTwoExposition>d__23	MoveNext
+113	Bergmann	You'll find him in Lady Unterwald's quarters, no doubt combing over her personal effects.		RoomDiningCarriage+<OnEnterRoomAfterFadeActOneChapterTwoExposition>d__23	MoveNext
+355	Arthur	Alright, I'll check up on him.		RoomDiningCarriage+<OnEnterRoomAfterFadeActOneChapterTwoExposition>d__23	MoveNext
+114	Bergmann	I'll be in the lounge if you need me.		RoomDiningCarriage+<OnEnterRoomAfterFadeActOneChapterTwoExposition>d__23	MoveNext
+47	Diana	Psst! We need to talk.		RoomDiningCarriage+<OnEnterRoomAfterFadeActOneChapterTwoDianaCallPlayerOver>d__24	MoveNext
+48	Diana	Psst, over here!		RoomDiningCarriage+<OnEnterRoomAfterFadeActOneChapterTwoDianaCallPlayerOver>d__24	MoveNext
+49	Diana	Psst, get over here!		RoomDiningCarriage+<OnEnterRoomAfterFadeActOneChapterTwoDianaCallPlayerOver>d__24	MoveNext
+50	Diana	Hey! Come this way.		RoomDiningCarriage+<OnEnterRoomAfterFadeActOneChapterTwoDianaCallPlayerOver>d__24	MoveNext
+344	Arthur	There's a satisfying undulation to the water's motion.		RoomDiningCarriage+<OnLookAtPropWaterActOne>d__58	MoveNext
+305	Arthur	Are these lemons free?		RoomDiningCarriage+<OnLookAtPropLemonsActOne>d__62	MoveNext
+7	Bartender	Do you actually want the lemons?		RoomDiningCarriage+<OnLookAtPropLemonsActOne>d__62	MoveNext
+306	Arthur	Hm, I might do.		RoomDiningCarriage+<OnLookAtPropLemonsActOne>d__62	MoveNext
+312	Arthur	They're filled with nondescript types of brown liquid.		RoomDiningCarriage+<OnLookAtPropGlassesActOne>d__66	MoveNext
+313	Arthur	I'm not sure who'd drink these willingly.		RoomDiningCarriage+<OnLookAtPropGlassesActOne>d__66	MoveNext
+0	Ron	They're an acquired taste.		RoomDiningCarriage+<OnLookAtPropGlassesActOne>d__66	MoveNext
+299	Arthur	Ladder hemstitch, mitered corners, 100% white linen.		RoomDiningCarriage+<OnLookAtPropNapkinsActOne>d__70	MoveNext
+300	Arthur	These are some high-end cocktail napkins!		RoomDiningCarriage+<OnLookAtPropNapkinsActOne>d__70	MoveNext
+6	Bartender	You should expect nothing less on the Reuss Express.		RoomDiningCarriage+<OnLookAtPropNapkinsActOne>d__70	MoveNext
+301	Arthur	''Please wait to be seated.''		RoomDiningCarriage+<OnLookAtPropSignActOne>d__78	MoveNext
+302	Arthur	Hm.		RoomDiningCarriage+<OnLookAtPropSignActOne>d__78	MoveNext
+303	Arthur	I guess it's more of a suggestion.		RoomDiningCarriage+<OnLookAtPropSignActOne>d__78	MoveNext
+10	ChefFrancois	Quoi! What are you doing in here?		RoomKitchenCarriage+<OnEnterRoomAfterFadeActOneMeetTheChefsBeforeDrunk>d__58	MoveNext
+0	ChefAntoine	Not another health inspector, we hope?		RoomKitchenCarriage+<OnEnterRoomAfterFadeActOneMeetTheChefs>d__59	MoveNext
+2	ChefRemy	I'm not sure I can handle another inspection!		RoomKitchenCarriage+<OnEnterRoomAfterFadeActOneMeetTheChefs>d__59	MoveNext
+511	Arthur	No, I'm an attorney.		RoomKitchenCarriage+<OnEnterRoomAfterFadeActOneMeetTheChefs>d__59	MoveNext
+3	ChefRemy	Zut! That's even worse!		RoomKitchenCarriage+<OnEnterRoomAfterFadeActOneMeetTheChefs>d__59	MoveNext
+1	ChefAntoine	So much worse!		RoomKitchenCarriage+<OnEnterRoomAfterFadeActOneMeetTheChefs>d__59	MoveNext
+1425	Arthur	What happened here?		RoomKitchenCarriage+<OnEnterRoomAfterFadeChapterOne>d__60	MoveNext
+4	ChefAntoine	Can't you see the kitchen is off limits right now?		RoomKitchenCarriage+<OnEnterRoomAfterFadeChapterOne>d__60	MoveNext
+14	ChefFrancois	Come back when we've cleaned up!		RoomKitchenCarriage+<OnEnterRoomAfterFadeChapterOne>d__60	MoveNext
+13	ChefFrancois	You again?		RoomKitchenCarriage+<OnEnterRoomAfterFadeActOneMeetTheChefsAgain>d__61	MoveNext
+7	ChefRemy	Zut! The attorney has returned.		RoomKitchenCarriage+<OnEnterRoomAfterFadeActOneMeetTheChefsAgain>d__61	MoveNext
+18	ChefFrancois	Try this soup, it's a fresh batch.		RoomKitchenCarriage+<OnEnterRoomAfterFadeActOneDrunkMontage>d__63	MoveNext
+4	ChefFrancois	This is a kitchen, not a cabaret!		RoomKitchenCarriage+<OnEnterRoomAfterFadeActOneDrunkMontageBeforeInvisibleInkClueKnown>d__64	MoveNext
+6	ChefFrancois	We've only just tidied up!		RoomKitchenCarriage+<OnEnterRoomAfterFadeActOneDrunkMontageBeforeAgreedToCatchMouse>d__65	MoveNext
+7	ChefFrancois	You call this helping?		RoomKitchenCarriage+<OnEnterRoomAfterFadeActOneDrunkMontageAfterAgreedToCatchMouse>d__66	MoveNext
+9	ChefFrancois	Take your business elsewhere!		RoomKitchenCarriage+<OnEnterRoomAfterFadeActOneDrunkMontageEnd>d__67	MoveNext
+7	ChefAntoine	Is there a reason you keep wandering in here, attorney?		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoBeforeInvisibleInkClueKnown>d__68	MoveNext
+1331	Arthur	Uh, well, no, not really.		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoBeforeInvisibleInkClueKnown>d__68	MoveNext
+15	ChefFrancois	You again? Just who are you anyway?		RoomKitchenCarriage+<OnEnterRoomAfterFadeActOneMeetTheChefsAfterDrunk>d__69	MoveNext
+28	ChefFrancois	Just what is it you want, attorney?		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+677	Arthur	Do you think I could heat up this napkin?		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+31	ChefFrancois	Quoi ? You want to cook a napkin?		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+678	Arthur	I think there's a hidden message in here!		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+24	ChefRemy	He's gone mad!		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+33	ChefFrancois	Not now, attorney! We're in no mood to entertain your wild ideas!		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+1332	Arthur	Are you sure everything is okay?		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+14	ChefRemy	We have everything under control!		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+22	ChefFrancois	Alright, attorney. We may have a little rodent problem.		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+10	ChefAntoine	I've never seen a thief like it!		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+15	ChefRemy	This is no ordinary rodent. This foul creature must have received formal training!		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+515	Arthur	Your mouse is a master thief?		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+16	ChefRemy	Oui, pretty much anything it gets its grubby paws on!		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+41	ChefAntoine	Admit it, François. We can't go on like this, we need professional help!		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+25	ChefRemy	I can't work under these conditions!		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+37	ChefFrancois	Yes, I suppose you are right.		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+45	ChefFrancois	Attorney, I propose a trade.		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+679	Arthur	I'm listening.		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+46	ChefFrancois	You catch that creature for us, and we'll let you cook your little napkin.		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+42	ChefAntoine	Him?!		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+47	ChefFrancois	What would you have me do, Antoine?		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+48	ChefFrancois	First that dreadful inspection, and now a rodent running amok in our kitchen?		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+74	ChefFrancois	If word of this gets out, we'll be fired by sunrise.		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+75	ChefFrancois	Then what will you and your precious grill do then? Hm?		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+27	ChefRemy	What do you say, attorney?		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+1016	Arthur	I'm sure I could figure something out, how hard could it be?		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+76	ChefFrancois	It won't be so simple. That little thief is a professional.		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+77	ChefFrancois	We've heard it scratching in the pantry, I'd start your hunt there.		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+1609	Arthur	I won't let you down!		RoomKitchenCarriage+<MeetTheChefsActOnePartTwoAfterInvisibleInkClueKnown>d__70	MoveNext
+530	Arthur	You probably need to throw these away.		RoomKitchenCarriage+<OnLookAtPropSinkActOne>d__125	MoveNext
+11	ChefAntoine	Don't look in there.		RoomKitchenCarriage+<OnLookAtPropSinkActOne>d__125	MoveNext
+916	Arthur	Something smells good! Mind if I have a taste?		RoomKitchenCarriage+<OnLookAtPropSaucepanActOne>d__129	MoveNext
+12	ChefAntoine	Don't do it!		RoomKitchenCarriage+<OnLookAtPropSaucepanActOne>d__129	MoveNext
+19	ChefRemy	Get away from there!		RoomKitchenCarriage+<OnLookAtPropSaucepanActOne>d__129	MoveNext
+928	Arthur	Okay, okay!		RoomKitchenCarriage+<OnLookAtPropSaucepanActOne>d__129	MoveNext
+1276	Arthur	Hmm, I'd better not.		RoomKitchenCarriage+<OnLookAtPropSaucepanActOne>d__129	MoveNext
+664	Arthur	They have everything a good kitchen needs.		RoomKitchenCarriage+<OnLookAtPropSpiceRackActOne>d__136	MoveNext

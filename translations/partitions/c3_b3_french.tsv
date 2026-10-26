@@ -1,0 +1,281 @@
+﻿Id	Character	English	French	Class	Method
+1619	Arthur	Wait! I... I have questions!	Attendez ! J'ai... j'ai des questions !	RoomExteriorCarriage+<OnEnterRoomAfterFadeActThreeMrLiuShowdown>d__3	MoveNext
+121	JianLiu	Questions?	Des questions ?	RoomExteriorCarriage+<OnEnterRoomAfterFadeActThreeMrLiuShowdown>d__3	MoveNext
+122	JianLiu	What questions could you possibly have? I already spelled it out for you!	Quelles questions pourriez-vous bien avoir ? Je vous ai déjà tout expliqué noir sur blanc !	RoomExteriorCarriage+<OnEnterRoomAfterFadeActThreeMrLiuShowdown>d__3	MoveNext
+60	HandshakeLeader	Jian did what?! This is a grave betrayal of The Order!	Jian a fait quoi ?! C'est une haute trahison envers l'Ordre !	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+28	Hirsch	I'm afraid so. I think it's time we heard what Lady Unterwald has to say for herself.	J'en ai bien peur. Je crois qu'il est temps d'écouter ce que Lady Unterwald a elle-même à nous dire.	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+35	Hirsch	I managed to obtain this recording from Lady Unterwald's safe. I believe it may contain her final instructions.	J'ai réussi à récupérer cet enregistrement dans le coffre de Lady Unterwald. Je pense qu'il contient ses ultimes volontés.	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+61	HandshakeLeader	Sister Gretchen, fetch the gramophone!	Sœur Gretchen, apportez le gramophone !	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+130	LadyUnterwald	OOooOOooh! I speak to you now, from beyond the grave!	Ooooouuuuuh ! Je m'adresse à vous depuis l'au-delà !	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+131	LadyUnterwald	Who dares to wake me from my eternal slumber?	Qui ose me réveiller de mon sommeil éternel ?	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+2	BrotherBrian	We're sorry, Lady Unterwald!	Pardonnez-nous, Lady Unterwald !	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+59	Hirsch	Forgive us, we failed you!	Pardonnez-nous, nous vous avons fait défaut !	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+132	LadyUnterwald	Oh ho-ho! I'm just kidding around.	Oh ho ho ! Je plaisante, voyons.	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+133	LadyUnterwald	Although if you're listening to this recording, that means I've kicked the bucket.	Quoique... si vous écoutez ceci, c'est que j'ai bel et bien cassé ma pipe.	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+134	LadyUnterwald	I assume things have predictably descended into chaos, otherwise you wouldn't be seeking my guidance here.	J'imagine que la situation a tourné au vinaigre, sans quoi vous ne viendriez pas chercher mes conseils posthumes.	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+135	LadyUnterwald	For general business enquiries, select track one.	Pour les requêtes commerciales générales, choisissez la piste un.	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+136	LadyUnterwald	If you have an accounting question, select track two.	Pour toute question d'ordre comptable, choisissez la piste deux.	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+137	LadyUnterwald	If you're seeking guidance on my last will and testament, select track three.	Pour des instructions sur mon testament, choisissez la piste trois.	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+138	LadyUnterwald	For anything else, select track four.	Pour toute autre doléance, choisissez la piste quatre.	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+63	SisterGretchen	Ooh, she mentioned the will! Track three, pick track three!	Ooh, elle a parlé du testament ! Piste trois, lancez la piste trois !	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+139	LadyUnterwald	So, you've got a question about my last will and testament.	Ainsi, vous avez une question relative à mes dernières volontés.	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+140	LadyUnterwald	Did somebody tear it to shreds in dramatic fashion? Accidentally submerge the documents in water? Set fire to the whole bloody lot, I'm guessing?	Quelqu'un l'a-t-il déchiré avec fracas ? Trempé par mégarde dans l'eau ? Ou carrément réduit en cendres, si je ne m'abuse ?	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+141	LadyUnterwald	I always said it'd ruffle some feathers, oh-ho ho!	J'ai toujours dit que ça allait en faire piailler plus d'un, oh ho ho !	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+142	LadyUnterwald	If my estate attorney is indisposed, or you're listening to this yourself, Arthur...	Si mon notaire est indisposé, ou si c'est toi-même qui m'écoutes, Arthur...	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+143	LadyUnterwald	I've always retained a copy of my will and testament at the Unterwald family mansion. You'll find your answers there!	J'ai toujours conservé un double de mon testament au manoir familial des Unterwald. C'est là-bas que vous trouverez vos réponses !	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+60	Hirsch	The mansion, of course!	Le manoir, évidemment !	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+37	Hirsch	I shall inform Herman Merman at once!	Je m'en vais prévenir Herman Merman sur-le-champ !	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+19	SisterGretchen	Wasn't he being detained?	N'était-il pas en état d'arrestation ?	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+38	Hirsch	You underestimate the man.	Vous sous-estimez cet homme.	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+39	Hirsch	I suspect he's already free from his bonds and taking matters into his own hands!	Je le soupçonne d'avoir déjà brisé ses chaînes pour prendre les choses en main !	RoomHandshakeClub+<OnEnterRoomAfterFadeActThreeBeforeListenedToGramophone>d__22	MoveNext
+12	Diana	If her attorney hadn't retrieved that missing will, we'd have never uncovered the truth.	Si son notaire n'avait pas récupéré ce testament disparu, nous n'aurions jamais découvert le fin mot de l'histoire.	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeArthurRetrievesWill>d__21	MoveNext
+34	Lamont	What truth would that be?	Et quelle était cette vérité ?	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeArthurRetrievesWill>d__21	MoveNext
+23	Bailey	Go on, Diana. What happened after you and Mr Ackerman recovered the will?	Poursuivez, Diana. Que s'est-il passé après que vous et M. Ackerman avez remis la main sur l'acte ?	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeArthurRetrievesWill>d__21	MoveNext
+71	Diana	The family insisted on an impromptu reading of the will, which distracted everyone long enough for me to poke around...	La famille a exigé une lecture immédiate du testament, ce qui a fait diversion assez longtemps pour que je puisse fouiner...	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeArthurRetrievesWill>d__21	MoveNext
+14	Diana	Ugh, my head... What's going on?	Argh, ma tête... Que se passe-t-il ?	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeDianaCaptured>d__22	MoveNext
+15	Diana	Oh, for goodness' sake.	Oh, par tous les diables.	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeDianaCaptured>d__22	MoveNext
+16	Diana	I came to rescue you two, of course!	Je suis venue vous sauver tous les deux, voyons !	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeDianaCaptured>d__22	MoveNext
+42	Herman	Well, that's just splendid. I feel safer already!	Eh bien, voilà qui est splendide. Je me sens déjà tellement plus en sécurité !	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeDianaCaptured>d__22	MoveNext
+17	Diana	Listen, we'll need to work together to get out of here.	Écoutez, nous devrons faire équipe pour nous tirer de ce pétrin.	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeDianaCaptured>d__22	MoveNext
+18	Diana	How about you, Arthur?	Et toi, Arthur ?	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeDianaCaptured>d__22	MoveNext
+615	Herman	I can assure you, I'm not here to steal anyone's inheritance!	Je vous assure que je ne suis pas ici pour voler l'héritage de qui que ce soit !	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeAfterListenedToGramophone>d__23	MoveNext
+123	Gunter	That's exactly what someone trying to steal our inheritance would say!	C'est précisément ce que dirait quelqu'un qui veut piquer notre héritage !	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeAfterListenedToGramophone>d__23	MoveNext
+5	Hagen	We challenge you to another rematch!	On exige une revanche immédiate !	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeAfterListenedToGramophone>d__23	MoveNext
+79	Herman	Please, no!	Pitié, non !	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeAfterListenedToGramophone>d__23	MoveNext
+0	JianLiu	What the hell are you doing? Where are the prisoners?	Qu'est-ce que vous fabriquez ? Où sont passés les prisonniers ?	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeAfterListenedToGramophone>d__23	MoveNext
+13	Hagen	Huh?	Hein ?	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeAfterListenedToGramophone>d__23	MoveNext
+1	JianLiu	Imbeciles! Must I do everything myself?	Imbéciles ! Faut-il donc que je fasse tout moi-même ?	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeAfterListenedToGramophone>d__23	MoveNext
+80	Herman	Excuse me, but I have to ask.	Pardonnez-moi, mais je dois vous poser la question.	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeTrainExploding>d__24	MoveNext
+82	Herman	Why is everything shaking?	Pourquoi tout tremble autour de nous ?	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeTrainExploding>d__24	MoveNext
+6	Hagen	Take a look out the window, Gunter.	Regarde par la fenêtre, Gunter.	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeTrainExploding>d__24	MoveNext
+34	Hagen	See if you can tell what's going on.	Regarde si tu arrives à comprendre ce qui se passe.	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeTrainExploding>d__24	MoveNext
+6	Gunter	It looks like...	On dirait que...	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeTrainExploding>d__24	MoveNext
+47	Gunter	Oh my...	Oh mon Dieu...	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeTrainExploding>d__24	MoveNext
+43	Hagen	Well? What is it?	Alors ? Qu'est-ce qu'il y a ?	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeTrainExploding>d__24	MoveNext
+48	Gunter	I think the train's about to...	Je crois que le train est sur le point de...	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeTrainExploding>d__24	MoveNext
+49	Gunter	I think it's about to...	Je crois qu'il va...	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeTrainExploding>d__24	MoveNext
+44	Hagen	About to what? Spit it out!	Sur le point de quoi ? Crache le morceau !	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeTrainExploding>d__24	MoveNext
+50	Gunter	I think-	Je crois-	RoomHermanQuarters+<OnEnterRoomAfterFadeActThreeTrainExploding>d__24	MoveNext
+146	Arthur	I don't think that's going to be much use.	Je ne pense pas que ce soit d'une grande utilité.	RoomHermanQuarters+<OnLookAtPropLuggageActThree>d__32	MoveNext
+20	Diana	Agent M!	Agent M !	RoomHermanQuarters+<OnSolveActThreeDianaCapturedPuzzle>d__39	MoveNext
+149	Arthur	You know each other?	Vous vous connaissez ?	RoomHermanQuarters+<OnSolveActThreeDianaCapturedPuzzle>d__39	MoveNext
+21	Diana	She's my assigned field agent!	C'est l'agent de terrain qui m'a été assigné !	RoomHermanQuarters+<OnSolveActThreeDianaCapturedPuzzle>d__39	MoveNext
+22	Diana	I'll explain later!	Je vous expliquerai plus tard !	RoomHermanQuarters+<OnSolveActThreeDianaCapturedPuzzle>d__39	MoveNext
+24	Diana	Here, let me untie your binds!	Attendez, laissez-moi défaire vos liens !	RoomHermanQuarters+<OnSolveActThreeDianaCapturedPuzzle>d__39	MoveNext
+150	Arthur	I'm free!	Je suis libre !	RoomHermanQuarters+<OnSolveActThreeDianaCapturedPuzzle>d__39	MoveNext
+473	Diana	Okay, move out!	En route, on bouge !	RoomHermanQuarters+<OnSolveActThreeDianaCapturedPuzzle>d__39	MoveNext
+151	Arthur	This seems like a bad idea.	Ça me paraît être une très mauvaise idée.	RoomHermanQuarters+<OnSolveActThreeDianaCapturedPuzzle>d__39	MoveNext
+34	Diana	Focus. We need to get out of here!	Restons concentrés. Nous devons déguerpir d'ici !	RoomHermanQuarters+<OnLookAtPropManuscriptsActThree>d__47	MoveNext
+216	Arthur	The twins really made a mess of all those papers.	Les jumeaux ont fichu un sacré bazar dans tous ces papiers.	RoomHermanQuarters+<OnLookAtPropPapersActThree>d__57	MoveNext
+218	Arthur	If I wasn't preoccupied, I'd feel the urge to neatly organise it!	Si je n'étais pas aussi occupé, je me ferais un devoir de tout classer méticuleusement !	RoomHermanQuarters+<OnLookAtPropPapersActThree>d__57	MoveNext
+35	Diana	No time for that now, Arthur.	Pas le temps pour ça, Arthur.	RoomHermanQuarters+<OnLookAtPropPapersActThree>d__57	MoveNext
+215	Arthur	I can't really see them from here.	Je ne les distingue pas très bien d'ici.	RoomHermanQuarters+<OnLookAtPropBooksActThree>d__61	MoveNext
+214	Diana	My first mission in the field, I can hardly believe it!	Ma toute première mission sur le terrain, j'ai peine à y croire !	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+215	Diana	There's so much to remember, so much that can go wrong. I feel like I'm sweating buckets.	Tant de choses à retenir, tant de risques que ça tourne mal... J'ai des sueurs froides rien que d'y penser.	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+217	Diana	I'm nervous, April. Was this a mistake?	Je stresse, April. Est-ce que c'était une erreur ?	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+48	April	Hey, you've earned this. Don't you forget that.	Hé, tu as mérité cette place. Ne l'oublie jamais.	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+49	April	Besides, didn't you want the chance to show those losers in Accounting how it gets done?	Et puis, ne voulais-tu pas montrer à ces ronds-de-cuir de la compta comment on fait le job ?	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+218	Diana	You're right. It just doesn't feel real to me yet.	Tu as raison. C'est juste que je ne réalise pas encore tout à fait.	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+50	April	You're too used to being underestimated and ignored by a bunch of relics in their stuffy suits.	Tu t'es trop habituée à être sous-estimée par ces vieux débris engoncés dans leurs costumes amidonnés.	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+219	Diana	Pretty much anyone with a modicum of power, if you think about it.	Par quiconque détient une once de pouvoir, en vérité.	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+220	Diana	Now they want to put me on a mission, in the field? I'm not sure that it makes sense.	Et maintenant, ils m'envoient en mission sur le terrain ? Ça n'a pas beaucoup de sens.	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+51	April	Talking of stuffy suits, here comes one now.	En parlant de costume amidonné, en voilà justement un.	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+21	PhilatelyStamp	Ladies, how are we this fine morning?	Mesdames, comment vous portez-vous en cette radieuse matinée ?	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+22	PhilatelyStamp	April Benelli, as you very well know, my name is not ‘Phil'.	April Benelli, vous savez parfaitement que mon prénom n'est pas « Phil ».	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+23	PhilatelyStamp	If you insist on addressing me by name, it's Sir Philately Stamp.	Si vous tenez à vous adresser à moi, c'est Sir Philately Stamp.	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+53	April	Yes, Sir Philately Stamp, Sorry Sir!	Bien, Sir Philately Stamp, pardonnez-moi Monsieur !	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+24	PhilatelyStamp	*Sigh* Let's just dispense with the pleasantries shall we?	*Soupir* Si nous passions les amabilités d'usage, voulez-vous ?	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+25	PhilatelyStamp	Diana, there's no easy way to say this...	Diana, il n'y a pas quatre chemins pour le dire...	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+36	PhilatelyStamp	You're off the mission.	Vous êtes démise de cette mission.	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+37	PhilatelyStamp	Oh, I stand corrected! There was an easy way to say it!	Oh, je me rétracte ! Finalement, c'était très simple à formuler !	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+38	PhilatelyStamp	Word came from up top, we're to shut down this whole unit.	L'ordre vient d'en haut : nous devons démanteler toute cette cellule.	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+223	Diana	But, why?	Mais enfin, pourquoi ?	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+39	PhilatelyStamp	Oh, the usual. Something about a bloated budget, the numbers not adding up.	Oh, les raisons habituelles. Budget excessif, bilans qui ne cadrent pas.	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+40	PhilatelyStamp	Accounting is ironically quite unaccountable when it comes to things like answering questions.	La comptabilité refuse ironiquement de rendre des comptes quand on lui pose des questions.	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+41	PhilatelyStamp	Sorry to be the bearer of bad news. If you came here looking for mission gadgets, or to requisition a vehicle; I'm afraid we already relocated anything useful.	Navré d'être l'oiseau de mauvais augure. Si vous cherchiez des gadgets d'espionnage ou un véhicule, nous avons déjà réaffecté tout ce qui pouvait être utile.	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+42	PhilatelyStamp	Now, I best be off. This red tape isn't going to put itself up!	Sur ce, je file. Cette paperasse administrative ne va pas s'empiler toute seule !	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+224	Diana	Oh, April, this was my best shot at getting into the field. I'm just so tired of being a civil servant.	Oh April, c'était ma seule chance d'aller sur le terrain. J'en ai tellement marre de jouer les fonctionnaires.	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+55	April	Is that right? Well, I'm tired of being civil.	Ah oui ? Eh bien moi, j'en ai marre d'être courtoise.	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+56	April	Come on, we're getting you on that train!	Allez, viens, on va te faire monter à bord de ce train !	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+57	April	If they won't let you join the party, we'll crash it in style!	S'ils refusent de t'inviter à la fête, on va s'incruster avec panache !	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+58	April	This bike could be our ride out of here, Diana!	Cette moto pourrait bien être notre billet de sortie, Diana !	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+59	April	It's a little beaten up, but it should still be salvageable.	Elle est un peu esquintée, mais on peut encore la rafistoler.	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+60	April	What do you think?	Qu'est-ce que tu en dis ?	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+226	Diana	Brilliant! I'll take a look around.	Génial ! Je vais faire le tour de la pièce.	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+61	April	If we get this bike working, I'll drive us right out of here!	Si on remet ce bolide en état, je nous emmène dare-dare !	RoomInlandRevenueHQ+<OnEnterRoomAfterFadeActThree>d__38	MoveNext
+7	Executor	Ladies and gentlemen, we are gathered here today to mourn the passing of our dear, Lady Unterwald.	Mesdames et messieurs, nous sommes réunis ce jour pour pleurer la disparition de notre chère Lady Unterwald.	RoomMansionInterior+<OnEnterRoomActThreeAfterFadeFamilyMeeting>d__63	MoveNext
+166	Arista	Struck down by her scheming attorney, a meddling detective and a train-wrecking saboteur.	Fauchée par son notaire véreux, un détective fouineur et une saboteuse de trains.	RoomMansionInterior+<OnEnterRoomActThreeAfterFadeFamilyMeeting>d__63	MoveNext
+167	Arista	At least we can take some comfort in knowing that those three are securely behind bars.	Nous pouvons au moins trouver réconfort en sachant que ces trois fripouilles sont bien sous les verrous.	RoomMansionInterior+<OnEnterRoomActThreeAfterFadeFamilyMeeting>d__63	MoveNext
+8	Executor	Thank you, Arista.	Merci, Arista.	RoomMansionInterior+<OnEnterRoomActThreeAfterFadeFamilyMeeting>d__63	MoveNext
+9	Executor	I have, in my possession, the last known copy of Lady Unterwald's Last Will & Testament.	J'ai en ma possession la dernière copie répertoriée du testament de Lady Unterwald.	RoomMansionInterior+<OnEnterRoomActThreeAfterFadeFamilyMeeting>d__63	MoveNext
+474	Diana	Arista must have provided the executor with a fake copy of the will.	Arista a forcément remis une fausse copie du testament à l'exécuteur.	RoomMansionInterior+<OnEnterRoomActThreeAfterFadeFamilyMeeting>d__63	MoveNext
+475	Diana	Lady Unterwald said that a copy of her genuine will is kept here, I have to find it before the reading finishes!	Lady Unterwald a dit qu'un double du vrai testament est ici. Je dois le trouver avant la fin de la lecture !	RoomMansionInterior+<OnEnterRoomActThreeAfterFadeFamilyMeeting>d__63	MoveNext
+502	Diana	Incredible, it worked!	Incroyable, ça a marché !	RoomMansionInterior+<OnEnterRoomActThreeAfterFadeUnlockedSafe>d__64	MoveNext
+507	Diana	We need to get this to the executor and confront the family at once!	Nous devons donner cela à l'exécuteur et confondre la famille sans tarder !	RoomMansionInterior+<OnEnterRoomActThreeAfterFadeUnlockedSafe>d__64	MoveNext
+11	Executor	Leave my entire estate to my dear sister-in-law, Arista Gudrun.	...lègue l'intégralité de mes biens à ma chère belle-sœur, Arista Gudrun.	RoomMansionInterior+<OnEnterRoomActThreeAfterFadeUnlockedSafe>d__64	MoveNext
+170	Arista	Ha ha, yes!	Ha ha, oui !	RoomMansionInterior+<OnEnterRoomActThreeAfterFadeUnlockedSafe>d__64	MoveNext
+171	Arista	Alright, Mr Liu. It's time to honour our agreement.	Bien, M. Liu. L'heure est venue d'honorer notre accord.	RoomMansionInterior+<OnEnterRoomActThreeAfterFadeUnlockedSafe>d__64	MoveNext
+172	Arista	I hope you can still hold a pen?	J'espère que vous avez encore la force de tenir une plume ?	RoomMansionInterior+<OnEnterRoomActThreeAfterFadeUnlockedSafe>d__64	MoveNext
+112	JianLiu	Mmmpfff.	Mmmpfff.	RoomMansionInterior+<OnEnterRoomActThreeAfterFadeUnlockedSafe>d__64	MoveNext
+508	Diana	Stop the reading at once!	Interrompez cette lecture sur-le-champ !	RoomMansionInterior+<OnEnterRoomActThreeAfterFadeUnlockedSafe>d__64	MoveNext
+173	Arista	You three again? What are you doing here?	Encore vous trois ? Qu'est-ce que vous fichez ici ?	RoomMansionInterior+<OnEnterRoomActThreeAfterFadeUnlockedSafe>d__64	MoveNext
+12	Executor	What's all this?	Qu'est-ce que cela signifie ?	RoomMansionInterior+<OnEnterRoomActThreeAfterFadeUnlockedSafe>d__64	MoveNext
+1367	Arthur	That document is a fake! We have the genuine copy right here!	Ce document est un faux grossier ! Nous avons le véritable testament ici présent !	RoomMansionInterior+<OnEnterRoomActThreeAfterFadeUnlockedSafe>d__64	MoveNext
+113	JianLiu	Mmmph!! Mmmmf!	Mmmph !! Mmmmf !	RoomMansionInterior+<OnEnterRoomActThreeAfterFadeUnlockedSafe>d__64	MoveNext
+13	Executor	Ladies and gentlemen, this looks to be genuine.	Mesdames et messieurs, cet acte paraît parfaitement authentique.	RoomMansionInterior+<OnEnterRoomActThreeAfterFadeUnlockedSafe>d__64	MoveNext
+14	Executor	However, we should postpone the reading until I can evaluate the authenticity.	Toutefois, nous devons ajourner la lecture le temps que j'en examine la validité.	RoomMansionInterior+<OnEnterRoomActThreeAfterFadeUnlockedSafe>d__64	MoveNext
+227	Hirsch	Well done, Arthur. We owe you a great debt.	Bien joué, Arthur. Nous avons une dette immense envers vous.	RoomMansionInterior+<OnEnterRoomActThreeAfterSavedDirkChiselton>d__66	MoveNext
+228	Hirsch	I suppose you'll be running the estate now that you own the place?	J'imagine que vous allez administrer le domaine maintenant que vous en êtes propriétaire ?	RoomMansionInterior+<OnEnterRoomActThreeAfterSavedDirkChiselton>d__66	MoveNext
+1305	Arthur	Oh, I hadn't even thought about that.	Oh, je n'y avais même pas encore songé.	RoomMansionInterior+<OnEnterRoomActThreeAfterSavedDirkChiselton>d__66	MoveNext
+229	Hirsch	It can be more of an advisory role, you know.	Vous pourriez vous contenter d'un rôle consultatif, vous savez.	RoomMansionInterior+<OnEnterRoomActThreeAfterSavedDirkChiselton>d__66	MoveNext
+481	Diana	Say, Arthur. I don't suppose you'd be interested in a job?	Dis-moi, Arthur. Ça ne te dirait pas un vrai travail ?	RoomMansionInterior+<OnEnterRoomActThreeAfterSavedDirkChiselton>d__66	MoveNext
+1315	Arthur	You want me to work for Inland Revenue?	Tu veux que je travaille pour le fisc ?	RoomMansionInterior+<OnEnterRoomActThreeAfterSavedDirkChiselton>d__66	MoveNext
+30	PhilatelyStamp	I'm afraid it'd be a strictly bureaucratic position, for now.	Ce serait un poste purement bureaucratique, pour l'instant.	RoomMansionInterior+<OnEnterRoomActThreeAfterSavedDirkChiselton>d__66	MoveNext
+31	PhilatelyStamp	The amount of paperwork generated from this mission alone will keep us occupied for months.	La masse de formulaires engendrée par cette seule mission va nous occuper pendant des mois entiers.	RoomMansionInterior+<OnEnterRoomActThreeAfterSavedDirkChiselton>d__66	MoveNext
+32	PhilatelyStamp	We'd need a professional lackey to sort through this mess.	Il nous faudrait un gratte-papier émérite pour débroussailler tout ce bazar.	RoomMansionInterior+<OnEnterRoomActThreeAfterSavedDirkChiselton>d__66	MoveNext
+1317	Arthur	You said there'd be paperwork, and bureaucracy?	Vous avez dit paperasse et bureaucratie ?	RoomMansionInterior+<OnEnterRoomActThreeAfterSavedDirkChiselton>d__66	MoveNext
+33	PhilatelyStamp	Oh yes, stacks of it, I'm afraid.	Oh oui, des piles entières, j'en ai bien peur.	RoomMansionInterior+<OnEnterRoomActThreeAfterSavedDirkChiselton>d__66	MoveNext
+34	PhilatelyStamp	And you'd have to be comfortable wearing the uniform, of course.	Et il vous faudrait porter l'uniforme officiel, naturellement.	RoomMansionInterior+<OnEnterRoomActThreeAfterSavedDirkChiselton>d__66	MoveNext
+1320	Arthur	There's a uniform?	Il y a un uniforme ?	RoomMansionInterior+<OnEnterRoomActThreeAfterSavedDirkChiselton>d__66	MoveNext
+35	PhilatelyStamp	That's right, but it's perhaps a little unadventurous for your taste.	Tout à fait, mais c'est peut-être un peu trop austère à votre goût.	RoomMansionInterior+<OnEnterRoomActThreeAfterSavedDirkChiselton>d__66	MoveNext
+1322	Arthur	I'll take it!	J'accepte !	RoomMansionInterior+<OnEnterRoomActThreeAfterSavedDirkChiselton>d__66	MoveNext
+216	Diana	There's one more locking mechanism to get through.	Il reste un dernier mécanisme de verrouillage à franchir.	RoomMansionInterior+<OnActThreeDescribeRemainingLock>d__133	MoveNext
+499	Diana	This looks like another voice activated lock.	On dirait une autre serrure à commande vocale.	RoomMansionInterior+<OnActThreeDescribeRemainingLock>d__133	MoveNext
+500	Diana	Is it expecting a fingerprint of some sort?	Attend-elle une sorte d'empreinte digitale ?	RoomMansionInterior+<OnActThreeDescribeRemainingLock>d__133	MoveNext
+91	Arista	Wha-! What was that!	Qu- ! Qu'est-ce que c'était que ça !	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+92	Arista	I feel so strange.	Je me sens si bizarre.	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+210	Arista	Everyone, listen to me!	Tout le monde, écoutez-moi !	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+211	Arista	I said, listen to m-	J'ai dit : écoutez-m-	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+82	Hirsch	It's over, Arista. There's no getting out of this one.	C'est terminé, Arista. Vous ne vous en tirerez pas cette fois.	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+212	Arista	WHAAAAAA?	QUOOOOOOOI ?	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+213	Arista	Doctor Hirsch? I killed you! You should be dead!	Docteur Hirsch ? Mais je vous ai tué ! Vous devriez être mort !	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+214	Arista	Wait, did I say that out loud?	Attendez... j'ai dit ça à voix haute ?	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+215	Arista	What's happening?	Que m'arrive-t-il ?	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+731	Diana	Looks like someone got a strong dose of truth serum.	On dirait que quelqu'un a reçu une généreuse dose de sérum de vérité.	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+100	Hirsch	Ladies and gentlemen, I'm afraid an attempt was made on my life with this poison dart.	Mesdames et messieurs, j'ai le regret de vous annoncer qu'on a attenté à mes jours à l'aide de cette fléchette empoisonnée.	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+216	Arista	Why didn't it work?	Pourquoi n'a-t-elle pas fonctionné ?	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+217	Arista	It was no different to the one I used to kill your dear Lady Unterwald!	Elle était pourtant identique à celle dont je me suis servie pour supprimer votre chère Lady Unterwald !	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+147	Hagen	Mother?	Mère ?	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+179	JianLiu	Mmphh?!	Mmphh ?!	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+218	Arista	Why couldn't she just sell the estate? We'd have all been rich instead of living in her shadow!	Pourquoi refusait-elle de vendre ce fichu domaine ? Nous aurions tous été riches au lieu de croupir dans son ombre !	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+103	Bergmann	You treasonous goat!	Espèce de traîtresse galeuse !	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+219	Arista	What have you done to me?	Qu'avez-vous fait de moi ?	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+220	Arista	Why did I say that?	Pourquoi ai-je avoué tout ça ?	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+160	Gunter	What did you do, mother?	Qu'as-tu fait, mère ?	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+117	Hirsch	Seize her!	Arrêtez-la !	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+221	Arista	I think it's time to leave, boys. Help your dear mother escape!	Je crois qu'il est temps de mettre les bouts, les garçons. Aidez votre chère mère à fuir !	RoomMansionInterior+<OnActThreeAristaConfession>d__136	MoveNext
+137	Hagen	Let's leave him here for now, my arms are getting tired.	Laissons-le là pour l'instant, mes bras commencent à fatiguer.	RoomMansionInterior+<OnActThreeHirschBodyDumpedCutscene>d__144	MoveNext
+920	Herman	I should check on the doctor, but keep my distance from those ghastly twins.	Je devrais m'assurer de l'état du médecin, tout en restant à distance de ces abominables jumeaux.	RoomMansionInterior+<OnActThreeHirschBodyDumpedCutscene>d__144	MoveNext
+408	Arthur	I should look around for clues.	Je devrais chercher des indices.	RoomMansionInterior+<OnActThreeArthurEnterLibraryCutscene>d__145	MoveNext
+894	Herman	Did we get here first?	Sommes-nous arrivés les premiers ?	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+1523	Arthur	Where is everybody?	Où est tout le monde ?	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+151	Arista	And you're quite sure, Doctor Hirsch?	Et vous en êtes parfaitement certain, docteur Hirsch ?	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+465	Diana	Uh oh, they're heading this way.	Oh oh, ils viennent par ici.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+62	Hirsch	Indeed. We believe the murder weapon was fired as a projectile.	Tout à fait. Nous pensons que l'arme du crime a été tirée comme un projectile.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+895	Herman	Hide!	Planquez-vous !	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+152	Arista	Well, this is quite the development.	Eh bien, voilà une découverte de taille.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+84	Hirsch	That's not all, Arista.	Ce n'est pas tout, Arista.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+153	Arista	Oh, what's that? There's more?	Ah bon ? Il y a autre chose ?	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+85	Hirsch	The dart, it was tipped with some sort of poison.	La fléchette... Sa pointe était enduite d'une sorte de poison.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+154	Arista	Did I hear you right? Did you say poison?	Ai-je bien entendu ? Vous avez dit du poison ?	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+87	Hirsch	Even if the dart hadn't hit an artery, I'm afraid Lady Unterwald's death was inevitable.	Même si la fléchette n'avait pas perforé une artère, la mort de Lady Unterwald était inéluctable.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+155	Arista	The killer wasn't leaving it to chance, then.	L'assassin ne laissait donc rien au hasard.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+156	Arista	Tell me, who else knows about this?	Dites-moi, qui d'autre est au courant ?	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+88	Hirsch	I will consult with the rest of the order this evening.	Je consulterai les autres membres de l'Ordre ce soir.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+89	Hirsch	I wanted to bring my findings to family members first, out of courtesy.	J'ai tenu à présenter mes conclusions à la famille en premier lieu, par courtoisie.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+157	Arista	Of course. My dear sister would have appreciated that.	Bien sûr. Ma tendre sœur aurait apprécié cette délicatesse.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+158	Arista	Thank you for bringing this to my attention, doctor.	Merci de m'en avoir informée, docteur.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+159	Arista	Oh, would you turn around and tell me what that is over there, dear?	Oh, pourriez-vous vous retourner pour me dire ce qui traîne là-bas, cher ami ?	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+223	Hirsch	Ackkk!	Aaaaack !	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+139	Gunter	Oh my, Doctor Hirsch!	Mon Dieu, docteur Hirsch !	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+160	Arista	I'm afraid the poor doctor has taken a tumble, Gunter!	J'ai bien peur que le pauvre docteur n'ait fait une vilaine chute, Gunter !	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+161	Arista	We need to move quickly. Take him to the basement, the both of you!	Faisons vite. Portez-le au sous-sol, tous les deux !	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+162	Arista	Come to the lounge when you're finished, the executor is about to read Lady Unterwald's will.	Rejoignez-moi au salon quand vous aurez terminé : l'exécuteur testamentaire va procéder à la lecture.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+125	Hagen	Is this about our inheritance, mother?	C'est au sujet de notre héritage, mère ?	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+163	Arista	I intend to sell the estate over to Mr Liu, as soon as we gain control of the assets.	J'ai l'intention de céder le domaine à M. Liu dès que nous aurons la mainmise sur le patrimoine.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+164	Arista	He may have broken every bone in his body, but I'm sure he can manage a signature.	Il a beau avoir tous les os brisés, il sera bien capable d'apposer une signature.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+124	Hagen	Yes, mother!	Bien, mère !	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+466	Diana	They're gone, the coast is clear.	Ils sont partis, la voie est libre.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+1524	Arthur	Doctor Hirsch revealed the killer to us, but at what cost?	Le docteur Hirsch nous a désigné le coupable, mais à quel prix ?	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+896	Herman	What a twist. My novel is going to be a real page turner.	Quel coup de théâtre ! Mon livre va être un vrai succès de librairie.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+467	Diana	We need to focus on finding the original will and testament.	Concentrons-nous sur la recherche du testament original.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+468	Diana	We can't let them benefit from that fraudulent copy.	Hors de question de les laisser profiter de cette imitation frauduleuse.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+469	Diana	Arthur, you head to the library room.	Arthur, file dans la bibliothèque.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+1525	Arthur	Alright! I can catch up on some light reading.	Compris ! Je pourrai en profiter pour faire un brin de lecture.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+470	Diana	I'll check in on Lady Unterwald's private study.	Je vais fouiller le bureau privé de Lady Unterwald.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+471	Diana	Herman, you check out the basement.	Herman, va voir ce qui se trame au sous-sol.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+897	Herman	I get the murder basement? Are you trying to get me killed?	Moi j'hérite du sous-sol de l'angoisse ? Vous voulez ma mort ou quoi ?	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+472	Diana	We can use the pneumatic tube system to send each other any clues we find.	Nous pouvons utiliser les tubes pneumatiques pour nous transmettre les indices.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+1526	Arthur	That's definitely more refined than the prison tube system.	C'est nettement plus raffiné que la tuyauterie de la prison.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHirschPoisoned>d__25	MoveNext
+6	Chiselton	Oh good, I'm not too late to the party!	Merveilleux, j'arrive pile à temps pour la fête !	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHeardAristaConfess>d__30	MoveNext
+82	Arista	Who the hell are you?	Qui diable êtes-vous ?	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHeardAristaConfess>d__30	MoveNext
+83	Arista	Stop him, boys!	Arrêtez-le, les garçons !	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHeardAristaConfess>d__30	MoveNext
+153	Gunter	We won't let you near our mother!	On ne te laissera pas approcher de notre mère !	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHeardAristaConfess>d__30	MoveNext
+139	Hagen	You'll have to go through us first!	Il faudra nous passer sur le corps d'abord !	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHeardAristaConfess>d__30	MoveNext
+8	Chiselton	That suits me just fine.	Ça tombe très bien, c'est mon rayon.	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHeardAristaConfess>d__30	MoveNext
+9	Chiselton	Allow me to introduce you to hammer and chisel!	Laissez-moi vous présenter mon marteau et mon burin !	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHeardAristaConfess>d__30	MoveNext
+1615	Arthur	Isn't that Dirk Chiselton fighting the twins?	C'est bien Dirk Chiselton qui castagne les jumeaux ?	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHeardAristaConfess>d__30	MoveNext
+625	Herman	Oh no. Why'd it have to be Chiselton?	Oh non. Pourquoi fallait-il que ce soit Chiselton ?	RoomMansionLobby+<OnEnterRoomAfterFadeActThreeHeardAristaConfess>d__30	MoveNext
+51	Lamont	Looks like we got here just in time, Chiselton.	On dirait qu'on arrive juste à temps, Chiselton.	RoomMansionLobby+<OnActThreeFinalScene>d__53	MoveNext
+52	Lamont	How'd you figure it out?	Comment as-tu découvert le pot aux roses ?	RoomMansionLobby+<OnActThreeFinalScene>d__53	MoveNext
+80	Chiselton	Those three laid a lot of the groundwork. I just put the pieces together.	Ces trois-là ont déblayé le terrain. Je n'ai fait qu'assembler les pièces du puzzle.	RoomMansionLobby+<OnActThreeFinalScene>d__53	MoveNext
+28	Bailey	Well, we'd better get these three back to the station.	Bon, on ferait bien d'embarquer ces trois coquins au commissariat.	RoomMansionLobby+<OnActThreeFinalScene>d__53	MoveNext
+149	Gunter	You can't arrest me, I'm innocent!	Vous ne pouvez pas m'arrêter, je suis innocent !	RoomMansionLobby+<OnActThreeFinalScene>d__53	MoveNext
+133	Hagen	And rich! You can't put rich people in handcuffs!	Et riche ! On ne passe pas les menottes aux gens fortunés !	RoomMansionLobby+<OnActThreeFinalScene>d__53	MoveNext
+169	Arista	Shut up, both of you!	Fermez-la, tous les deux !	RoomMansionLobby+<OnActThreeFinalScene>d__53	MoveNext
+29	Bailey	Come on, let's go!	En route, tout le monde !	RoomMansionLobby+<OnActThreeFinalScene>d__53	MoveNext
+81	Chiselton	That was some fine detective work, Herman.	C'était du travail d'enquête remarquable, Herman.	RoomMansionLobby+<OnActThreeFinalScene>d__53	MoveNext
+904	Herman	It was?	Vraiment ?	RoomMansionLobby+<OnActThreeFinalScene>d__53	MoveNext
+82	Chiselton	Listen, Herman, I've got a case that's been bugging me for a while.	Écoute, Herman, j'ai une affaire sur les bras qui me taraude depuis un bail.	RoomMansionLobby+<OnActThreeFinalScene>d__53	MoveNext
+83	Chiselton	Wouldn't mind another pair of eyes on it, if you're interested?	Je ne refuserais pas une autre paire d'yeux dessus, si ça te tente ?	RoomMansionLobby+<OnActThreeFinalScene>d__53	MoveNext
+905	Herman	You're suggesting we form some sort of crime fighting detective duo?	Tu es en train de me proposer de former un duo d'enquêteurs de choc ?	RoomMansionLobby+<OnActThreeFinalScene>d__53	MoveNext
+84	Chiselton	Yeah, something like that. Are you in?	Ouais, dans ce genre-là. Tu en es ?	RoomMansionLobby+<OnActThreeFinalScene>d__53	MoveNext
+906	Herman	It's all I've ever wanted!	C'est tout ce dont j'ai toujours rêvé !	RoomMansionLobby+<OnActThreeFinalScene>d__53	MoveNext
+26	PhilatelyStamp	Well, Diana...	Eh bien, Diana...	RoomMansionLobby+<OnActThreeFinalScene>d__53	MoveNext
+27	PhilatelyStamp	You disrespected my orders, stole a bunch of classified gadgets, and blew up an express train.	Vous avez bafoué mes ordres, dérobé des gadgets classés secret défense et fait dérailler un train de luxe.	RoomMansionLobby+<OnActThreeFinalScene>d__53	MoveNext
+28	PhilatelyStamp	However, I can't argue with results.	Toutefois, je ne saurais contester les résultats.	RoomMansionLobby+<OnActThreeFinalScene>d__53	MoveNext
+29	PhilatelyStamp	Congratulations, field agent.	Toutes mes félicitations, agent de terrain.	RoomMansionLobby+<OnActThreeFinalScene>d__53	MoveNext
+480	Diana	I've got the job? I'm a field agent!	J'ai le poste ? Je suis officiellement agent de terrain !	RoomMansionLobby+<OnActThreeFinalScene>d__53	MoveNext
+46	April	I knew you could do it, Diana!	Je savais que tu y arriverais, Diana !	RoomMansionLobby+<OnActThreeFinalScene>d__53	MoveNext
+64	April	There's the train!	Voilà le train !	RoomMotorbikeExterior+<OnEnterRoomAfterFadeActThree>d__7	MoveNext
+228	Diana	Can you get us any closer?	Tu peux nous rapprocher encore un peu ?	RoomMotorbikeExterior+<OnEnterRoomAfterFadeActThree>d__7	MoveNext
+65	April	I'll try!	Je vais essayer !	RoomMotorbikeExterior+<OnEnterRoomAfterFadeActThree>d__7	MoveNext
+66	April	Damn it, this is as fast as we can go!	Bon sang, c'est la vitesse maximale !	RoomMotorbikeExterior+<OnEnterRoomAfterFadeActThree>d__7	MoveNext
+229	Diana	We're too far away!	Nous sommes trop loin !	RoomMotorbikeExterior+<OnEnterRoomAfterFadeActThree>d__7	MoveNext
+67	April	Diana, think of something quick, or we're going to miss the train!	Diana, trouve une idée vite, sinon on va rater le train !	RoomMotorbikeExterior+<OnEnterRoomAfterFadeActThree>d__7	MoveNext
+517	Diana	On it!	Je m'en charge !	RoomMotorbikeExterior+<OnEnterRoomAfterFadeActThree>d__7	MoveNext
+466	Herman	Who's out there? Reveal yourself!	Qui est là ? Montrez-vous !	RoomStationExterior+<OnEnterRoomAfterFadeActThreeBeforeUsedChains>d__11	MoveNext
+7	April	Is Diana there?	Diana est avec vous ?	RoomStationExterior+<OnEnterRoomAfterFadeActThreeBeforeUsedChains>d__11	MoveNext
+467	Herman	You know Diana?	Vous connaissez Diana ?	RoomStationExterior+<OnEnterRoomAfterFadeActThreeBeforeUsedChains>d__11	MoveNext
+8	April	Keep your voice down!	Baissez d'un ton !	RoomStationExterior+<OnEnterRoomAfterFadeActThreeBeforeUsedChains>d__11	MoveNext
+473	Herman	Who are you?	Qui êtes-vous ?	RoomStationExterior+<OnEnterRoomAfterFadeActThreeBeforeUsedChains>d__11	MoveNext
+9	April	Listen, I'm from the Inland Revenue Secret Service!	Écoutez-moi : je fais partie des services secrets du fisc !	RoomStationExterior+<OnEnterRoomAfterFadeActThreeBeforeUsedChains>d__11	MoveNext
+503	Herman	Is this about my self assessment? You people are relentless!	C'est encore pour ma déclaration de revenus ? Vous êtes impitoyables !	RoomStationExterior+<OnEnterRoomAfterFadeActThreeBeforeUsedChains>d__11	MoveNext
+10	April	I'm not here about your taxes, idiot! I'm trying to break you out.	Je ne viens pas pour vos impôts, crétin ! J'essaie de vous faire évader.	RoomStationExterior+<OnEnterRoomAfterFadeActThreeBeforeUsedChains>d__11	MoveNext
+519	Herman	A jailbreak? Are you mad?	Une évasion ? Vous avez perdu la tête ?	RoomStationExterior+<OnEnterRoomAfterFadeActThreeBeforeUsedChains>d__11	MoveNext
+520	Herman	What about my reputation? I'd be branded an escaped fugitive!	Et ma réputation, vous y pensez ? Je serais traqué comme un fugitif en cavale !	RoomStationExterior+<OnEnterRoomAfterFadeActThreeBeforeUsedChains>d__11	MoveNext
+522	Herman	On the other hand, it would definitely give a boost to my book sales.	D'un autre côté, cela doperait sans nul doute les ventes de mes romans.	RoomStationExterior+<OnEnterRoomAfterFadeActThreeBeforeUsedChains>d__11	MoveNext
+11	April	Listen, Herbert! Stop daydreaming and pay attention!	Écoute-moi bien, Herbert ! Arrête de rêvasser et ouvre grand tes oreilles !	RoomStationExterior+<OnEnterRoomAfterFadeActThreeBeforeUsedChains>d__11	MoveNext
+12	April	We need to get you three to Lady Unterwald's mansion!	Nous devons impérativement vous amener au manoir de Lady Unterwald !	RoomStationExterior+<OnEnterRoomAfterFadeActThreeBeforeUsedChains>d__11	MoveNext
+523	Herman	The mansion?	Le manoir ?	RoomStationExterior+<OnEnterRoomAfterFadeActThreeBeforeUsedChains>d__11	MoveNext
+13	April	The family are preparing a second will reading!	La famille prépare une seconde lecture du testament !	RoomStationExterior+<OnEnterRoomAfterFadeActThreeBeforeUsedChains>d__11	MoveNext
+524	Herman	I suppose it would be an opportunity to clear my name.	J'imagine que ce serait l'occasion rêvée de laver mon honneur.	RoomStationExterior+<OnEnterRoomAfterFadeActThreeBeforeUsedChains>d__11	MoveNext
+14	April	Then there's no time to waste!	Alors il n'y a pas une minute à perdre !	RoomStationExterior+<OnEnterRoomAfterFadeActThreeBeforeUsedChains>d__11	MoveNext
+15	April	Do you have anything in your cells that could bend those bars?	Avez-vous quoi que ce soit dans vos cellules pour tordre ces barreaux ?	RoomStationExterior+<OnEnterRoomAfterFadeActThreeBeforeUsedChains>d__11	MoveNext
+621	Herman	Nothing immediate comes to mind. I'll have to think about it.	Rien d'immédiat ne me vient à l'esprit. Il va falloir que je réfléchisse.	RoomStationExterior+<OnEnterRoomAfterFadeActThreeBeforeUsedChains>d__11	MoveNext
+143	Diana	You might want to stand away from the wall!	Vous feriez bien de vous éloigner du mur !	RoomStationExterior+<OnEnterRoomAfterFadeActThreeBeforeSawChainsFall>d__12	MoveNext
+63	Lamont	Hey! Stop escaping, you ruddy delinquents!	Hé ! Arrêtez de vous évader, sales voyous !	RoomStationExterior+<OnEnterRoomAfterFadeActThreeAfterSawChainsFall>d__13	MoveNext
+126	Don	Thanks for breaking me out of the joint.	Merci de m'avoir sorti du trou.	RoomStationExterior+<OnEnterRoomAfterFadeActThreeAfterSawChainsFall>d__13	MoveNext
+1696	Arthur	Are you sure you don't want to come with us?	Tu es sûr de ne pas vouloir venir avec nous ?	RoomStationExterior+<OnEnterRoomAfterFadeActThreeAfterSawChainsFall>d__13	MoveNext
+128	Don	It's been a blast, but ol' Donny's got to fend for himself, y'know?	C'était bien marrant, mais le vieux Donny doit tracer sa route en solo, pigé ?	RoomStationExterior+<OnEnterRoomAfterFadeActThreeAfterSawChainsFall>d__13	MoveNext
+153	Don	Hey, you give those crooks a beating for ol' Don, ya hear me?	Hé, flanquez une bonne raclée à ces pourritures de ma part, compris ?	RoomStationExterior+<OnEnterRoomAfterFadeActThreeAfterSawChainsFall>d__13	MoveNext
+154	Don	Good luck to ya guys!	Bonne chance à vous, les amis !	RoomStationExterior+<OnEnterRoomAfterFadeActThreeAfterSawChainsFall>d__13	MoveNext
+160	Diana	Hop on, everyone.	Grimpez tous, allez !	RoomStationExterior+<OnEnterRoomAfterFadeActThreeAfterSawChainsFall>d__13	MoveNext
+1697	Arthur	Where are we going?	Où va-t-on ?	RoomStationExterior+<OnEnterRoomAfterFadeActThreeAfterSawChainsFall>d__13	MoveNext
+613	Diana	We need to get to that mansion!	Nous devons atteindre ce manoir !	RoomStationExterior+<OnEnterRoomAfterFadeActThreeAfterSawChainsFall>d__13	MoveNext
+69	Diana	I was sure Lady Unterwald was deliberately trying to evade scrutiny of her finances.	J'étais persuadée que Lady Unterwald tentait délibérément de dissimuler ses finances.	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActThreeSawDianaListeningToPhone>d__36	MoveNext
+70	Diana	Why bury mountains of contradictory paperwork in her hidden safe?	Pourquoi cacher des montagnes de documents contradictoires dans son coffre ?	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActThreeSawDianaListeningToPhone>d__36	MoveNext
+80	Diana	Someone must be trapped inside!	Quelqu'un doit être enfermé à l'intérieur !	RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActThreeSawArthurRetrievingTheWill>d__37	MoveNext
+47	JianLiu	LET ME OUT!	OUVREZ-MOI !	RoomUnterwaldCarriage+<OnLookAtPropInstrumentCaseActThreeOption1>d__93	MoveNext
+51	JianLiu	IS ANYONE THERE?	IL Y A QUELQU'UN ?	RoomUnterwaldCarriage+<OnLookAtPropInstrumentCaseActThreeOption2>d__94	MoveNext
+52	JianLiu	HELP!	À L'AIDE !	RoomUnterwaldCarriage+<OnLookAtPropInstrumentCaseActThreeOption3>d__95	MoveNext

@@ -1,0 +1,411 @@
+﻿Id	Character	English	French	Class	Method
+1809	Arthur	I'll handle this.		DialogAristaConfessionArthur+<OnStart>d__1	MoveNext
+1810	Arthur	Do you have anything to confess, Arista?		DialogAristaConfessionArthur+<Option1>d__2	MoveNext
+222	Arista	I have nothing to confess, no!		DialogAristaConfessionArthur+<Option1>d__2	MoveNext
+223	Arista	Go back to your cells, where you belong!		DialogAristaConfessionArthur+<Option1>d__2	MoveNext
+1811	Arthur	Come on, you don't want to confess just a little bit?		DialogAristaConfessionArthur+<Option1a>d__3	MoveNext
+224	Arista	NO! And you should all be behind bars!		DialogAristaConfessionArthur+<Option1a>d__3	MoveNext
+1812	Arthur	Come on Arista, confess already!		DialogAristaConfessionArthur+<Option1b>d__4	MoveNext
+1813	Arthur	Why did you try to frame us for murder?		DialogAristaConfessionArthur+<Option2>d__5	MoveNext
+226	Arista	How dare you come here and accuse me of framing anyone!		DialogAristaConfessionArthur+<Option2>d__5	MoveNext
+227	Arista	I won't be lectured by a bunch of train destroying fugitives!		DialogAristaConfessionArthur+<Option2>d__5	MoveNext
+1814	Arthur	Bergmann mishandled the estate's finances, isn't that right?		DialogAristaConfessionArthur+<Option2a>d__6	MoveNext
+186	Bergmann	I say! T-there's no evidence for that, you know!		DialogAristaConfessionArthur+<Option2a>d__6	MoveNext
+228	Arista	That would be hard to prove, Arthur!		DialogAristaConfessionArthur+<Option2a>d__6	MoveNext
+229	Arista	All those records burned up in that little derailment of yours.		DialogAristaConfessionArthur+<Option2a>d__6	MoveNext
+1815	Arthur	You tried to sell and Lady Unterwald caught onto your scheme, didn't she?		DialogAristaConfessionArthur+<Option2b>d__7	MoveNext
+230	Arista	No, that's not true!		DialogAristaConfessionArthur+<Option2b>d__7	MoveNext
+1816	Arthur	Lady Unterwald was leaving you nothing, and you couldn't stand it!		DialogAristaConfessionArthur+<Option2c>d__8	MoveNext
+231	Arista	My d-dear sister would do no such thing!		DialogAristaConfessionArthur+<Option2c>d__8	MoveNext
+232	Arista	You were parading around a phoney document, a forgery!		DialogAristaConfessionArthur+<Option2c>d__8	MoveNext
+1817	Arthur	Lady Unterwald cut you out of her will, so you killed her!		DialogAristaConfessionArthur+<Option2d>d__9	MoveNext
+234	Arista	NO! NO! NO!		DialogAristaConfessionArthur+<Option2d>d__9	MoveNext
+1818	Arthur	Did anyone else feel that?		DialogAristaConfessionArthur+<Option2d>d__9	MoveNext
+235	Arista	You're really testing my patience now!		DialogAristaConfessionArthur+<Option2d>d__9	MoveNext
+1819	Arthur	Do you even need that hearing horn, Arista?		DialogAristaConfessionArthur+<Option3>d__10	MoveNext
+236	Arista	Of course I need it!		DialogAristaConfessionArthur+<Option3>d__10	MoveNext
+237	Arista	I'm a defenceless old lady, who's only crime is being hard of hearing!		DialogAristaConfessionArthur+<Option3>d__10	MoveNext
+238	Arista	You can't help but make baseless accusations, can you?		DialogAristaConfessionArthur+<Option3>d__10	MoveNext
+1820	Arthur	How could you manipulate your own sons into doing your dirty work?		DialogAristaConfessionArthur+<Option4>d__11	MoveNext
+239	Arista	My poor, incompetent boys?		DialogAristaConfessionArthur+<Option4>d__11	MoveNext
+240	Arista	Come now! They're far too stupid to have criminal intent!		DialogAristaConfessionArthur+<Option4>d__11	MoveNext
+735	Diana	You answer to me, now.		DialogAristaConfessionDiana+<OnStart>d__1	MoveNext
+736	Diana	Inland Revenue will go through the estate with a fine-tooth comb!		DialogAristaConfessionDiana+<Option1>d__2	MoveNext
+262	Arista	Is that right?		DialogAristaConfessionDiana+<Option1>d__2	MoveNext
+263	Arista	Well, any responsibility will fall to Jian here, just as soon as he signs.		DialogAristaConfessionDiana+<Option1>d__2	MoveNext
+181	JianLiu	Mmhh! Mmhh!		DialogAristaConfessionDiana+<Option1>d__2	MoveNext
+737	Diana	You helped to build the Reuss Express, is that correct?		DialogAristaConfessionDiana+<Option2>d__3	MoveNext
+264	Arista	That's right, I designed her with my own two hands.		DialogAristaConfessionDiana+<Option2>d__3	MoveNext
+265	Arista	The Reuss Express could have been the future of rail transportation!		DialogAristaConfessionDiana+<Option2>d__3	MoveNext
+266	Arista	Thanks to you, it's a smouldering wreck!		DialogAristaConfessionDiana+<Option2>d__3	MoveNext
+738	Diana	And yet you were willing to throw away your future for a payout?		DialogAristaConfessionDiana+<Option2>d__3	MoveNext
+739	Diana	Jian Liu had no intention of using your technology, he just wanted to remove his competition.		DialogAristaConfessionDiana+<Option2>d__3	MoveNext
+267	Arista	I admire your idealism, but that's business, dear.		DialogAristaConfessionDiana+<Option2>d__3	MoveNext
+268	Arista	That's hardly a crime, it's just capitalism.		DialogAristaConfessionDiana+<Option2>d__3	MoveNext
+740	Diana	Lady Unterwald would have never allowed that to happen!		DialogAristaConfessionDiana+<Option2a>d__4	MoveNext
+269	Arista	My dear sister didn't have the stomach to run an empire.		DialogAristaConfessionDiana+<Option2a>d__4	MoveNext
+270	Arista	Sometimes you have to make the difficult choices, she never understood that!		DialogAristaConfessionDiana+<Option2a>d__4	MoveNext
+741	Diana	You were tired of living in your sister's shadow, weren't you?		DialogAristaConfessionDiana+<Option2b>d__5	MoveNext
+271	Arista	S-Stop it! Stop this at once!		DialogAristaConfessionDiana+<Option2b>d__5	MoveNext
+272	Arista	It's not true!		DialogAristaConfessionDiana+<Option2b>d__5	MoveNext
+742	Diana	Just admit it. You schemed to take her legacy and her life!		DialogAristaConfessionDiana+<Option2c>d__6	MoveNext
+274	Arista	NO! NO! NO!		DialogAristaConfessionDiana+<Option2c>d__6	MoveNext
+743	Diana	Huh, I felt the ground shake beneath my feet.		DialogAristaConfessionDiana+<Option2c>d__6	MoveNext
+744	Diana	Were you and Mr Liu working together on this?		DialogAristaConfessionDiana+<Option3>d__7	MoveNext
+275	Arista	I don't know what you're talking about!		DialogAristaConfessionDiana+<Option3>d__7	MoveNext
+276	Arista	Just look at him, hasn't poor Jian suffered enough?		DialogAristaConfessionDiana+<Option3>d__7	MoveNext
+182	JianLiu	Mmmphf!		DialogAristaConfessionDiana+<Option3>d__7	MoveNext
+745	Diana	You were aware of Jian's attempts to inform on Lady Unterwald?		DialogAristaConfessionDiana+<Option3a>d__8	MoveNext
+277	Arista	Jian has been nothing but loyal, I only wish my dear sister could have seen that.		DialogAristaConfessionDiana+<Option3a>d__8	MoveNext
+278	Arista	He's even volunteered to take the estate off our hands for a very generous price.		DialogAristaConfessionDiana+<Option3a>d__8	MoveNext
+183	JianLiu	Mmmff!!		DialogAristaConfessionDiana+<Option3a>d__8	MoveNext
+279	Arista	Don't worry, Jian, our agreement is but a signature away!		DialogAristaConfessionDiana+<Option3a>d__8	MoveNext
+746	Diana	You had to know we wouldn't just go quietly.		DialogAristaConfessionDiana+<Option4>d__9	MoveNext
+280	Arista	I'm sure the authorities are already en route.		DialogAristaConfessionDiana+<Option4>d__9	MoveNext
+281	Arista	If there is any justice, you'll be back behind bars in no time at all.		DialogAristaConfessionDiana+<Option4>d__9	MoveNext
+1420	Herman	Now it's my turn.		DialogAristaConfessionHerman+<OnStart>d__1	MoveNext
+1421	Herman	You used me to fix your hearing horn, you made me an accessory!		DialogAristaConfessionHerman+<Option1>d__2	MoveNext
+241	Arista	I have to thank you for your assistance with that, detective.		DialogAristaConfessionHerman+<Option1>d__2	MoveNext
+242	Arista	I couldn't have used my horn otherwise.		DialogAristaConfessionHerman+<Option1>d__2	MoveNext
+243	Arista	My poor boys would have been lost in those vents for hours!		DialogAristaConfessionHerman+<Option1>d__2	MoveNext
+1422	Herman	How deep does this conspiracy go, Arista?		DialogAristaConfessionHerman+<Option2>d__3	MoveNext
+244	Arista	There's no conspiracy, dear!		DialogAristaConfessionHerman+<Option2>d__3	MoveNext
+1423	Herman	Then how do you explain my publishers denying ''The Suburban Burden''?		DialogAristaConfessionHerman+<Option2>d__3	MoveNext
+245	Arista	What's that? What on earth are you talking about?		DialogAristaConfessionHerman+<Option2>d__3	MoveNext
+734	Diana	Herman...		DialogAristaConfessionHerman+<Option2>d__3	MoveNext
+1424	Herman	What? I think we can all agree it was a little suspicious.		DialogAristaConfessionHerman+<Option2>d__3	MoveNext
+1425	Herman	The Order won't stand for this, you know!		DialogAristaConfessionHerman+<Option3>d__4	MoveNext
+246	Arista	The Order? Oh please, I set that whole thing up!		DialogAristaConfessionHerman+<Option3>d__4	MoveNext
+247	Arista	The Order was intended as an advisory board, to nudge my sister in the right direction!		DialogAristaConfessionHerman+<Option3>d__4	MoveNext
+248	Arista	Who do you think was doing the nudging?		DialogAristaConfessionHerman+<Option3>d__4	MoveNext
+1426	Herman	Wait, you started The Order Of Idle Hands?		DialogAristaConfessionHerman+<Option3a>d__5	MoveNext
+249	Arista	Indeed. It was all in my sister's best interest, of course!		DialogAristaConfessionHerman+<Option3a>d__5	MoveNext
+250	Arista	I found them to be quite persuasive, before they got carried away with their own customs...		DialogAristaConfessionHerman+<Option3a>d__5	MoveNext
+251	Arista	Alas, by the end, even poor Jian here couldn't get them to do his bidding!		DialogAristaConfessionHerman+<Option3a>d__5	MoveNext
+180	JianLiu	Mmff.		DialogAristaConfessionHerman+<Option3a>d__5	MoveNext
+102	HandshakeLeader	Well, now we feel a bit used!		DialogAristaConfessionHerman+<Option3a>d__5	MoveNext
+1427	Herman	When did you last speak to Doctor Hirsch?		DialogAristaConfessionHerman+<Option4>d__6	MoveNext
+253	Arista	I can't recall, It's been a while since I saw him!		DialogAristaConfessionHerman+<Option4>d__6	MoveNext
+1428	Herman	Are you sure you haven't seen the doctor?		DialogAristaConfessionHerman+<Option4a>d__7	MoveNext
+254	Arista	Like I said, I wouldn't have a clue of his whereabouts!		DialogAristaConfessionHerman+<Option4a>d__7	MoveNext
+255	Arista	Now stop asking!		DialogAristaConfessionHerman+<Option4a>d__7	MoveNext
+1429	Herman	Perhaps we should search the estate for Doctor Hirsch?		DialogAristaConfessionHerman+<Option4b>d__8	MoveNext
+256	Arista	That won't be necessary!		DialogAristaConfessionHerman+<Option4b>d__8	MoveNext
+257	Arista	I'm sure he's just been delayed, that's all!		DialogAristaConfessionHerman+<Option4b>d__8	MoveNext
+1430	Herman	I propose we start our search in the basement.		DialogAristaConfessionHerman+<Option4c>d__9	MoveNext
+258	Arista	The Basement?		DialogAristaConfessionHerman+<Option4c>d__9	MoveNext
+259	Arista	No, you can't!		DialogAristaConfessionHerman+<Option4c>d__9	MoveNext
+260	Arista	NO! NO! NO!		DialogAristaConfessionHerman+<Option4c>d__9	MoveNext
+1431	Herman	What was that?		DialogAristaConfessionHerman+<Option4c>d__9	MoveNext
+261	Arista	There's no need for anyone to venture into the basement, Herman!		DialogAristaConfessionHerman+<Option4c>d__9	MoveNext
+941	Herman	''Keep Calm And Carry On''?		DialogDescribeIdolEngraving+<Option1>d__3	MoveNext
+942	Herman	''Dance Like Nobody's Watching''?		DialogDescribeIdolEngraving+<Option2>d__4	MoveNext
+943	Herman	''Live, Laugh, Love''?		DialogDescribeIdolEngraving+<Option3>d__5	MoveNext
+944	Herman	Oh, I don't actually know.		DialogDescribeIdolEngraving+<Option4>d__6	MoveNext
+714	Herman	''Dedicated to my beloved wife, my dear Moonhog''		DialogDescribeIdolEngraving+<Option5>d__7	MoveNext
+715	Herman	''Dedicated to my beloved wife, my dear Junebug''		DialogDescribeIdolEngraving+<Option6>d__8	MoveNext
+716	Herman	''Dedicated to my beloved wife, my dear Prune Club''		DialogDescribeIdolEngraving+<Option7>d__9	MoveNext
+717	Herman	Hmm, I'll double-check.		DialogDescribeIdolEngraving+<Option8>d__10	MoveNext
+702	Herman	I've heard it was a fist, raised in anger.		DialogDescribeIdolGesture+<Option1>d__3	MoveNext
+703	Herman	I believe the gesture was a peace sign.		DialogDescribeIdolGesture+<Option2>d__4	MoveNext
+704	Herman	It was crossing it fingers, for luck!		DialogDescribeIdolGesture+<Option3>d__5	MoveNext
+705	Herman	I'm not sure.		DialogDescribeIdolGesture+<Option4>d__6	MoveNext
+706	Herman	It was a single finger being held out.		DialogDescribeIdolGesture+<Option5>d__7	MoveNext
+707	Herman	It was two hands clasped together.		DialogDescribeIdolGesture+<Option6>d__8	MoveNext
+708	Herman	It was an open palm.		DialogDescribeIdolGesture+<Option7>d__9	MoveNext
+709	Herman	I must have forgotten.		DialogDescribeIdolGesture+<Option8>d__10	MoveNext
+983	Arthur	Are you responsible for the death of Lady Unterwald?		DialogGainedDianaTrust+<Option1>d__2	MoveNext
+338	Diana	The tragic death of Lady Unterwald will draw attention away from us.		DialogGainedDianaTrust+<Option1>d__2	MoveNext
+339	Diana	We must seize this opportunity, Arthur.		DialogGainedDianaTrust+<Option1>d__2	MoveNext
+984	Arthur	So, did you murder Lady Unterwald?		DialogGainedDianaTrust+<Option1>d__2	MoveNext
+340	Diana	Lady Unterwald's death has proved to be quite the distraction.		DialogGainedDianaTrust+<Option1>d__2	MoveNext
+341	Diana	It's been a blessing for us, Arthur.		DialogGainedDianaTrust+<Option1>d__2	MoveNext
+985	Arthur	What's with all the high-tech monitoring equipment?		DialogGainedDianaTrust+<Option2>d__3	MoveNext
+342	Diana	Lady Unterwald's rotten family has been evading us for a long time.		DialogGainedDianaTrust+<Option2>d__3	MoveNext
+343	Diana	We can only put them behind bars if we have cold hard evidence.		DialogGainedDianaTrust+<Option2>d__3	MoveNext
+986	Arthur	Did Lady Unterwald mind you installing all of this gear?		DialogGainedDianaTrust+<Option3>d__4	MoveNext
+344	Diana	I'm sure HQ briefed you on my mission, Arthur.		DialogGainedDianaTrust+<Option3>d__4	MoveNext
+347	Diana	I'll soon figure out who's really running things...		DialogGainedDianaTrust+<Option3>d__4	MoveNext
+987	Arthur	What information do you want from me, exactly?		DialogGainedDianaTrust+<Option4>d__5	MoveNext
+348	Diana	I need to see Lady Unterwald's final will and testament.		DialogGainedDianaTrust+<Option4>d__5	MoveNext
+349	Diana	I'm already aware it's missing, so we need to work hard on getting it back...		DialogGainedDianaTrust+<Option4>d__5	MoveNext
+350	Diana	or finding another copy, if she kept a backup.		DialogGainedDianaTrust+<Option4>d__5	MoveNext
+991	Arthur	Lady Unterwald might have kept a backup in her quarters.		DialogGainedDianaTrust+<Option4>d__5	MoveNext
+992	Arthur	I'll take another look around, and see what I can find.		DialogGainedDianaTrust+<Option4>d__5	MoveNext
+351	Diana	Excellent.		DialogGainedDianaTrust+<Option4>d__5	MoveNext
+989	Arthur	I've found a hidden safe in Lady Unterwald's quarters.		DialogGainedDianaTrust+<Option4>d__5	MoveNext
+990	Arthur	Opening it could provide them with more information.		DialogGainedDianaTrust+<Option4>d__5	MoveNext
+352	Diana	Agreed.		DialogGainedDianaTrust+<Option4>d__5	MoveNext
+353	Diana	Get to it then, Arthur.		DialogGainedDianaTrust+<Option4>d__5	MoveNext
+354	Diana	I'll continue to monitor the situation from here for now.		DialogGainedDianaTrust+<Option4>d__5	MoveNext
+203	Arthur	This isn't about Lady Unterwald's murder?		DialogGiveEvidenceToDiana+<Option1>d__3	MoveNext
+440	Diana	Lady Unterwald's death was unexpected.		DialogGiveEvidenceToDiana+<Option1>d__3	MoveNext
+441	Diana	However, I have to stay on mission.		DialogGiveEvidenceToDiana+<Option1>d__3	MoveNext
+1327	Arthur	Did you know the treasurer was cooking the books?		DialogGiveEvidenceToDiana+<Option2>d__4	MoveNext
+1433	Arthur	I found Bergmann's ledger hidden in a drawer.		DialogGiveEvidenceToDiana+<Option2>d__4	MoveNext
+442	Diana	Is that so? Let me have a look.		DialogGiveEvidenceToDiana+<Option2>d__4	MoveNext
+443	Diana	If Bergmann was really falsifying these records, this could be exactly the evidence we've been looking for!		DialogGiveEvidenceToDiana+<Option2>d__4	MoveNext
+444	Diana	Maybe I had you wrong, Arthur. You're sharper than you look.		DialogGiveEvidenceToDiana+<Option2>d__4	MoveNext
+1445	Arthur	Thank you?		DialogGiveEvidenceToDiana+<Option2>d__4	MoveNext
+449	Diana	Leave this with me.		DialogGiveEvidenceToDiana+<Option2>d__4	MoveNext
+1482	Arthur	I discovered the treasurer was being blackmailed.		DialogGiveEvidenceToDiana+<Option3a>d__6	MoveNext
+452	Diana	Blackmailed? By whom?		DialogGiveEvidenceToDiana+<Option3a>d__6	MoveNext
+1483	Arthur	A mobster by the name of Donny Donato.		DialogGiveEvidenceToDiana+<Option3a>d__6	MoveNext
+453	Diana	Interesting. Do you have any evidence?		DialogGiveEvidenceToDiana+<Option3a>d__6	MoveNext
+1484	Arthur	Ah... no.		DialogGiveEvidenceToDiana+<Option3a>d__6	MoveNext
+1492	Arthur	Donny recorded their conversations, but he kept the tape recorder on him.		DialogGiveEvidenceToDiana+<Option3a>d__6	MoveNext
+454	Diana	And where is he now?		DialogGiveEvidenceToDiana+<Option3a>d__6	MoveNext
+1493	Arthur	I think he had a run in with the casino enforcers.		DialogGiveEvidenceToDiana+<Option3a>d__6	MoveNext
+455	Diana	Maybe Donny left it behind? Just let me know if you find it.		DialogGiveEvidenceToDiana+<Option3a>d__6	MoveNext
+1447	Arthur	I have evidence the treasurer was being blackmailed.		DialogGiveEvidenceToDiana+<Option3b>d__8	MoveNext
+446	Diana	Blackmailed? By whom?		DialogGiveEvidenceToDiana+<Option3b>d__8	MoveNext
+1448	Arthur	A mobster by the name of Donny Donato.		DialogGiveEvidenceToDiana+<Option3b>d__8	MoveNext
+447	Diana	Interesting. Let's give it a listen.		DialogGiveEvidenceToDiana+<Option3b>d__8	MoveNext
+0	Bergmann	That's ENOUGH, Donny.		DialogGiveEvidenceToDiana+<Option3b>d__8	MoveNext
+1	Bergmann	Not only are you drawing attention to yourself, you're about to bankrupt the damn company!		DialogGiveEvidenceToDiana+<Option3b>d__8	MoveNext
+17	Don	I didn't tell you to fritter away her fortune, bet by bet.		DialogGiveEvidenceToDiana+<Option3b>d__8	MoveNext
+2	Bergmann	Lady Unterwald is dead, don't you think they're going to start digging for a motive?		DialogGiveEvidenceToDiana+<Option3b>d__8	MoveNext
+3	Bergmann	I've hidden the accounts in her quarters for now, but it's only a matter of time before someone starts snooping.		DialogGiveEvidenceToDiana+<Option3b>d__8	MoveNext
+19	Don	I'll bet the old bat took one look at the numbers in that ledger of yours and the shock killed her!		DialogGiveEvidenceToDiana+<Option3b>d__8	MoveNext
+448	Diana	We'll need to confirm the authenticity of the recording, but this is strong evidence!		DialogGiveEvidenceToDiana+<Option3b>d__8	MoveNext
+1449	Arthur	I found a hidden safe in Lady Unterwald's quarters!		DialogGiveEvidenceToDiana+<Option4>d__10	MoveNext
+450	Diana	A hidden safe? What was inside?		DialogGiveEvidenceToDiana+<Option4>d__10	MoveNext
+1450	Arthur	I'm not sure, I haven't been able to open it!		DialogGiveEvidenceToDiana+<Option4>d__10	MoveNext
+451	Diana	We should find a way to open it. It could contain evidence!		DialogGiveEvidenceToDiana+<Option4>d__10	MoveNext
+8	BrotherBrian	How low will you go? How high will you jump?		DialogHandshake+<OnSayNextPatternItem>d__6	MoveNext
+5	BrotherBrian	Aren't your eyes open? Are you not awake?		DialogHandshake+<OnSayNextPatternItem>d__6	MoveNext
+4	BrotherBrian	You need to climb lightly, be careful not to slip.		DialogHandshake+<OnSayNextPatternItem>d__6	MoveNext
+6	BrotherBrian	Are you watching closely? Did you see me make my move?		DialogHandshake+<OnSayNextPatternItem>d__6	MoveNext
+902	Arthur	Are we shaking hands now?		DialogHandshake+<Option5>d__12	MoveNext
+952	Arthur	I'm a little confused.		DialogHandshake+<Option6>d__13	MoveNext
+954	Arthur	I don't understand.		DialogHandshake+<Option8>d__15	MoveNext
+1095	Arthur	I need a hint!		DialogHintLineArthur+<Option1>d__3	MoveNext
+1096	Arthur	How does this work again?		DialogHintLineArthur+<Option2>d__4	MoveNext
+1821	Arthur	Is this the real Dirk Chiselton?		DialogHintLineArthur+<Option3>d__5	MoveNext
+76	Chiselton	Ah, you're wondering why a world-famous detective would be answering the phones instead of solving crimes?		DialogHintLineArthur+<Option3>d__5	MoveNext
+1822	Arthur	I was wondering that!		DialogHintLineArthur+<Option3>d__5	MoveNext
+77	Chiselton	It's because I'm a professional, and I'm an excellent multitasker.		DialogHintLineArthur+<Option3>d__5	MoveNext
+78	Chiselton	That's right, I'm the real deal, kid.		DialogHintLineArthur+<Option3>d__5	MoveNext
+1824	Arthur	Is this really Dirk Chiselton?		DialogHintLineArthur+<Option3a>d__6	MoveNext
+79	Chiselton	Like I said, I'm the real deal.		DialogHintLineArthur+<Option3a>d__6	MoveNext
+96	Chiselton	Now, do you have a question for me or not?		DialogHintLineArthur+<Option3a>d__6	MoveNext
+1097	Arthur	Oops, I don't need a hint right now!		DialogHintLineArthur+<Option4>d__7	MoveNext
+748	Diana	I need a hint!		DialogHintLineDiana+<Option1>d__3	MoveNext
+749	Diana	How does this work again?		DialogHintLineDiana+<Option2>d__4	MoveNext
+750	Diana	I wouldn't think the I.R.S.S had the budget for Dirk Chiselton.		DialogHintLineDiana+<Option3>d__5	MoveNext
+270	Chiselton	I'm an external contractor with competitive rates. What can I say?		DialogHintLineDiana+<Option3>d__5	MoveNext
+271	Chiselton	Are you going to ask me a question or not?		DialogHintLineDiana+<Option3>d__5	MoveNext
+751	Diana	I don't suppose you do house calls?		DialogHintLineDiana+<Option3a>d__6	MoveNext
+272	Chiselton	Depends, how big a house are we talking?		DialogHintLineDiana+<Option3a>d__6	MoveNext
+752	Diana	It's a mansion, if that helps.		DialogHintLineDiana+<Option3a>d__6	MoveNext
+273	Chiselton	Funny that, I'm on my way to a mansion right now.		DialogHintLineDiana+<Option3a>d__6	MoveNext
+274	Chiselton	Wonder if it's the same one!		DialogHintLineDiana+<Option3a>d__6	MoveNext
+753	Diana	I don't need a hint right now!		DialogHintLineDiana+<Option4>d__7	MoveNext
+275	Chiselton	Alright, call back if you change your mind.		DialogHintLineDiana+<Option4>d__7	MoveNext
+1432	Herman	I need a hint!		DialogHintLineHerman+<Option1>d__2	MoveNext
+1433	Herman	How does this work again?		DialogHintLineHerman+<Option2>d__3	MoveNext
+1434	Herman	I never thought I'd be crawling to Dirk Chiselton for assistance.		DialogHintLineHerman+<Option3>d__4	MoveNext
+192	Chiselton	Ah, there's no shame in asking for help!		DialogHintLineHerman+<Option3>d__4	MoveNext
+193	Chiselton	Let's face it, we all need a hand from time to time.		DialogHintLineHerman+<Option3>d__4	MoveNext
+194	Chiselton	And these calls are just between you and me, alright?		DialogHintLineHerman+<Option3>d__4	MoveNext
+1435	Herman	On second thought, I can do this all by myself!		DialogHintLineHerman+<Option4>d__5	MoveNext
+195	Chiselton	Alright, but call back if you change your mind!		DialogHintLineHerman+<Option4>d__5	MoveNext
+735	Herman	'Tis I, Herman Merman – detective extraordinaire!		DialogIntroductionStageManager+<Option1>d__1	MoveNext
+55	StageManager	Herman Merman? And that's your real name?		DialogIntroductionStageManager+<Option1>d__1	MoveNext
+736	Herman	It is indeed!		DialogIntroductionStageManager+<Option1>d__1	MoveNext
+56	StageManager	So your parents were trying to make things difficult for you?		DialogIntroductionStageManager+<Option1>d__1	MoveNext
+737	Herman	They were both quite eccentric, now that you mention it.		DialogIntroductionStageManager+<Option1>d__1	MoveNext
+57	StageManager	I don't doubt it.		DialogIntroductionStageManager+<Option1>d__1	MoveNext
+738	Herman	The name is Jian Liu, I think you'll find me on the guest list.		DialogIntroductionStageManager+<Option2>d__2	MoveNext
+58	StageManager	Look, pal. You're not the first person to try and pass themselves off as someone on the list, okay?		DialogIntroductionStageManager+<Option2>d__2	MoveNext
+59	StageManager	Even if I wasn't so good at putting names to faces, I literally watched Jian Liu walk in ahead of you.		DialogIntroductionStageManager+<Option2>d__2	MoveNext
+739	Herman	There's no need for these formalities, I'm a man of celebrity status!		DialogIntroductionStageManager+<Option3>d__3	MoveNext
+60	StageManager	Oof. Look, pal, I know talent when I see it.		DialogIntroductionStageManager+<Option3>d__3	MoveNext
+61	StageManager	If you were a celebrity, would I be asking for your name?		DialogIntroductionStageManager+<Option3>d__3	MoveNext
+623	Herman	Don't you know who I am?		DialogIntroductionStageManager+<Option4>d__4	MoveNext
+62	StageManager	I'm not sure, am I supposed to know?		DialogIntroductionStageManager+<Option4>d__4	MoveNext
+741	Herman	Herman Merman - detective extraordinaire!		DialogIntroductionStageManager+<Option4>d__4	MoveNext
+63	StageManager	And that's you?		DialogIntroductionStageManager+<Option4>d__4	MoveNext
+64	StageManager	You're absolutely positive that's your real name?		DialogIntroductionStageManager+<Option4>d__4	MoveNext
+742	Herman	Yes, Herman Merman!		DialogIntroductionStageManager+<Option4>d__4	MoveNext
+1637	Arthur	Objection!		DialogMrLiuBeltWhip+<Option1>d__1	MoveNext
+1013	Arthur	Prepare to buckle under justice!		DialogMrLiuBeltWhip+<Option2>d__2	MoveNext
+1014	Arthur	I have the power of attorney!		DialogMrLiuBeltWhip+<Option3>d__3	MoveNext
+1015	Arthur	You betrayed the LAW!		DialogMrLiuBeltWhip+<Option4>d__4	MoveNext
+1626	Arthur	Who are you, again?		DialogMrLiuShowdown+<Option1>d__3	MoveNext
+158	JianLiu	What are you talking about?		DialogMrLiuShowdown+<Option1>d__3	MoveNext
+159	JianLiu	Don't try to play coy with me, Mr Ackerman!		DialogMrLiuShowdown+<Option1>d__3	MoveNext
+1627	Arthur	No, really, do I know you?		DialogMrLiuShowdown+<Option1a>d__4	MoveNext
+160	JianLiu	Jian Liu!?		DialogMrLiuShowdown+<Option1a>d__4	MoveNext
+1628	Arthur	Uh...		DialogMrLiuShowdown+<Option1a>d__4	MoveNext
+1629	Arthur	Wait... Lady Unterwald's suitor?		DialogMrLiuShowdown+<Option1a>d__4	MoveNext
+161	JianLiu	Do you know how long it took to get close to Lady Unterwald?		DialogMrLiuShowdown+<Option1a>d__4	MoveNext
+162	JianLiu	And just when I had her in the palm of my hand.		DialogMrLiuShowdown+<Option1a>d__4	MoveNext
+163	JianLiu	Who would show up and ruin the entire scheme but her meddling attorney!		DialogMrLiuShowdown+<Option1a>d__4	MoveNext
+1630	Arthur	I'm not sure why you're mad at me!		DialogMrLiuShowdown+<Option1b>d__5	MoveNext
+164	JianLiu	You not only stole my suit, but the estate I was working so hard to gain control of!		DialogMrLiuShowdown+<Option1b>d__5	MoveNext
+165	JianLiu	You might have got this far by playing dumb, but it won't help you now!		DialogMrLiuShowdown+<Option1b>d__5	MoveNext
+1631	Arthur	You're breaking the law, you know!		DialogMrLiuShowdown+<Option2>d__6	MoveNext
+166	JianLiu	Eugh! You bureaucrats and your archaic rules!		DialogMrLiuShowdown+<Option2>d__6	MoveNext
+167	JianLiu	I tried playing things by the book, and look where that got me!		DialogMrLiuShowdown+<Option2>d__6	MoveNext
+168	JianLiu	I don't mind breaking a few rules if it means I get what I want!		DialogMrLiuShowdown+<Option2>d__6	MoveNext
+1632	Arthur	How about we forget this whole thing ever happened?		DialogMrLiuShowdown+<Option2a>d__7	MoveNext
+169	JianLiu	Unacceptable, Mr Ackerman!		DialogMrLiuShowdown+<Option2a>d__7	MoveNext
+170	JianLiu	I'll be claiming the estate for my own, which makes you collateral damage, I'm afraid.		DialogMrLiuShowdown+<Option2a>d__7	MoveNext
+171	JianLiu	We can't have you walking around with a claim to my prize, after all!		DialogMrLiuShowdown+<Option2a>d__7	MoveNext
+1633	Arthur	Is that a real gun you're holding?		DialogMrLiuShowdown+<Option3>d__8	MoveNext
+172	JianLiu	I can assure you it's very real.		DialogMrLiuShowdown+<Option3>d__8	MoveNext
+173	JianLiu	Perhaps I should demonstrate?		DialogMrLiuShowdown+<Option3>d__8	MoveNext
+1634	Arthur	That won't be necessary!		DialogMrLiuShowdown+<Option3>d__8	MoveNext
+1635	Arthur	Where were you hiding that pistol?		DialogMrLiuShowdown+<Option3a>d__9	MoveNext
+174	JianLiu	Never you mind!		DialogMrLiuShowdown+<Option3a>d__9	MoveNext
+1636	Arthur	Actually, I think that's enough questions!		DialogMrLiuShowdown+<Option4>d__10	MoveNext
+175	JianLiu	Very well...		DialogMrLiuShowdown+<Option4>d__10	MoveNext
+36	StageManager	What's the name of the band, then?		DialogStageManagerQuestion1+<OnStart>d__1	MoveNext
+37	StageManager	Lucky guess!		DialogStageManagerQuestion1+<OnStop>d__2	MoveNext
+38	StageManager	Wrong!		DialogStageManagerQuestion1+<OnStop>d__2	MoveNext
+39	StageManager	Nah, that's not right.		DialogStageManagerQuestion1+<OnStop>d__2	MoveNext
+40	StageManager	That ain't it.		DialogStageManagerQuestion1+<OnStop>d__2	MoveNext
+41	StageManager	Nice try, pal.		DialogStageManagerQuestion1+<OnStop>d__2	MoveNext
+633	Herman	Gin and Bitters?		DialogStageManagerQuestion1+<Option1>d__3	MoveNext
+634	Herman	Lindy Hop Bop!		DialogStageManagerQuestion1+<Option2>d__4	MoveNext
+635	Herman	Charleston Jive?		DialogStageManagerQuestion1+<Option3>d__5	MoveNext
+636	Herman	The Big and Talls!		DialogStageManagerQuestion1+<Option4>d__6	MoveNext
+637	Herman	Balboa Sins!		DialogStageManagerQuestion1+<Option5>d__7	MoveNext
+638	Herman	Balboa Swing?		DialogStageManagerQuestion1+<Option6>d__8	MoveNext
+639	Herman	Balboa Sings!		DialogStageManagerQuestion1+<Option7>d__9	MoveNext
+640	Herman	Balboa Strings?		DialogStageManagerQuestion1+<Option8>d__10	MoveNext
+42	StageManager	If you're such a fan, then you know all the songs, right?		DialogStageManagerQuestion2+<OnStart>d__4	MoveNext
+43	StageManager	What song plays before 'Freight Train Blues'?		DialogStageManagerQuestion2+<OnStart>d__4	MoveNext
+44	StageManager	Lucky guess.		DialogStageManagerQuestion2+<OnStop>d__6	MoveNext
+45	StageManager	No, that's not right.		DialogStageManagerQuestion2+<OnStop>d__6	MoveNext
+643	Herman	Railroad Rhythm.		DialogStageManagerQuestion2+<Option1>d__7	MoveNext
+642	Herman	Whistle Stop Swing.		DialogStageManagerQuestion2+<Option2>d__8	MoveNext
+648	Herman	Whistle Stop Swing.		DialogStageManagerQuestion2+<Option2>d__8	MoveNext
+641	Herman	Boxcar Boogie.		DialogStageManagerQuestion2+<Option3>d__9	MoveNext
+649	Herman	Boxcar Boogie.		DialogStageManagerQuestion2+<Option3>d__9	MoveNext
+644	Herman	My Love is on the Line.		DialogStageManagerQuestion2+<Option4>d__10	MoveNext
+647	Herman	My Love is on the Line.		DialogStageManagerQuestion2+<Option4>d__10	MoveNext
+646	Herman	Freight Train Blues.		DialogStageManagerQuestion2+<Option5>d__11	MoveNext
+46	StageManager	What song plays after 'Railroad Rhythm'?		DialogStageManagerQuestion3+<OnStart>d__4	MoveNext
+105	StageManager	Okay, you know your stuff!		DialogStageManagerQuestion3+<OnStop>d__6	MoveNext
+106	StageManager	Here, I've got something for you!		DialogStageManagerQuestion3+<OnStop>d__6	MoveNext
+789	Herman	Is that...		DialogStageManagerQuestion3+<OnStop>d__6	MoveNext
+108	StageManager	Here, I'll sign it for you.		DialogStageManagerQuestion3+<OnStop>d__6	MoveNext
+109	StageManager	''Dear Herman Merman.''		DialogStageManagerQuestion3+<OnStop>d__6	MoveNext
+110	StageManager	''Thank you for being a fan!''		DialogStageManagerQuestion3+<OnStop>d__6	MoveNext
+790	Herman	What an honour!		DialogStageManagerQuestion3+<OnStop>d__6	MoveNext
+1278	Herman	How did you know where to find us?		DialogTalkToAprilJailbreak+<Option1>d__3	MoveNext
+140	April	Let's just say we have a man on the inside.		DialogTalkToAprilJailbreak+<Option1>d__3	MoveNext
+141	April	They were able to alert us when you arrived here for interrogation.		DialogTalkToAprilJailbreak+<Option1>d__3	MoveNext
+1279	Herman	Well? Who's your man on the inside?		DialogTalkToAprilJailbreak+<Option1a>d__4	MoveNext
+142	April	What does it matter to you?		DialogTalkToAprilJailbreak+<Option1a>d__4	MoveNext
+143	April	Besides, that's classified information.		DialogTalkToAprilJailbreak+<Option1a>d__4	MoveNext
+1285	Herman	Is anyone here who they say they are?		DialogTalkToAprilJailbreak+<Option1b>d__5	MoveNext
+153	April	Strong talk from a self-declared detective that's never had a case, hmm?		DialogTalkToAprilJailbreak+<Option1b>d__5	MoveNext
+1286	Herman	Point taken, I suppose.		DialogTalkToAprilJailbreak+<Option1b>d__5	MoveNext
+1287	Herman	Well, what's your escape plan?		DialogTalkToAprilJailbreak+<Option1c>d__6	MoveNext
+154	April	If you can get some leverage on those bars, I'll see if I can use the bike to force them open!		DialogTalkToAprilJailbreak+<Option1c>d__6	MoveNext
+1280	Herman	You say you're from the Inland Revenue Secret Service?		DialogTalkToAprilJailbreak+<Option2>d__7	MoveNext
+144	April	That's right. The names' April Benelli.		DialogTalkToAprilJailbreak+<Option2>d__7	MoveNext
+145	April	And you're one of three framed for murder.		DialogTalkToAprilJailbreak+<Option2>d__7	MoveNext
+146	April	Now that we've exchanged pleasantries, I believe there was a jailbreak in progress?		DialogTalkToAprilJailbreak+<Option2>d__7	MoveNext
+1281	Herman	How do you know we were framed?		DialogTalkToAprilJailbreak+<Option2a>d__8	MoveNext
+147	April	Well, I know Diana didn't do it.		DialogTalkToAprilJailbreak+<Option2a>d__8	MoveNext
+148	April	Are you telling me you killed Lady Unterwald?		DialogTalkToAprilJailbreak+<Option2a>d__8	MoveNext
+149	April	Well, there you go!		DialogTalkToAprilJailbreak+<Option2a>d__8	MoveNext
+1288	Herman	Tell me, why are you helping us?		DialogTalkToAprilJailbreak+<Option2b>d__9	MoveNext
+155	April	They've got my partner locked up in there!		DialogTalkToAprilJailbreak+<Option2b>d__9	MoveNext
+156	April	That's right. But we'll need all three of you if we're going to complete this mission.		DialogTalkToAprilJailbreak+<Option2b>d__9	MoveNext
+1290	Herman	You'll need me for your mission?		DialogTalkToAprilJailbreak+<Option2c>d__10	MoveNext
+157	April	You've proven yourself capable. At least, you haven't gotten yourself killed.		DialogTalkToAprilJailbreak+<Option2c>d__10	MoveNext
+1291	Herman	There were admittedly a few near misses.		DialogTalkToAprilJailbreak+<Option2c>d__10	MoveNext
+158	April	Even so, we'll have strength in numbers.		DialogTalkToAprilJailbreak+<Option2c>d__10	MoveNext
+1283	Herman	How am I supposed to bend these bars?		DialogTalkToAprilJailbreak+<Option3>d__11	MoveNext
+150	April	You won't be able to bend them with your bare hands, but they're structurally weak.		DialogTalkToAprilJailbreak+<Option3>d__11	MoveNext
+151	April	If you can find something to leverage against them, I think I could get you out of there!		DialogTalkToAprilJailbreak+<Option3>d__11	MoveNext
+1284	Herman	Let me get back to you.		DialogTalkToAprilJailbreak+<Option4>d__12	MoveNext
+152	April	Fine, but be quick about it!		DialogTalkToAprilJailbreak+<Option4>d__12	MoveNext
+561	Diana	The bike really can't go any faster?		DialogTalkToAprilMotorbike+<Option1>d__3	MoveNext
+132	April	I'm already going full throttle!		DialogTalkToAprilMotorbike+<Option1>d__3	MoveNext
+133	April	We're going to have to boost the bike's speed if we stand a chance of catching up to the train!		DialogTalkToAprilMotorbike+<Option1>d__3	MoveNext
+562	Diana	How can I increase our speed if you're going full throttle!		DialogTalkToAprilMotorbike+<Option1a>d__4	MoveNext
+134	April	Think, Diana! Maybe you have something that can help us out!		DialogTalkToAprilMotorbike+<Option1a>d__4	MoveNext
+563	Diana	How are we doing for fuel?		DialogTalkToAprilMotorbike+<Option2>d__5	MoveNext
+135	April	We're doing okay, but that petrol you swiped earlier must've been old!		DialogTalkToAprilMotorbike+<Option2>d__5	MoveNext
+136	April	If only we had some high-octane stuff!		DialogTalkToAprilMotorbike+<Option2>d__5	MoveNext
+564	Diana	I just wanted to thank you for getting me here!		DialogTalkToAprilMotorbike+<Option3>d__6	MoveNext
+137	April	Don't mention it! You can thank me when you're on that train!		DialogTalkToAprilMotorbike+<Option3>d__6	MoveNext
+565	Diana	I think that's enough talk for now!		DialogTalkToAprilMotorbike+<Option4>d__7	MoveNext
+138	April	You're right!		DialogTalkToAprilMotorbike+<Option4>d__7	MoveNext
+538	Diana	How's the bike repair looking?		DialogTalkToAprilTestYard+<Option1>d__3	MoveNext
+100	April	It looks like we're still missing fuel, and the wiring is completely shot.		DialogTalkToAprilTestYard+<Option1>d__3	MoveNext
+101	April	Sorry to say, but we're not going anywhere until we've addressed that.		DialogTalkToAprilTestYard+<Option1>d__3	MoveNext
+540	Diana	What's the status of the bike repair?		DialogTalkToAprilTestYard+<Option1a>d__4	MoveNext
+102	April	Well, it looks like we're all fuelled up. The tank's looking good!		DialogTalkToAprilTestYard+<Option1a>d__4	MoveNext
+103	April	Not so fast. We'll still need to get all this faulty wiring repaired.		DialogTalkToAprilTestYard+<Option1a>d__4	MoveNext
+104	April	We're not going anywhere until we've addressed that.		DialogTalkToAprilTestYard+<Option1a>d__4	MoveNext
+542	Diana	How's the bike looking now?		DialogTalkToAprilTestYard+<Option1b>d__5	MoveNext
+105	April	Our prospects are looking better now that we've replaced the wiring.		DialogTalkToAprilTestYard+<Option1b>d__5	MoveNext
+106	April	You know what? I think this old girl may just run again!		DialogTalkToAprilTestYard+<Option1b>d__5	MoveNext
+543	Diana	You're a genius, April!		DialogTalkToAprilTestYard+<Option1b>d__5	MoveNext
+107	April	Settle down, there's no need to inflate my ego just yet.		DialogTalkToAprilTestYard+<Option1b>d__5	MoveNext
+108	April	We're still missing fuel. If the tank is empty, we can't go anywhere!		DialogTalkToAprilTestYard+<Option1b>d__5	MoveNext
+544	Diana	How's the bike coming along?		DialogTalkToAprilTestYard+<Option1c>d__6	MoveNext
+110	April	We've got a full tank of petrol, and the wiring's all fixed!		DialogTalkToAprilTestYard+<Option1c>d__6	MoveNext
+111	April	You know what? I think we've only gone and done it!		DialogTalkToAprilTestYard+<Option1c>d__6	MoveNext
+545	Diana	You're serious? You fixed the bike?		DialogTalkToAprilTestYard+<Option1c>d__6	MoveNext
+112	April	I consider it a team effort, but yes. I've fixed the bike!		DialogTalkToAprilTestYard+<Option1c>d__6	MoveNext
+113	April	Just hop on whenever you're ready, and I'll get us out of here!		DialogTalkToAprilTestYard+<Option1c>d__6	MoveNext
+546	Diana	I'm ready to get out of here!		DialogTalkToAprilTestYard+<Option1d>d__7	MoveNext
+114	April	Alright! Hop on the back and I'll get the bike started!		DialogTalkToAprilTestYard+<Option1d>d__7	MoveNext
+547	Diana	I can't believe Mr Stamp cancelled my first mission!		DialogTalkToAprilTestYard+<Option2>d__8	MoveNext
+115	April	I know! Phil is such a coward.		DialogTalkToAprilTestYard+<Option2>d__8	MoveNext
+116	April	You know what they're like upstairs, though. It's all short-term thinking.		DialogTalkToAprilTestYard+<Option2>d__8	MoveNext
+548	Diana	What's all this talk about budget cuts?		DialogTalkToAprilTestYard+<Option2a>d__9	MoveNext
+117	April	It doesn't make any sense, they were happy to spend millions on that R.A.T!		DialogTalkToAprilTestYard+<Option2a>d__9	MoveNext
+549	Diana	You mean the Rodent Agent Training programme?		DialogTalkToAprilTestYard+<Option2a>d__9	MoveNext
+118	April	Now that I think about it, that probably explains the money troubles.		DialogTalkToAprilTestYard+<Option2a>d__9	MoveNext
+550	Diana	I hope my equipment is still set up on the Reuss Express		DialogTalkToAprilTestYard+<Option2b>d__10	MoveNext
+119	April	I'm sure it is, do you know how slow retrieval is?		DialogTalkToAprilTestYard+<Option2b>d__10	MoveNext
+120	April	They've left our kit out in the field for months before.		DialogTalkToAprilTestYard+<Option2b>d__10	MoveNext
+551	Diana	I thought this was a test yard, what's with all the broken equipment?		DialogTalkToAprilTestYard+<Option2c>d__11	MoveNext
+121	April	Our field agents don't always bring their equipment back in one piece.		DialogTalkToAprilTestYard+<Option2c>d__11	MoveNext
+122	April	We're lucky if they bring back anything at all!		DialogTalkToAprilTestYard+<Option2c>d__11	MoveNext
+552	Diana	From what Phil said, it sounds like they already relocated anything useful.		DialogTalkToAprilTestYard+<Option2c>d__11	MoveNext
+553	Diana	What's with the pneumatic tubes?		DialogTalkToAprilTestYard+<Option2d>d__12	MoveNext
+123	April	It's a complete tube network! It's so the executives can send documents and small items down here remotely.		DialogTalkToAprilTestYard+<Option2d>d__12	MoveNext
+554	Diana	I guess they can't risk getting engine grease on their expensive suits.		DialogTalkToAprilTestYard+<Option2d>d__12	MoveNext
+124	April	You'll usually only find them in banks, hospitals or eccentric people's houses.		DialogTalkToAprilTestYard+<Option2d>d__12	MoveNext
+555	Diana	Do you know how the tubes work?		DialogTalkToAprilTestYard+<Option2e>d__13	MoveNext
+125	April	It's pretty easy. You just load a canister in the slot, and set the destination on the control panel.		DialogTalkToAprilTestYard+<Option2e>d__13	MoveNext
+126	April	Why? What are you up to?		DialogTalkToAprilTestYard+<Option2e>d__13	MoveNext
+556	Diana	Nothing, I was just curious!		DialogTalkToAprilTestYard+<Option2e>d__13	MoveNext
+557	Diana	I'll need to get my hands on some gadgets!		DialogTalkToAprilTestYard+<Option3>d__14	MoveNext
+127	April	Well, normally you'd fill in a requisition form and hand it to the Quartermaster.		DialogTalkToAprilTestYard+<Option3>d__14	MoveNext
+128	April	Although, with everything being shut down, I think you'll need to be a bit more creative!		DialogTalkToAprilTestYard+<Option3>d__14	MoveNext
+558	Diana	The quartermaster won't let me have any gadgets!		DialogTalkToAprilTestYard+<Option3a>d__15	MoveNext
+129	April	Perhaps you can get what you need without involving the Quartermaster.		DialogTalkToAprilTestYard+<Option3a>d__15	MoveNext
+559	Diana	You mean, go behind her back?		DialogTalkToAprilTestYard+<Option3a>d__15	MoveNext
+130	April	I didn't say that. But hey, that's not a bad idea!		DialogTalkToAprilTestYard+<Option3a>d__15	MoveNext
+560	Diana	Alright, I think that's everything for now!		DialogTalkToAprilTestYard+<Option4>d__16	MoveNext
+131	April	Okay, keep up the good work.		DialogTalkToAprilTestYard+<Option4>d__16	MoveNext
+93	Arista	Yes. Now what of it?		DialogTalkToArista+<Option1>d__4	MoveNext
+94	Arista	Do you make a habit of bothering people and asking them stupid questions?		DialogTalkToArista+<Option1>d__4	MoveNext
+95	Arista	Of course! She even gave my boys cushy jobs in the family business.		DialogTalkToArista+<Option2>d__5	MoveNext
+96	Arista	Have you met them? They're imbeciles!		DialogTalkToArista+<Option2>d__5	MoveNext
+97	Arista	I did! I never shied away from getting my hands dirty, you see.		DialogTalkToArista+<Option3>d__6	MoveNext
+98	Arista	I'm an engineer at heart, always been fascinated by mechanisms!		DialogTalkToArista+<Option3>d__6	MoveNext
+99	Arista	You know, I even helped design the Reuss Express.		DialogTalkToArista+<Option3>d__6	MoveNext
+100	Arista	Oh yes, I know all her little quirks!		DialogTalkToArista+<Option3a>d__7	MoveNext
+101	Arista	She's not your standard steam engine, you know.		DialogTalkToArista+<Option3a>d__7	MoveNext
+1204	Arthur	She isn't?		DialogTalkToArista+<Option3a>d__7	MoveNext
+102	Arista	You're travelling aboard one of the first steam turbine locomotives!		DialogTalkToArista+<Option3a>d__7	MoveNext
+103	Arista	I'm talking about steam power, boy!		DialogTalkToArista+<Option3b>d__8	MoveNext
+104	Arista	She may be experimental, but you're riding on the future of transportation.		DialogTalkToArista+<Option3b>d__8	MoveNext
+1472	Arthur	Woah!		DialogTalkToArista+<Option3b>d__8	MoveNext
+105	Arista	If you ask me, too many naysayers are betting on diesel.		DialogTalkToArista+<Option3b>d__8	MoveNext
+1473	Arthur	They are?		DialogTalkToArista+<Option3b>d__8	MoveNext
+106	Arista	The Reuss Express is a real challenge to that notion.		DialogTalkToArista+<Option3b>d__8	MoveNext
+108	Arista	Oh, this? You've never seen an ear trumpet before?		DialogTalkToArista+<Option4>d__9	MoveNext
+1080	Arthur	I don't think so!		DialogTalkToArista+<Option4>d__9	MoveNext

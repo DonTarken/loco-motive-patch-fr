@@ -1,0 +1,125 @@
+﻿Id	Character	English	French	Class	Method
+1831	Arthur	I'm not sure what I should be doing next.	Je ne sais pas trop ce que je devrais faire maintenant.	DialogHintLineChapterTwo+<Option1>d__6	MoveNext
+106	Chiselton	The doctor seemed pretty upset about what happened. Where did he go?	Le docteur avait l'air très secoué par ce qui s'est passé. Où est-il parti ?	DialogHintLineChapterTwo+<Option1>d__6	MoveNext
+1832	Arthur	I need another hint, what should be doing?	J'ai besoin d'un autre indice, que dois-je faire ?	DialogHintLineChapterTwo+<Option1a>d__7	MoveNext
+107	Chiselton	Bergmann said the doctor was looking for you, did he say where he went?	Bergmann a dit que le docteur vous cherchait. Vous a-t-il dit où il se rendait ?	DialogHintLineChapterTwo+<Option1a>d__7	MoveNext
+108	Chiselton	Head back to Lady Unterwald's quarters, you'll find the doctor there!	Retournez dans les quartiers de Lady Unterwald, le docteur s'y trouve !	DialogHintLineChapterTwo+<Option1b>d__8	MoveNext
+1834	Arthur	I need a hint about one of the safe mechanisms.	J'ai besoin d'un indice sur l'un des mécanismes du coffre.	DialogHintLineChapterTwo+<Option2>d__9	MoveNext
+109	Chiselton	Which one did you have in mind?	Auquel pensez-vous en particulier ?	DialogHintLineChapterTwo+<Option2>d__9	MoveNext
+1835	Arthur	I need a hint about the combination lock.	J'ai besoin d'un indice sur la serrure à combinaison.	DialogHintLineChapterTwo+<Option2a>d__10	MoveNext
+110	Chiselton	If I had to remember a six-digit number, I'd pick something personal, so there'd be no way to forget it.	Si je devais retenir un code à six chiffres, je choisirais quelque chose de très personnel pour ne jamais l'oublier.	DialogHintLineChapterTwo+<Option2a>d__10	MoveNext
+1836	Arthur	I need another hint about the combination lock.	J'ai besoin d'un autre indice sur le code du coffre.	DialogHintLineChapterTwo+<Option2aa>d__11	MoveNext
+111	Chiselton	If it's a six-digit number, chances are it's a date. Most people would pick something memorable, like a birthday.	Si c'est un code à six chiffres, il y a de fortes chances que ce soit une date. La plupart des gens choisissent leur date de naissance.	DialogHintLineChapterTwo+<Option2aa>d__11	MoveNext
+112	Chiselton	Lady Unterwald's medical records would likely contain her date of birth, if you can get your hands on them.	Le dossier médical de Lady Unterwald contient sûrement sa date de naissance, si vous parvenez à mettre la main dessus.	DialogHintLineChapterTwo+<Option2ab>d__12	MoveNext
+1838	Arthur	I need a hint about the voice lock.	J'ai besoin d'un indice sur la serrure vocale.	DialogHintLineChapterTwo+<Option2b>d__13	MoveNext
+113	Chiselton	You'd need a recording of Lady Unterwald, but that may be difficult.	Il vous faudrait un enregistrement de la voix de Lady Unterwald, mais cela risque d'être corsé.	DialogHintLineChapterTwo+<Option2b>d__13	MoveNext
+1839	Arthur	I need another hint about the voice lock.	J'ai besoin d'un autre indice sur la serrure vocale.	DialogHintLineChapterTwo+<Option2ba>d__14	MoveNext
+114	Chiselton	Didn't another passenger have a way to record voices?	Un autre passager n'avait-il pas un appareil pour enregistrer des voix ?	DialogHintLineChapterTwo+<Option2ba>d__14	MoveNext
+115	Chiselton	What happened to them?	Que lui est-il arrivé ?	DialogHintLineChapterTwo+<Option2ba>d__14	MoveNext
+116	Chiselton	Don had a recording device, right? Maybe he dropped it during the brawl.	Don avait un magnétophone, non ? Il l'a peut-être laissé tomber pendant la bagarre.	DialogHintLineChapterTwo+<Option2bb>d__15	MoveNext
+117	Chiselton	That recording device isn't much good without a blank tape, I'm sure one will turn up sooner or later.	Cet enregistreur n'est pas d'une grande utilité sans bande vierge. Une finira bien par apparaître.	DialogHintLineChapterTwo+<Option2c>d__16	MoveNext
+118	Chiselton	High-tech problems often have high-tech solutions, have another look around.	Aux problèmes de pointe, les solutions de pointe. Cherchez encore un peu.	DialogHintLineChapterTwo+<Option2d>d__17	MoveNext
+119	Chiselton	That recording device isn't much good without a blank tape, know anybody that might have a spare?	Cet enregistreur a besoin d'une bande vierge. Connaissez-vous quelqu'un qui en aurait une sous la main ?	DialogHintLineChapterTwo+<Option2da>d__18	MoveNext
+120	Chiselton	Diana has a bunch of gadgets, perhaps she has a blank reel you could borrow?	Diana a toute une panoplie de gadgets. Elle a peut-être une bobine vierge à vous dépanner ?	DialogHintLineChapterTwo+<Option2db>d__19	MoveNext
+121	Chiselton	You're all set, you just need a recording of Lady Unterwald's voice. Be ready with that device of yours.	Vous êtes paré. Il ne vous manque plus que la voix de Lady Unterwald. Tenez-vous prêt avec votre appareil.	DialogHintLineChapterTwo+<Option2e>d__20	MoveNext
+122	Chiselton	Listen out for Lady Unterwald's voice. It might be closer than you think.	Ouvrez grand les oreilles. La voix de Lady Unterwald est peut-être plus proche que vous ne le pensez.	DialogHintLineChapterTwo+<Option2ea>d__21	MoveNext
+123	Chiselton	What about the automated message from Lady Unterwald when you use the phone? Have you tried recording that?	Et le message enregistré de Lady Unterwald au téléphone ? Avez-vous essayé de l'enregistrer ?	DialogHintLineChapterTwo+<Option2eb>d__22	MoveNext
+1848	Arthur	Actually, I wanted to ask about something else.	En fait, je voulais poser une question sur autre chose.	DialogHintLineChapterTwo+<Option2f>d__23	MoveNext
+124	Chiselton	Alright! Ask away!	Très bien ! Je vous écoute !	DialogHintLineChapterTwo+<Option2f>d__23	MoveNext
+1849	Arthur	How do I get behind that curtain?	Comment passer derrière ce rideau ?	DialogHintLineChapterTwo+<Option3>d__24	MoveNext
+125	Chiselton	You'll need to perform the secret handshake, but it all happens so fast!	Il faut exécuter la poignée de main secrète, mais tout va tellement vite !	DialogHintLineChapterTwo+<Option3>d__24	MoveNext
+1850	Arthur	I need another hint to get behind that curtain!	J'ai besoin d'un autre indice pour passer derrière le rideau !	DialogHintLineChapterTwo+<Option3a>d__25	MoveNext
+126	Chiselton	Is there a way to capture that handshake? You'd better be quick about it!	Y a-t-il un moyen de capturer cette poignée de main ? Il va falloir faire très vite !	DialogHintLineChapterTwo+<Option3a>d__25	MoveNext
+127	Chiselton	There's a passenger on the train who captures things at speed. Maybe they can help?	Il y a un passager à bord qui capture les choses à la vitesse de l'éclair. Il peut peut-être vous aider ?	DialogHintLineChapterTwo+<Option3b>d__26	MoveNext
+1852	Arthur	I recorded the handshake, now what?	J'ai les dessins de la poignée de main, et maintenant ?	DialogHintLineChapterTwo+<Option4>d__27	MoveNext
+128	Chiselton	Someone aboard that train knows what goes on behind the curtain. Ask around!	Quelqu'un à bord sait ce qui se trame derrière ce rideau. Renseignez-vous !	DialogHintLineChapterTwo+<Option4>d__27	MoveNext
+1853	Arthur	I need another hint about these sketches!	J'ai besoin d'un autre indice sur ces croquis !	DialogHintLineChapterTwo+<Option4a>d__28	MoveNext
+129	Chiselton	You'll need someone familiar with the handshake to identify those sketches.	Il vous faut quelqu'un qui connaît bien cette poignée de main pour décrypter ces croquis.	DialogHintLineChapterTwo+<Option4a>d__28	MoveNext
+130	Chiselton	The doctor might be willing to assist you if you can convince him!	Le docteur pourrait vous venir en aide si vous arrivez à le convaincre !	DialogHintLineChapterTwo+<Option4b>d__29	MoveNext
+1855	Arthur	The doctor told me the phrases, now what?	Le docteur m'a donné les phrases, que faire ensuite ?	DialogHintLineChapterTwo+<Option5>d__30	MoveNext
+131	Chiselton	Head back to the curtain and show that guy who's boss!	Retournez au rideau et montrez à ce type de quel bois vous vous chauffez !	DialogHintLineChapterTwo+<Option5>d__30	MoveNext
+1856	Arthur	How can I get information out of Mr Masson?	Comment tirer des vers du nez de M. Masson ?	DialogHintLineChapterTwo+<Option6>d__31	MoveNext
+132	Chiselton	It seems like he's either too drunk, or you're too sober.	On dirait que soit il est trop soûl, soit vous êtes trop sobre.	DialogHintLineChapterTwo+<Option6>d__31	MoveNext
+1857	Arthur	I need another hint to get Mr Masson talking.	J'ai besoin d'un autre indice pour faire parler M. Masson.	DialogHintLineChapterTwo+<Option6a>d__32	MoveNext
+133	Chiselton	What's Mr Masson been drinking? Perhaps you can ask around.	Qu'est-ce que M. Masson a bien pu boire ? Demandez autour de vous.	DialogHintLineChapterTwo+<Option6a>d__32	MoveNext
+134	Chiselton	Try to learn what Mr Masson is drinking, have you asked the waiter?	Découvrez ce que boit M. Masson. Avez-vous interrogé le serveur ?	DialogHintLineChapterTwo+<Option6b>d__33	MoveNext
+136	Chiselton	What's Mr Masson been drinking? Perhaps you need to get on his level.	Qu'a bu M. Masson ? Peut-être devez-vous vous hisser à son niveau d'ébriété.	DialogHintLineChapterTwo+<Option7a>d__35	MoveNext
+137	Chiselton	You could recreate what Mr Masson is drinking, have you asked the barman?	Vous pourriez recréer le cocktail de M. Masson. Avez-vous demandé au barman ?	DialogHintLineChapterTwo+<Option7b>d__36	MoveNext
+1862	Arthur	I need to make my Bud-Lite more powerful.	Je dois corser ma Bud-Lite.	DialogHintLineChapterTwo+<Option8>d__37	MoveNext
+138	Chiselton	Maybe you can combine it with something else to create a more potent version?	Peut-être pourriez-vous la mélanger à un autre produit pour en faire une version plus corsée ?	DialogHintLineChapterTwo+<Option8>d__37	MoveNext
+1863	Arthur	I need another hint to make my Bud-Lite more powerful!	J'ai besoin d'un autre indice pour corser ma bière !	DialogHintLineChapterTwo+<Option8a>d__38	MoveNext
+139	Chiselton	Maybe you can combine it with something else, was there anything potent in your room?	Y avait-il quelque chose de fort dans votre chambre avec quoi la mélanger ?	DialogHintLineChapterTwo+<Option8a>d__38	MoveNext
+140	Chiselton	I'd combine it with something else, do you have anything potent on you?	Mélangez-la à quelque chose d'autre. Avez-vous un produit alcoolisé sur vous ?	DialogHintLineChapterTwo+<Option8a>d__38	MoveNext
+141	Chiselton	Can you combine the mouthwash in your room with the Bud-Lite?	Avez-vous essayé d'ajouter le bain de bouche de votre chambre à la Bud-Lite ?	DialogHintLineChapterTwo+<Option8b>d__39	MoveNext
+142	Chiselton	Try adding some of that mouthwash you have, that'd kick it up a notch!	Versez un peu de ce bain de bouche, ça va lui donner un sacré coup de fouet !	DialogHintLineChapterTwo+<Option8b>d__39	MoveNext
+1865	Arthur	I need a mixing container for the Rosebud.	Il me faut un récipient pour mélanger le Rosebud.	DialogHintLineChapterTwo+<Option9>d__40	MoveNext
+143	Chiselton	You might need something large and unconventional to mix those ingredients in.	Il vous faudra un contenant assez grand et insolite pour touiller ces ingrédients.	DialogHintLineChapterTwo+<Option9>d__40	MoveNext
+1866	Arthur	I need another hint about finding the container.	J'ai besoin d'un autre indice pour trouver le récipient.	DialogHintLineChapterTwo+<Option9a>d__41	MoveNext
+144	Chiselton	Someone on board might have a suitable goblet, if you can distract them for long enough.	Quelqu'un à bord a peut-être un calice improvisé, si vous le distrayez assez longtemps.	DialogHintLineChapterTwo+<Option9a>d__41	MoveNext
+145	Chiselton	I bet Arista's hearing horn could hold a lot of liquid! Try creating a diversion, and don't get caught in the act!	Je parie que le cornet acoustique d'Arista ferait un formidable verre ! Faites diversion sans vous faire pincer !	DialogHintLineChapterTwo+<Option9b>d__42	MoveNext
+1868	Arthur	I have a potential mixing container, but I'm unsure of the next move.	J'ai un récipient potentiel, mais je ne sais pas quoi en faire.	DialogHintLineChapterTwo+<Option10>d__43	MoveNext
+146	Chiselton	You might need to modify the container to hold liquid.	Vous devrez sans doute adapter ce récipient pour qu'il retienne le liquide.	DialogHintLineChapterTwo+<Option10>d__43	MoveNext
+1869	Arthur	I need another hint about using the container.	J'ai besoin d'un autre indice sur l'utilisation du récipient.	DialogHintLineChapterTwo+<Option10a>d__44	MoveNext
+147	Chiselton	You should find something to plug up the end of that container.	Vous devriez trouver de quoi boucher l'extrémité de ce récipient.	DialogHintLineChapterTwo+<Option10a>d__44	MoveNext
+148	Chiselton	The bartender has a corking device that might do the trick, perhaps you could ask to borrow it?	Le barman a une boucheuse qui ferait l'affaire. Vous pourriez lui emprunter ?	DialogHintLineChapterTwo+<Option10b>d__45	MoveNext
+149	Chiselton	That corking device you have might do the trick, give it a go!	Cette boucheuse que vous avez devrait faire l'affaire, tentez le coup !	DialogHintLineChapterTwo+<Option10b>d__45	MoveNext
+1871	Arthur	I've made the Rosebud, what should I do?	J'ai préparé le Rosebud, que dois-je faire ?	DialogHintLineChapterTwo+<Option11>d__46	MoveNext
+150	Chiselton	Stop stalling for time, you need to drink up, kid!	Arrêtez d'hésiter, cul sec, l'ami !	DialogHintLineChapterTwo+<Option11>d__46	MoveNext
+1872	Arthur	How do I get into the luggage room?	Comment entrer dans le fourgon à bagages ?	DialogHintLineChapterTwo+<Option12>d__47	MoveNext
+151	Chiselton	The luggage room? You'll probably need to use the right item to get in there.	Le fourgon à bagages ? Il vous faudra le bon passe-partout pour entrer.	DialogHintLineChapterTwo+<Option12>d__47	MoveNext
+1873	Arthur	I need another hint about accessing the luggage room.	J'ai besoin d'un autre indice sur l'accès au fourgon à bagages.	DialogHintLineChapterTwo+<Option12a>d__48	MoveNext
+152	Chiselton	Perhaps you already hold the key to that question?	Peut-être avez-vous déjà la clé de cette énigme sur vous ?	DialogHintLineChapterTwo+<Option12a>d__48	MoveNext
+153	Chiselton	You have a set of keys, have you tried those on the door?	Vous avez un trousseau de clés, les avez-vous essayées sur la porte ?	DialogHintLineChapterTwo+<Option12b>d__49	MoveNext
+1875	Arthur	I need help opening this briefcase.	J'ai besoin d'aide pour ouvrir cette mallette.	DialogHintLineChapterTwo+<Option13>d__50	MoveNext
+154	Chiselton	I doubt you'll manage to unlock it, some brute-force might be the better option.	Je doute que vous puissiez crocheter la serrure, la force brute semble tout indiquée.	DialogHintLineChapterTwo+<Option13>d__50	MoveNext
+1876	Arthur	I need another hint about opening the briefcase.	J'ai besoin d'un autre indice pour forcer la mallette.	DialogHintLineChapterTwo+<Option13a>d__51	MoveNext
+155	Chiselton	A passenger might be able to help. Although sometimes two heads are better than one!	Un passager pourrait vous aider. Quoique deux têtes valent parfois mieux qu'une !	DialogHintLineChapterTwo+<Option13a>d__51	MoveNext
+156	Chiselton	Those twins will argue over anything, I'd hate for that briefcase to come between them.	Ces jumeaux se disputent pour un rien. Ce serait dommage que cette mallette s'interpose entre eux.	DialogHintLineChapterTwo+<Option13b>d__52	MoveNext
+1878	Arthur	I've been given this blank napkin, what gives?	On m'a donné cette serviette vierge, c'est une blague ?	DialogHintLineChapterTwo+<Option14>d__53	MoveNext
+157	Chiselton	Listen, kid, nobody's handing out blank napkins. I'd look into figuring out what's on there.	Écoutez, personne ne donne de serviette blanche pour rien. Trouvez ce qui y est caché.	DialogHintLineChapterTwo+<Option14>d__53	MoveNext
+1879	Arthur	I need another hint about the napkin.	J'ai besoin d'un autre indice sur la serviette.	DialogHintLineChapterTwo+<Option14a>d__54	MoveNext
+158	Chiselton	Someone on board might know how to decode hidden messages, have you asked around?	Quelqu'un à bord sait peut-être comment décoder les messages secrets. Avez-vous demandé ?	DialogHintLineChapterTwo+<Option14a>d__54	MoveNext
+159	Chiselton	The Order Of Idle Hands might know something about decoding messages, I'd start there.	L'Ordre des Mains Oisives doit en savoir un rayon sur les codes secrets. Commencez par là.	DialogHintLineChapterTwo+<Option14b>d__55	MoveNext
+1881	Arthur	I need that guide book, but Jared won't let me at it!	Il me faut ce guide, mais Jared refuse de me le prêter !	DialogHintLineChapterTwo+<Option15>d__56	MoveNext
+160	Chiselton	Perhaps you could trade the book for another.	Peut-être pourriez-vous échanger ce livre contre un autre.	DialogHintLineChapterTwo+<Option15>d__56	MoveNext
+1882	Arthur	I need another hint about getting the book.	J'ai besoin d'un autre indice pour récupérer le livre.	DialogHintLineChapterTwo+<Option15a>d__57	MoveNext
+161	Chiselton	He'd notice if you stole it, perhaps you can swap the book for another.	Il remarquerait un vol. Vous devriez plutôt faire un échange discret.	DialogHintLineChapterTwo+<Option15a>d__57	MoveNext
+162	Chiselton	You'll need to swap the guide book with Don's book of poems. Just make sure Jared isn't looking!	Échangez le guide contre le recueil de poèmes de Don. Assurez-vous que Jared regarde ailleurs !	DialogHintLineChapterTwo+<Option15b>d__58	MoveNext
+1884	Arthur	I need to access the kitchen, but the chefs won't let me in!	Je dois entrer en cuisine, mais les chefs me barrent l'accès !	DialogHintLineChapterTwo+<Option16>d__59	MoveNext
+163	Chiselton	Well, you ain't getting past them. I'd wait 'em out, I'm sure they'll be done soon.	Vous ne passerez pas en force. Prenez votre mal en patience, ils auront bientôt fini.	DialogHintLineChapterTwo+<Option16>d__59	MoveNext
+1885	Arthur	I need another hint about the kitchen.	J'ai besoin d'un autre indice sur la cuisine.	DialogHintLineChapterTwo+<Option16a>d__60	MoveNext
+164	Chiselton	Personally, I'd pursue some other lines of enquiry, and try again later.	Personnellement, je suivrais d'autres pistes avant de revenir tenter ma chance.	DialogHintLineChapterTwo+<Option16a>d__60	MoveNext
+165	Chiselton	Just wait 'em out, no use trying to brute force your way in!	Attendez simplement. Inutile de tenter de forcer le passage !	DialogHintLineChapterTwo+<Option16b>d__61	MoveNext
+1887	Arthur	How do I capture that thieving mouse?	Comment attraper cette souris voleuse ?	DialogHintLineChapterTwo+<Option17>d__62	MoveNext
+166	Chiselton	How does that mouse move around the train? Maybe you can limit its movements.	Comment cette souris se déplace-t-elle ? Vous devriez limiter ses mouvements.	DialogHintLineChapterTwo+<Option17>d__62	MoveNext
+1888	Arthur	I need another hint about catching that mouse.	J'ai besoin d'un autre indice pour piéger la souris.	DialogHintLineChapterTwo+<Option17a>d__63	MoveNext
+167	Chiselton	There's a fair number of holes for that mouse to slip through, you'll need to find a way to narrow those down.	Il y a un paquet de terriers par où elle peut filer. Vous devez boucher ses sorties.	DialogHintLineChapterTwo+<Option17a>d__63	MoveNext
+168	Chiselton	You'll need to block off any escape routes, do you have anything that can plug a hole?	Bloquez toutes ses voies de fuite. Avez-vous de quoi boucher un trou ?	DialogHintLineChapterTwo+<Option17b>d__64	MoveNext
+169	Chiselton	You've blocked off the escape routes, but you'll need some bait to lure it out.	Les sorties sont condamnées, mais il vous faut un appât pour la faire sortir.	DialogHintLineChapterTwo+<Option18>d__65	MoveNext
+1891	Arthur	I need another hint about the mouse.	J'ai besoin d'un autre indice sur la souris.	DialogHintLineChapterTwo+<Option18a>d__66	MoveNext
+170	Chiselton	All that thievery must be hungry work. With the right food, you could bait it out.	Tous ces cambriolages creusent l'estomac. Avec la bonne nourriture, vous pourrez l'attirer.	DialogHintLineChapterTwo+<Option18a>d__66	MoveNext
+171	Chiselton	No mouse can resist the sweet allure of cheese. I bet there's some already stored away in the kitchen pantry.	Aucune souris ne résiste à l'appel du fromage. Il doit y en avoir dans le garde-manger.	DialogHintLineChapterTwo+<Option18b>d__67	MoveNext
+1893	Arthur	How can I capture that thieving mouse?	Comment capturer cette souris chapardeuse ?	DialogHintLineChapterTwo+<Option19>d__68	MoveNext
+172	Chiselton	You probably don't want to grab it with your bare hands. Find some protection!	Vous n'avez pas envie de la choper à mains nues. Trouvez une protection !	DialogHintLineChapterTwo+<Option19>d__68	MoveNext
+173	Chiselton	You probably don't want to grab it with your bare hands. Do you have anything that can provide you with protection?	Évitez les mains nues. Avez-vous de quoi vous protéger ?	DialogHintLineChapterTwo+<Option19>d__68	MoveNext
+174	Chiselton	You shouldn't use your bare hands. You should secure yourself a pair of gloves.	Pas à mains nues. Dénichez-vous une bonne paire de gants.	DialogHintLineChapterTwo+<Option19a>d__69	MoveNext
+175	Chiselton	You shouldn't use your bare hands. Do you have any gloves to hand?	Pas à mains nues. Avez-vous des gants sous la main ?	DialogHintLineChapterTwo+<Option19a>d__69	MoveNext
+176	Chiselton	Check the kitchen for oven gloves, they should protect against any biting or scratching.	Cherchez des maniques en cuisine, elles vous éviteront morsures et griffures.	DialogHintLineChapterTwo+<Option19b>d__70	MoveNext
+177	Chiselton	Those oven gloves should protect against any biting or scratching.	Ces maniques de cuisine vous protégeront des morsures et des griffures.	DialogHintLineChapterTwo+<Option19b>d__70	MoveNext
+1896	Arthur	I've managed to capture the mouse, what's next?	J'ai capturé la souris, et maintenant ?	DialogHintLineChapterTwo+<Option20>d__71	MoveNext
+178	Chiselton	Have you told the chefs you've solved their mouse problem? I'm sure they'd be relieved.	Avez-vous annoncé aux chefs que leur problème était réglé ? Ils vont pousser un ouf de soulagement.	DialogHintLineChapterTwo+<Option20>d__71	MoveNext
+1897	Arthur	I've decoded the napkin, what should I do now?	J'ai décodé la serviette, que faire à présent ?	DialogHintLineChapterTwo+<Option21>d__72	MoveNext
+179	Chiselton	That number's gotta mean something. Have you taken another look around?	Ce numéro doit vouloir dire quelque chose. Avez-vous inspecté les lieux ?	DialogHintLineChapterTwo+<Option21>d__72	MoveNext
+180	Chiselton	Is it possible that the number matches a room number?	Ce numéro ne correspondrait-il pas à un numéro de cabine ?	DialogHintLineChapterTwo+<Option21a>d__73	MoveNext
+181	Chiselton	Heating the napkin revealed a room number, right?	Chauffer la serviette a fait apparaître un numéro de cabine, non ?	DialogHintLineChapterTwo+<Option21b>d__74	MoveNext
+182	Chiselton	Try sliding that napkin under the door.	Essayez de glisser cette serviette sous la porte.	DialogHintLineChapterTwo+<Option21b>d__74	MoveNext
+1900	Arthur	How do I get into Herman's room?	Comment entrer dans la chambre d'Herman ?	DialogHintLineChapterTwo+<Option24>d__81	MoveNext
+183	Chiselton	Herman's room? Using the right item will be key to getting in there!	La cabine d'Herman ? La bonne clé sera le sésame pour y pénétrer !	DialogHintLineChapterTwo+<Option24>d__81	MoveNext
+1901	Arthur	I need another hint about accessing Herman's room.	J'ai besoin d'un autre indice pour entrer dans la chambre d'Herman.	DialogHintLineChapterTwo+<Option24a>d__82	MoveNext
+1903	Arthur	I've located the will, but I can't reach it!	J'ai localisé le testament, mais je ne peux pas l'atteindre !	DialogHintLineChapterTwo+<Option25>d__84	MoveNext
+186	Chiselton	I don't think you'll be able to reach it with your bare hands!	Vous n'y arriverez pas avec vos bras seuls !	DialogHintLineChapterTwo+<Option25>d__84	MoveNext
+1904	Arthur	I need another hint about getting the will.	J'ai besoin d'un autre indice pour récupérer le testament.	DialogHintLineChapterTwo+<Option25a>d__85	MoveNext
+187	Chiselton	You might be able to fashion something to give you better reach.	Vous pourriez fabriquer une perche pour allonger votre portée.	DialogHintLineChapterTwo+<Option25a>d__85	MoveNext
+188	Chiselton	You can fashion a rudimentary hook with Lady Unterwald's walking stick and a bit of metal wire.	Bricolez un crochet de fortune avec la canne de Lady Unterwald et du fil de fer.	DialogHintLineChapterTwo+<Option25b>d__86	MoveNext
+190	Chiselton	You need something to secure that metal hook in place, got anything on you?	Il vous faut fixer solidement ce crochet. Avez-vous de quoi le maintenir ?	DialogHintLineChapterTwo+<Option26a>d__88	MoveNext
+191	Chiselton	Don't you have surgical tape on you? Use that to reinforce that hook you've made.	N'avez-vous pas du ruban chirurgical sur vous ? Utilisez-le pour consolider votre crochet.	DialogHintLineChapterTwo+<Option26b>d__89	MoveNext

@@ -1,0 +1,218 @@
+﻿Id	Character	English	French	Class	Method
+125	Bergmann	You're not with the tax office, are you?	Vous n'êtes pas du fisc, n'est-ce pas ?	CharacterBergmann+<OnInteractChapterFour>d__42	MoveNext
+1282	Herman	Certainly not!	Certainement pas !	CharacterBergmann+<OnInteractChapterFour>d__42	MoveNext
+133	Bergmann	Once the sale goes through, it shouldn't be my concern any longer.	Une fois la vente conclue, ce ne sera plus du tout mon problème.	CharacterBergmann+<OnInteractChapterFour>d__42	MoveNext
+134	Bergmann	Assuming everything goes to plan, of course.	Si tout se déroule comme prévu, bien entendu.	CharacterBergmann+<OnInteractChapterFour>d__42	MoveNext
+373	Herman	No, thank you! I'll best be going.	Non, merci ! Je ferais mieux de filer.	CharacterBergmann+<OnInteractChapterFourWearingDisguise>d__43	MoveNext
+652	Herman	Lady Unterwald?	Lady Unterwald ?	CharacterLadyUnterwald+<OnInteractChapterFour>d__3	MoveNext
+179	LadyUnterwald	Are you still here?	Vous êtes toujours là ?	CharacterLadyUnterwald+<OnInteractChapterFour>d__3	MoveNext
+43	Ron	Sorry, I'm not buying whatever it is you're selling.	Désolé, je n'achète rien de ce que vous vendez.	CharacterRon+<OnInteractChapterFour>d__15	MoveNext
+39	Susanne	It's you again!	Encore vous !	CharacterSusanne+<OnInteractChapterFourFirstOccurrence>d__15	MoveNext
+1158	Herman	I should probably leave you to it.	Je devrais sans doute vous laisser à vos affaires.	CharacterSusanne+<OnInteractChapterFourReachedHatchedAPlan>d__16	MoveNext
+1482	Herman	How can I find out the idol gesture?	Comment découvrir le geste de l'idole ?	DialogHintLineChapterFour+<Option1>d__5	MoveNext
+241	Chiselton	Keep an eye out for clues about the gestures Lady Unterwald might make.	Guettez les indices sur les gestes habituels de Lady Unterwald.	DialogHintLineChapterFour+<Option1>d__5	MoveNext
+1483	Herman	I need another hint about the idol gesture.	J'ai besoin d'un autre indice sur le geste de l'idole.	DialogHintLineChapterFour+<Option1a>d__6	MoveNext
+242	Chiselton	I'd start in The Order Of Idle Hands, does anything look out of place?	Je commencerais par l'Ordre des Mains Inactives. Y a-t-il quelque chose d'inhabituel ?	DialogHintLineChapterFour+<Option1a>d__6	MoveNext
+1484	Herman	I need another hint about the idol gesture.	J'ai besoin d'un autre indice sur le geste de l'idole.	DialogHintLineChapterFour+<Option1b>d__7	MoveNext
+243	Chiselton	There's a painting in The Order Of Idle Hands that seems to have been touched up. I wonder what they're hiding?	Il y a un tableau dans le repaire de l'Ordre qui a l'air d'avoir été retouché. Que peuvent-ils bien dissimuler ?	DialogHintLineChapterFour+<Option1b>d__7	MoveNext
+1485	Herman	I need another hint about the idol gesture.	J'ai besoin d'un autre indice sur le geste de l'idole.	DialogHintLineChapterFour+<Option1c>d__8	MoveNext
+244	Chiselton	You'd need a strong solvent to remove those layers of paint.	Il vous faudrait un solvant puissant pour décaper ces couches de peinture.	DialogHintLineChapterFour+<Option1c>d__8	MoveNext
+1486	Herman	I need another hint about the idol gesture.	J'ai besoin d'un autre indice sur le geste de l'idole.	DialogHintLineChapterFour+<Option1d>d__9	MoveNext
+245	Chiselton	The doctor carries surgical spirit in his briefcase, you could try that.	Le médecin transporte de l'alcool chirurgical dans sa sacoche, vous pourriez tester ça.	DialogHintLineChapterFour+<Option1d>d__9	MoveNext
+1487	Herman	I need another hint about the idol gesture.	J'ai besoin d'un autre indice sur le geste de l'idole.	DialogHintLineChapterFour+<Option1e>d__10	MoveNext
+246	Chiselton	Pinch a napkin from the bar, apply some surgical spirit to it, and then figure out what's under that painting.	Chipez une serviette au bar, imbibez-la d'alcool chirurgical et découvrez ce qui se cache sous cette toile.	DialogHintLineChapterFour+<Option1e>d__10	MoveNext
+1488	Herman	How can I find out the idol engraving?	Comment trouver la gravure de l'idole ?	DialogHintLineChapterFour+<Option2>d__11	MoveNext
+247	Chiselton	Seems like it's got something to do with Lady Unterwald, probably some mushy stuff.	On dirait que ça a un rapport avec Lady Unterwald, sûrement une déclaration sentimentale.	DialogHintLineChapterFour+<Option2>d__11	MoveNext
+1489	Herman	I need another hint about the idol engraving.	J'ai besoin d'un autre indice sur la gravure de l'idole.	DialogHintLineChapterFour+<Option2a>d__12	MoveNext
+248	Chiselton	Have you checked everything in the lobby outside Lady Unterwald's room?	Avez-vous bien inspecté le vestibule devant la chambre de Lady Unterwald ?	DialogHintLineChapterFour+<Option2a>d__12	MoveNext
+1490	Herman	I need another hint about the idol engraving.	J'ai besoin d'un autre indice sur la gravure de l'idole.	DialogHintLineChapterFour+<Option2b>d__13	MoveNext
+249	Chiselton	The model railway in the lobby was dedicated to Lady Unterwald.	Le train miniature dans le vestibule a été dédié à Lady Unterwald.	DialogHintLineChapterFour+<Option2b>d__13	MoveNext
+1491	Herman	How can I get Mr Masson to vote in the club?	Comment faire voter M. Masson au club ?	DialogHintLineChapterFour+<Option3>d__14	MoveNext
+250	Chiselton	He's pretty unresponsive after drinking that Rosebud, you'll need to snap him out of his stupor.	Il ne réagit plus à grand-chose après son Rosebud. Vous allez devoir le sortir de sa léthargie.	DialogHintLineChapterFour+<Option3>d__14	MoveNext
+251	Chiselton	A shock to his system may temporarily bring him to his senses.	Un bon choc thermique ou gustatif pourrait lui faire retrouver ses esprits.	DialogHintLineChapterFour+<Option3a>d__15	MoveNext
+252	Chiselton	If Mr Masson drank something potent enough, it may sober him up enough to vote!	Si M. Masson buvait quelque chose d'assez corsé, ça le dégriserait suffisamment pour voter !	DialogHintLineChapterFour+<Option3b>d__16	MoveNext
+253	Chiselton	Top up Mr Masson's glass with the spicy soup from the kitchen. I bet that'd get him talking again!	Remplissez le verre de M. Masson avec la soupe pimentée de la cuisine. Ça va lui délier la langue illico !	DialogHintLineChapterFour+<Option3c>d__17	MoveNext
+1495	Herman	I need to get the hearing horn repaired, any ideas?	Je dois faire réparer le cornet acoustique, une idée ?	DialogHintLineChapterFour+<Option4>d__18	MoveNext
+254	Chiselton	Ask the band about the hearing horn, I'm sure they'd be happy to help.	Demandez aux musiciens de l'orchestre, ils se feront une joie de vous aider.	DialogHintLineChapterFour+<Option4>d__18	MoveNext
+1496	Herman	I need to win at the knife game, but he's too good!	Je dois gagner au jeu du couteau, mais il est trop fort !	DialogHintLineChapterFour+<Option5>d__19	MoveNext
+255	Chiselton	Byron is skilled with a knife, but perhaps you could even the playing field.	Byron est très agile avec une lame, mais vous pourriez rétablir l'équilibre.	DialogHintLineChapterFour+<Option5>d__19	MoveNext
+1497	Herman	I need another hint about the knife game.	J'ai besoin d'un autre indice sur le jeu du couteau.	DialogHintLineChapterFour+<Option5a>d__20	MoveNext
+256	Chiselton	You have the knife, right? It's slippery business, but perhaps you could tamper with it.	Vous avez le couteau, n'est-ce pas ? C'est une affaire glissante, mais vous pourriez le saboter.	DialogHintLineChapterFour+<Option5a>d__20	MoveNext
+1498	Herman	I need another hint about the knife game.	J'ai besoin d'un autre indice sur le jeu du couteau.	DialogHintLineChapterFour+<Option5b>d__21	MoveNext
+257	Chiselton	If you can loosen Byron's grip on that knife, he'd surely slip up!	Si vous arrivez à faire perdre prise à Byron sur son couteau, il finira bien par gaffer !	DialogHintLineChapterFour+<Option5b>d__21	MoveNext
+1499	Herman	I need another hint about the knife game.	J'ai besoin d'un autre indice sur le jeu du couteau.	DialogHintLineChapterFour+<Option5c>d__22	MoveNext
+258	Chiselton	Mix the hand cream with the melted butter to create a slippery concoction. Then apply that to the knife!	Mélangez la crème pour les mains avec le beurre fondu pour faire une pâte bien glissante. Enduisez-en la lame !	DialogHintLineChapterFour+<Option5c>d__22	MoveNext
+1500	Herman	The band repaired the horn for me, now what?	L'orchestre a réparé le cornet, que faire maintenant ?	DialogHintLineChapterFour+<Option6>d__23	MoveNext
+259	Chiselton	Nice work. You should return the hearing horn to Arista now.	Beau travail. Vous devriez maintenant rapporter le cornet acoustique à Arista.	DialogHintLineChapterFour+<Option6>d__23	MoveNext
+1501	Herman	How can I get Arthur out of his room?	Comment puis-je faire sortir Arthur de sa cabine ?	DialogHintLineChapterFour+<Option7>d__24	MoveNext
+260	Chiselton	He's probably neck deep in paperwork, can you tamper with his room to get him out?	Il est sans doute submergé de dossiers. Pouvez-vous saboter quelque chose pour le déloger ?	DialogHintLineChapterFour+<Option7>d__24	MoveNext
+1502	Herman	I need another hint about distracting Arthur.	J'ai besoin d'un autre indice pour distraire Arthur.	DialogHintLineChapterFour+<Option7a>d__25	MoveNext
+261	Chiselton	If the lights went out, he'd probably struggle to get anything done.	Si les lumières s'éteignaient, il aurait bien du mal à continuer de travailler.	DialogHintLineChapterFour+<Option7a>d__25	MoveNext
+1503	Herman	I need another hint about distracting Arthur.	J'ai besoin d'un autre indice pour distraire Arthur.	DialogHintLineChapterFour+<Option7b>d__26	MoveNext
+262	Chiselton	There's an electrical panel in the sleeper carriage, open that up and see what you can do.	Il y a un tableau électrique dans le wagon-lits, ouvrez-le pour voir ce que vous pouvez faire.	DialogHintLineChapterFour+<Option7b>d__26	MoveNext
+1504	Herman	I need to get back into my room, what should I do?	Je dois regagner ma chambre, que faire ?	DialogHintLineChapterFour+<Option8>d__27	MoveNext
+263	Chiselton	If the door isn't an option, then the next best thing would be to get in through the window.	Si la porte est inaccessible, la meilleure option reste de passer par la fenêtre.	DialogHintLineChapterFour+<Option8>d__27	MoveNext
+1505	Herman	I need another hint about getting back in my room.	J'ai besoin d'un autre indice pour regagner ma chambre.	DialogHintLineChapterFour+<Option8a>d__28	MoveNext
+264	Chiselton	You could climb outside the train, but you wouldn't want to do it without the right footwear!	Vous pourriez escalader le toit du train, mais pas sans les chaussures adéquates !	DialogHintLineChapterFour+<Option8a>d__28	MoveNext
+1506	Herman	I need another hint about getting back in my room.	J'ai besoin d'un autre indice pour regagner ma chambre.	DialogHintLineChapterFour+<Option8b>d__29	MoveNext
+265	Chiselton	You'll need some proper suction to stay on top of the train. Think on your feet, Herman!	Il vous faudra une bonne adhérence pour tenir sur le toit. Soyez réactif, Herman !	DialogHintLineChapterFour+<Option8b>d__29	MoveNext
+1507	Herman	I need another hint about getting back in my room.	J'ai besoin d'un autre indice pour regagner ma chambre.	DialogHintLineChapterFour+<Option8c>d__30	MoveNext
+266	Chiselton	If you could make a set of suction boots, that would provide enough adhesion to safely walk along the carriage roof.	Si vous pouviez vous bricoler des bottes à ventouses, elles vous permettraient de marcher sans risque sur le toit des voitures.	DialogHintLineChapterFour+<Option8c>d__30	MoveNext
+1508	Herman	I need another hint about getting back in my room.	J'ai besoin d'un autre indice pour regagner ma chambre.	DialogHintLineChapterFour+<Option8d>d__31	MoveNext
+267	Chiselton	See if you can find a plunger or two. You could use them to whip up a pair of suction boots!	Voyez si vous pouvez dégoter une ou deux ventouses pour fabriquer des bottes adhérentes !	DialogHintLineChapterFour+<Option8d>d__31	MoveNext
+1509	Herman	I need another hint about getting back in my room.	J'ai besoin d'un autre indice pour regagner ma chambre.	DialogHintLineChapterFour+<Option8e>d__32	MoveNext
+268	Chiselton	There's a plunger in the kitchen, and another in the bathroom! You could use them to whip up a pair of suction boots!	Il y a une ventouse dans la cuisine et une autre dans les toilettes ! Vous pourriez vous en servir pour fabriquer des bottes à ventouse !	DialogHintLineChapterFour+<Option8e>d__32	MoveNext
+1510	Herman	I have the plunger boots, what now?	J'ai les bottes à ventouses, et maintenant ?	DialogHintLineChapterFour+<Option9>d__33	MoveNext
+269	Chiselton	Get to the back of the train and climb that ladder!	Filez à l'arrière du convoi et grimpez à cette échelle !	DialogHintLineChapterFour+<Option9>d__33	MoveNext
+1322	Herman	Are you still not performing on stage?	Vous n'êtes toujours pas sur scène ?	DialogTalkToBandChapterFour+<Option1>d__15	MoveNext
+11	BandSaxophone	Ah, we'll probably get back up there eventually.	Bah, on remontera probablement là-haut à l'occasion.	DialogTalkToBandChapterFour+<Option1>d__15	MoveNext
+15	BandDrummer	I'm still feeling mighty demoralised, personally!	Moi perso, j'ai toujours le moral dans les chaussettes !	DialogTalkToBandChapterFour+<Option1>d__15	MoveNext
+56	Byron	Your true-blue determination was truly inspiring, however.	Votre détermination sans faille nous a vraiment inspirés, cela dit.	DialogTalkToBandChapterFour+<Option1>d__15	MoveNext
+1323	Herman	Are you saying I managed to inspire you?	Vous voulez dire que j'ai réussi à vous inspirer ?	DialogTalkToBandChapterFour+<Option1a>d__16	MoveNext
+57	Byron	Too right! You took that knife like a champ.	Tout juste ! Vous avez encaissé ce coup de couteau comme un chef.	DialogTalkToBandChapterFour+<Option1a>d__16	MoveNext
+58	Byron	Barely batted an eye before you passed out!	Vous avez à peine cillé avant de tomber dans les pommes !	DialogTalkToBandChapterFour+<Option1a>d__16	MoveNext
+59	Byron	Say, I reckon a new song's a-brewing!	Dites, je sens qu'un nouveau morceau est en train de mijoter !	DialogTalkToBandChapterFour+<Option1a>d__16	MoveNext
+16	BandDrummer	Yeah, I can feel it!	Ouais, je le sens bien !	DialogTalkToBandChapterFour+<Option1a>d__16	MoveNext
+1324	Herman	A song about my bravery, you mean?	Une chanson sur ma bravoure, vous voulez dire ?	DialogTalkToBandChapterFour+<Option1a>d__16	MoveNext
+60	Byron	Yeah, Nah! Listen fellas, how about ''Butterfinger Blues''?	Euh, non ! Écoutez les gars, que diriez-vous du « Blues des doigts gourds » ?	DialogTalkToBandChapterFour+<Option1a>d__16	MoveNext
+27	BandDrummer	That's not bad. I was thinking ''Gutterblade Groove''?	Pas mal. Moi je pensais au « Groove de la lame d'égout » ?	DialogTalkToBandChapterFour+<Option1a>d__16	MoveNext
+12	BandSaxophone	''Slippin' Steel Symphony''?	La « Symphonie de l'acier glissant » ?	DialogTalkToBandChapterFour+<Option1a>d__16	MoveNext
+61	Byron	Yeah! Now you're talking!	Ouais ! Là, vous parlez !	DialogTalkToBandChapterFour+<Option1a>d__16	MoveNext
+1325	Herman	How's that song coming along?	Comment avance cette chanson ?	DialogTalkToBandChapterFour+<Option1b>d__17	MoveNext
+13	BandSaxophone	The creative juices are flowing now!	L'inspiration créative tourne à plein régime !	DialogTalkToBandChapterFour+<Option1b>d__17	MoveNext
+28	BandDrummer	It definitely has legs, I can see the potential!	Ça tient carrément la route, je vois tout le potentiel !	DialogTalkToBandChapterFour+<Option1b>d__17	MoveNext
+62	Byron	Yeah, right! It's gonna be a ripper of a song!	Carrément ! Ça va être un tube d'enfer !	DialogTalkToBandChapterFour+<Option1b>d__17	MoveNext
+1346	Herman	Where did you learn about Knifey Stab Stab?	Où avez-vous appris à jouer au Pique-doigts ?	DialogTalkToBandChapterFour+<Option2>d__18	MoveNext
+88	Byron	From me ma, of course! We used to play it all the time back home.	De ma maman, pardi ! On y jouait tout le temps à la maison.	DialogTalkToBandChapterFour+<Option2>d__18	MoveNext
+89	Byron	It was a riot! A real bonding moment, ya know!	Une vraie rigolade ! Rien de tel pour resserrer les liens familiaux !	DialogTalkToBandChapterFour+<Option2>d__18	MoveNext
+90	Byron	Would you believe that's the first time anyone's got hurt playing 'Knifey Stab Stab'?	Croiriez-vous que c'était la toute première fois que quelqu'un se blessait au Pique-doigts ?	DialogTalkToBandChapterFour+<Option2>d__18	MoveNext
+1347	Herman	I do find that hard to believe.	J'ai effectivement beaucoup de mal à le croire.	DialogTalkToBandChapterFour+<Option2>d__18	MoveNext
+91	Byron	Nah, yeah! Honest!	Si si, promis juré !	DialogTalkToBandChapterFour+<Option2>d__18	MoveNext
+92	Byron	Just a couple scratches here and there, of course!	Juste deux ou trois égratignures ici et là, évidemment !	DialogTalkToBandChapterFour+<Option2>d__18	MoveNext
+1326	Herman	Could you have a look at this horn? It's broken.	Pourriez-vous examiner ce cornet ? Il est abîmé.	DialogTalkToBandChapterFour+<Option2a>d__19	MoveNext
+64	Byron	Crikey, Is this a hearing aid?	Nom d'un chien, c'est une prothèse auditive ?	DialogTalkToBandChapterFour+<Option2a>d__19	MoveNext
+1327	Herman	It seems to produce a sound, regardless.	Il produit tout de même du son, quoi qu'il en soit.	DialogTalkToBandChapterFour+<Option2a>d__19	MoveNext
+65	Byron	Not any more, check out the reed on this! It's knackered mate.	Plus maintenant : mate un peu l'anche ! Elle est foutue, mon vieux.	DialogTalkToBandChapterFour+<Option2a>d__19	MoveNext
+14	BandSaxophone	I reckon you'll need a replacement reed.	Il va te falloir une anche de rechange.	DialogTalkToBandChapterFour+<Option2a>d__19	MoveNext
+1328	Herman	Do you have a spare? It's rather urgent.	En auriez-vous une en réserve ? C'est plutôt urgent.	DialogTalkToBandChapterFour+<Option2a>d__19	MoveNext
+15	BandSaxophone	I've only got the one, and I need it for my sax!	Je n'en ai qu'une seule et j'en ai besoin pour mon saxo !	DialogTalkToBandChapterFour+<Option2a>d__19	MoveNext
+1329	Herman	Couldn't I just borrow the reed? I'll bring it back!	Ne pourrais-je pas simplement vous l'emprunter ? Je la rapporterai !	DialogTalkToBandChapterFour+<Option2b>d__20	MoveNext
+16	BandSaxophone	You know it goes in your mouth, right? I don't think so.	Tu sais qu'on met ça dans la bouche, pas vrai ? Sûrement pas.	DialogTalkToBandChapterFour+<Option2b>d__20	MoveNext
+66	Byron	I tell ya what, how about another round of ‘Knifey, Stab, Stab'?	J'ai une idée : et si on se faisait une autre partie de Pique-doigts ?	DialogTalkToBandChapterFour+<Option2b>d__20	MoveNext
+1330	Herman	Uhh... I don't think that's such a good ide-	Euh... Je ne crois pas que ce soit une très bonne idé-	DialogTalkToBandChapterFour+<Option2b>d__20	MoveNext
+67	Byron	If you can beat me at ‘Knifey, Stab, Stab', we'll hand it over.	Si tu arrives à me battre au Pique-doigts, on te la donne.	DialogTalkToBandChapterFour+<Option2b>d__20	MoveNext
+17	BandSaxophone	Byron, what about my sax? I need it!	Byron, et mon saxophone ? J'en ai besoin !	DialogTalkToBandChapterFour+<Option2b>d__20	MoveNext
+68	Byron	The man said it was urgent, and we're not using it right now.	Le monsieur a dit que c'était urgent, et on ne joue pas pour l'instant.	DialogTalkToBandChapterFour+<Option2b>d__20	MoveNext
+1331	Herman	I accept your challenge, let's play Knifey, Stab, Stab!	Je relève le défi ! Jouons au Pique-doigts !	DialogTalkToBandChapterFour+<Option2c>d__21	MoveNext
+69	Byron	Good on ya, mate!	Bien joué, l'ami !	DialogTalkToBandChapterFour+<Option2c>d__21	MoveNext
+70	Byron	Uh... did you bring the knife back?	Euh... tu as rapporté le couteau au fait ?	DialogTalkToBandChapterFour+<Option2c>d__21	MoveNext
+71	Byron	It was embedded in yer hand, last I saw it!	Il était planté dans ta main la dernière fois que je l'ai vu !	DialogTalkToBandChapterFour+<Option2c>d__21	MoveNext
+1332	Herman	Not to worry, I have it right here!	Ne vous inquiétez pas, je l'ai sur moi !	DialogTalkToBandChapterFour+<Option2c>d__21	MoveNext
+1333	Herman	I'd like a rematch!	J'exige une revanche !	DialogTalkToBandChapterFour+<Option2d>d__22	MoveNext
+72	Byron	Back for more, eh?	Encore de la visite, hein ?	DialogTalkToBandChapterFour+<Option2d>d__22	MoveNext
+73	Byron	You must really want that mouthpiece!	Tu y tiens drôlement, à cet embout !	DialogTalkToBandChapterFour+<Option2d>d__22	MoveNext
+1334	Herman	Fancy another round of Knifey, Stab, Stab?	Ça vous dit une autre manche de Pique-doigts ?	DialogTalkToBandChapterFour+<Option2e>d__23	MoveNext
+74	Byron	This guy's a maniac!	Ce type est un grand malade !	DialogTalkToBandChapterFour+<Option2e>d__23	MoveNext
+29	BandDrummer	You got what you wanted already!	Tu as déjà obtenu ce que tu voulais !	DialogTalkToBandChapterFour+<Option2e>d__23	MoveNext
+18	BandSaxophone	We're just going to stick to card games from now on.	On va s'en tenir aux jeux de cartes dorénavant.	DialogTalkToBandChapterFour+<Option2e>d__23	MoveNext
+1335	Herman	Do you have any leads on your missing set list?	Avez-vous des pistes concernant votre liste de morceaux disparue ?	DialogTalkToBandChapterFour+<Option3a>d__25	MoveNext
+20	BandSaxophone	Not yet, but we'll find them!	Pas encore, mais on finira par trouver le coupable !	DialogTalkToBandChapterFour+<Option3a>d__25	MoveNext
+30	BandDrummer	Don't worry, they always return to the scene of the crime.	T'inquiète, le criminel revient toujours sur les lieux du crime.	DialogTalkToBandChapterFour+<Option3a>d__25	MoveNext
+1233	Herman	I'll leave you to your game.	Je vous laisse à votre partie.	DialogTalkToBandChapterFour+<Option4>d__26	MoveNext
+55	Byron	See ya around.	À plus tard.	DialogTalkToBandChapterFour+<Option4>d__26	MoveNext
+75	Byron	As the reigning champ, I'll go first.	En tant que champion en titre, j'ouvre le bal.	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasOrdinaryKnife>d__28	MoveNext
+76	Byron	Watch and learn!	Regardez et apprenez !	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasOrdinaryKnife>d__28	MoveNext
+0	BandSaxophone	Such speed!	Quelle rapidité !	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasOrdinaryKnife>d__28	MoveNext
+1	BandDrummer	Incredible control!	Une maîtrise prodigieuse !	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasOrdinaryKnife>d__28	MoveNext
+77	Byron	I'd like to see ya beat that!	J'aimerais bien te voir battre ça !	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasOrdinaryKnife>d__28	MoveNext
+1336	Herman	Alright, here goes nothing.	Très bien, à moi de jouer.	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasOrdinaryKnife>d__28	MoveNext
+32	BandDrummer	That was even slower than last time!	C'était encore plus lent que la dernière fois !	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasOrdinaryKnife>d__28	MoveNext
+78	BandDrummer	Unlucky, mate! Better luck next time.	Pas de chance, l'ami ! Plus de veine la prochaine fois.	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasOrdinaryKnife>d__28	MoveNext
+268	Herman	If I can't win playing by their rules, it's time to mix things up.	Si je ne peux pas gagner en respectant leurs règles, il est temps de brouiller les pistes.	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasOrdinaryKnife>d__28	MoveNext
+23	BandSaxophone	He's so fast!	Il est si rapide !	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+80	Byron	She's a slippery one!	Ça glisse drôlement !	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+33	BandDrummer	He's still got everything under cont-	Il garde tout sous contrô-	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+79	Byron	Woahh, Nelly!	Wouh là, doucement !	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+81	Byron	CRIKEY!	NOM DE DIEU !	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+82	Byron	That nearly went through me bleedin' hand!	Ça a failli me transpercer la main, bon sang de bois !	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+34	BandDrummer	I think we need to stop playing this game, Byron!	Je crois qu'on doit arrêter de jouer à ce jeu, Byron !	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+1337	Herman	So...does that mean I win?	Alors... est-ce que ça veut dire que j'ai gagné ?	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+83	Byron	You got me on a technicality, but it's fair dinkum.	Tu m'as eu sur un coup du sort, mais c'est réglo.	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+84	Byron	Fix the man's horn, he's won it fair and square.	Répare son cornet, il l'a gagné à la loyale.	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+25	BandSaxophone	Fine, give it here. I'll replace the reed.	Bon, donne-le-moi. Je vais changer l'anche.	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+26	BandSaxophone	There we go.	Et voilà le travail.	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+1338	Herman	Most appreciated.	C'est des plus appréciables.	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+85	Byron	Right, I think we should call it quits for now.	Bien, je crois qu'on ferait mieux d'en rester là.	DialogTalkToBandChapterFour+<OnStartKnifeGameRematchHasSlipperyKnife>d__29	MoveNext
+1339	Herman	Did Mr Liu come back in here?	M. Liu est-il revenu par ici ?	DialogTalkToBartenderChapterFour+<Option2>d__4	MoveNext
+85	Bartender	Jian? He was here earlier, but didn't stay long.	Jian ? Il était là tout à l'heure, mais il n'est pas resté longtemps.	DialogTalkToBartenderChapterFour+<Option2>d__4	MoveNext
+86	Bartender	Seemed to ask a lot of questions about Lady Unterwald.	Il avait l'air de poser un tas de questions sur Lady Unterwald.	DialogTalkToBartenderChapterFour+<Option2>d__4	MoveNext
+1192	Herman	What kind of questions?	Quel genre de questions ?	DialogTalkToBartenderChapterFour+<Option2>d__4	MoveNext
+87	Bartender	Her likes, dislikes, that kind of thing.	Ses goûts, ce qu'elle déteste, ce genre de détails.	DialogTalkToBartenderChapterFour+<Option2>d__4	MoveNext
+88	Bartender	Between you and me, I think he's smitten!	Entre vous et moi, je crois qu'il est tombé sous le charme !	DialogTalkToBartenderChapterFour+<Option2>d__4	MoveNext
+102	Bartender	Yeah I saw him, he seemed pretty annoyed.	Oui je l'ai vu, il avait l'air passablement énervé.	DialogTalkToBartenderChapterFour+<Option2a>d__5	MoveNext
+103	Bartender	He had the doctor in tow, I think he was trying to calm Jian down.	Il traînait le docteur avec lui, je crois qu'il essayait de calmer Jian.	DialogTalkToBartenderChapterFour+<Option2a>d__5	MoveNext
+104	Bartender	They went down the carriage, towards Lady Unterwald's quarters.	Ils sont descendus le long du wagon, en direction des quartiers de Lady Unterwald.	DialogTalkToBartenderChapterFour+<Option2a>d__5	MoveNext
+817	Herman	What can you tell me about the missing idol?	Que pouvez-vous me dire sur l'idole disparue ?	DialogTalkToHirschChapterFour+<Option1>d__3	MoveNext
+184	Hirsch	It's modelled after Lady Unterwald's own hands, I remember that much.	Elle est modelée d'après les mains de Lady Unterwald en personne, voilà tout ce dont je me souviens.	DialogTalkToHirschChapterFour+<Option1>d__3	MoveNext
+185	Hirsch	We haven't convened a formal meeting for some time, but I'm sure it'll turn up!	Nous n'avons pas tenu d'assemblée formelle depuis un bail, mais elle finira bien par réapparaître !	DialogTalkToHirschChapterFour+<Option1>d__3	MoveNext
+818	Herman	Is there anything else you can tell me about the missing idol?	Y a-t-il autre chose que vous puissiez me confier sur cette idole ?	DialogTalkToHirschChapterFour+<Option2>d__4	MoveNext
+186	Hirsch	Let's see. I remember the idol feeling heavy in my hands.	Voyons voir. Je me souviens qu'elle était particulièrement lourde en main.	DialogTalkToHirschChapterFour+<Option2>d__4	MoveNext
+187	Hirsch	There was definitely some weight to it!	Elle pesait assurément son pesant d'or !	DialogTalkToHirschChapterFour+<Option2>d__4	MoveNext
+819	Herman	Is this the hand idol you were looking for?	Est-ce bien l'idole que vous cherchiez ?	DialogTalkToHirschChapterFour+<Option3>d__5	MoveNext
+188	Hirsch	I believe that might be it! Hand it over to the fine gentlemen at the table.	Je crois bien que c'est elle ! Remettez-la à ces braves messieurs à la table.	DialogTalkToHirschChapterFour+<Option3>d__5	MoveNext
+820	Herman	What is this place, exactly?	Quel est cet endroit, exactement ?	DialogTalkToHirschChapterFour+<Option4>d__6	MoveNext
+189	Hirsch	We are... THE ORDER OF IDLE HANDS.	Nous sommes... L'ORDRE DES MAINS INACTIVES.	DialogTalkToHirschChapterFour+<Option4>d__6	MoveNext
+97	JianLiu	The name is appropriate. You can't get anything done!	Le nom est bien choisi : vous ne foutez jamais rien !	DialogTalkToHirschChapterFour+<Option4>d__6	MoveNext
+77	HandshakeLeader	Now, now, Mr Liu. We're all trying our best.	Allons, allons, monsieur Liu. Nous faisons tous de notre mieux.	DialogTalkToHirschChapterFour+<Option4>d__6	MoveNext
+821	Herman	The Order Of Idle Hands?	L'Ordre des Mains Inactives ?	DialogTalkToHirschChapterFour+<Option5>d__7	MoveNext
+190	Hirsch	Think of us as the guiding hand of the Unterwald empire.	Considérez-nous comme la main bienveillante qui guide l'empire Unterwald.	DialogTalkToHirschChapterFour+<Option5>d__7	MoveNext
+822	Herman	Listen, I don't do cults. Not again, not after last time.	Écoutez, je ne trempe pas dans les sectes. Plus jamais, pas après la dernière fois.	DialogTalkToHirschChapterFour+<Option5>d__7	MoveNext
+191	Hirsch	We exist only to protect Lady Unterwald's interests, and actively work to keep things running smoothly.	Notre seul but est de veiller aux intérêts de Lady Unterwald et d'assurer la bonne marche des affaires.	DialogTalkToHirschChapterFour+<Option5>d__7	MoveNext
+823	Herman	I see. It all seems a bit... theatrical?	Je vois. Tout cela semble un brin... théâtral ?	DialogTalkToHirschChapterFour+<Option5>d__7	MoveNext
+192	Hirsch	Yes, well... admittedly, we might have got a bit carried away.	Oui, bon... il est vrai qu'on s'est peut-être un peu laissé emporter.	DialogTalkToHirschChapterFour+<Option5>d__7	MoveNext
+824	Herman	What does Lady Unterwald think of the Order?	Qu'en pense Lady Unterwald ?	DialogTalkToHirschChapterFour+<Option6>d__8	MoveNext
+193	Hirsch	We decided it would be best if Lady Unterwald stayed unaware of our activities.	Nous avons estimé préférable qu'elle ignore tout de nos agissements.	DialogTalkToHirschChapterFour+<Option6>d__8	MoveNext
+825	Herman	Don't you think all this subterfuge risks undermining her?	Ne craignez-vous pas que ces manigances ne finissent par lui nuire ?	DialogTalkToHirschChapterFour+<Option6>d__8	MoveNext
+194	Hirsch	I want to be clear that Lady Unterwald still runs the show, we only wish to point her in the right direction.	Qu'il soit bien clair que Lady Unterwald reste seule maîtresse à bord ; nous nous contentons de lui montrer la voie.	DialogTalkToHirschChapterFour+<Option6>d__8	MoveNext
+195	Hirsch	I took a risk bringing you here, detective. I trust that you can be discreet? For all our sakes?	J'ai pris un risque en vous introduisant ici, détective. J'ose espérer que vous saurez tenir votre langue, dans notre intérêt à tous ?	DialogTalkToHirschChapterFour+<Option6>d__8	MoveNext
+827	Herman	What's Jian Liu doing here?	Que fabrique Jian Liu par ici ?	DialogTalkToHirschChapterFour+<Option7>d__9	MoveNext
+196	Hirsch	Jian is one of us, or at least he was. I thought he'd left our order some time ago.	Jian fait partie des nôtres, ou du moins il en faisait partie. Je croyais qu'il avait quitté nos rangs depuis longtemps.	DialogTalkToHirschChapterFour+<Option7>d__9	MoveNext
+197	Hirsch	Regardless, he's called for a formal meeting and we must abide.	Quoi qu'il en soit, il a réclamé une assemblée formelle et nous devons nous y plier.	DialogTalkToHirschChapterFour+<Option7>d__9	MoveNext
+828	Herman	Never mind!	Laissez tomber !	DialogTalkToHirschChapterFour+<Option8>d__10	MoveNext
+198	Hirsch	See you around, detective.	Au plaisir de vous croiser, détective.	DialogTalkToHirschChapterFour+<Option8>d__10	MoveNext
+1349	Herman	How can I get into Arthur's quarters?	Comment puis-je entrer dans la cabine d'Arthur ?	DialogTalkToLadyUnterwaldChapterFour+<Option1>d__3	MoveNext
+180	LadyUnterwald	Hm, maybe I shouldn't entrust such an important task to you.	Hmm, peut-être n'aurais-je pas dû vous confier une tâche d'une telle importance.	DialogTalkToLadyUnterwaldChapterFour+<Option1>d__3	MoveNext
+1350	Herman	I can do it, I just need a gentle reminder!	Je peux le faire, j'ai simplement besoin d'un petit rappel !	DialogTalkToLadyUnterwaldChapterFour+<Option1>d__3	MoveNext
+181	LadyUnterwald	There's a fusebox in the sleeper carriage. You might be able to lure him out that way!	Il y a une boîte à fusibles dans le wagon-lits. Vous pourriez l'attirer dehors par ce moyen !	DialogTalkToLadyUnterwaldChapterFour+<Option1>d__3	MoveNext
+1351	Herman	Understood!	Bien compris !	DialogTalkToLadyUnterwaldChapterFour+<Option1>d__3	MoveNext
+182	LadyUnterwald	And try to be discreet, will you? For heaven's sake.	Et tâchez d'être discret, bon sang de bois !	DialogTalkToLadyUnterwaldChapterFour+<Option1>d__3	MoveNext
+1352	Herman	This seems rather underhanded, perhaps we should just come clean?	Tout ceci me paraît bien sournois. Ne devrions-nous pas simplement avouer la vérité ?	DialogTalkToLadyUnterwaldChapterFour+<Option2>d__4	MoveNext
+183	LadyUnterwald	Don't you start getting all soft on me now, detective!	Ne commencez pas à vous dégonfler maintenant, détective !	DialogTalkToLadyUnterwaldChapterFour+<Option2>d__4	MoveNext
+184	LadyUnterwald	It's a temporary measure, we just need to tie up these loose ends.	C'est un arrangement provisoire, nous devons juste régler ces quelques détails.	DialogTalkToLadyUnterwaldChapterFour+<Option2>d__4	MoveNext
+1353	Herman	What about Jian's contact, aren't they going to be suspicious?	Et le contact de Jian, ne va-t-elle pas avoir des soupçons ?	DialogTalkToLadyUnterwaldChapterFour+<Option2a>d__5	MoveNext
+185	LadyUnterwald	If you do your job properly, she'll be none the wiser!	Si vous faites votre boulot correctement, elle n'y verra que du feu !	DialogTalkToLadyUnterwaldChapterFour+<Option2a>d__5	MoveNext
+1354	Herman	I'm not so sure about this, Lady Unterwald!	Je n'en suis pas si convaincu, Lady Unterwald !	DialogTalkToLadyUnterwaldChapterFour+<Option2b>d__6	MoveNext
+186	LadyUnterwald	You keep your mouth closed about this, Herman!	Vous gardez le silence absolu là-dessus, Herman !	DialogTalkToLadyUnterwaldChapterFour+<Option2b>d__6	MoveNext
+187	LadyUnterwald	Whatever your feelings on the matter, we don't know who's listening!	Quels que soient vos états d'âme, nous ignorons qui écoute aux portes !	DialogTalkToLadyUnterwaldChapterFour+<Option2b>d__6	MoveNext
+1355	Herman	It was an accident, you have to believe me!	C'était un pur accident, vous devez me croire !	DialogTalkToLadyUnterwaldChapterFour+<Option3>d__7	MoveNext
+189	LadyUnterwald	Do you think the authorities would find your story believable?	Pensez-vous sincèrement que les autorités goberaient une telle histoire ?	DialogTalkToLadyUnterwaldChapterFour+<Option3>d__7	MoveNext
+1356	Herman	Hm, perhaps not.	Hm, sans doute pas.	DialogTalkToLadyUnterwaldChapterFour+<Option3>d__7	MoveNext
+1357	Herman	I think I should get on with it.	Je crois que je devrais m'y mettre.	DialogTalkToLadyUnterwaldChapterFour+<Option4>d__8	MoveNext
+190	LadyUnterwald	Make sure you get the job done!	Assurez-vous de mener la mission à bien !	DialogTalkToLadyUnterwaldChapterFour+<Option4>d__8	MoveNext
+1348	Herman	What's next for Balboa Swing?	Quel est l'avenir pour Balboa Swing ?	DialogTalkToSusanneChapterFour+<Option1>d__11	MoveNext
+177	Susanne	Hmm. I don't put an awful lot of faith in planning, myself.	Hmm. Je ne fais pas grand cas des plans d'avenir, personnellement.	DialogTalkToSusanneChapterFour+<Option1>d__11	MoveNext
+178	Susanne	More often than not it seems you'll just end up disappointed.	La plupart du temps, on ne récolte que des déceptions.	DialogTalkToSusanneChapterFour+<Option1>d__11	MoveNext
+179	Susanne	I'm happy to keep making hay while the sun shines.	Je préfère battre le fer tant qu'il est chaud et vivre au jour le jour.	DialogTalkToSusanneChapterFour+<Option1>d__11	MoveNext
+1341	Herman	Could you have a look at this horn? It's broken.	Pourriez-vous examiner ce cornet ? Il est abîmé.	DialogTalkToSusanneChapterFour+<Option1a>d__12	MoveNext
+168	Susanne	I wouldn't know anything about that, you'd be better off asking the band.	Je n'y connais rien du tout, vous feriez mieux de demander aux musiciens.	DialogTalkToSusanneChapterFour+<Option1a>d__12	MoveNext
+1342	Herman	I really need that mouthpiece!	J'ai un besoin impératif de cet embout !	DialogTalkToSusanneChapterFour+<Option1b>d__13	MoveNext
+169	Susanne	You're not winning on skill alone, looks like you'll need to elevate your chances!	Tu ne gagneras pas au talent pur, on dirait bien qu'il va falloir forcer un peu la chance !	DialogTalkToSusanneChapterFour+<Option1b>d__13	MoveNext
+1343	Narrator/Unknown	Do you think you could put in a good word for me with Beverly Moore?	Pensez-vous pouvoir glisser un mot en ma faveur auprès de Beverly Moore ?	DialogTalkToSusanneChapterFour+<Option2b>d__16	MoveNext
+170	Narrator/Unknown	I can certainly try!	Je peux toujours essayer !	DialogTalkToSusanneChapterFour+<Option2b>d__16	MoveNext
+171	Narrator/Unknown	She's not so easily persuaded, I think she prefers to go with her gut.	Elle n'est pas facile à convaincre, elle marche plutôt au coup de cœur.	DialogTalkToSusanneChapterFour+<Option2b>d__16	MoveNext
+1344	Narrator/Unknown	Are you going to sing yet?	Allez-vous enfin chanter ?	DialogTalkToSusanneChapterFour+<Option3>d__17	MoveNext
+172	Susanne	I'll sing alright, but I need my boys on stage with me.	Je chanterai bien volontiers, mais j'ai besoin de mes musiciens sur scène.	DialogTalkToSusanneChapterFour+<Option3>d__17	MoveNext
+41	Byron	Sorry Suze, we're still fuming about our missing set list!	Désolé Suze, on est toujours furax pour notre liste de morceaux volée !	DialogTalkToSusanneChapterFour+<Option3>d__17	MoveNext
+86	Byron	Sorry Suze, we're still fuming about our missing set list!	Désolé Suze, on est toujours furax pour notre liste de morceaux volée !	DialogTalkToSusanneChapterFour+<Option3>d__17	MoveNext
+1345	Narrator/Unknown	Do you think you'll return to the stage soon?	Pensez-vous remonter sur scène d'ici peu ?	DialogTalkToSusanneChapterFour+<Option3a>d__18	MoveNext
+87	Byron	Sorry Suze, we're still working out this new song!	Désolé Suze, on est encore en train de peaufiner notre nouveau morceau !	DialogTalkToSusanneChapterFour+<Option3a>d__18	MoveNext

@@ -1,0 +1,362 @@
+720	Arthur	Hello, I'm Arthur Ackerman.		CharacterArista+<OnInteractActOneFirstOccurrence>d__17	MoveNext
+67	Arista	YOU'LL HAVE TO SPEAK UP, DEAR!		CharacterArista+<OnInteractActOneFirstOccurrence>d__17	MoveNext
+68	Arista	I'm a little hard of hearing, you see.		CharacterArista+<OnInteractActOneFirstOccurrence>d__17	MoveNext
+721	Arthur	Sorry, I'm Arthur Ackerman!		CharacterArista+<OnInteractActOneFirstOccurrence>d__17	MoveNext
+69	Arista	WHO'S THAT?		CharacterArista+<OnInteractActOneFirstOccurrence>d__17	MoveNext
+722	Arthur	It's me! I'm an attorney at law!		CharacterArista+<OnInteractActOneFirstOccurrence>d__17	MoveNext
+70	Arista	YOU'RE A TERRIBLE BORE?		CharacterArista+<OnInteractActOneFirstOccurrence>d__17	MoveNext
+723	Arthur	Are you doing this on purpose?		CharacterArista+<OnInteractActOneFirstOccurrence>d__17	MoveNext
+71	Arista	Hehe, who's to say?		CharacterArista+<OnInteractActOneFirstOccurrence>d__17	MoveNext
+72	Arista	Now, what is it you want?		CharacterArista+<OnInteractActOneFirstOccurrence>d__17	MoveNext
+1072	Arthur	Hello again.		CharacterArista+<OnInteractActOne>d__18	MoveNext
+73	Arista	What is it you want, Arthur?		CharacterArista+<OnInteractActOne>d__18	MoveNext
+707	Arthur	Waasch schup?		CharacterBergmann+<OnInteractActOneDrunk>d__38	MoveNext
+41	Bergmann	Sorry old chap!		CharacterBergmann+<OnInteractActOneDrunk>d__38	MoveNext
+42	Bergmann	Can't understand a word!		CharacterBergmann+<OnInteractActOneDrunk>d__38	MoveNext
+724	Arthur	Hello!		CharacterBergmann+<OnInteractActOneFirstOccurence>d__39	MoveNext
+43	Bergmann	Ah, Ackerman, isn't it?		CharacterBergmann+<OnInteractActOneFirstOccurence>d__39	MoveNext
+725	Arthur	Arthur A. Ackerman, at your service.		CharacterBergmann+<OnInteractActOneFirstOccurence>d__39	MoveNext
+44	Bergmann	I'm Kasper Bergmann, the treasurer of the Lady Unterwald estate.		CharacterBergmann+<OnInteractActOneFirstOccurence>d__39	MoveNext
+45	Bergmann	Can you believe it, Arthur? What a messy state of affairs we've found ourselves in.		CharacterBergmann+<OnInteractActOneFirstOccurence>d__39	MoveNext
+729	Arthur	My feelings exactly.		CharacterBergmann+<OnInteractActOneFirstOccurence>d__39	MoveNext
+46	Bergmann	Is there something I can help you with?		CharacterBergmann+<OnInteractActOneFirstOccurence>d__39	MoveNext
+47	Bergmann	Hello again, Arthur.		CharacterBergmann+<OnInteractActOne>d__40	MoveNext
+48	Bergmann	How can I help you?		CharacterBergmann+<OnInteractActOne>d__40	MoveNext
+731	Arthur	What do you make of this ledger, Bergmann?		CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+63	Bergmann	Wh- Where did you get that!		CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+732	Arthur	I found it sealed away in the bottom of a locked drawer.		CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+64	Bergmann	H- How peculiar! I've never seen that before in my life!		CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+733	Arthur	Really? Then we should pass this to the authorities when they arrive.		CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+65	Bergmann	No!		CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+734	Arthur	I'd bet if they were to audit this ledger, the numbers wouldn't add up.		CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+66	Bergmann	Listen, Arthur. I'm in a bit of a bind here.		CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+67	Bergmann	Ashamed to say, I've fallen in with a rather unscrupulous individual.		CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+1173	Arthur	Are you talking about Donny Donato?		CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+68	Bergmann	I'm afraid so.		CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+69	Bergmann	They managed to exploit my weakness, don't you see?		CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+70	Bergmann	I'm a victim in all this, Arthur!		CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+1175	Arthur	It's time to come clean. What's going on?		CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+71	Bergmann	It's Donny. He's concocted a scheme to cheat at the casino tables.		CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+72	Bergmann	We need to stop him, Arthur. I can't afford to lose more of the estate's money.		CharacterBergmann+<OnInteractActOneConfrontBergmann>d__49	MoveNext
+233	Diana	I can't understand you, sorry.		CharacterDiana+<OnInteractActOneDrunk>d__18	MoveNext
+234	Diana	Did you find anything yet, Arthur?		CharacterDiana+<OnInteractActOneBeforeGivingEvidence>d__19	MoveNext
+235	Diana	We need to get that will back, Arthur.		CharacterDiana+<OnInteractActOneAfterGivingEvidence>d__20	MoveNext
+236	Diana	Keep your guard up.		CharacterDiana+<OnInteractActOneAfterGivingEvidence>d__20	MoveNext
+237	Diana	I'll monitor the situation from here.		CharacterDiana+<OnInteractActOneAfterGivingEvidence>d__20	MoveNext
+238	Diana	We need to look into this further, Arthur.		CharacterDiana+<OnInteractActOneAfterPhoneCall>d__21	MoveNext
+213	Arthur	Well, I've got Herman's keys.		CharacterDiana+<OnInteractActOneAfterPhoneCall>d__21	MoveNext
+214	Arthur	Maybe we can look for evidence in his room?		CharacterDiana+<OnInteractActOneAfterPhoneCall>d__21	MoveNext
+241	Diana	The will is still missing.		CharacterDiana+<OnInteractActOneHermanQuartersMissingWill>d__22	MoveNext
+242	Diana	Have you seen it anywhere, Arthur?		CharacterDiana+<OnInteractActOneHermanQuartersMissingWill>d__22	MoveNext
+239	Diana	The missing will was here all along.		CharacterDiana+<OnInteractActOneHermanQuartersWindowWill>d__23	MoveNext
+240	Diana	Better grab it before we lose it again, Arthur.		CharacterDiana+<OnInteractActOneHermanQuartersWindowWill>d__23	MoveNext
+255	Diana	No, thanks!		CharacterDiana+<OnUseInvDianaActOneSleeperCarriage>d__31	MoveNext
+253	Diana	What is this?		CharacterDiana+<OnUseInvDianaActOneSleeperCarriage>d__31	MoveNext
+254	Diana	Not here.		CharacterDiana+<OnUseInvDianaActOneSleeperCarriage>d__31	MoveNext
+314	Diana	I really don't want to touch that.		CharacterDiana+<OnUseInvDianaActOneDianaQuarters>d__32	MoveNext
+256	Diana	You hang on to it, Arthur.		CharacterDiana+<OnUseInvDianaActOneHermanQuarters>d__33	MoveNext
+0	Guard	Sorry, sir. The lounge and beyond are strictly off limits for now.		CharacterGuard+<OnInteractActOneHaltSequence>d__6	MoveNext
+633	Arthur	But there's a killer on the loose!		CharacterGuard+<OnInteractActOneHaltSequence>d__6	MoveNext
+634	Arthur	I'm the only one who had access to Lady Unterwald's will. I could be next!		CharacterGuard+<OnInteractActOneHaltSequence>d__6	MoveNext
+1	Guard	No exceptions.		CharacterGuard+<OnInteractActOneHaltSequence>d__6	MoveNext
+1076	Arthur	Sorry about Lady Unterwald.		CharacterGunter+<OnInteractActOneChapterOneFirstOccurrence>d__19	MoveNext
+66	Gunter	What do you want, Arthur?		CharacterGunter+<OnInteractActOneChapterOneFirstOccurrence>d__19	MoveNext
+1077	Arthur	Hello there.		CharacterGunter+<OnInteractActOneChapterOne>d__20	MoveNext
+1527	Arthur	What's going on?		CharacterGunter+<OnInteractActOneChapterTwoSleeperCarriageFirstOccurrence>d__23	MoveNext
+134	Hagen	Ahh! Nothing!		CharacterGunter+<OnInteractActOneChapterTwoSleeperCarriageFirstOccurrence>d__23	MoveNext
+147	Gunter	Nobody has seen Herman since he vanished.		CharacterGunter+<OnInteractActOneChapterTwoSleeperCarriageFirstOccurrence>d__23	MoveNext
+135	Hagen	We're very concerned for his well-being!		CharacterGunter+<OnInteractActOneChapterTwoSleeperCarriageFirstOccurrence>d__23	MoveNext
+148	Gunter	Now, if you'll excuse us, we're going to check his room.		CharacterGunter+<OnInteractActOneChapterTwoSleeperCarriageFirstOccurrence>d__23	MoveNext
+1528	Arthur	How's the breaking and entering going?		CharacterGunter+<OnInteractActOneChapterTwoSleeperCarriage>d__24	MoveNext
+146	Gunter	Not now, Arthur! We're trying to concentrate!		CharacterGunter+<OnInteractActOneChapterTwoSleeperCarriage>d__24	MoveNext
+69	Gunter	You're scaring me!		CharacterGunter+<OnInteractActOneDrunk>d__25	MoveNext
+59	Hagen	He's scaring me more!		CharacterGunter+<OnInteractActOneDrunk>d__25	MoveNext
+735	Arthur	Not thissh again.		CharacterGunter+<OnInteractActOneDrunk>d__25	MoveNext
+717	Arthur	How are you holding up, doc?		CharacterHirsch+<OnInteractActOneChapterOneFirstOccurrence>d__14	MoveNext
+1446	Arthur	Doctor?		CharacterHirsch+<OnInteractActOneChapterOneFirstOccurrence>d__14	MoveNext
+719	Arthur	I think he's too distraught to talk right now.		CharacterHirsch+<OnInteractActOneChapterOneFirstOccurrence>d__14	MoveNext
+213	Hirsch	I really thought Herman would be able to help us.		CharacterHirsch+<OnInteractActOneChapterOneCallout>d__16	MoveNext
+214	Hirsch	Forgive me, Lady Unterwald! I let you down.		CharacterHirsch+<OnInteractActOneChapterOneCallout>d__16	MoveNext
+215	Hirsch	I should have done something!		CharacterHirsch+<OnInteractActOneChapterOneCallout>d__16	MoveNext
+216	Hirsch	Pull yourself together!		CharacterHirsch+<OnInteractActOneChapterOneCallout>d__16	MoveNext
+217	Hirsch	There's nothing I could've done!		CharacterHirsch+<OnInteractActOneChapterOneCallout>d__16	MoveNext
+53	Hirsch	My god! Are you okay, Arthur?		CharacterHirsch+<OnInteractActOneChapterTwoDrunk>d__17	MoveNext
+63	Hirsch	How can I help, Arthur?		CharacterHirsch+<OnInteractActOneChapterTwoFirstOccurrence>d__18	MoveNext
+0	Maurice	Good evening, sir.		CharacterMaurice+<OnInteractActOne>d__5	MoveNext
+1	Maurice	Very good, sir.		CharacterMaurice+<OnInteractActOneDrunk>d__7	MoveNext
+1	Ron	The name's Ron.		CharacterRon+<OnInteractActOneFirstOccurrence>d__11	MoveNext
+751	Arthur	I'm Arthur Ackerman!		CharacterRon+<OnInteractActOneFirstOccurrence>d__11	MoveNext
+2	Ron	Can I help you, Arthur?		CharacterRon+<OnInteractActOneFirstOccurrence>d__11	MoveNext
+8	Susanne	I can't understand you, Arthur.		CharacterSusanne+<OnInteractActOneDrunk>d__9	MoveNext
+700	Arthur	Arthur Ackerman, at your service.		CharacterSusanne+<OnInteractActOne>d__10	MoveNext
+10	Susanne	Susanne Goldschmidt.		CharacterSusanne+<OnInteractActOne>d__10	MoveNext
+13	Susanne	Do you need anything?		CharacterSusanne+<OnInteractActOne>d__10	MoveNext
+14	Susanne	I heard about Lady Unterwald.		CharacterSusanne+<OnInteractActOne>d__10	MoveNext
+701	Arthur	Not at the moment!		CharacterSusanne+<OnInteractActOne>d__10	MoveNext
+15	Susanne	Until next time.		CharacterSusanne+<OnInteractActOne>d__10	MoveNext
+1098	Arthur	Lady Unterwald was murdered! What should I do?		DialogHintLineChapterOne+<Option1>d__5	MoveNext
+12	Chiselton	Sorry to hear that, pal. If you suspect foul play, you could talk to the other passengers? Search around for clues, maybe?		DialogHintLineChapterOne+<Option1>d__5	MoveNext
+1099	Arthur	I need another hint, what should I do!		DialogHintLineChapterOne+<Option1a>d__6	MoveNext
+13	Chiselton	Have you tried talking to everybody aboard the train? Searching Lady Unterwald's quarters might yield some results.		DialogHintLineChapterOne+<Option1a>d__6	MoveNext
+14	Chiselton	Head to Lady Unterwald's quarters, you might find some clues there!		DialogHintLineChapterOne+<Option1b>d__7	MoveNext
+97	Chiselton	Talk to the sleazy gentleman in the dining carriage, then follow his instructions.		DialogHintLineChapterOne+<Option1c>d__8	MoveNext
+1101	Arthur	I need to get into Lady Unterwald's room!		DialogHintLineChapterOne+<Option2>d__9	MoveNext
+15	Chiselton	Looks like you'll have to get past the guard first. Can you distract them somehow?		DialogHintLineChapterOne+<Option2>d__9	MoveNext
+1102	Arthur	I need another hint, how can I get past the guard?		DialogHintLineChapterOne+<Option2a>d__10	MoveNext
+16	Chiselton	Maybe you could convince them to leave their post. Do they have a weakness for anything?		DialogHintLineChapterOne+<Option2a>d__10	MoveNext
+17	Chiselton	The guard suffers from a fragrance allergy. Can you find something that would trigger it?		DialogHintLineChapterOne+<Option2b>d__11	MoveNext
+98	Chiselton	There's a sleazy gentleman in the dining carriage who may have what you need.		DialogHintLineChapterOne+<Option2c>d__12	MoveNext
+99	Chiselton	Get the perfumed note off the sleazy gentleman in the dining carriage. It should be potent enough to deal with the guard.		DialogHintLineChapterOne+<Option2d>d__13	MoveNext
+1107	Arthur	I've lost the will, how can I get it back?		DialogHintLineChapterOne+<Option3>d__14	MoveNext
+21	Chiselton	Have you spotted it? The will might be flapping about somewhere.		DialogHintLineChapterOne+<Option3>d__14	MoveNext
+1108	Arthur	I need another hint about the will.		DialogHintLineChapterOne+<Option3a>d__15	MoveNext
+22	Chiselton	Explore all the carriages, you might be able to grab it!		DialogHintLineChapterOne+<Option3a>d__15	MoveNext
+23	Chiselton	If you explore the carriages, you should be able to find it in the window!		DialogHintLineChapterOne+<Option3b>d__16	MoveNext
+1110	Arthur	I tried to get the will back, but it flew away!		DialogHintLineChapterOne+<Option4>d__17	MoveNext
+24	Chiselton	There's a chance it flew by the sleeper carriage. Those rooms are locked though!		DialogHintLineChapterOne+<Option4>d__17	MoveNext
+25	Chiselton	You'll have to gain access to passengers' quarters before you can get to the will.		DialogHintLineChapterOne+<Option4a>d__18	MoveNext
+26	Chiselton	You'll need to access Herman's quarters, too bad he lost his keys!		DialogHintLineChapterOne+<Option4b>d__19	MoveNext
+1113	Arthur	I found some keys, what should I do next?		DialogHintLineChapterOne+<Option5>d__20	MoveNext
+27	Chiselton	Could you return those keys to their rightful owner?		DialogHintLineChapterOne+<Option5>d__20	MoveNext
+1114	Arthur	I need another hint about the keys.		DialogHintLineChapterOne+<Option5a>d__21	MoveNext
+28	Chiselton	Those look like room keys. Can you locate the room number?		DialogHintLineChapterOne+<Option5a>d__21	MoveNext
+29	Chiselton	Those are Don's keys. Maybe find the right room and drop them off?		DialogHintLineChapterOne+<Option5b>d__22	MoveNext
+1116	Arthur	Where can I find Bergmann's ledger?		DialogHintLineChapterOne+<Option6>d__23	MoveNext
+30	Chiselton	It sounds like Bergmann hid the ledger in a safe space.		DialogHintLineChapterOne+<Option6>d__23	MoveNext
+1117	Arthur	I need another hint about the ledger.		DialogHintLineChapterOne+<Option6a>d__24	MoveNext
+31	Chiselton	The ledger is hidden in Lady Unterwald's quarters. But where?		DialogHintLineChapterOne+<Option6a>d__24	MoveNext
+32	Chiselton	Did you try looking in Lady Unterwald's desk drawer?		DialogHintLineChapterOne+<Option6b>d__25	MoveNext
+1825	Arthur	Lady Unterwald's drawer is locked, what do I do?		DialogHintLineChapterOne+<Option7>d__26	MoveNext
+100	Chiselton	Perhaps you can find something to wedge it open?		DialogHintLineChapterOne+<Option7>d__26	MoveNext
+1826	Arthur	I need another hint about the desk drawer.		DialogHintLineChapterOne+<Option7a>d__27	MoveNext
+101	Chiselton	I'll bet you could fit something thin and metal in between the gap.		DialogHintLineChapterOne+<Option7a>d__27	MoveNext
+102	Chiselton	If you wedged a metal hanger in there, I bet it'd open!		DialogHintLineChapterOne+<Option7b>d__28	MoveNext
+1828	Arthur	I found the ledger, what should I do with it?		DialogHintLineChapterOne+<Option8>d__29	MoveNext
+103	Chiselton	You could use that ledger to apply some pressure, no doubt.		DialogHintLineChapterOne+<Option8>d__29	MoveNext
+104	Chiselton	If Bergmann's been cooking the books, he wouldn't be too pleased to see that.		DialogHintLineChapterOne+<Option8a>d__30	MoveNext
+105	Chiselton	I'd confront Bergmann with it, let's see what he has to say for himself then!		DialogHintLineChapterOne+<Option8b>d__31	MoveNext
+1119	Arthur	How do I stop Don's scheme?		DialogHintLineChapterOne+<Option9>d__32	MoveNext
+33	Chiselton	Have you observed Don at the roulette table? How is he manipulating the result?		DialogHintLineChapterOne+<Option9>d__32	MoveNext
+1120	Arthur	I need another hint to stop Don's scheme!		DialogHintLineChapterOne+<Option9a>d__33	MoveNext
+34	Chiselton	Don's rigged the game with a magnetic ball. Can you disrupt the magnetic field?		DialogHintLineChapterOne+<Option9a>d__33	MoveNext
+35	Chiselton	A well-placed magnet of your own would likely throw off Don's scheme!		DialogHintLineChapterOne+<Option9b>d__34	MoveNext
+1122	Arthur	How do I stop Don getting more casino chips?		DialogHintLineChapterOne+<Option10>d__35	MoveNext
+36	Chiselton	He must be getting them from somewhere! Is there a way to find out?		DialogHintLineChapterOne+<Option10>d__35	MoveNext
+1123	Arthur	I need another hint to stop Don getting chips!		DialogHintLineChapterOne+<Option10a>d__36	MoveNext
+37	Chiselton	It looks like Don heads for his quarters, maybe you can beat him to it?		DialogHintLineChapterOne+<Option10a>d__36	MoveNext
+38	Chiselton	When Don leaves the table, get to his room before he does!		DialogHintLineChapterOne+<Option10b>d__37	MoveNext
+1125	Arthur	That's enough hints for now.		DialogHintLineChapterOne+<Option11>d__38	MoveNext
+833	Arthur	It's Doctor Hirsch's medical bag. I assume it's full of doctorly things.		InventoryMedicalBriefcase+<OnLookAtInventoryActOne>d__1	MoveNext
+419	Diana	April, are you there?		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+40	April	Diana?		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+41	April	What took you so long? I was starting to worry!		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+425	Diana	I have to go. I'll keep you updated.		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+45	April	Diana, abort! Abort the mission!		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+426	Diana	So, you finally made it.		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+427	Diana	I was beginning to doubt your abilities!		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+284	Arthur	You didn't make it easy!		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+285	Arthur	Were you talking to someone in here?		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+428	Diana	No. And that's none of your concern.		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+286	Arthur	Well, what can you tell me?		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+429	Diana	Hm, you're right. A proper introduction is in order.		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+430	Diana	Diana Osterhagen, Inland Revenue Secret Service.		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+431	Diana	I'm a field operative, working under the British Government.		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+386	Arthur	The Inland Revenue has a Secret Service branch? I've never heard of them.		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+432	Diana	That's the point, Arthur.		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+433	Diana	We've suspected the Unterwald estate has been concealing financial crimes for some time, but we weren't able to pin them down.		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+434	Diana	There was always an obstruction, someone with their thumb on the scale.		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+387	Arthur	Not just a thumb, but maybe a hand.		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+435	Diana	We had nothing to go on, not until an informant made contact with the promise of information.		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+393	Arthur	And...		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+394	Arthur	You think I'm that informant?		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+436	Diana	The informant would be wearing a blue suit with a red rosette.		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+437	Diana	Are you suggesting that doesn't match your description?		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+649	Arthur	The suit? Of course.		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+650	Arthur	Lady Unterwald must have orchestrated this whole thing!		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+438	Diana	What's that?		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+651	Arthur	Nothing! I was just thinking out loud.		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+439	Diana	So, what have you got? Do you have evidence of financial misconduct?		RoomDianaQuarters+<OnEnterRoomAfterFadeActOneRendezvousWithDiana>d__14	MoveNext
+28	Diana	Herman's belongings are still here. It doesn't look like he fled.		RoomHermanQuarters+<OnEnterRoomAfterFadeActOneEnterWithDiana>d__19	MoveNext
+29	Diana	Let's take a look around, maybe we'll find a clue.		RoomHermanQuarters+<OnEnterRoomAfterFadeActOneEnterWithDiana>d__19	MoveNext
+134	Arthur	I got it!		RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+10	Diana	Well done, Arthur!		RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+135	Arthur	Where there's a will, there's a way!		RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+0	Gunter	Hellooo?		RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+0	Hagen	Is that you, detective?		RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+1	Gunter	Hey, you're not Herman!		RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+1	Hagen	What are you doing here?		RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+136	Arthur	We were just...		RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+11	Diana	We could ask you the same question.		RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+2	Gunter	We were looking for the detective.		RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+2	Hagen	Wait, what's that you're holding?		RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+137	Arthur	This is just a piece of paper, all very inconsequential.		RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+3	Hagen	You found the missing will?		RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+4	Hagen	We can do the reading now, Mr Ackerman!		RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+138	Arthur	I don't think that's a good idea.		RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+3	Gunter	We should get started right away!		RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+139	Arthur	There's still a lot of cross-referencing we need to per-		RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+4	Gunter	Oh, we insist!		RoomHermanQuarters+<OnEnterRoomAfterFadeActOneGotLostWill>d__20	MoveNext
+206	Arthur	What drives a man to own this many bow ties?		RoomHermanQuarters+<OnLookAtPropLuggageActOne>d__30	MoveNext
+31	Diana	Your guess is as good as mine. But we're not here to pursue crimes of fashion.		RoomHermanQuarters+<OnLookAtPropLuggageActOne>d__30	MoveNext
+211	Arthur	Still mighty suspicious, if you ask me.		RoomHermanQuarters+<OnLookAtPropLuggageActOne>d__30	MoveNext
+212	Arthur	It's a cheap WHISPERNOTE knock-off.		RoomHermanQuarters+<OnLookAtPropTypewriterActOne>d__41	MoveNext
+221	Arthur	No self-respecting writer should be opting for an off-brand model.		RoomHermanQuarters+<OnLookAtPropTypewriterActOne>d__41	MoveNext
+32	Diana	Are you comparing office supplies right now?		RoomHermanQuarters+<OnLookAtPropTypewriterActOne>d__41	MoveNext
+618	Arthur	‘Herman Merman And The Suburban Burden'		RoomHermanQuarters+<OnLookAtPropManuscriptsActOne>d__45	MoveNext
+653	Arthur	Not one of his better titles. These must be unfinished works.		RoomHermanQuarters+<OnLookAtPropManuscriptsActOne>d__45	MoveNext
+656	Arthur	I can't say I've read any of these before, and I don't think I'll be starting now.		RoomHermanQuarters+<OnLookAtPropNovelsActOne>d__49	MoveNext
+662	Arthur	Looks like those twins were rifling through Herman's belongings.		RoomHermanQuarters+<OnLookAtPropPapersActOne>d__55	MoveNext
+33	Diana	Ugh. They give me the heebie-jeebies.		RoomHermanQuarters+<OnLookAtPropPapersActOne>d__55	MoveNext
+749	Arthur	It's a small collection of Dirk Chiselton adventures.		RoomHermanQuarters+<OnLookAtPropBooksActOne>d__59	MoveNext
+1226	Arthur	The paperbacks are dog-eared, like he read them in a bad mood.		RoomHermanQuarters+<OnLookAtPropBooksActOne>d__59	MoveNext
+353	Arthur	And thasch why...		RoomLoungeCarriage+<OnEnterAfterFadeActOneDrunkMontage>d__38	MoveNext
+354	Arthur	...youUu' my besschd fierend!		RoomLoungeCarriage+<OnEnterAfterFadeActOneDrunkMontage>d__38	MoveNext
+0	Susanne	Yes, Arthur.		RoomLoungeCarriage+<OnEnterAfterFadeActOneDrunkMontage>d__38	MoveNext
+1	Susanne	We're all very pleased that you're finally having a good time.		RoomLoungeCarriage+<OnEnterAfterFadeActOneDrunkMontage>d__38	MoveNext
+2	Susanne	But I can't understand a word you're saying.		RoomLoungeCarriage+<OnEnterAfterFadeActOneDrunkMontage>d__38	MoveNext
+3	Susanne	None of us can!		RoomLoungeCarriage+<OnEnterAfterFadeActOneDrunkMontage>d__38	MoveNext
+809	Arthur	Oof, that coffee did the trick, but my head is killing me.		RoomLoungeCarriage+<OnEnterAfterFadeActOneSoberedUp>d__39	MoveNext
+810	Arthur	I hope I didn't embarrass myself.		RoomLoungeCarriage+<OnEnterAfterFadeActOneSoberedUp>d__39	MoveNext
+12	Hirsch	Well, Arthur?		RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+24	Bergmann	What does it say?		RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+356	Arthur	I'm not sure I should--		RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+2	Arista	GET ON WITH IT!		RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+357	Arthur	Alright, alright!		RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+358	Arthur	It reads as follows...		RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+359	Arthur	I, Lady Unterwald, being of sound mind and legal capacity...		RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+360	Arthur	Leave my entire estate to...		RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+26	Bergmann	You poisonous goat!		RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+27	Bergmann	You turned her against us.		RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+362	Arthur	I -		RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+20	Hagen	We were right to distrust you!		RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+27	Gunter	Hand over that will!		RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+28	Gunter	Hey, that's your hearing horn!		RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+4	Arista	It's all starting to make sense now.		RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+21	Hagen	What is it, mother?		RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+5	Arista	Arthur clearly manipulated my dear sister's living will in his own favour.		RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+6	Arista	Then murdered her to claim the estate for himself!		RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+364	Arthur	It's not what it looks like!		RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+14	Hirsch	Oh dear.		RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+7	Arista	Seize him!		RoomLoungeCarriage+<OnEnterAfterFadeActOneWillReading>d__53	MoveNext
+668	Arthur	I should confront Bergmann about this ledger.		RoomLoungeCarriage+<OnEnterAfterFadeActOneGotAccountingRecords>d__54	MoveNext
+1496	Arthur	Everything has been packed away, I must have missed their opening hours.		RoomLoungeCarriage+<OnLookAtPropShoeshineSeatsActOne>d__85	MoveNext
+1497	Arthur	When this is all over, I'd like to curl up in this reading nook.		RoomLoungeCarriage+<OnLookAtPropBookshelfLActOne>d__89	MoveNext
+1498	Arthur	Nah. I think enough people have died on stage tonight.		RoomLoungeCarriage+<OnLookAtPropMicrophoneActOne>d__93	MoveNext
+1500	Arthur	It looks expensive, and it smells like mahogany!		RoomLoungeCarriage+<OnLookAtPropPianoActOne>d__97	MoveNext
+1501	Arthur	This led to the backstage area before they locked it up.		RoomLoungeCarriage+<OnLookAtPropBackstageDoorActOne>d__101	MoveNext
+1502	Arthur	I suppose it's a potential crime scene now.		RoomLoungeCarriage+<OnLookAtPropBackstageDoorActOne>d__101	MoveNext
+1503	Arthur	It's the guest list for the Green Room. VIPs only.		RoomLoungeCarriage+<OnLookAtPropGuestListActOne>d__105	MoveNext
+1504	Arthur	I don't recognise most of these names, but I see Herman made the cut!		RoomLoungeCarriage+<OnLookAtPropGuestListActOne>d__105	MoveNext
+227	Arthur	Hmm.		RoomSleeperCarriage+<OnActOneKnockOnDoor>d__66	MoveNext
+232	Arthur	I guess nobody's there.		RoomSleeperCarriage+<OnActOneKnockOnDoor>d__66	MoveNext
+238	Arthur	Helloo?		RoomSleeperCarriage+<OnActOneKnockOnDoor>d__66	MoveNext
+239	Arthur	Looks like nobody's home.		RoomSleeperCarriage+<OnActOneKnockOnDoor>d__66	MoveNext
+241	Arthur	Anyone in?		RoomSleeperCarriage+<OnActOneKnockOnDoor>d__66	MoveNext
+242	Arthur	They must have left.		RoomSleeperCarriage+<OnActOneKnockOnDoor>d__66	MoveNext
+246	Arthur	I guess nobody's home.		RoomSleeperCarriage+<OnActOneKnockOnDoor>d__66	MoveNext
+244	Arthur	I really shhould sober upp first.		RoomSleeperCarriage+<OnInteractPropStorageDoorActOne>d__69	MoveNext
+247	Arthur	The luggage room.		RoomSleeperCarriage+<OnLookAtPropStorageDoorActOne>d__97	MoveNext
+243	Arthur	It's room 302.		RoomSleeperCarriage+<OnLookAtPropGuestDoorActOne>d__101	MoveNext
+233	Arthur	It's room 304.		RoomSleeperCarriage+<OnLookAtPropHermanDoorActOne>d__109	MoveNext
+293	Arthur	It's room 305.		RoomSleeperCarriage+<OnLookAtPropArthurDoorActOne>d__113	MoveNext
+228	Arthur	It's room 306.		RoomSleeperCarriage+<OnLookAtPropDianaDoorActOne>d__117	MoveNext
+258	Arthur	The door sign reads ''DO NOT DISTURB!''		RoomSleeperCarriage+<OnLookAtPropDoorSignActOne>d__121	MoveNext
+259	Arthur	It's a fancy cart for transporting luggage.		RoomSleeperCarriage+<OnLookAtPropLuggageCartActOne>d__125	MoveNext
+260	Arthur	I've only ever seen these in hotels!		RoomSleeperCarriage+<OnLookAtPropLuggageCartActOne>d__125	MoveNext
+275	Arthur	I think this was Lady Unterwald's husband.		RoomSleeperCarriage+<OnLookAtPropStatueLActOne>d__141	MoveNext
+276	Arthur	I wonder what happened to him?		RoomSleeperCarriage+<OnLookAtPropStatueLActOne>d__141	MoveNext
+277	Arthur	''George Unterwald.''		RoomSleeperCarriage+<OnLookAtPropPlaqueLActOne>d__145	MoveNext
+278	Arthur	''A loving husband. Gone, but not forgotten.''		RoomSleeperCarriage+<OnLookAtPropPlaqueLActOne>d__145	MoveNext
+281	Arthur	''Lady J. Unterwald.''		RoomSleeperCarriage+<OnLookAtPropPlaqueRActOne>d__153	MoveNext
+282	Arthur	''Heiress Of the Unterwald Empire.''		RoomSleeperCarriage+<OnLookAtPropPlaqueRActOne>d__153	MoveNext
+162	Herman	Misplaced?		RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+163	Herman	Must I remind you of who I am?		RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+166	Herman	Herman Merman and the Murmuring German?		RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+167	Herman	Herman Merman and the Squirmin' Chairman?		RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+2	Conductor	Sorry sir, not a big reader.		RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+168	Herman	Not even ''Herman Merman and the Sermon of Vermin'' ?		RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+3	Conductor	No, sir...		RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+170	Herman	My point being, I don't misplace things. I solve cases!		RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+4	Conductor	That's excellent news, sir.		RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+5	Conductor	I'm sure you'll have no problem with the case of the missing room keys.		RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+171	Herman	Well...		RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+172	Herman	Yes, you're quite right!		RoomStorageRoom+<OnEnterRoomAfterFadeActOneHermanConductorCutscene>d__11	MoveNext
+492	Arthur	Mr Masson thought I might find the medical briefcase in here.		RoomStorageRoom+<OnEnterRoomAfterFadeActOneBeforeMedicalBriefcaseObtained>d__12	MoveNext
+600	Arthur	Hey, that cheese I left has gone!		RoomStorageRoom+<OnEnterRoomAfterFadeActOnePlacedCheeseBeforePluggedMouseBurrows>d__13	MoveNext
+601	Arthur	Good thing I've got some more with me.		RoomStorageRoom+<OnEnterRoomAfterFadeActOnePlacedCheeseBeforePluggedMouseBurrows>d__13	MoveNext
+400	Arthur	That solves where Herman's keys went.		RoomStorageRoom+<OnLookAtPropMouseHoleActOne>d__33	MoveNext
+825	Arthur	Hm. It looks like a rodent has eaten their way through this section.		RoomStorageRoom+<OnLookAtPropMouseHoleActOne>d__33	MoveNext
+1052	Arthur	It looks too heavy to move.		RoomStorageRoom+<OnLookAtPropHeavyChestActOne>d__37	MoveNext
+1053	Arthur	This could be the medical briefcase I'm looking for!		RoomStorageRoom+<OnLookAtPropBriefcaseActOne>d__41	MoveNext
+1054	Arthur	They're all tightly secured to the luggage rack.		RoomStorageRoom+<OnLookAtPropBriefcasesActOne>d__45	MoveNext
+1245	Arthur	I wonder what's inside?		RoomStorageRoom+<OnLookAtPropHeavyCaseActOne>d__49	MoveNext
+955	Arthur	Locked tight. I don't think I'm getting through there.		RoomStorageRoom+<OnLookAtPropLockActOne>d__53	MoveNext
+821	Arthur	Bergmann said that he'd hidden the company accounts ledger somewhere in here.		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartOne>d__32	MoveNext
+407	Arthur	Who'd want to kill Lady Unterwald?		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartOne>d__32	MoveNext
+199	Hirsch	Ah, Arthur. Thank you for coming.		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+200	Hirsch	Doctor Hirsch, at your service. I'm Lady Unterwald's personal physician.		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+201	Hirsch	Or, at least, I was.		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+486	Arthur	I'm sorry about Lady Unterwald, Doctor Hearse.		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+202	Hirsch	It's Hirsch. H-I-R-S-C-H!		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+203	Hirsch	Ohh, they're not going to call me Doctor Hearse, are they?		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+204	Hirsch	I can see the headlines already. The doctor of death, who failed to save Lady Unterwald!		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+205	Hirsch	There's nothing I could've done without my medical briefcase!		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+487	Arthur	How can I help? What do you need?		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+206	Hirsch	With Herman gone, I need you to help me find some answers.		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+605	Arthur	Answers?		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+207	Hirsch	Help me look around, does anything look out of place?		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneReturnToUnterwaldCarriagePartTwo>d__33	MoveNext
+489	Arthur	This is the ledger that Bergmann mentioned.		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpenedDrawer>d__43	MoveNext
+490	Arthur	I should ask him about those discrepancies.		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpenedDrawer>d__43	MoveNext
+1538	Arthur	I think that did it!		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+61	Hirsch	Stand back, Arthur!		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+224	Hirsch	What is all this paperwork?		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+413	Arthur	This is one of Lady Unterwald's wills, alright.		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+225	Hirsch	Another will?		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+414	Arthur	Wait, there's another one!		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+415	Arthur	And another!		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+417	Arthur	There are hundreds of wills here.		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+418	Arthur	Every alteration Lady Unterwald ever made. These could go back years!		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+419	Arthur	Somebody would have to go through all this paperwork to check.		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+226	Hirsch	My goodness!		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+420	Arthur	Finally, some bureaucracy!		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+421	Arthur	62,015.		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+422	Arthur	62,016.		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+201	Diana	So, did you find what you were looking for?		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+1539	Arthur	Not exactly.		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+423	Arthur	I'll still need to locate the lost will, but I should be able to compare it against these revisions.		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+1540	Arthur	How's the espionage going?		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+1541	Arthur	The safe didn't contain any financial records, if that's why you're here.		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+476	Diana	No, that's not the reason I came.		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+477	Diana	Listen, I recorded a suspicious phone call shortly after the death of Lady Unterwald.		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+1542	Arthur	What kind of phone call?		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+478	Diana	Here, you can play it on your recorder.		RoomUnterwaldCarriage+<OnEnterRoomAfterFadeActOneOpeningTheSafe>d__44	MoveNext
+497	Arthur	I should attend to Lady Unterwald before I leave.		RoomUnterwaldCarriage+<OnEnterRegionToLoungeCarriageActOne>d__56	MoveNext
+648	Arthur	I can't leave, Doctor Hirsch still needs my help.		RoomUnterwaldCarriage+<OnEnterRegionToLoungeCarriageActOne>d__56	MoveNext
+430	Arthur	I'll need to figure out how to get that will back.		RoomUnterwaldCarriage+<OnLookAtPropBriefcaseActOneChapterOne>d__73	MoveNext
+54	Hirsch	I'm afraid we must all come to live with our mistakes, Arthur.		RoomUnterwaldCarriage+<OnLookAtPropBriefcaseActOneDoctorHirsch>d__74	MoveNext
+436	Arthur	I never took Lady Unterwald to be particularly musical.		RoomUnterwaldCarriage+<OnLookAtPropInstrumentCaseActOneChapterOne>d__87	MoveNext
+437	Arthur	I don't think it was a secret that she disdained most noises.		RoomUnterwaldCarriage+<OnLookAtPropInstrumentCaseActOneChapterOne>d__87	MoveNext
+55	Hirsch	She didn't. At least not to my knowledge.		RoomUnterwaldCarriage+<OnLookAtPropInstrumentCaseActOneDoctorHirsch>d__88	MoveNext
+441	Arthur	Lady Unterwald was clearly respected and admired.		RoomUnterwaldCarriage+<OnLookAtPropFlowersActOneChapterOne>d__101	MoveNext
+442	Arthur	So who'd want to take her out of the picture?		RoomUnterwaldCarriage+<OnLookAtPropFlowersActOneChapterOne>d__101	MoveNext
+56	Hirsch	I hope we'll be able to find out, Arthur.		RoomUnterwaldCarriage+<OnLookAtPropFlowersActOneDoctorHirsch>d__102	MoveNext
+57	Hirsch	It's a habanero pepper plant. Stay well away if you want to keep your taste buds.		RoomUnterwaldCarriage+<OnLookAtPropChilliPlantActOneDoctorHirsch>d__109	MoveNext
+459	Arthur	Lady Unterwald hated balloons.		RoomUnterwaldCarriage+<OnLookAtPropBalloonActOneChapterOne>d__117	MoveNext
+461	Arthur	Who's there?		RoomUnterwaldCarriage+<OnLookAtPropWardrobeActOneChapterOneTalkToHerman>d__124	MoveNext
+214	Herman	Nobody!		RoomUnterwaldCarriage+<OnLookAtPropWardrobeActOneChapterOneTalkToHerman>d__124	MoveNext
+463	Arthur	We can only hope these coats were made from faux fur.		RoomUnterwaldCarriage+<OnLookAtPropWardrobeActOneChapterOne>d__125	MoveNext
+502	Arthur	Lady Unterwald hated all that clacking.		RoomUnterwaldCarriage+<OnLookAtPropTypewriterActOneChapterOne>d__138	MoveNext
+58	Hirsch	Jian Liu? You know, I haven't seen him for a while.		RoomUnterwaldCarriage+<OnLookAtPropCardActOneDoctorHirsch>d__146	MoveNext
+476	Arthur	It seems to be stuck.		RoomUnterwaldCarriage+<OnInteractPropDrawerActOneBeforeLostWill>d__151	MoveNext
+92	LadyUnterwald	Arthur, please leave that alone.		RoomUnterwaldCarriage+<OnInteractPropDrawerActOneBeforeLostWill>d__151	MoveNext
+93	LadyUnterwald	Didn't anyone ever tell you it's rude to go through a lady's drawers?		RoomUnterwaldCarriage+<OnInteractPropDrawerActOneBeforeLostWill>d__151	MoveNext
+477	Arthur	Sorry.		RoomUnterwaldCarriage+<OnInteractPropDrawerActOneBeforeLostWill>d__151	MoveNext
+94	LadyUnterwald	Arthur, stop that now!		RoomUnterwaldCarriage+<OnInteractPropDrawerActOneBeforeLostWill>d__151	MoveNext
+478	Arthur	It won't happen again.		RoomUnterwaldCarriage+<OnInteractPropDrawerActOneBeforeLostWill>d__151	MoveNext
+95	LadyUnterwald	Arthur, if you want to keep your fingers you'll leave that drawer alone.		RoomUnterwaldCarriage+<OnInteractPropDrawerActOneBeforeLostWill>d__151	MoveNext
+479	Arthur	I can't help myself!		RoomUnterwaldCarriage+<OnInteractPropDrawerActOneBeforeLostWill>d__151	MoveNext
+480	Arthur	I better not.		RoomUnterwaldCarriage+<OnInteractPropDrawerActOneBeforeLostWill>d__151	MoveNext
+481	Arthur	The drawer is stuck.		RoomUnterwaldCarriage+<OnInteractPropDrawerActOneAfterLostWill>d__152	MoveNext
+482	Arthur	If I wedged something in the gap, I might be able to pry it open.		RoomUnterwaldCarriage+<OnInteractPropDrawerActOneAfterLostWill>d__152	MoveNext
+829	Arthur	Bergmann could've put that ledger in this drawer.		RoomUnterwaldCarriage+<OnInteractPropDrawerActOneBeforeUnstuckDrawer>d__153	MoveNext
+488	Arthur	It's an empty drawer.		RoomUnterwaldCarriage+<OnInteractPropDrawerActOneAfterUnstuckDrawer>d__154	MoveNext

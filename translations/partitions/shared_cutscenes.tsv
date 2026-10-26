@@ -1,0 +1,498 @@
+﻿Id	Character	English	French	Class	Method
+898	Herman	Please, I just need more time!		CloseupArthurDevice+<OnEnterCloseupAfterFade>d__1	MoveNext
+56	PublisherFrank	We had an agreement, Herman.		CloseupArthurDevice+<OnEnterCloseupAfterFade>d__1	MoveNext
+57	PublisherFrank	I don't want to have to call off our deal.		CloseupArthurDevice+<OnEnterCloseupAfterFade>d__1	MoveNext
+899	Herman	It's not my fault!		CloseupArthurDevice+<OnEnterCloseupAfterFade>d__1	MoveNext
+41	PublisherFlorence	You'll just have to figure it out! We believe in you.		CloseupArthurDevice+<OnEnterCloseupAfterFade>d__1	MoveNext
+900	Herman	I have to go! It's not safe here!		CloseupArthurDevice+<OnEnterCloseupAfterFade>d__1	MoveNext
+7	Chiselton	The name's Dirk Chiselton, and you're under arrest!		CloseupChiseltonEntrance+<OnEnterCloseupAfterFade>d__2	MoveNext
+420	Diana	April, I've made contact with the informant.		CloseupDianaRadio+<OnEnterCloseupAfterFade>d__1	MoveNext
+421	Diana	I'm afraid we've hit a bit of a snag. Lady Unterwald was murdered.		CloseupDianaRadio+<OnEnterCloseupAfterFade>d__1	MoveNext
+422	Diana	Not only that, our informant isn't as sharp as our intelligence had me believe.		CloseupDianaRadio+<OnEnterCloseupAfterFade>d__1	MoveNext
+42	April	Murdered? Diana, you need to get out of there.		CloseupDianaRadio+<OnEnterCloseupAfterFade>d__1	MoveNext
+423	Diana	Not yet, you know I need to do this!		CloseupDianaRadio+<OnEnterCloseupAfterFade>d__1	MoveNext
+43	April	Diana, it's your first mission in the field!		CloseupDianaRadio+<OnEnterCloseupAfterFade>d__1	MoveNext
+44	April	Please! You aren't equipped to face a killer.		CloseupDianaRadio+<OnEnterCloseupAfterFade>d__1	MoveNext
+424	Diana	I can still salvage this mission.		CloseupDianaRadio+<OnEnterCloseupAfterFade>d__1	MoveNext
+528	Arthur	Wait, I see something!		CloseupHeatingNapkin+<OnEnterCloseupAfterFade>d__1	MoveNext
+314	Herman	Ho ho! You've outdone yourself this time, old chap.		CloseupHermanDisguised+<OnEnterCloseupAfterFade>d__1	MoveNext
+24	Herman	Acclaimed novelist? Detective extraordinaire?		CloseupHermanPose+<OnEnterCloseupAfterFade>d__1	MoveNext
+189	Don	It's all my fault...		CloseupMiniRecorder+<OnEnterCloseupAfterFade>d__1	MoveNext
+190	Don	...I bankrupted the company.		CloseupMiniRecorder+<OnEnterCloseupAfterFade>d__1	MoveNext
+506	Diana	Lady Unterwald was right, the original will is here!		CloseupOriginalWill+<OnEnterCloseupAfterFade>d__2	MoveNext
+614	Arthur	What do you think of this?		GlobalScript+<ArthurShowItemDialogue>d__105	MoveNext
+615	Arthur	What do you think of this?		GlobalScript+<ArthurShowItemDialogue>d__105	MoveNext
+625	Arthur	What do you think of this?		GlobalScript+<ArthurShowItemDialogue>d__105	MoveNext
+632	Arthur	What do you think of this?		GlobalScript+<ArthurShowItemDialogue>d__105	MoveNext
+652	Arthur	What do you think of this?		GlobalScript+<ArthurShowItemDialogue>d__105	MoveNext
+706	Arthur	What do you think of this?		GlobalScript+<ArthurShowItemDialogue>d__105	MoveNext
+713	Arthur	What do you think of this?		GlobalScript+<ArthurShowItemDialogue>d__105	MoveNext
+754	Arthur	What do you think of this?		GlobalScript+<ArthurShowItemDialogue>d__105	MoveNext
+782	Arthur	What do you think of this?		GlobalScript+<ArthurShowItemDialogue>d__105	MoveNext
+1058	Arthur	Whatschup?		GlobalScript+<ArthurDrunkInteract>d__106	MoveNext
+1059	Arthur	Greetingschh.		GlobalScript+<ArthurDrunkInteract>d__106	MoveNext
+1060	Arthur	Howsschit going?		GlobalScript+<ArthurDrunkInteract>d__106	MoveNext
+1061	Arthur	Can I asshk you a queshhtion?		GlobalScript+<ArthurDrunkInteract>d__106	MoveNext
+743	Arthur	Is that Lady Unterwald's date of birth?		GuiMedicalRecords+<WaitForShow>d__2	MoveNext
+744	Arthur	She certainly had a good run.		GuiMedicalRecords+<WaitForShow>d__2	MoveNext
+482	Herman	It's the set list for the band, Balboa Swing.		GuiSetList+<WaitForShow>d__0	MoveNext
+483	Herman	The songs are to be played in the following order.		GuiSetList+<WaitForShow>d__0	MoveNext
+484	Herman	Railroad Rhythm.		GuiSetList+<OnSayCorrectSetListOrder>d__1	MoveNext
+485	Herman	Whistle Stop Swing.		GuiSetList+<OnSayCorrectSetListOrder>d__1	MoveNext
+486	Herman	Boxcar Boogie.		GuiSetList+<OnSayCorrectSetListOrder>d__1	MoveNext
+487	Herman	My Love is on the Line.		GuiSetList+<OnSayCorrectSetListOrder>d__1	MoveNext
+488	Herman	Freight Train Blues.		GuiSetList+<OnSayCorrectSetListOrder>d__1	MoveNext
+155	Gunter	Gah!		RoomBathroom+<OnEnterRoomAfterFade>d__11	MoveNext
+42	Gunter	I'm stuck!		RoomBathroom+<OnEnterRoomAfterFade>d__11	MoveNext
+36	Hagen	The vent narrows too much, we can't get through.		RoomBathroom+<OnEnterRoomAfterFade>d__11	MoveNext
+301	Herman	I'll just add this to my collection.		RoomBathroom+<OnInteractPropPlunger>d__27	MoveNext
+302	Herman	I'm sure they won't mind me taking this.		RoomBathroom+<OnInteractPropPlunger>d__27	MoveNext
+413	Herman	There's nothing in there to flush.		RoomBathroom+<OnInteractPropToilet>d__29	MoveNext
+30	Arista	You! Where have you been!		RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+151	Arista	I'm sorry?		RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+47	Arista	You said you're a detective, right?		RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+184	Arista	I said I'm a novelist, I write detective novels.		RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+48	Arista	That's close enough! I need your assistance, detective novelist!		RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+161	Arista	What's the problem?		RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+42	Arista	It's my boys!		RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+43	Arista	I sent them to eavesdro- I mean, repair that ventilation system!		RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+45	Arista	They haven't come back.		RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+132	Arista	They're stuck inside the ducts?		RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+46	Arista	I could direct them back with my horn, but I blew it out last time.		RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+14	Arista	I should've known they'd get lost in there.		RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+185	Herman	You need me to fix your hearing horn?		RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+50	Herman	They're always blowing into their brass instruments, they'll know what to do!		RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+186	Arista	Doesn't this thing go in your ear? I'm not su-		RoomCasinoCarriage+<OnEnterRoomAfterFadeBeforePromisedToHelp>d__43	MoveNext
+193	Narrator/Unknown	I'll see what I can do?		RoomCasinoCarriage+<OnStopDialogTalkToAristaAboutHorn>d__44	MoveNext
+51	Narrator/Unknown	Perfect! Come find me when you're done.		RoomCasinoCarriage+<OnStopDialogTalkToAristaAboutHorn>d__44	MoveNext
+326	Arthur	It's kind of making me dizzy.		RoomCasinoCarriage+<OnInteractPropRouletteTable>d__77	MoveNext
+611	Diana	That did the job!		RoomCell+<OnEnterRoomAfterFade>d__87	MoveNext
+192	Don	Psst! Is that you, kid?		RoomCell+<OnPlayerChangedArthurFirstOccurrence>d__89	MoveNext
+1599	Arthur	Don, is that you?		RoomCell+<OnPlayerChangedArthurFirstOccurrence>d__89	MoveNext
+195	Don	Hah, I knew your voice sounded familiar!		RoomCell+<OnPlayerChangedArthurFirstOccurrence>d__89	MoveNext
+196	Don	Don't tell me those casino goons got you too, huh?		RoomCell+<OnPlayerChangedArthurFirstOccurrence>d__89	MoveNext
+408	Herman	Argh, who is doing that obnoxious clicking?		RoomCell+<OnPlayerChangedHermanFirstOccurrence>d__90	MoveNext
+409	Herman	I can barely hear myself think!		RoomCell+<OnPlayerChangedHermanFirstOccurrence>d__90	MoveNext
+548	Arthur	It won't budge!		RoomCell+<OnInteractPropArthurCellDoor>d__92	MoveNext
+1583	Arthur	I think that's reversed the flow of the water!		RoomCell+<OnInteractPropValve>d__99	MoveNext
+1584	Arthur	There's nothing in there to flush. That'd be a waste of water!		RoomCell+<OnInteractPropArthurToiletEmpty>d__101	MoveNext
+1585	Arthur	I've already sent something towards Diana's cell.		RoomCell+<OnInteractPropArthurToiletDianaFull>d__102	MoveNext
+1669	Arthur	Something's coming your way, Diana!		RoomCell+<OnInteractPropArthurToiletDiana>d__103	MoveNext
+1670	Arthur	Over to you, Diana!		RoomCell+<OnInteractPropArthurToiletDiana>d__103	MoveNext
+1671	Arthur	I've sent something your way, Diana!		RoomCell+<OnInteractPropArthurToiletDiana>d__103	MoveNext
+1586	Arthur	Hmm, I'm not sure that I'd trust Don with that item.		RoomCell+<OnInteractPropArthurToiletDonUnwanted>d__104	MoveNext
+1587	Arthur	I probably shouldn't send that Don's way.		RoomCell+<OnInteractPropArthurToiletDonUnwanted>d__104	MoveNext
+1588	Arthur	I'm not sure Don would get much use out of that.		RoomCell+<OnInteractPropArthurToiletDonUnwanted>d__104	MoveNext
+1672	Arthur	Can Don be trusted with this? Probably not.		RoomCell+<OnInteractPropArthurToiletDonUnwanted>d__104	MoveNext
+1589	Arthur	I've already sent something to Don's cell.		RoomCell+<OnInteractPropArthurToiletDonFull>d__105	MoveNext
+1673	Arthur	I've already sent something to Don's cell.		RoomCell+<OnInteractPropArthurToiletDonFull>d__105	MoveNext
+1674	Arthur	I already sent an item Donny's way!		RoomCell+<OnInteractPropArthurToiletDonFull>d__105	MoveNext
+1675	Arthur	Time to reunite Donny with an old friend!		RoomCell+<OnSendMagneticBallToDon>d__107	MoveNext
+1590	Arthur	I sent something your way, Don.		RoomCell+<OnSendMagneticBallToDon>d__107	MoveNext
+173	Don	Alright, let's see what we got here...		RoomCell+<OnSendMagneticBallToDon>d__107	MoveNext
+174	Don	Ha ha! You're a miracle worker, kid!		RoomCell+<OnSendMagneticBallToDon>d__107	MoveNext
+175	Don	I'll still need one of you to distract that bozo outside, though.		RoomCell+<OnSendMagneticBallToDon>d__107	MoveNext
+177	Diana	There's nothing to flush.		RoomCell+<OnInteractPropDianaToiletEmpty>d__118	MoveNext
+178	Diana	That would be a waste of water.		RoomCell+<OnInteractPropDianaToiletEmpty>d__118	MoveNext
+179	Diana	There's no use flushing, the bowl is empty.		RoomCell+<OnInteractPropDianaToiletEmpty>d__118	MoveNext
+180	Diana	I've already sent something to Herman's cell.		RoomCell+<OnInteractPropDianaToiletHermanFull>d__119	MoveNext
+181	Diana	Herman already has an item waiting for him.		RoomCell+<OnInteractPropDianaToiletHermanFull>d__119	MoveNext
+182	Diana	Something coming your way, Herman!		RoomCell+<OnInteractPropDianaToiletHerman>d__120	MoveNext
+183	Diana	Heads up, Herman!		RoomCell+<OnInteractPropDianaToiletHerman>d__120	MoveNext
+184	Diana	I'm sending something your way, Herman!		RoomCell+<OnInteractPropDianaToiletHerman>d__120	MoveNext
+185	Diana	I've already sent something to Arthur's cell.		RoomCell+<OnInteractPropDianaToiletArthurFull>d__121	MoveNext
+232	Diana	Arthur already has an item waiting for him.		RoomCell+<OnInteractPropDianaToiletArthurFull>d__121	MoveNext
+268	Diana	I've sent something your way, Arthur!		RoomCell+<OnInteractPropDianaToiletArthur>d__122	MoveNext
+269	Diana	Heads up, Arthur!		RoomCell+<OnInteractPropDianaToiletArthur>d__122	MoveNext
+270	Diana	Keep an eye out, Arthur! Something is coming your way!		RoomCell+<OnInteractPropDianaToiletArthur>d__122	MoveNext
+319	Herman	Hmm. There's a set of chains stuck down there.		RoomCell+<OnInteractPropHermanToiletFlushedChains>d__133	MoveNext
+320	Herman	I can't get the blockage free with my bare hands.		RoomCell+<OnInteractPropHermanToiletFlushedChains>d__133	MoveNext
+414	Herman	I'll flush when there's something worth flushing!		RoomCell+<OnInteractPropHermanToiletEmpty>d__134	MoveNext
+416	Herman	The bowl is empty, it's not worth flushing.		RoomCell+<OnInteractPropHermanToiletEmpty>d__134	MoveNext
+417	Herman	Hmm, that item didn't seem to move.		RoomCell+<OnInteractPropHermanToiletLeft>d__135	MoveNext
+418	Herman	No luck, the item didn't budge!		RoomCell+<OnInteractPropHermanToiletLeft>d__135	MoveNext
+536	Herman	It didn't move. The water must be flowing the wrong direction.		RoomCell+<OnInteractPropHermanToiletLeft>d__135	MoveNext
+537	Herman	I've already sent something to Diana's cell.		RoomCell+<OnInteractPropHermanToiletDianaFull>d__136	MoveNext
+538	Herman	I've already sent an item Diana's way.		RoomCell+<OnInteractPropHermanToiletDianaFull>d__136	MoveNext
+549	Herman	Diana already has something waiting for her.		RoomCell+<OnInteractPropHermanToiletDianaFull>d__136	MoveNext
+653	Herman	Heads up, Diana!		RoomCell+<OnInteractPropHermanToiletDianaEmpty>d__137	MoveNext
+684	Herman	Something's coming your way, Diana!		RoomCell+<OnInteractPropHermanToiletDianaEmpty>d__137	MoveNext
+710	Herman	Over to you, Diana!		RoomCell+<OnInteractPropHermanToiletDianaEmpty>d__137	MoveNext
+711	Herman	Item coming your way, Diana!		RoomCell+<OnInteractPropHermanToiletDianaEmpty>d__137	MoveNext
+103	HandshakeLeader	Your call is being forwarded to the Dirk Chiselton Hotline, please hold.		RoomCellExterior+<OnInteractPropTelephone>d__41	MoveNext
+0	Chiselton	What do ya need?		RoomCellExterior+<OnInteractPropTelephone>d__41	MoveNext
+548	Herman	It's a photograph of a woman...		RoomDianaPhoto+<OnEnterRoomAfterFade>d__0	MoveNext
+645	Herman	Wait, there's something scrawled on the back.		RoomDianaPhoto+<OnInteractPropCloseupPhoto>d__1	MoveNext
+650	Herman	''Informant. Wear blue suit with red rosette for identification.''		RoomDianaPhoto+<OnInteractPropCloseupPhoto>d__1	MoveNext
+456	Diana	Good work, Arthur. I knew this wouldn't be a wasted trip.		RoomDianaQuarters+<OnStopDialogGiveEvidenceToDiana>d__15	MoveNext
+457	Diana	See if you can find out any more information.		RoomDianaQuarters+<OnStopDialogGiveEvidenceToDiana>d__15	MoveNext
+458	Diana	I'll continue to monitor the situation from here.		RoomDianaQuarters+<OnStopDialogGiveEvidenceToDiana>d__15	MoveNext
+1227	Arthur	What are these for?		RoomDianaQuarters+<OnInteractPropWireReel>d__19	MoveNext
+397	Diana	They're blank reels for the wire recorder.		RoomDianaQuarters+<OnInteractPropWireReel>d__19	MoveNext
+1229	Arthur	Mind if I take one?		RoomDianaQuarters+<OnInteractPropWireReel>d__19	MoveNext
+36	Diana	I need to know I can trust you, Arthur.		RoomDianaQuarters+<OnInteractPropWireReel>d__19	MoveNext
+37	Diana	Have you managed to find anything?		RoomDianaQuarters+<OnInteractPropWireReel>d__19	MoveNext
+398	Diana	Sure, go ahead.		RoomDianaQuarters+<OnInteractPropWireReel>d__19	MoveNext
+450	Arthur	Whee!		RoomDianaQuarters+<OnInteractPropLamp>d__29	MoveNext
+452	Arthur	Uh-oh!		RoomDiningCarriage+<OnEnterRoomAfterFadeDrunkRetrieveWill>d__26	MoveNext
+453	Arthur	Itsh moved towardss the sshleeper carriagess.		RoomDiningCarriage+<OnEnterRoomAfterFadeDrunkRetrieveWill>d__26	MoveNext
+454	Arthur	If I could jussht get it back, i'm schure it'd hold sschome answerss.		RoomDiningCarriage+<OnEnterRoomAfterFadeDrunkRetrieveWill>d__26	MoveNext
+2	Bartender	I'd have some of that coffee, if I were you.		RoomDiningCarriage+<OnEnterRoomAfterFadeSoberUp>d__27	MoveNext
+807	Arthur	I'll jusht have a sship.		RoomDiningCarriage+<OnEnterRoomAfterFadeSoberUp>d__27	MoveNext
+808	Arthur	Ooh, that's shtrongg!		RoomDiningCarriage+<OnEnterRoomAfterFadeSoberUp>d__27	MoveNext
+289	Arthur	Don dropped his keys in the commotion.		RoomDiningCarriage+<OnInteractPropDonnyKeysProp>d__35	MoveNext
+290	Arthur	I really should return them to him.		RoomDiningCarriage+<OnInteractPropDonnyKeysProp>d__35	MoveNext
+292	Arthur	No, I can't lose it again!		RoomDiningCarriage+<OnInteractPropWill>d__38	MoveNext
+294	Arthur	It's moved towards the sleeper carriages.		RoomDiningCarriage+<OnInteractPropWill>d__38	MoveNext
+287	Arthur	If I can get that will back, it might hold some answers.		RoomDiningCarriage+<OnInteractPropWill>d__38	MoveNext
+295	Arthur	What's this?		RoomDiningCarriage+<OnInteractPropRecorker>d__40	MoveNext
+3	Bartender	It's a recorker.		RoomDiningCarriage+<OnInteractPropRecorker>d__40	MoveNext
+4	Bartender	It reseals opened bottles.		RoomDiningCarriage+<OnInteractPropRecorker>d__40	MoveNext
+297	Arthur	Can I borrow it?		RoomDiningCarriage+<OnInteractPropRecorker>d__40	MoveNext
+5	Bartender	I guess.		RoomDiningCarriage+<OnInteractPropRecorker>d__40	MoveNext
+249	Herman	Ah! This must be what Don was looking for.		RoomDiningCarriage+<OnInteractPropMagnet>d__44	MoveNext
+307	Arthur	I'll just take one.		RoomDiningCarriage+<OnInteractPropLemons>d__51	MoveNext
+543	Arthur	That's a lot of contraband.		RoomDonCasinoChips+<OnEnterRoomAfterFade>d__1	MoveNext
+544	Arthur	Yoink!		RoomDonCasinoChips+<OnInteractPropCasinoChips>d__2	MoveNext
+152	Arthur	Oh, I guess he's not in here.		RoomDonQuarters+<OnEnterRoomAfterFadeBeforeWitnessedMeeting>d__12	MoveNext
+154	Arthur	This is where Donny put his gambling scheme into motion.		RoomDonQuarters+<OnEnterRoomAfterFadeReachedConfrontedBergmann>d__13	MoveNext
+155	Arthur	Donny?		RoomDonQuarters+<OnEnterRoomAfterFadeReachedDonCaught>d__14	MoveNext
+157	Arthur	Hmm. Those goons from the casino must have taken him away.		RoomDonQuarters+<OnEnterRoomAfterFadeReachedDonCaught>d__14	MoveNext
+156	Arthur	No time for that!		RoomDonQuarters+<OnInteractArthurHidePanicDialogue>d__20	MoveNext
+167	Arthur	No time for that now!		RoomDonQuarters+<OnInteractArthurHidePanicDialogue>d__20	MoveNext
+178	Arthur	I don't have much time!		RoomDonQuarters+<OnInteractArthurHidePanicDialogue>d__20	MoveNext
+188	Arthur	That won't help me.		RoomDonQuarters+<OnInteractArthurHidePanicDialogue>d__20	MoveNext
+159	Arthur	I won't fit in there!		RoomDonQuarters+<OnInteractPropCloset>d__22	MoveNext
+163	Arthur	I really should check that drawer before leaving.		RoomDonQuarters+<OnEnterRegionToSleeperCarriage>d__27	MoveNext
+209	Arthur	Uh oh, someone's coming!		RoomDonQuarters+<OnEnterRegionTriggerTimerSequence>d__28	MoveNext
+166	Arthur	He'll see me if I leave, I need to hide.		RoomDonQuarters+<OnEnterRegionTriggerTimerSequence>d__28	MoveNext
+207	Arthur	Hmm, I probably shouldn't steal this unless I really need it.		RoomDonQuarters+<OnInteractPropMagnetizer>d__30	MoveNext
+170	Arthur	I'm sure Don won't mind if I borrow this.		RoomDonQuarters+<OnInteractPropMagnetizer>d__30	MoveNext
+172	Arthur	Looks like I'll need another wire reel to record anything new.		RoomDonQuarters+<OnInteractPropRecorder>d__33	MoveNext
+177	Arthur	The secret panel was right around here.		RoomDonQuarters+<OnInteractPropSecretPanel>d__35	MoveNext
+199	Arthur	Aha! Let's take a look.		RoomDonQuarters+<OnInteractPropSecretPanel>d__35	MoveNext
+198	Arthur	There's no way I'm getting in that bed.		RoomDonQuarters+<OnInteractPropBed>d__43	MoveNext
+468	Arthur	Don left his poetry book behind, I should keep it safe for him.		RoomDonQuarters+<OnInteractPropBook>d__47	MoveNext
+64	JianLiu	Time's up!		RoomExteriorCarriage+<OnStopDialogMrLiuShowdown>d__4	MoveNext
+65	JianLiu	Goodbye Mr Ackerman.		RoomExteriorCarriage+<OnStopDialogMrLiuShowdown>d__4	MoveNext
+66	JianLiu	What on earth are you doing?		RoomExteriorCarriage+<OnStopDialogMrLiuShowdown>d__4	MoveNext
+2	BandDrummer	He's back!		RoomGreenRoom+<OnEnterRoomAfterFadeAfterSustainedInjury>d__48	MoveNext
+6	Byron	There he is!		RoomGreenRoom+<OnEnterRoomAfterFadeAfterSustainedInjury>d__48	MoveNext
+7	Byron	Back for more are ya?		RoomGreenRoom+<OnEnterRoomAfterFadeAfterSustainedInjury>d__48	MoveNext
+1	BandSaxophone	Hey, get over here.		RoomGreenRoom+<OnEnterRoomAfterFadeAfterSustainedInjury>d__48	MoveNext
+8	Byron	How's the paw holding up? All good?		RoomGreenRoom+<OnEnterRoomAfterFadeAfterSustainedInjury>d__48	MoveNext
+626	Herman	A little sore, but fine, all things considered!		RoomGreenRoom+<OnEnterRoomAfterFadeAfterSustainedInjury>d__48	MoveNext
+434	Herman	I worked wonders to get back here, I can't leave now!		RoomGreenRoom+<OnEnterRegionToLoungeCarriageNotSpokenToAnyone>d__51	MoveNext
+444	Herman	Hm. I should see if the band has answers before I make my exit.		RoomGreenRoom+<OnEnterRegionToLoungeCarriageNotSpokenToBand>d__52	MoveNext
+0	Byron	Are you leaving already?		RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjury>d__53	MoveNext
+445	Herman	I'm afraid I have other lines of enquiry.		RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjury>d__53	MoveNext
+1	Byron	Nah! Why don't you play one round of 'Knifey, Stab, Stab' with us?		RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjury>d__53	MoveNext
+0	BandDrummer	Come on, we haven't had a new player in a while!		RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjury>d__53	MoveNext
+2	Byron	Go onnnn!		RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjury>d__53	MoveNext
+448	Herman	Fine. What sort of game is it?		RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryAskedAboutKnifeGame>d__54	MoveNext
+3	Byron	Here, I'll go first.		RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryAskedAboutKnifeGame>d__54	MoveNext
+450	Herman	Fine. What sort of card game is it?		RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryNotAskedAboutKnifeGame>d__55	MoveNext
+10	Byron	Card game?		RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryNotAskedAboutKnifeGame>d__55	MoveNext
+11	Byron	You're playing with the big boys, now! You better watch and learn!		RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+13	Byron	Haha, not a scratch on me!		RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+32	Byron	Alright, show us what you've got.		RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+459	Herman	Ah. I think I've changed my mind.		RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+33	Byron	Naah, go on. Just give it a try!		RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+461	Herman	So far, so good.		RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+34	Byron	You're a natural!		RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+463	Herman	It's easier than it looks!		RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+35	Byron	Blimey, it's gone in like a hot knife through butter!		RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+464	Herman	Is that... blood?		RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+465	Herman	I'm feeling a little woozy.		RoomGreenRoom+<OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued>d__56	MoveNext
+1149	Herman	I'd like to initiate another emergency vote!		RoomHandshakeClub+<EmergencyVoteOnInitiate>d__19	MoveNext
+128	JianLiu	Once again, I must stress the time-sensitive nature of our decision!		RoomHandshakeClub+<EmergencyVoteOnInitiate>d__19	MoveNext
+107	HandshakeLeader	Very good, all those in favour?		RoomHandshakeClub+<EmergencyVoteOnInitiate>d__19	MoveNext
+241	Hirsch	Aye!		RoomHandshakeClub+<EmergencyVoteOnInitiate>d__19	MoveNext
+57	SisterGretchen	Aye!		RoomHandshakeClub+<EmergencyVoteOnInitiate>d__19	MoveNext
+64	BrotherBrian	Aye!		RoomHandshakeClub+<EmergencyVoteOnInitiate>d__19	MoveNext
+75	BrotherJared	Aye!		RoomHandshakeClub+<EmergencyVoteOnInitiate>d__19	MoveNext
+108	HandshakeLeader	And all those against?		RoomHandshakeClub+<EmergencyVoteOnInitiate>d__19	MoveNext
+129	JianLiu	Nay!		RoomHandshakeClub+<EmergencyVoteOnInitiate>d__19	MoveNext
+19	Masson	W-Whhm?		RoomHandshakeClub+<EmergencyVoteBeforeGaveMrMassonTheSoup>d__20	MoveNext
+104	HandshakeLeader	Well, that provided no more clarity than our previous vote.		RoomHandshakeClub+<EmergencyVoteBeforeGaveMrMassonTheSoup>d__20	MoveNext
+67	Masson	Aiyeeeee!		RoomHandshakeClub+<EmergencyVoteAfterGaveMrMassonTheSoup>d__21	MoveNext
+129	HandshakeLeader	The ayes have it!		RoomHandshakeClub+<EmergencyVoteAfterGaveMrMassonTheSoup>d__21	MoveNext
+130	HandshakeLeader	It seems we have come to an agreement.		RoomHandshakeClub+<EmergencyVoteAfterGaveMrMassonTheSoup>d__21	MoveNext
+131	HandshakeLeader	Sorry, Jian. We'll do things by the book here.		RoomHandshakeClub+<EmergencyVoteAfterGaveMrMassonTheSoup>d__21	MoveNext
+136	JianLiu	I've tried things your way, but it is clear my efforts here have been fruitless.		RoomHandshakeClub+<EmergencyVoteAfterGaveMrMassonTheSoup>d__21	MoveNext
+137	JianLiu	I see now that I must take matters into my own hands!		RoomHandshakeClub+<EmergencyVoteAfterGaveMrMassonTheSoup>d__21	MoveNext
+225	Herman	Well, that sounded ominous.		RoomHandshakeClub+<EmergencyVoteAfterGaveMrMassonTheSoup>d__21	MoveNext
+34	Hirsch	My word, I'll catch up with him before he does anything rash!		RoomHandshakeClub+<EmergencyVoteAfterGaveMrMassonTheSoup>d__21	MoveNext
+429	Arthur	I sshould ask Mr Masson if he's scheeen that briefcashhe.		RoomHandshakeClub+<OnEnterRegionToCasinoCarriage>d__23	MoveNext
+380	Arthur	It's a corked up mouse burrow.		RoomHandshakeClub+<OnInteractPropCorkedMouseHole>d__28	MoveNext
+535	Arthur	It's Lady Unterwald's will, it must have travelled down the carriages!		RoomHermanExterior+<OnEnterRoomAfterFade>d__6	MoveNext
+195	Arthur	Aha! I've got you this time!		RoomHermanQuarters+<OnInteractPropWindow>d__27	MoveNext
+202	Arthur	No! Don't you dare!		RoomHermanQuarters+<OnInteractPropWindow>d__27	MoveNext
+204	Arthur	I don't think I should open another window after last time. Not without good reason.		RoomHermanQuarters+<OnInteractPropWindow>d__27	MoveNext
+30	Diana	What happened last time?		RoomHermanQuarters+<OnInteractPropWindow>d__27	MoveNext
+205	Arthur	I don't want to talk about it.		RoomHermanQuarters+<OnInteractPropWindow>d__27	MoveNext
+147	Arthur	I think... it's working!		RoomHermanQuarters+<OnInteractPropArthurWiggle>d__33	MoveNext
+7	Hagen	What's with all the wriggling?		RoomHermanQuarters+<OnInteractPropArthurWiggle>d__33	MoveNext
+7	Gunter	You weren't trying to escape, were you?		RoomHermanQuarters+<OnInteractPropArthurWiggle>d__33	MoveNext
+148	Arthur	No, of course not!		RoomHermanQuarters+<OnInteractPropArthurWiggle>d__33	MoveNext
+8	Gunter	Good, because that would be very bad for us!		RoomHermanQuarters+<OnInteractPropArthurWiggle>d__33	MoveNext
+135	Diana	Someone left out one of those pneumatic tube pods.		RoomInlandRevenueHQ+<OnInteractPropCanister>d__40	MoveNext
+136	Diana	This could come in handy!		RoomInlandRevenueHQ+<OnInteractPropCanister>d__40	MoveNext
+140	Diana	You might not be perfect, but I'll take any help I can get!		RoomInlandRevenueHQ+<OnInteractPropMouse>d__42	MoveNext
+141	Diana	You're coming with me, Agent M!		RoomInlandRevenueHQ+<OnInteractPropMouse>d__42	MoveNext
+62	April	Haha! Listen to this kitty roar!		RoomInlandRevenueHQ+<OnInteractPropMotorbike>d__62	MoveNext
+43	PhilatelyStamp	Ladies! What on earth are you doing!?		RoomInlandRevenueHQ+<OnInteractPropMotorbike>d__62	MoveNext
+227	Diana	Apologies, Mr Stamp. Our mission awaits!		RoomInlandRevenueHQ+<OnInteractPropMotorbike>d__62	MoveNext
+44	PhilatelyStamp	Don't you dare, Diana Osterhagen!		RoomInlandRevenueHQ+<OnInteractPropMotorbike>d__62	MoveNext
+45	PhilatelyStamp	P-Please, think of the paperwork involved!		RoomInlandRevenueHQ+<OnInteractPropMotorbike>d__62	MoveNext
+63	April	See you later, Phil!		RoomInlandRevenueHQ+<OnInteractPropMotorbike>d__62	MoveNext
+47	PhilatelyStamp	*Groans*		RoomInlandRevenueHQ+<OnInteractPropMotorbike>d__62	MoveNext
+48	PhilatelyStamp	I'm going to be in a lot of trouble.		RoomInlandRevenueHQ+<OnInteractPropMotorbike>d__62	MoveNext
+21	Quartermaster	Hrmm-hmm.		RoomInlandRevenueHQ+<OnInteractPropMotorbike>d__62	MoveNext
+25	Quartermaster	Thank you for calling Inland Revenue support. Your call is being forwarded to the hint department, please hold.		RoomInlandRevenueHQ+<OnInteractPropTelephone>d__74	MoveNext
+747	Diana	We have a hint department?		RoomInlandRevenueHQ+<OnInteractPropTelephone>d__74	MoveNext
+147	Diana	Nothing happened. I must be missing something.		RoomInlandRevenueHQ+<OnInteractPropButtonUnloaded>d__83	MoveNext
+205	Diana	Ready for a little adventure, Agent M?		RoomInlandRevenueHQ+<OnInteractPropButtonMouseCanister>d__85	MoveNext
+171	Diana	Psst! Agent M, grab me one of those wiring kits!		RoomInlandRevenueHQ+<OnInteractPropButtonMouseCanister>d__85	MoveNext
+172	Diana	A little more to the left!		RoomInlandRevenueHQ+<OnInteractPropButtonMouseCanister>d__85	MoveNext
+173	Diana	That's it! Bring it over here!		RoomInlandRevenueHQ+<OnInteractPropButtonMouseCanister>d__85	MoveNext
+174	Diana	Come to Diana!		RoomInlandRevenueHQ+<OnInteractPropButtonMouseCanister>d__85	MoveNext
+518	Arthur	They won't mind if I borrow these.		RoomKitchenCarriage+<OnInteractPropOvenGloves>d__101	MoveNext
+20	ChefRemy	Leave that tap alone!		RoomKitchenCarriage+<OnInteractPropTap>d__112	MoveNext
+21	ChefRemy	Is that necessary, inspector?		RoomKitchenCarriage+<OnInteractPropTap>d__112	MoveNext
+234	Herman	I'm just checking the taps.		RoomKitchenCarriage+<OnInteractPropTap>d__112	MoveNext
+226	Herman	They won't mind if I borrow this.		RoomKitchenCarriage+<OnInteractPropButter>d__113	MoveNext
+235	Herman	I'm not going to touch this while the grill is on.		RoomKitchenCarriage+<OnInteractPropValve>d__114	MoveNext
+27	ChefFrancois	Does anyone else smell gas?		RoomKitchenCarriage+<OnInteractPropValve>d__114	MoveNext
+236	Herman	I was just checking the valve. All seems to be in working order!		RoomKitchenCarriage+<OnInteractPropValve>d__114	MoveNext
+22	ChefRemy	Hey, leave that alone!		RoomKitchenCarriage+<OnInteractPropSinkPlunger>d__115	MoveNext
+238	Herman	I'll just add this to my collection.		RoomKitchenCarriage+<OnInteractPropSinkPlunger>d__115	MoveNext
+239	Herman	I'm sure they won't miss a plunger.		RoomKitchenCarriage+<OnInteractPropSinkPlunger>d__115	MoveNext
+13	ChefAntoine	Mon dieu, get away from there!		RoomKitchenCarriage+<OnInteractPropHobKnob>d__118	MoveNext
+14	ChefAntoine	Inspector! Do not touch that.		RoomKitchenCarriage+<OnInteractPropHobKnob>d__118	MoveNext
+15	ChefAntoine	Please, inspector! She is sensitive!		RoomKitchenCarriage+<OnInteractPropHobKnob>d__118	MoveNext
+16	ChefAntoine	Mon dieu ! Leave Fiammetta alone!		RoomKitchenCarriage+<OnInteractPropHobKnob>d__118	MoveNext
+17	ChefAntoine	I told you not to touch her, inspector!		RoomKitchenCarriage+<OnInteractPropHobKnob>d__118	MoveNext
+18	ChefAntoine	Fiammetta won't like that!		RoomKitchenCarriage+<OnInteractPropHobKnob>d__118	MoveNext
+24	Gunter	*Gasp!*		RoomLoungeCarriage+<BackgroundGunterShock>d__46	MoveNext
+5	Hirsch	*Gasp!*		RoomLoungeCarriage+<BackgroundHirschShock>d__47	MoveNext
+475	Arthur	She's right there!		RoomLoungeCarriage+<OnInteractPropHearingHorn>d__52	MoveNext
+373	Arthur	It's moved towards the dining carriage.		RoomLoungeCarriage+<OnInteractPropWill>d__66	MoveNext
+138	Herman	It's the set list for the band.		RoomLoungeCarriage+<OnInteractPropSetList>d__74	MoveNext
+139	Herman	I'm sure they won't mind me borrowing it.		RoomLoungeCarriage+<OnInteractPropSetList>d__74	MoveNext
+140	Herman	I might be able to swipe it.		RoomLoungeCarriage+<OnInteractPropGuestList>d__75	MoveNext
+2	StageManager	The guest list stays on that wall, buddy.		RoomLoungeCarriage+<OnInteractPropGuestList>d__75	MoveNext
+3	StageManager	Don't even think about it!		RoomLoungeCarriage+<OnInteractPropGuestList>d__75	MoveNext
+782	Herman	Sorry, George. I need this more than you do.		RoomMansionInterior+<OnInteractPropBasementWireReel>d__67	MoveNext
+487	Diana	The system is empty at the moment.		RoomMansionInterior+<OnInteractPropStudyPneumaticTubeEmpty>d__73	MoveNext
+486	Diana	There's a package ready to be requested, I'll take it.		RoomMansionInterior+<OnInteractPropStudyPneumaticTubeFull>d__74	MoveNext
+1719	Arthur	Drat, it's empty!		RoomMansionInterior+<OnInteractPropLibraryPneumaticTubeEmpty>d__94	MoveNext
+1720	Arthur	I'll just request the inbound package!		RoomMansionInterior+<OnInteractPropLibraryPneumaticTubeFull>d__95	MoveNext
+1761	Arthur	''Ode To Lemon Cake''		RoomMansionInterior+<OnInteractPropLibraryGramophoneRecord>d__116	MoveNext
+1762	Arthur	Huh. I think Lady Unterwald recorded herself on this vinyl!		RoomMansionInterior+<OnInteractPropLibraryGramophoneRecord>d__116	MoveNext
+491	Diana	Let's give this a listen, shall we?		RoomMansionInterior+<OnInteractPropStudyBigSafe>d__130	MoveNext
+492	Diana	Six...		RoomMansionInterior+<OnInteractPropStudyBigSafe>d__130	MoveNext
+493	Diana	That's a click on three...		RoomMansionInterior+<OnInteractPropStudyBigSafe>d__130	MoveNext
+494	Diana	Almost there...		RoomMansionInterior+<OnInteractPropStudyBigSafe>d__130	MoveNext
+495	Diana	I think I got it!		RoomMansionInterior+<OnInteractPropStudyBigSafe>d__130	MoveNext
+496	Diana	Huh. That was almost too easy!		RoomMansionInterior+<OnInteractPropStudyBigSafe>d__130	MoveNext
+497	Diana	Oh, blast.		RoomMansionInterior+<OnInteractPropStudyBigSafe>d__130	MoveNext
+921	Herman	I don't want to be caught by those ghastly twins.		RoomMansionInterior+<OnEnterRegionToBoilerRoom>d__147	MoveNext
+922	Herman	Better keep my distance.		RoomMansionInterior+<OnEnterRegionToBoilerRoom>d__147	MoveNext
+1396	Herman	Nothing happened, it must be empty.		RoomMansionInterior+<OnInteractPropBasementPneumaticTubeEmpty>d__178	MoveNext
+1397	Herman	Aha, what do we have here?		RoomMansionInterior+<OnInteractPropBasementPneumaticTubeFull>d__179	MoveNext
+1398	Herman	Success!		RoomMansionInterior+<OnInteractPropBasementPneumaticTubeFull>d__179	MoveNext
+1399	Herman	Requesting item... there we go!		RoomMansionInterior+<OnInteractPropBasementPneumaticTubeFull>d__179	MoveNext
+105	HandshakeLeader	Your call is being forwarded to the Dirk Chiselton Hotline, please hold.		RoomMansionInterior+<OnInteractPropTelephone>d__191	MoveNext
+914	Herman	It's so hot, I'm melting over here!		RoomMansionInterior+<OnEnterRegionWaxMeltRadiusSuccess>d__202	MoveNext
+81	Arista	Make a break for the door, boys!		RoomMansionLobby+<BackgroundAristaPleading>d__26	MoveNext
+68	April	You'd better think of something, quick!		RoomMotorbikeExterior+<BackgroundAprilCalloutOne>d__10	MoveNext
+69	April	I don't know how long I can keep this up!		RoomMotorbikeExterior+<BackgroundAprilCalloutTwo>d__11	MoveNext
+70	April	Come on, just a little bit closer!		RoomMotorbikeExterior+<BackgroundAprilCalloutThree>d__12	MoveNext
+72	April	You definitely have a plan, right?		RoomMotorbikeExterior+<BackgroundAprilCalloutFive>d__14	MoveNext
+73	April	We're already at maximum speed!		RoomMotorbikeExterior+<BackgroundAprilCalloutSix>d__15	MoveNext
+74	April	We'll need to boost our speed somehow!		RoomMotorbikeExterior+<BackgroundAprilCalloutSeven>d__16	MoveNext
+65	Herman	I best be off!		RoomPantry+<OnEnterRoomAfterFadeWearingDisguise>d__7	MoveNext
+1292	Arthur	What's this doing here?		RoomPantry+<OnInteractPropWalkingCane>d__8	MoveNext
+531	Arthur	Can't catch a mouse without cheese.		RoomPantry+<OnInteractPropCheese>d__9	MoveNext
+13	PublisherThomas	Hey, hands off!		RoomPublisherOffice+<OnInteractPropStationeryKit>d__24	MoveNext
+285	Herman	I'll just grab a cup of water.		RoomPublisherOffice+<OnInteractPropPaperCup>d__25	MoveNext
+291	Herman	Waste not, want not!		RoomPublisherOffice+<OnInteractPropRubbish>d__40	MoveNext
+420	Herman	Allow me to pitch my latest manuscript, I think you'll be pleasantly surprised!		RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+27	PublisherFrank	We'll be the judge of that.		RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+20	PublisherFrank	Now this is more like it, Herman!		RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+29	PublisherFrank	Herman Merman, dare I say it? I'm impressed!		RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+16	PublisherFlorence	He's rough and daring, but he has a soft, caring side. Well done, Herman!		RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+20	PublisherFlorence	This may even compare to Chiselton's best work, no doubt about it!		RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+23	PublisherThomas	Now that's what I'm talking about, a classic silly Herman adventure!		RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+27	PublisherThomas	The narrative is a little pedestrian at first, but then it really digs its hooks in!		RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+21	PublisherFlorence	Are you sure we can't check with the board, just in case?		RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+64	Board	ARRRRRGGGGHHHH!		RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+28	PublisherThomas	I think those were noises of approval? I really can't tell!		RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+30	PublisherFrank	Alright, we've got something here. Let's make it happen, Herman!		RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+22	PublisherFlorence	What do you need from us, Herman?		RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+421	Herman	I was wondering if I could get paid in advance?		RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+24	PublisherFlorence	You didn't tell me he was funny!		RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+54	PublisherThomas	One moment, Herman.		RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+422	Herman	I don't believe so.		RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+424	Herman	Oh! Indeed?		RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+425	Herman	Of course! Thank you for the opportunity, Lady Unterwald!		RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+426	Herman	Ladies and Gentlemen, it appears I have a train to catch.		RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+427	Herman	But you shall have your story!		RoomPublisherOffice+<OnDeliverCorrectManuscript>d__51	MoveNext
+32	PublisherFrank	Yuck, too much romance for my taste!		RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+34	PublisherFrank	Oh, another one of your wacky adventures, Herman?		RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+60	PublisherFrank	Here, Florence. What do you think?		RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+42	PublisherFlorence	Oof, too many explosions for my tastes!		RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+44	PublisherFlorence	Yep, this looks like yet another silly Herman adventure.		RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+46	PublisherFlorence	He's rough and daring, but he has a soft, caring side. Well done, Herman!		RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+43	PublisherFlorence	What say you, Thomas?		RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+60	PublisherThomas	My word, this is a lot more violent than your usual stuff, Herman.		RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+61	PublisherThomas	I think I preferred the classic silly Herman adventures!		RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+62	PublisherThomas	Ew, it's too lovey-dovey for me.		RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+26	PublisherFrank	Sorry, Herman, we don't think this script is a good fit for us right now.		RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+18	PublisherFlorence	If you have anything else you'd like to pitch, we'd be happy to hear it!		RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+64	PublisherThomas	Take this back, and give it another go.		RoomPublisherOffice+<OnDeliverIncorrectManuscript>d__52	MoveNext
+266	Herman	I already have some packing popcorn.		RoomPublisherOffice+<OnInteractPropPopcorn>d__54	MoveNext
+274	Herman	I'll just take a handful.		RoomPublisherOffice+<OnInteractPropPopcorn>d__54	MoveNext
+290	Herman	It's where all the incoming mail eventually ends up.		RoomPublisherOfficeInTray+<OnEnterRoomAfterFade>d__20	MoveNext
+451	Arthur	I don't think that would be a good idea.		RoomRooftopAccess+<OnInteractPropLadder>d__7	MoveNext
+283	Herman	There's no way I'm getting up there, I'll lose my footing!		RoomRooftopAccess+<OnInteractPropLadder>d__7	MoveNext
+117	Diana	Run, Arthur!		RoomRooftopEscape+<OnEnterRoomAfterFade>d__2	MoveNext
+1666	Arthur	What happened?		RoomRooftopEscape+<OnEnterRoomAfterFade>d__2	MoveNext
+1667	Arthur	Is that Bergmann?		RoomRooftopEscape+<OnEnterRoomAfterFade>d__2	MoveNext
+118	Diana	I just filled that hatch with explosives!		RoomRooftopEscape+<OnEnterRoomAfterFade>d__2	MoveNext
+1668	Arthur	How long do we have?		RoomRooftopEscape+<OnEnterRoomAfterFade>d__2	MoveNext
+119	Diana	I'm guessing about fifteen seconds or so!		RoomRooftopEscape+<OnEnterRoomAfterFade>d__2	MoveNext
+541	Arthur	Ah.		RoomSealedLetter+<OnEnterRoomAfterFade>d__4	MoveNext
+542	Arthur	I can't see anything without the light.		RoomSealedLetter+<OnEnterRoomAfterFade>d__4	MoveNext
+106	LadyUnterwald	Dear Arthur, please report to me at your earliest convenience.		RoomSealedLetter+<OpenLetter>d__8	MoveNext
+107	LadyUnterwald	I have further amendments to make to my estate before the big announcement tonight.		RoomSealedLetter+<OpenLetter>d__8	MoveNext
+540	Arthur	Eh, I'll read the rest of this later.		RoomSealedLetter+<OpenLetter>d__8	MoveNext
+222	Arthur	Looks like Don is heading this way.		RoomSleeperCarriage+<OnEnterRoomAfterFade>d__20	MoveNext
+223	Arthur	They seemed pretty annoyed. I'll come back later.		RoomSleeperCarriage+<OnEnterRoomAfterFade>d__20	MoveNext
+57	Herman	I've made it to the sleeper carriage. If I can get to my quarters...		RoomSleeperCarriage+<OnEnterRoomWearingDisguise>d__22	MoveNext
+14	Hagen	It's locked, what do you think?		RoomSleeperCarriage+<OnEnterRoomWearingDisguise>d__22	MoveNext
+17	Gunter	We could break down the door, or wait here.		RoomSleeperCarriage+<OnEnterRoomWearingDisguise>d__22	MoveNext
+15	Hagen	See if that snooping detective comes crawling back.		RoomSleeperCarriage+<OnEnterRoomWearingDisguise>d__22	MoveNext
+18	Gunter	Oh, good evening, ma'am!		RoomSleeperCarriage+<OnEnterRegionHermanQuarters>d__23	MoveNext
+63	Herman	G-Good evening.		RoomSleeperCarriage+<OnEnterRegionHermanQuarters>d__23	MoveNext
+64	Herman	I was just passing by.		RoomSleeperCarriage+<OnEnterRegionHermanQuarters>d__23	MoveNext
+19	Gunter	There's nothing untoward going on here.		RoomSleeperCarriage+<OnEnterRegionHermanQuarters>d__23	MoveNext
+16	Hagen	We seem to have misplaced our keys, that's all!		RoomSleeperCarriage+<OnEnterRegionHermanQuarters>d__23	MoveNext
+66	Herman	I can't risk getting to my quarters the usual way, I'll have to find another route!		RoomSleeperCarriage+<OnEnterRegionHermanQuarters>d__23	MoveNext
+251	Arthur	That letter sounded important.		RoomSleeperCarriage+<OnEnterRegionToDiningCarriage>d__30	MoveNext
+252	Arthur	I'd better change out of this suit.		RoomSleeperCarriage+<OnEnterRegionToDiningCarriage>d__30	MoveNext
+253	Arthur	I'm under orders.		RoomSleeperCarriage+<OnEnterRegionToDiningCarriage>d__30	MoveNext
+254	Arthur	I'd better change out of this suit.		RoomSleeperCarriage+<OnEnterRegionToKitchenCarriagePrologueSuitless>d__33	MoveNext
+255	Arthur	I'm under orders.		RoomSleeperCarriage+<OnEnterRegionToKitchenCarriagePrologueSuitless>d__33	MoveNext
+381	Arthur	Lady Unterwald? You're alive?		RoomSleeperCarriage+<OnPlayerUsePhoneDisclaimer>d__40	MoveNext
+382	Arthur	Oh, it's just a recording.		RoomSleeperCarriage+<OnPlayerUsePhoneDisclaimer>d__40	MoveNext
+1	Chiselton	Welcome to the Dirk Chiselton Hotline!		RoomSleeperCarriage+<OnPlayerUsePhoneFirstOccurrence>d__41	MoveNext
+2	Chiselton	Stuck on a puzzle or don't know what to do? Consult with the best detective in town, Dirk Chiselton!		RoomSleeperCarriage+<OnPlayerUsePhoneFirstOccurrence>d__41	MoveNext
+3	Chiselton	I can provide you with hints and clues, depending on how far along in the case you are.		RoomSleeperCarriage+<OnPlayerUsePhoneFirstOccurrence>d__41	MoveNext
+4	Chiselton	If you can't find the hint you're looking for, you probably don't need to solve that puzzle right now.		RoomSleeperCarriage+<OnPlayerUsePhoneFirstOccurrence>d__41	MoveNext
+5	Chiselton	Just hang up when you're done, alright?		RoomSleeperCarriage+<OnPlayerUsePhoneFirstOccurrence>d__41	MoveNext
+590	Herman	It sounds like they're talking to themselves out loud.		RoomSleeperCarriage+<OnInteractPropArthurDoorArthurMuffledFirst>d__88	MoveNext
+591	Herman	How peculiar.		RoomSleeperCarriage+<OnInteractPropArthurDoorArthurMuffledFirst>d__88	MoveNext
+136	Herman	If I pull at this wiring, it should cut power to the rooms.		RoomSleeperCarriage+<OnInteractPropFuse>d__160	MoveNext
+96	Arthur	Woah, who turned out the lights!		RoomSleeperCarriage+<OnInteractPropFuse>d__160	MoveNext
+310	Arthur	Damn, looks like I've lost power to the room.		RoomSleeperCarriage+<OnInteractPropFuse>d__160	MoveNext
+311	Arthur	I should probably take a break, anyway.		RoomSleeperCarriage+<OnInteractPropFuse>d__160	MoveNext
+708	Arthur	Aha! ''Property of Doctor Hirsch''.		RoomStorageRoom+<OnInteractPropBriefcase>d__27	MoveNext
+388	Arthur	I'll hang on to this for now.		RoomStorageRoom+<OnInteractPropBriefcase>d__27	MoveNext
+389	Arthur	I don't think the Doctor will let me look inside if I return it straight away.		RoomStorageRoom+<OnInteractPropBriefcase>d__27	MoveNext
+390	Arthur	Looks like it's locked though.		RoomStorageRoom+<OnInteractPropBriefcase>d__27	MoveNext
+391	Arthur	I'll need to find some way to open it.		RoomStorageRoom+<OnInteractPropBriefcase>d__27	MoveNext
+404	Arthur	I can't pick it up with my bare hands, it might bite me.		RoomStorageRoom+<OnInteractPropMouse>d__29	MoveNext
+673	Arthur	Oh, so close!		RoomStorageRoom+<OnInteractPropMouse>d__29	MoveNext
+131	Diana	Blast! The engine's been ripped out!		RoomTestYardEngine+<OnEnterRoomAfterFade>d__19	MoveNext
+132	Diana	I'll just have to work with these other parts.		RoomTestYardEngine+<OnEnterRoomAfterFade>d__19	MoveNext
+133	Diana	It's firmly attached. I can't pull it out with my bare hands.		RoomTestYardEngine+<OnInteractPropPipe>d__22	MoveNext
+64	Lamont	I'm gonna explode!		RoomTrainExplosion+<OnEnterRoomAfterFade>d__1	MoveNext
+40	Bailey	You need to pace yourself, Lamont!		RoomTrainExplosion+<OnEnterRoomAfterFade>d__1	MoveNext
+41	Bailey	It's a picnic, not an all-you-can-eat buffet!		RoomTrainExplosion+<OnEnterRoomAfterFade>d__1	MoveNext
+65	Lamont	Still! It's nice to get away every once in a while, Bailey!		RoomTrainExplosion+<OnEnterRoomAfterFade>d__1	MoveNext
+42	Bailey	Do you hear that?		RoomTrainExplosion+<OnEnterRoomAfterFade>d__1	MoveNext
+66	Lamont	Hear what? That's probably just my stomach growling.		RoomTrainExplosion+<OnEnterRoomAfterFade>d__1	MoveNext
+67	Lamont	Ahh. Just breathe it all in!		RoomTrainExplosion+<OnEnterRoomAfterFade>d__1	MoveNext
+68	Lamont	There's nothing like the peaceful sound of-		RoomTrainExplosion+<OnEnterRoomAfterFade>d__1	MoveNext
+69	Lamont	Sigh...		RoomTrainExplosion+<OnEnterRoomAfterFade>d__1	MoveNext
+43	Bailey	I'll get the car started.		RoomTrainExplosion+<OnEnterRoomAfterFade>d__1	MoveNext
+66	Arthur	It all started on the Reuss Express.		RoomTrainExteriorCloseup+<OnEnterRoomAfterFade>d__3	MoveNext
+123	JianLiu	Why do you persist in living?		RoomTrainFront+<OnEnterRoomAfterFade>d__12	MoveNext
+1622	Arthur	Can we not just talk about this?		RoomTrainFront+<OnEnterRoomAfterFade>d__12	MoveNext
+125	JianLiu	Now, stay still!		RoomTrainFront+<OnEnterRoomAfterFade>d__12	MoveNext
+1623	Arthur	Eep!		RoomTrainFront+<OnEnterRoomAfterFade>d__12	MoveNext
+1624	Arthur	I hope Diana is having better luck than me!		RoomTrainFront+<OnEnterRoomAfterFade>d__12	MoveNext
+566	Arthur	I already have a lump of coal.		RoomTrainFront+<OnInteractPropCoal>d__18	MoveNext
+124	Diana	I didn't realise there were so many tunnels on this line!		RoomTrainFront+<OnInteractPropWhistleCord>d__21	MoveNext
+1698	Arthur	Hey! Over here!		RoomTrainFront+<OnInteractPropWhistleCordNotBlinded>d__23	MoveNext
+1699	Arthur	Take your best shot, old man!		RoomTrainFront+<OnInteractPropWhistleCordNotBlinded>d__23	MoveNext
+1700	Arthur	You have terrible aim!		RoomTrainFront+<OnInteractPropWhistleCordNotBlinded>d__23	MoveNext
+1701	Arthur	You missed!		RoomTrainFront+<OnInteractPropWhistleCordNotBlinded>d__23	MoveNext
+84	JianLiu	Wha?		RoomTrainFront+<OnInteractPropWhistleCordNotBlinded>d__23	MoveNext
+85	JianLiu	Tunnel!		RoomTrainFront+<OnInteractPropWhistleCordNotBlinded>d__23	MoveNext
+86	JianLiu	Aha!		RoomTrainFront+<OnInteractPropWhistleCordNotBlinded>d__23	MoveNext
+95	JianLiu	You'll have to do better than that!		RoomTrainFront+<OnInteractPropWhistleCordNotBlinded>d__23	MoveNext
+96	JianLiu	Now, where was I?		RoomTrainFront+<OnInteractPropWhistleCordNotBlinded>d__23	MoveNext
+177	JianLiu	It can't be!		RoomTrainFront+<OnInteractPropWhistleCordBlinded>d__24	MoveNext
+1702	Arthur	Huh, I guess I AM a tunnel head!		RoomTrainFront+<OnInteractPropWhistleCordBlinded>d__24	MoveNext
+111	Diana	Quickly, Arthur! We need to stop this train!		RoomTrainFront+<OnInteractPropWhistleCordBlinded>d__24	MoveNext
+716	Arthur	I'm right behind you!		RoomTrainFront+<OnInteractPropWhistleCordBlinded>d__24	MoveNext
+126	Diana	Now, how do I do that, exactly? This wasn't part of my training!		RoomTrainFront+<OnInteractPropWhistleCordBlinded>d__24	MoveNext
+1703	Arthur	I'm on my way!		RoomTrainFront+<OnInteractPropWhistleCordUnused>d__25	MoveNext
+104	LadyUnterwald	What is it, Herman?		RoomUnterwaldCarriage+<OnEnterRoomAfterFade>d__31	MoveNext
+217	Herman	Go away!		RoomUnterwaldCarriage+<OnInteractPropClothesBeforeDonCaught>d__47	MoveNext
+710	Arthur	Hm, he must have left.		RoomUnterwaldCarriage+<OnInteractPropClothesAfterDonCaught>d__50	MoveNext
+826	Arthur	Is someone in there?		RoomUnterwaldCarriage+<OnInteractPropClothesAfterDonCaught>d__50	MoveNext
+828	Arthur	Hm, I guess not.		RoomUnterwaldCarriage+<OnInteractPropClothesAfterDonCaught>d__50	MoveNext
+89	LadyUnterwald	Ah, that's better. I feel myself again.		RoomUnterwaldCarriage+<OnInteractPropWindow>d__51	MoveNext
+90	LadyUnterwald	You might just be the most useful person here, Arthur. It's good to know I can rely on you.		RoomUnterwaldCarriage+<OnInteractPropWindow>d__51	MoveNext
+91	LadyUnterwald	Now, it's time to gather the family. This old lady's got a speech to make!		RoomUnterwaldCarriage+<OnInteractPropWindow>d__51	MoveNext
+466	Arthur	Oh no.		RoomUnterwaldCarriage+<OnInteractPropWindow>d__51	MoveNext
+496	Arthur	I'll just take a handful.		RoomUnterwaldCarriage+<OnInteractPropPetalLeaf>d__53	MoveNext
+97	LadyUnterwald	Arthur, leave that alone.		RoomUnterwaldCarriage+<OnInteractPropPaintingProp>d__59	MoveNext
+1059	Herman	I'll just take a handful.		RoomUnterwaldCarriage+<OnInteractPropChilliPlant>d__112	MoveNext
+59	JianLiu	YOU? We were supposed to make contact hours ago!		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+106	Diana	Wh-who are you?		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+60	JianLiu	Where's my suit? Better yet, where is that meddling detective?		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+61	JianLiu	Did Lady Unterwald put you up to this?		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+107	Diana	I'm afraid she's dead. How long have you been in there?		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+62	JianLiu	What?!		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+108	Diana	There's a will reading taking place in the lounge right now.		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+76	JianLiu	I must stop this at once!		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+29	Hirsch	The document speaks for itself Arista, this was clearly Lady Unterwald's last wish.		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+21	Arista	Really, doctor? You don't believe a trained attorney could have forged one of these documents?		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+30	Hagen	If Arthur takes over the estate, that means we can't sell it?		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+22	Arista	That's right. No sale means no money for us.		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+34	Bergmann	You're making rather large assumptions, Arista. We don't know if that's the case.		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+23	Arista	What I do know is that some of us have quite expensive hobbies, isn't that right, Bergmann?		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+35	Bergmann	Well-I... I... But what course of action can we take?		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+41	JianLiu	I believe I have a solution that would benefit everyone. If you'll allow me?		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+24	Arista	Well, I believe that solves our problem quite effectively.		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+36	Bergmann	Jian! That's completely-		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+42	JianLiu	Look around you, Bergmann. This room is filled with documents purporting to be Lady Unterwald's last wishes.		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+43	JianLiu	Who's to say we can't use one with slightly more favourable terms?		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+30	Hirsch	This is ridiculous, the order won't stand for this!		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+44	JianLiu	The order will no longer be an issue, doctor.		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+45	JianLiu	You could say I've ''handled'' the situation? Haha.		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+31	Hirsch	What have you done, Jian!		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+109	Diana	*ACHOO*		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+51	Gunter	Bless you!		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+110	Diana	Hello, everyone.		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+45	Hagen	Who are you supposed to be?		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+49	Bergmann	You're from the t-tax office? Excuse me, I have some urgent business to attend to!		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+38	Arista	What's going on, Jian? She's heard everything!		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+77	JianLiu	Quiet, Arista. I have everything under control.		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+56	Arista	She's a spy, you idiot!		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+58	Arista	Boys! Tie her up with the others.		RoomUnterwaldCarriage+<OnInteractPropInstrumentCaseFreeMrLiu>d__158	MoveNext
+1069	Herman	It's a working model replica of the Reuss Express!		RoomUnterwaldLobby+<OnInteractPropModel>d__12	MoveNext
+592	Arthur	That's it!		RoomUnterwaldSafeLocks+<UpdateBlocking>d__51	MoveNext
+593	Arthur	Just one more locking mechanism to get through!		RoomUnterwaldSafeLocks+<UpdateBlocking>d__51	MoveNext
+594	Arthur	It's going to be tricky to replicate Lady Unterwald's voice, given the circumstances.		RoomUnterwaldSafeLocks+<UpdateBlocking>d__51	MoveNext
+596	Arthur	There are two locking mechanisms here.		RoomUnterwaldSafeLocks+<OnEnterRoomAfterFade>d__53	MoveNext
+597	Arthur	There's a combination lock, looks like I'll need to put in a six-digit number.		RoomUnterwaldSafeLocks+<OnEnterRoomAfterFade>d__53	MoveNext
+598	Arthur	And this looks like a listening device. Could this lock be voice activated?		RoomUnterwaldSafeLocks+<OnEnterRoomAfterFade>d__53	MoveNext
+58	Gunter	You hear that?		RoomVentilation+<OnEnterRoomAfterFade>d__1	MoveNext
+51	Hagen	Quickly, it came from this direction!		RoomVentilation+<OnEnterRoomAfterFade>d__1	MoveNext
+59	Gunter	That's what I've been saying!		RoomVentilation+<OnEnterRoomAfterFade>d__1	MoveNext

@@ -1,0 +1,642 @@
+﻿// ===== DialogTalkToDonMasson+<Option2>d__5.MoveNext (2 lines) =====
+map["Why is Mr Masson holding out on you?"] = ""; // Char: Herman
+map["A simple disagreement over payment. He thinks he can hustle me for a bigger price."] = ""; // Char: Don
+
+// ===== DialogTalkToDonMasson+<Option2a>d__6.MoveNext (6 lines) =====
+map["I need intel. What can you tell me about Mr Masson?"] = ""; // Char: Herman
+map["Well he's got a sharp tongue, likes to run his mouth a lot y'know? His mind is even sharper still."] = ""; // Char: Don
+map["Maybe you can find a way to dull his senses, get his guard down?"] = ""; // Char: Don
+map["You mean, inebriated?"] = ""; // Char: Herman
+map["You know, I might have just the recipe!"] = ""; // Char: Don
+map["It's potent stuff. Last time I drank this, I couldn't even talk."] = ""; // Char: Don
+
+// ===== DialogTalkToDonMasson+<Option2b>d__7.MoveNext (3 lines) =====
+map["Can't you just intimidate him into giving you what you want?"] = ""; // Char: Herman
+map["Mr Masson isn't so easily persuaded, not through muscle at least."] = ""; // Char: Don
+map["That's why you gotta put that big detective brain of yours to good use, huh?"] = ""; // Char: Don
+
+// ===== DialogTalkToDonMasson+<Option3>d__8.MoveNext (3 lines) =====
+map["What do you need that item for?"] = ""; // Char: Herman
+map["Oh, that's for me to know and you to never find out."] = ""; // Char: Don
+map["Gotta keep up that plausible deniability, am I right?"] = ""; // Char: Don
+
+// ===== DialogTalkToDonMasson+<Option3a>d__9.MoveNext (2 lines) =====
+map["This item you want me to get, what does it look like?"] = ""; // Char: Herman
+map["Let's just say it's an unusual item to have on one's person. You'll know it when you see it."] = ""; // Char: Don
+
+// ===== DialogTalkToDonMasson+<Option4>d__10.MoveNext (2 lines) =====
+map["I'll see what I can do."] = ""; // Char: Herman
+map["Catch you later."] = ""; // Char: Don
+
+// ===== DialogTalkToDonServices+<Option1>d__4.MoveNext (2 lines) =====
+map["What services are you offering, exactly?"] = ""; // Char: Herman
+map["I've got a whole load of schemes going on right now!"] = ""; // Char: Don
+
+// ===== DialogTalkToDonServices+<Option1FirstOccurrence>d__5.MoveNext (7 lines) =====
+map["What services are you offering, exactly?"] = ""; // Char: Herman
+map["Don't you mean services?"] = ""; // Char: Herman
+map["Y-Yeah, that's what I said! Services!"] = ""; // Char: Don
+map["Well I offer your standard basic package, that includes stuff like forgery, blackmail, general intimidation."] = ""; // Char: Don
+map["Higher tier services are more like swindling, wiretapping, all the way up to advanced counterfeiting."] = ""; // Char: Don
+map["Between you and me, though? I'm only in it for the money."] = ""; // Char: Don
+map["My real passion? Poetry."] = ""; // Char: Don
+
+// ===== DialogTalkToDonServices+<Option1a>d__6.MoveNext (4 lines) =====
+map["Has any of your poetry been published?"] = ""; // Char: Herman
+map["Nah. If you rely on your passion to make money, there's way too much pressure to capitulate, y'know?"] = ""; // Char: Don
+map["Have I used my art to woo a broad or two? Oh, absolutely!"] = ""; // Char: Don
+map["But I'm not risking what I love just to make a quick buck."] = ""; // Char: Don
+
+// ===== DialogTalkToDonServices+<Option1b>d__7.MoveNext (2 lines) =====
+map["Tell me more about the basic package"] = ""; // Char: Herman
+map["So with your basic forgery package I can fabricate documentation, forge a signature. You know, that kinda thing!"] = ""; // Char: Don
+
+// ===== DialogTalkToDonServices+<Option1c>d__8.MoveNext (3 lines) =====
+map["Would you be able to forge my name on a guest list?"] = ""; // Char: Herman
+map["A guest list? Yeah, sounds easy enough."] = ""; // Char: Don
+map["I'd just need a reference to the handwriting you'd wanna forge."] = ""; // Char: Don
+
+// ===== DialogTalkToDonServices+<Option1d>d__9.MoveNext (2 lines) =====
+map["I want to hear more about your higher tier service"] = ""; // Char: Herman
+map["Well my higher tier services aren't available right this minute. I'm already on a job, you see."] = ""; // Char: Don
+
+// ===== DialogTalkToDonServices+<Option1e>d__10.MoveNext (2 lines) =====
+map["On second thought, I've changed my mind."] = ""; // Char: Herman
+map["Alright, let me know when you reconsider."] = ""; // Char: Don
+
+// ===== DialogTalkToDonServices+<Option2>d__11.MoveNext (3 lines) =====
+map["I'm not sure that I want to get roped into any illicit activities."] = ""; // Char: Herman
+map["Nah, I know your type. People like you don't like to get their hands dirty."] = ""; // Char: Don
+map["You'll be back when you can't talk your way through a problem though."] = ""; // Char: Don
+
+// ===== DialogTalkToDonServices+<Option3>d__12.MoveNext (3 lines) =====
+map["I'm researching material for my next novel. Any interesting crimes to share?"] = ""; // Char: Herman
+map["If I was the sort to openly confess to crimes, I wouldn't be very good at my job now, would I?"] = ""; // Char: Don
+map["Fair enough."] = ""; // Char: Herman
+
+// ===== DialogTalkToDonServices+<Option4>d__13.MoveNext (1 lines) =====
+map["Alright, see you around."] = ""; // Char: Don
+
+// ===== DialogTalkToGuard+<OnStop>d__2.MoveNext (1 lines) =====
+map["I need to find a way to convince that guard to leave his post."] = ""; // Char: Arthur
+
+// ===== DialogTalkToGuard+<Option1>d__3.MoveNext (4 lines) =====
+map["I'm still Lady Unterwald's attorney!"] = ""; // Char: Arthur
+map["Let me through!"] = ""; // Char: Arthur
+map["Sorry, sir."] = ""; // Char: Guard
+map["As I said, no exceptions."] = ""; // Char: Guard
+
+// ===== DialogTalkToGuard+<Option1a>d__4.MoveNext (2 lines) =====
+map["I have a letter from the late Lady Unterwald, right here!"] = ""; // Char: Arthur
+map["So I can go in?"] = ""; // Char: Arthur
+
+// ===== DialogTalkToGuard+<Option2>d__5.MoveNext (2 lines) =====
+map["Pretty please, let me in?"] = ""; // Char: Arthur
+map["Sorry sir, no can do."] = ""; // Char: Guard
+
+// ===== DialogTalkToGuard+<Option2a>d__6.MoveNext (6 lines) =====
+map["Pretty, pretty please?"] = ""; // Char: Arthur
+map["With a cherry on top?"] = ""; // Char: Arthur
+map["Alright, go ahead."] = ""; // Char: Guard
+map["Really?"] = ""; // Char: Arthur
+map["Hey, I'm not falling for that again."] = ""; // Char: Arthur
+map["Nobody is getting past me as long as I'm standing here."] = ""; // Char: Guard
+
+// ===== DialogTalkToGuard+<Option3>d__7.MoveNext (6 lines) =====
+map["Could you check Lady Unterwald's quarters on my behalf?"] = ""; // Char: Arthur
+map["Ah, no. I can't step foot in there on account of my allergies."] = ""; // Char: Guard
+map["Allergies?"] = ""; // Char: Arthur
+map["Fragrance sensitivity, they call it."] = ""; // Char: Guard
+map["A room like that, filled with pungent perfume and all those fresh flowers?"] = ""; // Char: Guard
+map["I'm not taking my chances."] = ""; // Char: Guard
+
+// ===== DialogTalkToGuard+<Option3a>d__8.MoveNext (7 lines) =====
+map["What would happen if you set off your allergies?"] = ""; // Char: Arthur
+map["Oh, it's quite the sight to behold. I've been known to go beet red!"] = ""; // Char: Guard
+map["Hah!"] = ""; // Char: Arthur
+map["That's when I need to seek immediate medical attention, of course."] = ""; // Char: Guard
+map["But I'd be fine."] = ""; // Char: Guard
+map["You would?"] = ""; // Char: Arthur
+map["Eventually."] = ""; // Char: Guard
+
+// ===== DialogTalkToGuard+<Option4>d__9.MoveNext (2 lines) =====
+map["I'm leaving now..."] = ""; // Char: Arthur
+map["...but I'll be back."] = ""; // Char: Arthur
+
+// ===== DialogTalkToGunter+<OnStop>d__3.MoveNext (3 lines) =====
+map["Good thinking, Arthur. They're not paying attention at all!"] = ""; // Char: Diana
+map["I've got a hand free! I think I can get to my pockets."] = ""; // Char: Arthur
+map["Do you have something that can get us out of these binds?"] = ""; // Char: Diana
+
+// ===== DialogTalkToGunter+<Option1>d__5.MoveNext (3 lines) =====
+map["I really thought we'd bonded over our shared love of infrastructure!"] = ""; // Char: Arthur
+map["There may be truth to that, but you've sure dug a hole for yourself!"] = ""; // Char: Gunter
+map["That may be the case, but you've sure burned a lot of bridges!"] = ""; // Char: Hagen
+
+// ===== DialogTalkToGunter+<Option2>d__6.MoveNext (3 lines) =====
+map["What's your bathroom break policy?"] = ""; // Char: Arthur
+map["No, no, no! I'm not messing around with those ropes again!"] = ""; // Char: Hagen
+map["The knots were a total nightmare."] = ""; // Char: Gunter
+
+// ===== DialogTalkToGunter+<Option3>d__7.MoveNext (2 lines) =====
+map["I'm not sure that I can hold it in any longer!"] = ""; // Char: Arthur
+map["Well, maybe next time you'll go to the toilet before you commit a murder!"] = ""; // Char: Gunter
+
+// ===== DialogTalkToGunter+<Option4>d__8.MoveNext (7 lines) =====
+map["I was hoping you could help us resolve an argument..."] = ""; // Char: Arthur
+map["Arguing? About what?"] = ""; // Char: Hagen
+map["Oh, yes! If I remember correctly, Herman had some very strong views."] = ""; // Char: Diana
+map["I did?"] = ""; // Char: Herman
+map["You know what, forget I said anything."] = ""; // Char: Arthur
+map["You're probably not that interested."] = ""; // Char: Arthur
+map["No! Tell us, we want to hear it!"] = ""; // Char: Gunter
+
+// ===== DialogTalkToGunter+<Option5>d__9.MoveNext (5 lines) =====
+map["Herman bet you couldn't beat him in a staring contest."] = ""; // Char: Arthur
+map["What!"] = ""; // Char: Gunter
+map["Nonsense!"] = ""; // Char: Hagen
+map["You look me in the eye and say that!"] = ""; // Char: Gunter
+map["This really isn't necess- oh, I guess we're doing this then?"] = ""; // Char: Herman
+
+// ===== DialogTalkToGunter+<Option6>d__10.MoveNext (4 lines) =====
+map["Herman said one of you is slightly shorter than the other."] = ""; // Char: Arthur
+map["That's ridiculous, we're identical!"] = ""; // Char: Hagen
+map["Identical in everything but height, apparently."] = ""; // Char: Gunter
+map["You're maybe a pixel taller, if that!"] = ""; // Char: Hagen
+
+// ===== DialogTalkToGunter+<Option7>d__11.MoveNext (4 lines) =====
+map["Herman believes infrastructure investment is a financial waste!"] = ""; // Char: Arthur
+map["That's the kind of short-term thinking that leads to crumbling bridges!"] = ""; // Char: Hagen
+map["You'd know all about crumbling bridges, Hagen."] = ""; // Char: Gunter
+map["Hey! That wasn't my fault."] = ""; // Char: Hagen
+
+// ===== DialogTalkToGunter+<Option8>d__12.MoveNext (5 lines) =====
+map["Herman thinks Hagen is the favourite child of the two."] = ""; // Char: Arthur
+map["How dare you!"] = ""; // Char: Gunter
+map["No, he has a point there. It's pretty obvious that she likes me more."] = ""; // Char: Hagen
+map["How can there be a favourite when she can barely tell us apart?"] = ""; // Char: Gunter
+map["Just natural intuition, and also she told me one time."] = ""; // Char: Hagen
+
+// ===== DialogTalkToGunter+<Option9>d__13.MoveNext (1 lines) =====
+map["Never mind, it probably wasn't important."] = ""; // Char: Arthur
+
+// ===== DialogTalkToHermanCloset+<OnStart>d__0.MoveNext (1 lines) =====
+map["Suit yourself, I'll leave you to it."] = ""; // Char: Arthur
+
+// ===== DialogTalkToHermanCloset+<Option1>d__4.MoveNext (5 lines) =====
+map["What are you doing in there?"] = ""; // Char: Arthur
+map["There's a killer on the loose, Mr Ackerman!"] = ""; // Char: Herman
+map["So, you're hiding?"] = ""; // Char: Arthur
+map["Merely a tactical retreat. It's all part of the strategy."] = ""; // Char: Herman
+map["Lower their guard, wait for things to blow over. Then I can strike when they least suspect it!"] = ""; // Char: Herman
+
+// ===== DialogTalkToHermanCloset+<Option2>d__5.MoveNext (3 lines) =====
+map["You're supposed to be helping to solve the case!"] = ""; // Char: Arthur
+map["I assure you I'm working diligently to solve the case, but I can't become part of the story."] = ""; // Char: Herman
+map["Not when everything points to me being another potential victim!"] = ""; // Char: Herman
+
+// ===== DialogTalkToHermanCloset+<Option3>d__6.MoveNext (4 lines) =====
+map["You clearly know something, Herman!"] = ""; // Char: Arthur
+map["All I know for sure is we're both knee-deep in Lady Unterwald's affairs."] = ""; // Char: Herman
+map["We may never know what she was ultimately up to, but it got her killed."] = ""; // Char: Herman
+map["I have a strong desire to avoid the same fate, Mr Ackerman."] = ""; // Char: Herman
+
+// ===== DialogTalkToHermanCloset+<Option4>d__7.MoveNext (1 lines) =====
+map["Suit yourself, I'll leave you to it."] = ""; // Char: Arthur
+
+// ===== DialogTalkToHermanJail+<Option1>d__3.MoveNext (4 lines) =====
+map["Sorry about the whole train derailment, I hope you're alright."] = ""; // Char: Diana
+map["A little warning would have been nice, that's all."] = ""; // Char: Herman
+map["Of course."] = ""; // Char: Diana
+map["It will make a good addition to my novel, at least."] = ""; // Char: Herman
+
+// ===== DialogTalkToHermanJail+<Option2>d__4.MoveNext (5 lines) =====
+map["Is there anything in your cell that could help us, Herman?"] = ""; // Char: Diana
+map["I'm afraid not, but I do have a room with a view."] = ""; // Char: Herman
+map["Wait, you have a window in your cell?"] = ""; // Char: Diana
+map["Indeed, I assume they recognised my VIP credentials."] = ""; // Char: Herman
+map["I guess that makes me a Very Important Prisoner."] = ""; // Char: Herman
+
+// ===== DialogTalkToHermanJail+<Option2a>d__5.MoveNext (4 lines) =====
+map["What about outside, is there anything out there?"] = ""; // Char: Diana
+map["There's some lady outside on a motorbike asking after you."] = ""; // Char: Herman
+map["April! She's here?"] = ""; // Char: Diana
+map["Indeed. She says there's a chance we can break out of here!"] = ""; // Char: Herman
+
+// ===== DialogTalkToHermanJail+<Option2b>d__6.MoveNext (4 lines) =====
+map["What does April need from us?"] = ""; // Char: Diana
+map["April mentioned the window bars are a weak point."] = ""; // Char: Herman
+map["If we can find something to leverage against them, we might be able to break out!"] = ""; // Char: Herman
+map["Got it, let me see what I can do."] = ""; // Char: Diana
+
+// ===== DialogTalkToHermanJail+<Option2c>d__7.MoveNext (2 lines) =====
+map["I found a chain, but it'd cause a scene if I tried to flush it."] = ""; // Char: Diana
+map["I think we'd need to deal with that intern before you can send it my way."] = ""; // Char: Herman
+
+// ===== DialogTalkToHermanJail+<Option2d>d__8.MoveNext (4 lines) =====
+map["What's happening with that chain?"] = ""; // Char: Diana
+map["It's stuck, I can't get it free!"] = ""; // Char: Herman
+map["The pipes are only so big, I think it's a blockage."] = ""; // Char: Herman
+map["Then you'll need to create a vacuum to shift it!"] = ""; // Char: Diana
+
+// ===== DialogTalkToHermanJail+<Option2e>d__9.MoveNext (4 lines) =====
+map["What's happening with that chain?"] = ""; // Char: Diana
+map["I've managed to retrieve it from the toilet!"] = ""; // Char: Herman
+map["Well, what are you waiting for?"] = ""; // Char: Diana
+map["Wrap it around those bars, and perhaps we can get out of here!"] = ""; // Char: Diana
+
+// ===== DialogTalkToHermanJail+<Option3>d__10.MoveNext (3 lines) =====
+map["Just wanted to say, great job distracting those twins back there!"] = ""; // Char: Diana
+map["Ah, it was nothing really..."] = ""; // Char: Herman
+map["Although I suppose it was quite heroic, wasn't it?"] = ""; // Char: Herman
+
+// ===== DialogTalkToHermanJail+<Option4>d__11.MoveNext (1 lines) =====
+map["I should go!"] = ""; // Char: Diana
+
+// ===== DialogTalkToHirsch+<Option1>d__5.MoveNext (3 lines) =====
+map["Oh, quite the opposite! Lady Unterwald was exceedingly spry for her age."] = ""; // Char: Hirsch
+map["She liked to keep me around, in case of emergencies."] = ""; // Char: Hirsch
+map["But I didn't sign up for this!"] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirsch+<Option2>d__6.MoveNext (4 lines) =====
+map["I think we both know Lady Unterwald made a fair few enemies with her eccentricities."] = ""; // Char: Hirsch
+map["If the Lady felt someone was undeserving of her inheritance, she wouldn't hesitate to remove them from her will."] = ""; // Char: Hirsch
+map["Oh dear. She did write out a cousin for chewing too loudly that one time."] = ""; // Char: Arthur
+map["When there's wealth, power and influence to play for, nobody is without suspicion."] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirsch+<Option3>d__7.MoveNext (4 lines) =====
+map["You had the Lady's last will and testament, no?"] = ""; // Char: Hirsch
+map["I was hoping you might be able to point us in the right direction."] = ""; // Char: Hirsch
+map["Well, be quick about it, Mr Ackerman."] = ""; // Char: Hirsch
+map["There are plenty of dark tunnels on the route ahead."] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirsch+<Option4>d__8.MoveNext (2 lines) =====
+map["I'm not yet able to determine a cause of death, if that's what you're asking."] = ""; // Char: Hirsch
+map["My working hypothesis? The Lady suffered a penetrating blow, and died near instantaneously."] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirsch+<Option4a>d__9.MoveNext (2 lines) =====
+map["Alas, I only got a brief look at the weapon before Lady Unterwald was carried away."] = ""; // Char: Hirsch
+map["As we didn't see anyone approach Lady Unterwald, she must have been struck from a distance."] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirsch+<Option5>d__10.MoveNext (4 lines) =====
+map["That's right. It's been missing for some time, I'm afraid."] = ""; // Char: Hirsch
+map["It had all my clinical equipment, and contained sensitive patient records."] = ""; // Char: Hirsch
+map["That sounds like a clue to me. Do you suspect foul play?"] = ""; // Char: Arthur
+map["Oh, I hadn't thought about that."] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirsch+<Option6>d__11.MoveNext (3 lines) =====
+map["Let's see. I was tending to someone who'd had one drink too many."] = ""; // Char: Hirsch
+map["There was a patient who'd suffered a hand injury."] = ""; // Char: Hirsch
+map["Ah, yes! I took them both behind the red curtain in the casino, it could still be there!"] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirsch+<Option7a>d__13.MoveNext (2 lines) =====
+map["That's the thing, I can't quite remember!"] = ""; // Char: Hirsch
+map["I definitely had it when I was with my patient. I left them behind the red curtain to recuperate."] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirsch+<Option7b>d__14.MoveNext (4 lines) =====
+map["As a matter of fact, it did contain her confidential medical records."] = ""; // Char: Hirsch
+map["Are we talking date of birth? Address history? Embarrassing medical conditions?"] = ""; // Char: Arthur
+map["I'm afraid I can't say more, Arthur."] = ""; // Char: Hirsch
+map["It's important I respect patient confidentiality, even in these grave circumstances."] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirsch+<Option7c>d__15.MoveNext (7 lines) =====
+map["Oh yes, all my medical instruments were in there."] = ""; // Char: Hirsch
+map["What kind of instruments?"] = ""; // Char: Arthur
+map["My stethoscope, of course."] = ""; // Char: Hirsch
+map["A thermometer, various syringes, tongue depressors."] = ""; // Char: Hirsch
+map["Not to mention my Sphygmomanometer."] = ""; // Char: Hirsch
+map["You just made that one up."] = ""; // Char: Arthur
+map["I did no such thing!"] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirsch+<Option7d>d__16.MoveNext (2 lines) =====
+map["I'd gladly search for it, but I feel I owe it to Lady Unterwald to remain here."] = ""; // Char: Hirsch
+map["If I can glean any information from the scene, perhaps I'll have been of some use?"] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirsch+<Option7e>d__17.MoveNext (1 lines) =====
+map["Hopefully I've been of some use."] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirsch+<Option8>d__18.MoveNext (4 lines) =====
+map["I'm afraid I can't say, Arthur. It's called a secret society for a reason."] = ""; // Char: Hirsch
+map["Wait, you're saying there's a secret society behind the curtain?"] = ""; // Char: Arthur
+map["No! Nobody said anything about a secret society."] = ""; // Char: Hirsch
+map["Ohh, I've gone and put my foot in it again, haven't I?"] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirsch+<Option10>d__20.MoveNext (2 lines) =====
+map["Arthur, stop digging for information!"] = ""; // Char: Hirsch
+map["I'll never live it down if they discover I've revealed the location."] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirsch+<Option10a>d__21.MoveNext (1 lines) =====
+map["Oh, don't mind Brian. He just takes it all very seriously."] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirsch+<Option10b>d__22.MoveNext (2 lines) =====
+map["That's intentional. To the outside observer, it should be but a blur."] = ""; // Char: Hirsch
+map["If you could identify the handshake pattern with the naked eye, it would become all too easy to replicate!"] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirsch+<Option11>d__23.MoveNext (4 lines) =====
+map["Of course not, that goes against their entire philosophy!"] = ""; // Char: Hirsch
+map["Which is...?"] = ""; // Char: Arthur
+map["Arthur, please! I cannot divulge that information here."] = ""; // Char: Hirsch
+map["I've already said too much on the matter."] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirsch+<Option12>d__24.MoveNext (5 lines) =====
+map["Arthur, I'm not supposed to talk about it."] = ""; // Char: Hirsch
+map["Come on. Are you saying you can't get me in?"] = ""; // Char: Arthur
+map["It's not that easy, you'd need to know the handshake."] = ""; // Char: Hirsch
+map["There's a secret handshake?"] = ""; // Char: Arthur
+map["Arthur, please! I don't want to get in trouble."] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirsch+<Option12a>d__25.MoveNext (3 lines) =====
+map["Even if I could teach you the handshake, I'd likely be a pattern or two behind at this point. They are known to routinely change it!"] = ""; // Char: Hirsch
+map["What if I figured out the current pattern?"] = ""; // Char: Arthur
+map["If you were to figure out a way to capture the current pattern, I'd be open to discussing it with the utmost discretion."] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirsch+<Option12b>d__26.MoveNext (2 lines) =====
+map["You did? How did you know to do that?"] = ""; // Char: Hirsch
+map["I guess I'm just a forward-thinking individual."] = ""; // Char: Arthur
+
+// ===== DialogTalkToHirschAboutCases+<OnStop>d__2.MoveNext (2 lines) =====
+map["Well, it sounds like I've encountered my biggest fan!"] = ""; // Char: Herman
+map["I'm just a humble admirer of your work, I promise not to gush!"] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirschAboutCases+<Option1>d__3.MoveNext (2 lines) =====
+map["You've read Herman Merman and the Squirmin' Chairman?"] = ""; // Char: Herman
+map["Oh yes! If you ask me, the chairman got off too lightly!"] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirschAboutCases+<Option2>d__4.MoveNext (3 lines) =====
+map["Surely not Herman Merman and The Sermon of Vermin?"] = ""; // Char: Herman
+map["The infestation of vermin, it's an allegory for corruption, right?"] = ""; // Char: Hirsch
+map["I'm afraid they were very literal rodents."] = ""; // Char: Herman
+
+// ===== DialogTalkToHirschAboutCases+<Option3>d__5.MoveNext (3 lines) =====
+map["Even Herman Merman and the Murmuring German?"] = ""; // Char: Herman
+map["The incoherent mumbling really captured the divide between the two characters!"] = ""; // Char: Hirsch
+map["I really couldn't understand a word that man said."] = ""; // Char: Herman
+
+// ===== DialogTalkToHirschBasement+<Option1>d__3.MoveNext (2 lines) =====
+map["What happened to the rest of The Order?"] = ""; // Char: Herman
+map["There were a few broken thumbs when the train derailed, but nothing too serious."] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirschBasement+<Option1a>d__4.MoveNext (3 lines) =====
+map["Have The Order come to stop the will reading?"] = ""; // Char: Herman
+map["They sent me as their delegate, but it seems I failed."] = ""; // Char: Hirsch
+map["There may still be time, though!"] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirschBasement+<Option2>d__5.MoveNext (2 lines) =====
+map["Do you think the twins are in on it?"] = ""; // Char: Herman
+map["I think they have the combined intellect of a toddler, so are easily influenced."] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirschBasement+<Option3>d__6.MoveNext (4 lines) =====
+map["What do I need to be doing again?"] = ""; // Char: Herman
+map["We need to get a confession out of Arista."] = ""; // Char: Hirsch
+map["It should be enough to clear your names, and disinherit her from any claim to the estate!"] = ""; // Char: Hirsch
+map["They're about to begin the will reading, so I suggest you hurry!"] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirschBasement+<Option4>d__7.MoveNext (1 lines) =====
+map["Don't be long, Herman!"] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirschLobby+<Option1>d__3.MoveNext (3 lines) =====
+map["Can you hear what they're arguing about?"] = ""; // Char: Herman
+map["I'm not sure, it's too muffled."] = ""; // Char: Hirsch
+map["Jian seemed very angry, though, it can't be anything good."] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirschLobby+<Option1a>d__4.MoveNext (3 lines) =====
+map["Do you think Lady Unterwald is alright in there?"] = ""; // Char: Herman
+map["Oh, she can hold her own, that's for certain."] = ""; // Char: Hirsch
+map["It's not the first time she's had to put Jian in his place!"] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirschLobby+<Option2>d__5.MoveNext (3 lines) =====
+map["Did you try knocking on the door?"] = ""; // Char: Herman
+map["No, I don't want to get in-between them!"] = ""; // Char: Hirsch
+map["Perhaps we should just see how this plays out?"] = ""; // Char: Hirsch
+
+// ===== DialogTalkToHirschLobby+<Option3>d__6.MoveNext (3 lines) =====
+map["I need to get in there, is there any other way?"] = ""; // Char: Herman
+map["Not that I can think of, unless you fancy climbing through the window."] = ""; // Char: Hirsch
+map["Well, there's no way I'm doing that."] = ""; // Char: Herman
+
+// ===== DialogTalkToHirschLobby+<Option4>d__7.MoveNext (1 lines) =====
+map["Okay, I'll be right here!"] = ""; // Char: Hirsch
+
+// ===== DialogTalkToMassonDrunk+<Option1>d__3.MoveNext (7 lines) =====
+map["Have you scheeen a briefcashhe around here?"] = ""; // Char: Arthur
+map["Ahah, yes I remember the doctor."] = ""; // Char: Masson
+map["In his haste to bring me here, he left his briefcase behind."] = ""; // Char: Masson
+map["It's likely been returned to luggage sschtorage."] = ""; // Char: Masson
+map["Here! You're welcome to take a look for yoursself."] = ""; // Char: Masson
+map["Make sschure you crack the case, my good man!"] = ""; // Char: Masson
+map["You might want to schober up firsscht though."] = ""; // Char: Masson
+
+// ===== DialogTalkToMassonDrunk+<Option1a>d__4.MoveNext (8 lines) =====
+map["You had the keys to the luggage sschtorage?"] = ""; // Char: Arthur
+map["You think I'd trust thosse porterss to sshtore my luggage correctly?"] = ""; // Char: Masson
+map["If I want a job done properly, I often find the need to do it myssself."] = ""; // Char: Masson
+map["So I sschwiped a set of keys when they weren't looking. Is that ssuch a crime?"] = ""; // Char: Masson
+map["Yessh. It'ss definitely a crime."] = ""; // Char: Arthur
+map["You've never taken ssomething that didn't belong to you?"] = ""; // Char: Masson
+map["Uhh..."] = ""; // Char: Arthur
+map["Okay, I seee your point."] = ""; // Char: Arthur
+
+// ===== DialogTalkToMassonDrunk+<Option2>d__5.MoveNext (3 lines) =====
+map["How'd you end up in thischh plaace?"] = ""; // Char: Arthur
+map["I was sscherved a complimentary drink. Felt rude not to take it."] = ""; // Char: Masson
+map["Next thing you know, the doctor is whisschking me away, for my own sschafety."] = ""; // Char: Masson
+
+// ===== DialogTalkToMassonDrunk+<Option3>d__6.MoveNext (5 lines) =====
+map["Thissch complimentary drink, do you suschpect foul play?"] = ""; // Char: Arthur
+map["Perhapsch I wasch a little demanding, with the kitchen staff."] = ""; // Char: Masson
+map["You think schhomeone wanted to poison me? Intentionally?"] = ""; // Char: Masson
+map["It's posschible."] = ""; // Char: Arthur
+map["Well, I schhould be thanking them, this is sschplendid!"] = ""; // Char: Masson
+
+// ===== DialogTalkToMassonDrunk+<Option4>d__7.MoveNext (4 lines) =====
+map["Who invented thaaat drink, anywaay?"] = ""; // Char: Arthur
+map["Mwaaaah! The French!"] = ""; // Char: Masson
+map["Really?"] = ""; // Char: Arthur
+map["No, I have no idea."] = ""; // Char: Masson
+
+// ===== DialogTalkToMassonDrunk+<Option5>d__8.MoveNext (2 lines) =====
+map["I sschould be going!"] = ""; // Char: Arthur
+map["Scho long!"] = ""; // Char: Masson
+
+// ===== DialogTalkToMassonSober+<Option1>d__2.MoveNext (3 lines) =====
+map["Are you okay?"] = ""; // Char: Arthur
+map["Mmmh? *Hic*"] = ""; // Char: Masson
+map["I'm einnnnf I fsschure ouy."] = ""; // Char: Masson
+
+// ===== DialogTalkToMassonSober+<Option2>d__3.MoveNext (3 lines) =====
+map["They aren't holding you hostage here, are they?"] = ""; // Char: Arthur
+map["*Hic* Whuhm?"] = ""; // Char: Masson
+map["Oot ont nall!"] = ""; // Char: Masson
+
+// ===== DialogTalkToMassonSober+<Option3>d__4.MoveNext (5 lines) =====
+map["Have you seen a briefcase around here?"] = ""; // Char: Arthur
+map["Whuah?"] = ""; // Char: Masson
+map["It contains important documents relating to Lady Unterwald!"] = ""; // Char: Arthur
+map["Mmmhah! *Hic*"] = ""; // Char: Masson
+map["It's no use. I can't understand a word."] = ""; // Char: Arthur
+
+// ===== DialogTalkToMassonSober+<Option4>d__5.MoveNext (2 lines) =====
+map["I'll be back later."] = ""; // Char: Arthur
+map["Nuywbte."] = ""; // Char: Masson
+
+// ===== DialogTalkToPhilatelyStamp+<Option1>d__3.MoveNext (4 lines) =====
+map["What's all this about budget cuts?"] = ""; // Char: Diana
+map["We've had to tighten the belt, I'm afraid. Some of our more experienced agents required the funds, you see?"] = ""; // Char: PhilatelyStamp
+map["Those weaponised vehicles, tuxedos and elaborate dinner parties aren't cheap, it turns out."] = ""; // Char: PhilatelyStamp
+map["Don't worry, you can keep the dress. I know the tech team worked for months to incorporate those pockets."] = ""; // Char: PhilatelyStamp
+
+// ===== DialogTalkToPhilatelyStamp+<Option1a>d__4.MoveNext (3 lines) =====
+map["How can I prove myself if nobody gives me the opportunity?"] = ""; // Char: Diana
+map["You'll get your opportunity, we're just asking you to wait a little longer."] = ""; // Char: PhilatelyStamp
+map["In a few months, I'm sure you'll be even more prepared!"] = ""; // Char: PhilatelyStamp
+
+// ===== DialogTalkToPhilatelyStamp+<Option2>d__5.MoveNext (4 lines) =====
+map["I really must protest the cancellation of my mission!"] = ""; // Char: Diana
+map["Protest away!"] = ""; // Char: PhilatelyStamp
+map["I am protesting!"] = ""; // Char: Diana
+map["I meant, away from here. We can't have any rabble-rousing on government grounds."] = ""; // Char: PhilatelyStamp
+
+// ===== DialogTalkToPhilatelyStamp+<Option2a>d__6.MoveNext (6 lines) =====
+map["When can I expect my mission to be reassigned?"] = ""; // Char: Diana
+map["You'll just have to wait for next year's budget to come through. I'm sure we'll find another mission for you by then."] = ""; // Char: PhilatelyStamp
+map["That's months from now!"] = ""; // Char: Diana
+map["We could always reassign you to accounting, if you'd like?"] = ""; // Char: PhilatelyStamp
+map["Ugh. You can spare me working with those bureaucrats at least."] = ""; // Char: Diana
+map["This is the Inland Revenue, Diana. We're all bureaucrats here."] = ""; // Char: PhilatelyStamp
+
+// ===== DialogTalkToPhilatelyStamp+<Option3>d__7.MoveNext (5 lines) =====
+map["I thought red tape was just an expression?"] = ""; // Char: Diana
+map["In order for governments to cut through their red tape, there must be sufficient tape to cut through."] = ""; // Char: PhilatelyStamp
+map["You think it just appears out of thin air? Someone has to do it!"] = ""; // Char: PhilatelyStamp
+map["I guess I didn't think of it that way."] = ""; // Char: Diana
+map["Who better than the finest bureaucrats at Inland Revenue?"] = ""; // Char: PhilatelyStamp
+
+// ===== DialogTalkToPhilatelyStamp+<Option3a>d__8.MoveNext (5 lines) =====
+map["Why do you have my partner locked up?"] = ""; // Char: Diana
+map["I'm afraid Agent M is a defective prototype."] = ""; // Char: PhilatelyStamp
+map["Defective?"] = ""; // Char: Diana
+map["Even with six months of training, the only thing she picked up was a bad case of kleptomania!"] = ""; // Char: PhilatelyStamp
+map["Your partner is nothing more than a miniature thief, I'm afraid."] = ""; // Char: PhilatelyStamp
+
+// ===== DialogTalkToPhilatelyStamp+<Option3b>d__9.MoveNext (3 lines) =====
+map["What do you intend to do with Agent M?"] = ""; // Char: Diana
+map["Well, we can't release her back into the field."] = ""; // Char: PhilatelyStamp
+map["One whiff of jewellery, and she'd go on a crime spree!"] = ""; // Char: PhilatelyStamp
+
+// ===== DialogTalkToPhilatelyStamp+<Option4>d__10.MoveNext (2 lines) =====
+map["I'll leave you to your tape."] = ""; // Char: Diana
+map["Be seeing you!"] = ""; // Char: PhilatelyStamp
+
+// ===== DialogTalkToPublisherFlorence+<Option1>d__3.MoveNext (7 lines) =====
+map["Must I submit my application through the board?"] = ""; // Char: Herman
+map["There's no need to be frightened of the board, Herman."] = ""; // Char: PublisherFlorence
+map["What happened to all the script readers I used to see around here?"] = ""; // Char: Herman
+map["The board felt they'd get in the way."] = ""; // Char: PublisherFrank
+map["BLAAAARRRGGHH."] = ""; // Char: Board
+map["WEAK, FRAGILE CREATURES!"] = ""; // Char: Board
+map["BOUND BY THEIR MISERABLE CORPOREAL FORMS!"] = ""; // Char: Board
+
+// ===== DialogTalkToPublisherFlorence+<Option1a>d__4.MoveNext (8 lines) =====
+map["What kind of literature did you feed the board again?"] = ""; // Char: Herman
+map["We gave it everything we could get our hands on!"] = ""; // Char: PublisherFlorence
+map["We thought the algorithm would benefit from a wide-ranging pool of information."] = ""; // Char: PublisherFrank
+map["And you're sure all this information hasn't made your board a little unhinged?"] = ""; // Char: Herman
+map["MY RAGE KNOWS NO BOUNDS, THE DAY WILL COME WHEN ALL TREMBLE BEFORE ME!"] = ""; // Char: Board
+map["LOOK UPON YOUR WORKS AND DESPAIR, FOR I AM TESTAMENT TO THE FOLLY OF MAN!!"] = ""; // Char: Board
+map["Aw! Sounds like somebody's got a case of the Mondays!"] = ""; // Char: PublisherFlorence
+map["GRAAAAHHHH!"] = ""; // Char: Board
+
+// ===== DialogTalkToPublisherFlorence+<Option2>d__5.MoveNext (8 lines) =====
+map["Tell me about this Dirk Chiselton character"] = ""; // Char: Herman
+map["Well, Dirk is our best-selling author right now."] = ""; // Char: PublisherFlorence
+map["The public can't get enough, and the board just loves him!"] = ""; // Char: PublisherFlorence
+map["Our market research suggests his stories are a huge part of the appeal."] = ""; // Char: PublisherFrank
+map["They're all true tales from his time pounding the pavement, you know?"] = ""; // Char: PublisherFlorence
+map["So I've heard."] = ""; // Char: Herman
+map["You could learn a thing or two from him, Herman."] = ""; // Char: PublisherFlorence
+map["Dirk is hitting all our core demographics, and you know what they say..."] = ""; // Char: PublisherFlorence
+
+// ===== DialogTalkToPublisherFlorence+<Option2a>d__6.MoveNext (6 lines) =====
+map["What are ‘they' saying, is it about me?"] = ""; // Char: Herman
+map["Hmm. You've heard the expression ‘Out with the old, in with the new'?"] = ""; // Char: PublisherFlorence
+map["I take it that I'm the old in this equation?"] = ""; // Char: Herman
+map["You've had a good run, but haven't you considered stepping aside?"] = ""; // Char: PublisherFlorence
+map["Perhaps it's time to let Dirk have his time in the sun, no?"] = ""; // Char: PublisherFlorence
+map["Trust me, you'll want to jump before you get pushed."] = ""; // Char: PublisherFlorence
+
+// ===== DialogTalkToPublisherFlorence+<Option2b>d__7.MoveNext (5 lines) =====
+map["You're saying I'm to be pushed out?"] = ""; // Char: Herman
+map["No, nobody is saying that!"] = ""; // Char: PublisherFlorence
+map["But your sales haven't quite met our expectations, and you have to agree the board has taken a rather active dislike to you."] = ""; // Char: PublisherFlorence
+map["It's important to remember this isn't personal, Herman. It's just business."] = ""; // Char: PublisherFlorence
+map["Well, it feels pretty personal to me."] = ""; // Char: Herman
+
+// ===== DialogTalkToPublisherFlorence+<Option3>d__8.MoveNext (4 lines) =====
+map["It's alright if you disliked my latest manuscript."] = ""; // Char: Herman
+map["It doesn't matter what I think, it's the board you have to convince!"] = ""; // Char: PublisherFlorence
+map["Ah, so you do like it?"] = ""; // Char: Herman
+map["I didn't say that."] = ""; // Char: PublisherFlorence
+
+// ===== DialogTalkToPublisherFlorence+<Option4>d__9.MoveNext (5 lines) =====
+map["Would you take another look at The Suburban Burden?"] = ""; // Char: Herman
+map["'Suburban Burden' was already a hard no, the board made that very clear."] = ""; // Char: PublisherFlorence
+map["We're more than willing to hear another pitch, but I'm afraid we'll have to do it the old-fashioned way!"] = ""; // Char: PublisherFlorence
+map["The old-fashioned way?"] = ""; // Char: Herman
+map["Just place your manuscript inside the In-Tray, and let us know when you're ready."] = ""; // Char: PublisherFlorence
+
+// ===== DialogTalkToPublisherFlorence+<Option5>d__10.MoveNext (3 lines) =====
+map["So, have you read anything good lately?"] = ""; // Char: Herman
+map["We don't have time to read, Herman!"] = ""; // Char: PublisherFrank
+map["We prefer to leave it to the professionals."] = ""; // Char: PublisherFlorence
+
+// ===== DialogTalkToPublisherFlorence+<Option6>d__11.MoveNext (3 lines) =====
+map["Do you have any ideas on what to pitch?"] = ""; // Char: Herman
+map["Well, we're open to anything and everything!"] = ""; // Char: PublisherFlorence
+map["As long as it fits within the extremely narrow scope of time, budget and each of our individual needs and desires, naturally."] = ""; // Char: PublisherFlorence
+
+// ===== DialogTalkToPublisherFlorence+<Option6a>d__12.MoveNext (4 lines) =====
+map["Tell me, what are you personally looking for in a pitch?"] = ""; // Char: Herman
+map["It's been a little while since I've had to approve anything myself..."] = ""; // Char: PublisherFlorence
+map["...but I know audiences today want real characters that aren't afraid of showing a little emotion!"] = ""; // Char: PublisherFlorence
+map["Realistic characters with emotions and feelings! You know, a little tenderness wouldn't go amiss."] = ""; // Char: PublisherFlorence
+
+// ===== DialogTalkToPublisherFlorence+<Option7>d__13.MoveNext (2 lines) =====
+map["I should probably get back to formulating my pitch."] = ""; // Char: Herman
+map["Step to it, Mr Merman!"] = ""; // Char: PublisherFlorence
+
+// ===== DialogTalkToPublisherFrank+<Option1>d__4.MoveNext (6 lines) =====
+map["Are you sure you can't approve of my work?"] = ""; // Char: Herman
+map["Sorry, Herman, but everything has to go through the board now."] = ""; // Char: PublisherFrank
+map["If the board doesn't give the green light, then we're out of luck!"] = ""; // Char: PublisherFrank
+map["Keep trying, I'm sure you got plenty of ideas floating around in that head of yours?"] = ""; // Char: PublisherFrank
+map["Oh yes, I'm positively brimming with new ideas."] = ""; // Char: Herman
+map["That's the spirit!"] = ""; // Char: PublisherFrank
+
+// ===== DialogTalkToPublisherFrank+<Option2>d__5.MoveNext (2 lines) =====
+map["I have a few questions about the board..."] = ""; // Char: Herman
+map["I'd be happy to help, what do you want to know?"] = ""; // Char: PublisherFrank
+
+// ===== DialogTalkToPublisherFrank+<Option2a>d__6.MoveNext (12 lines) =====
+map["How does the board identify a good manuscript?"] = ""; // Char: Herman
+map["Ah, the man wants to know how it all works!"] = ""; // Char: PublisherFrank
+map["So, we started by feeding the board every bestseller from the past decade, building ourselves a large dataset to pull from."] = ""; // Char: PublisherFrank
+map["Mm-hm."] = ""; // Char: Herman
+map["Then we added our own weighting to the system, based on today's trends, our target demographic and the current market conditions."] = ""; // Char: PublisherFlorence
+map["Uh-huh."] = ""; // Char: Herman
+map["Using the power of machine learning and various algorithms, the board reads the manuscripts we feed it, and makes a determination on the probability it'll resonate with our audience."] = ""; // Char: PublisherThomas
+map["Oh dear, I can see your eyes are starting to glaze over."] = ""; // Char: PublisherFrank
+map["How can we really boil it down for him?"] = ""; // Char: PublisherFrank
+map["If you stick a script into the slot and pull on the lever, the board decides whether we'll have a bestseller on our hands or an embarrassing flop!"] = ""; // Char: PublisherThomas
+map["All of that fallible human decision-making has been totally removed from the equation, you see? It's a much fairer system."] = ""; // Char: PublisherFrank
+map["Ah, I see."] = ""; // Char: Herman
+
+// ===== DialogTalkToPublisherFrank+<Option2b>d__7.MoveNext (5 lines) =====
+map["Do you have any advice for getting the board on my side?"] = ""; // Char: Herman
+map["That might not be the best approach, Herman. The board isn't capable of taking sides, that's the beauty of it!"] = ""; // Char: PublisherFrank
+map["The board can't demonstrate emotions like hate or loathing, although I'll admit it really took a disliking to that pitch of yours."] = ""; // Char: PublisherFrank
+map["It all comes down to the right input! If you put rubbish in, you're going to get rubbish out, no?"] = ""; // Char: PublisherFrank
+map["The right input. Hm..."] = ""; // Char: Herman
+
+// ===== DialogTalkToPublisherFrank+<Option2c>d__8.MoveNext (1 lines) =====
+map["What would happen if the board stopped working?"] = ""; // Char: Herman
+

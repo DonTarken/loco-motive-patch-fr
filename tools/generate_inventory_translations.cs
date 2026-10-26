@@ -7,20 +7,20 @@ class Program {
     static void Main() {
         var map = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
 
-        // --- Unhandled & Rejection lines ---
-        map["I can't use that."] = "Je ne peux pas utiliser ça.";
-        map["It's nothing interesting."] = "Rien d'intéressant.";
-        map["Nothing happened."] = "Il ne se passe rien.";
-        map["Nah."] = "Nan.";
-        map["Nope."] = "Non.";
-        map["That doesn't work."] = "Ça ne marche pas.";
-        map["No."] = "Non.";
-        map["I'm not handing over my ill-gotten gains without a reason!"] = "Je ne vais pas céder mon précieux butin sans une bonne raison !";
-        map["I think I'll hang on to this for now."] = "Je crois que je vais garder ça pour le moment.";
-        map["They wouldn't appreciate that."] = "Ils n'apprécieraient pas vraiment ça.";
-        map["I'd rather keep it."] = "Je préfère le garder.";
+        // --- Unhandled & Rejection lines (Snappy P&C Barks) ---
+        map["I can't use that."] = "Ça ne marchera jamais.";
+        map["It's nothing interesting."] = "Rien qui vaille le coup d'œil.";
+        map["Nothing happened."] = "Pas l'ombre d'un résultat.";
+        map["Nah."] = "Pas question.";
+        map["Nope."] = "Aucune chance.";
+        map["That doesn't work."] = "Ça ne prend pas.";
+        map["No."] = "Surtout pas.";
+        map["I'm not handing over my ill-gotten gains without a reason!"] = "Hors de question de lâcher mon précieux butin sans une fichue bonne raison !";
+        map["I think I'll hang on to this for now."] = "Je ferais mieux de garder ça sous le coude.";
+        map["They wouldn't appreciate that."] = "Ils ne trouveraient pas ça très drôle.";
+        map["I'd rather keep it."] = "Je préfère le garder bien au chaud.";
         map["What do you make of this?"] = "Qu'est-ce que tu penses de ça ?";
-        map["I don't think it's going to get us closer to that train!"] = "Je ne crois pas que ça va nous rapprocher de ce train !";
+        map["I don't think it's going to get us closer to that train!"] = "Je doute que ça nous rapproche de ce train !";
 
         // --- Chapter Titles & Cards ---
         map["Adversary Proceeding"] = "Procédure contradictoire";
@@ -32,6 +32,29 @@ class Program {
         map["False Pretences"] = "Faux-semblants";
         map["Dispute Resolution"] = "Règlement du litige";
         map["Hold to Skip"] = "Maintenir pour passer";
+
+        // --- Master Inventory Item Names from Glossary ---
+        if (File.Exists(@"translations\glossary_items.tsv")) {
+            var gLines = File.ReadAllLines(@"translations\glossary_items.tsv");
+            for (int i = 1; i < gLines.Length; i++) {
+                var p = gLines[i].Split('\t');
+                if (p.Length >= 5) {
+                    string enName = p[1].Trim();
+                    string frName = p[2].Trim();
+                    string useWith = p[3].Trim();
+                    string lookAt = p[4].Trim();
+                    if (!string.IsNullOrEmpty(enName) && !string.IsNullOrEmpty(frName)) {
+                        map[enName] = frName;
+                        map["the " + enName] = frName;
+                        map["a " + enName] = frName;
+                        map["an " + enName] = frName;
+                        map["Use " + enName + " with"] = useWith;
+                        map["Use " + enName + " with..."] = useWith + "...";
+                        map["Look at " + enName] = lookAt;
+                    }
+                }
+            }
+        }
 
         // --- Inventory Items Dialogues ---
         // Accounting Records
@@ -74,10 +97,10 @@ class Program {
         // Sketches
         map["I can see the various handshakes in the background of these sketches!"] = "On aperçoit les différentes poignées de main en arrière-plan de ces croquis !";
         map["I'll still need some help to figure out the correct order."] = "J'aurai quand même besoin d'aide pour trouver le bon ordre.";
-        map["Perhaps you'd settle for a simple fist bump?"] = "Peut-être qu'un simple check du poing vous suffirait ?";
-        map["If you think I'm still sleeping, you should give me a shake!"] = "Si vous pensez que je dors encore, vous devriez me secouer !";
-        map["I assure you, these palms, they have a strong grip!"] = "Je vous assure que ces paumes ont une poigne d'acier !";
-        map["I've watched your dance of digits, and I handedly approve."] = "J'ai observé votre ballet de doigts, et j'approuve haut la main.";
+        map["Perhaps you'd settle for a simple fist bump?"] = "Peut-être qu'un simple check du poing vous conviendrait ?";
+        map["If you think I'm still sleeping, you should give me a shake!"] = "Si vous me croyez encore endormi, venez donc me secouer !";
+        map["I assure you, these palms, they have a strong grip!"] = "Je vous garantis que ces paumes ont une poigne de fer !";
+        map["I've watched your dance of digits, and I handedly approve."] = "J'ai observé votre ballet de phalanges, et j'approuve haut la main !";
 
         // Cash & Bag
         map["I'm sure I can put Don's winnings to better use."] = "Je suis convaincu que je peux faire un meilleur usage des gains de Don.";
@@ -182,10 +205,10 @@ class Program {
         map["It's Donny's recipe for a powerful drink."] = "C'est la recette de Donny pour un cocktail particulièrement costaud.";
 
         // Keys & Locks
-        map["Looks like Don booked the honeymoon suite. Room 303!"] = "On dirait que Don a réservé la suite nuptiale. Chambre 303 !";
-        map["These must be Herman's keys, Room 304."] = "Ce doivent être les clés d'Herman, chambre 304.";
-        map["My own private quarters, room 304."] = "Mes quartiers personnels, chambre 304.";
-        map["It's a toy set lock pick. Likely effective against only the weakest of locks."] = "C'est un rossignol de dinette pour enfant. Utile uniquement contre les serrures les plus dérisoires.";
+        map["Looks like Don booked the honeymoon suite. Room 303!"] = "On dirait que Don a réservé la suite nuptiale. Cabine 303 !";
+        map["These must be Herman's keys, Room 304."] = "Ce doivent être les clés d'Herman, cabine 304.";
+        map["My own private quarters, room 304."] = "Mes quartiers personnels, cabine 304.";
+        map["It's a toy set lock pick. Likely effective against only the weakest of locks."] = "C'est un rossignol de dînette pour enfant. Utile uniquement contre les serrures les plus dérisoires.";
         map["My memory of getting these keys is a little fuzzy."] = "Le souvenir de la façon dont j'ai obtenu ces clés est un peu flou.";
 
         // Wax & Seals
@@ -208,20 +231,20 @@ class Program {
         map["Probably best not to dwell on the horrors this plunger has seen."] = "Il vaut sans doute mieux ne pas imaginer les horreurs que cette ventouse a traversées.";
         map["It's an odd looking plunger."] = "C'est une ventouse à l'allure étrange.";
         map["It's my trusty prison cell plunger!"] = "C'est ma fidèle ventouse de cellule de prison !";
-        map["It's a plunger made from a rusty metal pole."] = "C'est une ventouse bricolée à partir d'une barre de métal rouillée.";
-        map["It's the suction cup from a plunger!"] = "C'est la coupelle d'aspiration d'une ventouse !";
+        map["It's a plunger made from a rusty metal pole."] = "C'est une ventouse bricolée à partir d'une barre de fer rouillée.";
+        map["It's the suction cup from a plunger!"] = "C'est la ventouse d'adhérence !";
         map["It's the business end of a plunger."] = "C'est la partie active d'une ventouse.";
         map["It looks like a suction cup to me."] = "On dirait bien une ventouse d'adhérence.";
         map["I'd like to think Lady Unterwald would want me to have this."] = "J'aime à penser que Lady Unterwald aurait souhaité que je l'aie.";
-        map["Looks like a rusty metal pole."] = "On dirait une barre de métal rouillée.";
+        map["Looks like a rusty metal pole."] = "On dirait une barre de fer rouillée.";
         map["It seems to be some sort of metal pole."] = "Ça ressemble à une sorte de tige en métal.";
-        map["A rusty metal pole might be useful in our current circumstances."] = "Une barre en métal rouillée pourrait bien nous être utile dans notre situation.";
+        map["A rusty metal pole might be useful in our current circumstances."] = "Une barre en fer rouillée pourrait bien nous être utile dans notre situation.";
         map["It's the rubber tubing I cut from the car."] = "C'est la tubulure en caoutchouc que j'ai découpée sur la voiture.";
         map["It's an official field agent wiring kit!"] = "C'est un kit de câblage officiel d'agent de terrain !";
         map["It's a ''Mega-Stich'' brand heavy duty stapler. This thing can staple through 250 sheets!"] = "C'est une agrafeuse industrielle de marque « Mega-Stitch ». Cet engin peut traverser 250 feuilles d'un coup !";
 
         // Badges & Photos
-        map["For a toy badge, it's quite convincing."] = "Pour un insigne en plastique, il fait plutôt illusion.";
+        map["For a toy badge, it's quite convincing."] = "Pour un faux insigne, il fait plutôt illusion.";
         map["It's a toy badge, but it should still provide an air of authority."] = "C'est un insigne factice, mais il devrait quand même m'octroyer un brin d'autorité.";
         map["Jian Liu had this in his pocket."] = "Jian Liu avait ça dans sa poche.";
         map["It's a genuine pearl necklace."] = "C'est un authentique collier de perles.";
@@ -236,8 +259,8 @@ class Program {
         // Dolls & Toys & Knives
         map["The doll's looking a little scrawny without all that packing sawdust."] = "La poupée a l'air un peu rabougrie sans toute cette sciure de rembourrage.";
         map["This looks very familiar."] = "Ça me rappelle furieusement quelque chose.";
-        map["You can withstand the heat with a pair of these oven gloves!"] = "On peut résister à n'importe quelle chaleur avec cette paire de gants de cuisine !";
-        map["Popcorn isn't just delicious, it doubles as a cheap packing material."] = "Le popcorn n'est pas seulement délicieux, il sert aussi de matériau de calage économique.";
+        map["You can withstand the heat with a pair of these oven gloves!"] = "On peut résister à n'importe quelle chaleur avec cette paire de maniques !";
+        map["Popcorn isn't just delicious, it doubles as a cheap packing material."] = "Le popcorn n'est pas seulement délicieux, il sert aussi de calage économique.";
         map["It's a paper cup I swiped from the water cooler."] = "C'est un gobelet en carton que j'ai chipé à la fontaine d'eau.";
         map["I placed sawdust in the bottom of the cup."] = "J'ai mis de la sciure au fond du gobelet.";
         map["It's a pile of sawdust I removed from the doll."] = "C'est un tas de sciure que j'ai retiré de la poupée.";

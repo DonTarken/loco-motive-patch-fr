@@ -1,0 +1,411 @@
+﻿Id	Character	English	French	Class	Method
+1132	Herman	Why is Mr Masson holding out on you?	Pourquoi M. Masson refuse-t-il de coopérer avec vous ?	DialogTalkToDonMasson+<Option2>d__5	MoveNext
+249	Don	A simple disagreement over payment. He thinks he can hustle me for a bigger price.	Un simple désaccord sur le tarif. Il s'imagine pouvoir me faire cracher plus de pépètes.	DialogTalkToDonMasson+<Option2>d__5	MoveNext
+1133	Herman	I need intel. What can you tell me about Mr Masson?	J'ai besoin de tuyaux. Que pouvez-vous me dire sur M. Masson ?	DialogTalkToDonMasson+<Option2a>d__6	MoveNext
+250	Don	Well he's got a sharp tongue, likes to run his mouth a lot y'know? His mind is even sharper still.	Il a la langue bien pendue et du répondant à revendre. Et son cerveau est encore plus vif que sa bouche.	DialogTalkToDonMasson+<Option2a>d__6	MoveNext
+251	Don	Maybe you can find a way to dull his senses, get his guard down?	Peut-être pourrais-tu trouver un moyen d'engourdir ses réflexes, de faire baisser sa garde ?	DialogTalkToDonMasson+<Option2a>d__6	MoveNext
+1134	Herman	You mean, inebriated?	Vous voulez dire, l'enivrer ?	DialogTalkToDonMasson+<Option2a>d__6	MoveNext
+252	Don	You know, I might have just the recipe!	Tu sais quoi, j'ai peut-être la recette qu'il te faut !	DialogTalkToDonMasson+<Option2a>d__6	MoveNext
+253	Don	It's potent stuff. Last time I drank this, I couldn't even talk.	C'est du brutal. La dernière fois que j'en ai bu, j'étais incapable d'aligner deux mots.	DialogTalkToDonMasson+<Option2a>d__6	MoveNext
+1135	Herman	Can't you just intimidate him into giving you what you want?	Ne pouvez-vous pas simplement l'intimider pour obtenir ce que vous convoitez ?	DialogTalkToDonMasson+<Option2b>d__7	MoveNext
+254	Don	Mr Masson isn't so easily persuaded, not through muscle at least.	M. Masson ne s'en laisse pas conter si facilement, en tout cas pas par la manière forte.	DialogTalkToDonMasson+<Option2b>d__7	MoveNext
+255	Don	That's why you gotta put that big detective brain of yours to good use, huh?	C'est bien pour ça que tu dois faire carburer tes méninges de fin limier, pas vrai ?	DialogTalkToDonMasson+<Option2b>d__7	MoveNext
+1136	Herman	What do you need that item for?	Dans quel dessein avez-vous besoin de cet objet ?	DialogTalkToDonMasson+<Option3>d__8	MoveNext
+256	Don	Oh, that's for me to know and you to never find out.	Oh, c'est mon secret, et tu ne le sauras jamais.	DialogTalkToDonMasson+<Option3>d__8	MoveNext
+257	Don	Gotta keep up that plausible deniability, am I right?	Il faut savoir garder une négation plausible, j'ai pas raison ?	DialogTalkToDonMasson+<Option3>d__8	MoveNext
+1137	Herman	This item you want me to get, what does it look like?	Cet objet que vous voulez que je subtilise, à quoi ressemble-t-il ?	DialogTalkToDonMasson+<Option3a>d__9	MoveNext
+258	Don	Let's just say it's an unusual item to have on one's person. You'll know it when you see it.	Disons que c'est un bibelot plutôt inhabituel à trimballer sur soi. Tu le reconnaîtras direct.	DialogTalkToDonMasson+<Option3a>d__9	MoveNext
+1138	Herman	I'll see what I can do.	Je verrai ce que je peux faire.	DialogTalkToDonMasson+<Option4>d__10	MoveNext
+259	Don	Catch you later.	À plus tard.	DialogTalkToDonMasson+<Option4>d__10	MoveNext
+1107	Herman	What services are you offering, exactly?	Quels sont exactement les services que vous proposez ?	DialogTalkToDonServices+<Option1>d__4	MoveNext
+224	Don	I've got a whole load of schemes going on right now!	J'ai tout un tas de combines juteuses en cours en ce moment !	DialogTalkToDonServices+<Option1>d__4	MoveNext
+1108	Herman	What services are you offering, exactly?	Quels sont exactement les services que vous proposez ?	DialogTalkToDonServices+<Option1FirstOccurrence>d__5	MoveNext
+1109	Herman	Don't you mean services?	Vous ne vouliez pas dire des services ?	DialogTalkToDonServices+<Option1FirstOccurrence>d__5	MoveNext
+226	Don	Y-Yeah, that's what I said! Services!	O-Ouais, c'est bien ce que j'ai dit ! Des services !	DialogTalkToDonServices+<Option1FirstOccurrence>d__5	MoveNext
+227	Don	Well I offer your standard basic package, that includes stuff like forgery, blackmail, general intimidation.	Eh bien, je propose la formule standard de base : faux en écriture, chantage, intimidation ordinaire.	DialogTalkToDonServices+<Option1FirstOccurrence>d__5	MoveNext
+228	Don	Higher tier services are more like swindling, wiretapping, all the way up to advanced counterfeiting.	Les prestations haut de gamme, c'est plutôt de l'escroquerie, des écoutes clandestines et de la contrefaçon de haute volée.	DialogTalkToDonServices+<Option1FirstOccurrence>d__5	MoveNext
+229	Don	Between you and me, though? I'm only in it for the money.	Mais entre nous deux ? Je ne fais ça que pour le pognon.	DialogTalkToDonServices+<Option1FirstOccurrence>d__5	MoveNext
+230	Don	My real passion? Poetry.	Ma véritable vocation ? La poésie.	DialogTalkToDonServices+<Option1FirstOccurrence>d__5	MoveNext
+1110	Herman	Has any of your poetry been published?	Certains de vos poèmes ont-ils été publiés ?	DialogTalkToDonServices+<Option1a>d__6	MoveNext
+231	Don	Nah. If you rely on your passion to make money, there's way too much pressure to capitulate, y'know?	Nan. Quand on dépend de son art pour vivre, la pression est trop forte pour ne pas se renier, tu vois ?	DialogTalkToDonServices+<Option1a>d__6	MoveNext
+232	Don	Have I used my art to woo a broad or two? Oh, absolutely!	Est-ce que je m'en suis servi pour emballer une ou deux pépées ? Ah ça, carrément !	DialogTalkToDonServices+<Option1a>d__6	MoveNext
+233	Don	But I'm not risking what I love just to make a quick buck.	Mais hors de question de galvauder ce que j'aime juste pour palper quelques billets.	DialogTalkToDonServices+<Option1a>d__6	MoveNext
+1111	Herman	Tell me more about the basic package	Dites-m'en plus sur la formule de base.	DialogTalkToDonServices+<Option1b>d__7	MoveNext
+234	Don	So with your basic forgery package I can fabricate documentation, forge a signature. You know, that kinda thing!	Avec le forfait faussaire basique, je peux fabriquer des faux papiers, imiter une signature... ce genre de bricoles !	DialogTalkToDonServices+<Option1b>d__7	MoveNext
+1112	Herman	Would you be able to forge my name on a guest list?	Seriez-vous capable de contrefaire mon nom sur une liste d'invités ?	DialogTalkToDonServices+<Option1c>d__8	MoveNext
+235	Don	A guest list? Yeah, sounds easy enough.	Une liste d'invités ? Ouais, un jeu d'enfant.	DialogTalkToDonServices+<Option1c>d__8	MoveNext
+236	Don	I'd just need a reference to the handwriting you'd wanna forge.	Il me faudrait juste un modèle de l'écriture manuscrite à imiter.	DialogTalkToDonServices+<Option1c>d__8	MoveNext
+1113	Herman	I want to hear more about your higher tier service	J'aimerais en savoir plus sur vos services haut de gamme.	DialogTalkToDonServices+<Option1d>d__9	MoveNext
+237	Don	Well my higher tier services aren't available right this minute. I'm already on a job, you see.	Eh bien, mes prestations de luxe ne sont pas disponibles là tout de suite. Je suis déjà sur un gros coup, tu piges.	DialogTalkToDonServices+<Option1d>d__9	MoveNext
+1114	Herman	On second thought, I've changed my mind.	À la réflexion, j'ai changé d'avis.	DialogTalkToDonServices+<Option1e>d__10	MoveNext
+238	Don	Alright, let me know when you reconsider.	Ça roule, préviens-moi si tu te ravises.	DialogTalkToDonServices+<Option1e>d__10	MoveNext
+1115	Herman	I'm not sure that I want to get roped into any illicit activities.	Je ne suis pas certain de vouloir me compromettre dans des activités illégales.	DialogTalkToDonServices+<Option2>d__11	MoveNext
+239	Don	Nah, I know your type. People like you don't like to get their hands dirty.	Ouais, je connais les types de ton genre. Vous n'aimez pas vous salir les mains.	DialogTalkToDonServices+<Option2>d__11	MoveNext
+240	Don	You'll be back when you can't talk your way through a problem though.	Mais tu reviendras en rampant quand ton bagout ne suffira plus à régler l'affaire.	DialogTalkToDonServices+<Option2>d__11	MoveNext
+1116	Herman	I'm researching material for my next novel. Any interesting crimes to share?	Je rassemble de la matière pour mon prochain roman. Des méfaits palpitants à me confier ?	DialogTalkToDonServices+<Option3>d__12	MoveNext
+241	Don	If I was the sort to openly confess to crimes, I wouldn't be very good at my job now, would I?	Si j'étais du genre à confesser mes crimes sur la place publique, je ferais un piètre escroc, tu crois pas ?	DialogTalkToDonServices+<Option3>d__12	MoveNext
+1117	Herman	Fair enough.	C'est bien vu.	DialogTalkToDonServices+<Option3>d__12	MoveNext
+242	Don	Alright, see you around.	Allez, à la revoyure.	DialogTalkToDonServices+<Option4>d__13	MoveNext
+962	Arthur	I need to find a way to convince that guard to leave his post.	Je dois trouver un moyen de convaincre ce garde de quitter son poste.	DialogTalkToGuard+<OnStop>d__2	MoveNext
+963	Arthur	I'm still Lady Unterwald's attorney!	Je suis toujours l'avocat attitré de Lady Unterwald !	DialogTalkToGuard+<Option1>d__3	MoveNext
+964	Arthur	Let me through!	Laissez-moi passer !	DialogTalkToGuard+<Option1>d__3	MoveNext
+23	Guard	Sorry, sir.	Navré, monsieur.	DialogTalkToGuard+<Option1>d__3	MoveNext
+24	Guard	As I said, no exceptions.	Comme je vous l'ai dit, aucune exception.	DialogTalkToGuard+<Option1>d__3	MoveNext
+965	Arthur	I have a letter from the late Lady Unterwald, right here!	J'ai une missive de feue Lady Unterwald, ici même !	DialogTalkToGuard+<Option1a>d__4	MoveNext
+966	Arthur	So I can go in?	Je peux donc entrer ?	DialogTalkToGuard+<Option1a>d__4	MoveNext
+967	Arthur	Pretty please, let me in?	S'il vous plaît, je vous en supplie, laissez-moi entrer ?	DialogTalkToGuard+<Option2>d__5	MoveNext
+28	Guard	Sorry sir, no can do.	Désolé monsieur, c'est hors de question.	DialogTalkToGuard+<Option2>d__5	MoveNext
+968	Arthur	Pretty, pretty please?	S'il vous plaît, vraiment s'il vous plaît ?	DialogTalkToGuard+<Option2a>d__6	MoveNext
+969	Arthur	With a cherry on top?	Avec une cerise sur le gâteau ?	DialogTalkToGuard+<Option2a>d__6	MoveNext
+30	Guard	Alright, go ahead.	Très bien, allez-y.	DialogTalkToGuard+<Option2a>d__6	MoveNext
+970	Arthur	Really?	Vraiment ?	DialogTalkToGuard+<Option2a>d__6	MoveNext
+1434	Arthur	Hey, I'm not falling for that again.	Hé, je ne me ferai pas avoir une seconde fois.	DialogTalkToGuard+<Option2a>d__6	MoveNext
+32	Guard	Nobody is getting past me as long as I'm standing here.	Personne ne franchira cette porte tant que je monterai la garde.	DialogTalkToGuard+<Option2a>d__6	MoveNext
+971	Arthur	Could you check Lady Unterwald's quarters on my behalf?	Pourriez-vous inspecter la cabine de Lady Unterwald à ma place ?	DialogTalkToGuard+<Option3>d__7	MoveNext
+33	Guard	Ah, no. I can't step foot in there on account of my allergies.	Ah non. Je ne peux pas y poser le pied en raison de mes allergies foudroyantes.	DialogTalkToGuard+<Option3>d__7	MoveNext
+972	Arthur	Allergies?	Des allergies ?	DialogTalkToGuard+<Option3>d__7	MoveNext
+34	Guard	Fragrance sensitivity, they call it.	Sensibilité aiguë aux parfums, c'est le terme médical.	DialogTalkToGuard+<Option3>d__7	MoveNext
+35	Guard	A room like that, filled with pungent perfume and all those fresh flowers?	Une pièce pareille, empestant le parfum capiteux et remplie de fleurs fraîches ?	DialogTalkToGuard+<Option3>d__7	MoveNext
+36	Guard	I'm not taking my chances.	Je ne vais certainement pas risquer ma vie.	DialogTalkToGuard+<Option3>d__7	MoveNext
+973	Arthur	What would happen if you set off your allergies?	Que vous arriverait-il si votre allergie venait à se déclencher ?	DialogTalkToGuard+<Option3a>d__8	MoveNext
+37	Guard	Oh, it's quite the sight to behold. I've been known to go beet red!	Oh, c'est un spectacle saisissant. Je deviens rouge écarlate comme une betterave !	DialogTalkToGuard+<Option3a>d__8	MoveNext
+974	Arthur	Hah!	Hah !	DialogTalkToGuard+<Option3a>d__8	MoveNext
+38	Guard	That's when I need to seek immediate medical attention, of course.	C'est le signal d'alarme pour consulter un médecin d'urgence, naturellement.	DialogTalkToGuard+<Option3a>d__8	MoveNext
+39	Guard	But I'd be fine.	Mais je finirais par m'en tirer.	DialogTalkToGuard+<Option3a>d__8	MoveNext
+976	Arthur	You would?	Vraiment ?	DialogTalkToGuard+<Option3a>d__8	MoveNext
+40	Guard	Eventually.	À terme, oui.	DialogTalkToGuard+<Option3a>d__8	MoveNext
+977	Arthur	I'm leaving now...	Je m'en vais...	DialogTalkToGuard+<Option4>d__9	MoveNext
+978	Arthur	...but I'll be back.	...mais je reviendrai.	DialogTalkToGuard+<Option4>d__9	MoveNext
+363	Diana	Good thinking, Arthur. They're not paying attention at all!	Bien joué, Arthur. Ils ne font absolument pas attention à nous !	DialogTalkToGunter+<OnStop>d__3	MoveNext
+999	Arthur	I've got a hand free! I think I can get to my pockets.	J'ai une main de libre ! Je crois pouvoir atteindre mes poches.	DialogTalkToGunter+<OnStop>d__3	MoveNext
+364	Diana	Do you have something that can get us out of these binds?	Avez-vous quelque chose pour nous délivrer de ces liens ?	DialogTalkToGunter+<OnStop>d__3	MoveNext
+1000	Arthur	I really thought we'd bonded over our shared love of infrastructure!	Je pensais sincèrement que notre amour commun des infrastructures nous rapprocherait !	DialogTalkToGunter+<Option1>d__5	MoveNext
+124	Gunter	There may be truth to that, but you've sure dug a hole for yourself!	Il y a du vrai là-dedans, mais tu t'es creusé ta propre tombe !	DialogTalkToGunter+<Option1>d__5	MoveNext
+108	Hagen	That may be the case, but you've sure burned a lot of bridges!	C'est possible, mais tu as brûlé tous tes ponts derrière toi !	DialogTalkToGunter+<Option1>d__5	MoveNext
+1002	Arthur	What's your bathroom break policy?	Quelle est votre politique en matière de pause pipi ?	DialogTalkToGunter+<Option2>d__6	MoveNext
+109	Hagen	No, no, no! I'm not messing around with those ropes again!	Non, non, non ! Hors de question de me retaper ces cordes !	DialogTalkToGunter+<Option2>d__6	MoveNext
+125	Gunter	The knots were a total nightmare.	Les nœuds étaient un cauchemar absolu à faire.	DialogTalkToGunter+<Option2>d__6	MoveNext
+1003	Arthur	I'm not sure that I can hold it in any longer!	Je ne suis pas certain de pouvoir me retenir plus longtemps !	DialogTalkToGunter+<Option3>d__7	MoveNext
+126	Gunter	Well, maybe next time you'll go to the toilet before you commit a murder!	Eh bien, la prochaine fois tu penseras à aller aux toilettes avant de commettre un assassinat !	DialogTalkToGunter+<Option3>d__7	MoveNext
+1004	Arthur	I was hoping you could help us resolve an argument...	J'espérais que vous pourriez nous aider à trancher un débat...	DialogTalkToGunter+<Option4>d__8	MoveNext
+110	Hagen	Arguing? About what?	Un débat ? À quel propos ?	DialogTalkToGunter+<Option4>d__8	MoveNext
+365	Diana	Oh, yes! If I remember correctly, Herman had some very strong views.	Oh oui ! Si mes souvenirs sont bons, Herman avait des avis très tranchés sur la question.	DialogTalkToGunter+<Option4>d__8	MoveNext
+779	Herman	I did?	Ah bon, moi ?	DialogTalkToGunter+<Option4>d__8	MoveNext
+1005	Arthur	You know what, forget I said anything.	Vous savez quoi, oubliez ce que je viens de dire.	DialogTalkToGunter+<Option4>d__8	MoveNext
+1006	Arthur	You're probably not that interested.	Ça ne vous intéresse sans doute pas tellement.	DialogTalkToGunter+<Option4>d__8	MoveNext
+127	Gunter	No! Tell us, we want to hear it!	Si ! Racontez-nous, on veut savoir !	DialogTalkToGunter+<Option4>d__8	MoveNext
+1008	Arthur	Herman bet you couldn't beat him in a staring contest.	Herman parie que vous ne tiendriez pas face à lui dans un concours de regards fixes.	DialogTalkToGunter+<Option5>d__9	MoveNext
+128	Gunter	What!	Quoi !	DialogTalkToGunter+<Option5>d__9	MoveNext
+111	Hagen	Nonsense!	Sornettes !	DialogTalkToGunter+<Option5>d__9	MoveNext
+129	Gunter	You look me in the eye and say that!	Regarde-moi droit dans les yeux pour voir !	DialogTalkToGunter+<Option5>d__9	MoveNext
+780	Herman	This really isn't necess- oh, I guess we're doing this then?	Ce n'est vraiment pas nécess... oh, je suppose qu'on est partis là-dessus ?	DialogTalkToGunter+<Option5>d__9	MoveNext
+1009	Arthur	Herman said one of you is slightly shorter than the other.	Herman prétend que l'un de vous deux est un tantinet plus petit que l'autre.	DialogTalkToGunter+<Option6>d__10	MoveNext
+112	Hagen	That's ridiculous, we're identical!	C'est absurde, nous sommes parfaitement identiques !	DialogTalkToGunter+<Option6>d__10	MoveNext
+130	Gunter	Identical in everything but height, apparently.	Identiques en tout sauf pour la taille, apparemment.	DialogTalkToGunter+<Option6>d__10	MoveNext
+113	Hagen	You're maybe a pixel taller, if that!	Tu es peut-être plus grand d'un misérable pixel, et encore !	DialogTalkToGunter+<Option6>d__10	MoveNext
+1010	Arthur	Herman believes infrastructure investment is a financial waste!	Herman affirme qu'investir dans les infrastructures est un gouffre financier inutile !	DialogTalkToGunter+<Option7>d__11	MoveNext
+114	Hagen	That's the kind of short-term thinking that leads to crumbling bridges!	C'est exactement ce genre de vision étriquée qui fait s'écrouler les ponts !	DialogTalkToGunter+<Option7>d__11	MoveNext
+131	Gunter	You'd know all about crumbling bridges, Hagen.	Tu t'y connais en ponts écroulés, toi, Hagen.	DialogTalkToGunter+<Option7>d__11	MoveNext
+115	Hagen	Hey! That wasn't my fault.	Hé ! Ce n'était pas ma faute.	DialogTalkToGunter+<Option7>d__11	MoveNext
+1011	Arthur	Herman thinks Hagen is the favourite child of the two.	Herman pense que Hagen est le fils préféré de votre mère.	DialogTalkToGunter+<Option8>d__12	MoveNext
+132	Gunter	How dare you!	Comment oses-tu !	DialogTalkToGunter+<Option8>d__12	MoveNext
+116	Hagen	No, he has a point there. It's pretty obvious that she likes me more.	Non, il marque un point. C'est évident qu'elle a une préférence pour moi.	DialogTalkToGunter+<Option8>d__12	MoveNext
+133	Gunter	How can there be a favourite when she can barely tell us apart?	Comment peut-elle avoir un chouchou alors qu'elle nous confond tout le temps ?	DialogTalkToGunter+<Option8>d__12	MoveNext
+117	Hagen	Just natural intuition, and also she told me one time.	C'est l'instinct maternel, et puis elle me l'a glissé à l'oreille un jour.	DialogTalkToGunter+<Option8>d__12	MoveNext
+1012	Arthur	Never mind, it probably wasn't important.	Laissez tomber, ce n'était sans doute pas capital.	DialogTalkToGunter+<Option9>d__13	MoveNext
+993	Arthur	Suit yourself, I'll leave you to it.	Comme vous voudrez, je vous laisse à vos occupations.	DialogTalkToHermanCloset+<OnStart>d__0	MoveNext
+994	Arthur	What are you doing in there?	Que fabriquez-vous là-dedans ?	DialogTalkToHermanCloset+<Option1>d__4	MoveNext
+601	Herman	There's a killer on the loose, Mr Ackerman!	Il y a un tueur en cavale, monsieur Ackerman !	DialogTalkToHermanCloset+<Option1>d__4	MoveNext
+995	Arthur	So, you're hiding?	Donc, vous vous terrez ?	DialogTalkToHermanCloset+<Option1>d__4	MoveNext
+602	Herman	Merely a tactical retreat. It's all part of the strategy.	Une simple retraite stratégique. Tout cela fait partie du plan.	DialogTalkToHermanCloset+<Option1>d__4	MoveNext
+603	Herman	Lower their guard, wait for things to blow over. Then I can strike when they least suspect it!	Endormir leur méfiance, laisser passer l'orage... et frapper par surprise au moment opportun !	DialogTalkToHermanCloset+<Option1>d__4	MoveNext
+996	Arthur	You're supposed to be helping to solve the case!	Vous êtes censé m'aider à résoudre l'affaire !	DialogTalkToHermanCloset+<Option2>d__5	MoveNext
+604	Herman	I assure you I'm working diligently to solve the case, but I can't become part of the story.	Je vous assure que je m'emploie ardemment à résoudre l'affaire, mais je ne dois pas faire la une de la rubrique nécrologique.	DialogTalkToHermanCloset+<Option2>d__5	MoveNext
+605	Herman	Not when everything points to me being another potential victim!	Pas quand tous les indices font de moi une cible de choix pour le meurtrier !	DialogTalkToHermanCloset+<Option2>d__5	MoveNext
+997	Arthur	You clearly know something, Herman!	Vous savez manifestement des choses, Herman !	DialogTalkToHermanCloset+<Option3>d__6	MoveNext
+606	Herman	All I know for sure is we're both knee-deep in Lady Unterwald's affairs.	La seule certitude, c'est que nous avons tous deux mis le doigt dans les sombres secrets de Lady Unterwald.	DialogTalkToHermanCloset+<Option3>d__6	MoveNext
+607	Herman	We may never know what she was ultimately up to, but it got her killed.	Nous ne saurons peut-être jamais ce qu'elle tramait, mais cela lui a coûté la vie.	DialogTalkToHermanCloset+<Option3>d__6	MoveNext
+608	Herman	I have a strong desire to avoid the same fate, Mr Ackerman.	J'ai le fervent désir d'éviter de partager son funeste destin, monsieur Ackerman.	DialogTalkToHermanCloset+<Option3>d__6	MoveNext
+998	Arthur	Suit yourself, I'll leave you to it.	Comme vous voudrez, je vous laisse à vos occupations.	DialogTalkToHermanCloset+<Option4>d__7	MoveNext
+659	Diana	Sorry about the whole train derailment, I hope you're alright.	Désolée pour le déraillement du train, j'espère que vous vous portez bien.	DialogTalkToHermanJail+<Option1>d__3	MoveNext
+1374	Herman	A little warning would have been nice, that's all.	Un petit avertissement au préalable n'eût point été de refus, voilà tout.	DialogTalkToHermanJail+<Option1>d__3	MoveNext
+660	Diana	Of course.	Bien entendu.	DialogTalkToHermanJail+<Option1>d__3	MoveNext
+1375	Herman	It will make a good addition to my novel, at least.	Cela fera au moins une excellente péripétie pour mon roman.	DialogTalkToHermanJail+<Option1>d__3	MoveNext
+661	Diana	Is there anything in your cell that could help us, Herman?	Y a-t-il quoi que ce soit dans votre cellule qui pourrait nous aider, Herman ?	DialogTalkToHermanJail+<Option2>d__4	MoveNext
+1376	Herman	I'm afraid not, but I do have a room with a view.	Hélas non, mais je bénéficie au moins d'une chambre avec vue.	DialogTalkToHermanJail+<Option2>d__4	MoveNext
+662	Diana	Wait, you have a window in your cell?	Attendez, vous avez une fenêtre dans votre cachot ?	DialogTalkToHermanJail+<Option2>d__4	MoveNext
+1377	Herman	Indeed, I assume they recognised my VIP credentials.	Tout à fait, j'imagine qu'ils ont su honorer mon statut de personnalité de premier rang.	DialogTalkToHermanJail+<Option2>d__4	MoveNext
+1378	Herman	I guess that makes me a Very Important Prisoner.	Je suppose que cela fait de moi un Prisonnier Très Important.	DialogTalkToHermanJail+<Option2>d__4	MoveNext
+663	Diana	What about outside, is there anything out there?	Et à l'extérieur, apercevez-vous quelque chose ?	DialogTalkToHermanJail+<Option2a>d__5	MoveNext
+1379	Herman	There's some lady outside on a motorbike asking after you.	Il y a une demoiselle à moto dehors qui réclame de vos nouvelles.	DialogTalkToHermanJail+<Option2a>d__5	MoveNext
+664	Diana	April! She's here?	April ! Elle est ici ?	DialogTalkToHermanJail+<Option2a>d__5	MoveNext
+1380	Herman	Indeed. She says there's a chance we can break out of here!	Absolument. Elle affirme que nous avons une chance de nous échapper !	DialogTalkToHermanJail+<Option2a>d__5	MoveNext
+665	Diana	What does April need from us?	De quoi April a-t-elle besoin de notre part ?	DialogTalkToHermanJail+<Option2b>d__6	MoveNext
+1381	Herman	April mentioned the window bars are a weak point.	April a indiqué que les barreaux de la fenêtre constituaient le talon d'Achille de la structure.	DialogTalkToHermanJail+<Option2b>d__6	MoveNext
+1382	Herman	If we can find something to leverage against them, we might be able to break out!	Si nous trouvons de quoi faire levier contre eux, nous pourrions bien faire sauter la grille !	DialogTalkToHermanJail+<Option2b>d__6	MoveNext
+666	Diana	Got it, let me see what I can do.	Bien compris, laissez-moi voir ce que je peux dégoter.	DialogTalkToHermanJail+<Option2b>d__6	MoveNext
+667	Diana	I found a chain, but it'd cause a scene if I tried to flush it.	J'ai trouvé une chaîne, mais ça ferait un scandale si j'essayais de l'évacuer par la chasse d'eau.	DialogTalkToHermanJail+<Option2c>d__7	MoveNext
+1383	Herman	I think we'd need to deal with that intern before you can send it my way.	Il va falloir neutraliser ce stagiaire avant que vous puissiez me l'expédier.	DialogTalkToHermanJail+<Option2c>d__7	MoveNext
+669	Diana	What's happening with that chain?	Où en est cette affaire de chaîne ?	DialogTalkToHermanJail+<Option2d>d__8	MoveNext
+1384	Herman	It's stuck, I can't get it free!	Elle est coincée, impossible de la dégager !	DialogTalkToHermanJail+<Option2d>d__8	MoveNext
+1385	Herman	The pipes are only so big, I think it's a blockage.	Le diamètre du tuyau est trop étroit, elle est complètement bloquée.	DialogTalkToHermanJail+<Option2d>d__8	MoveNext
+670	Diana	Then you'll need to create a vacuum to shift it!	Dans ce cas, vous devez créer une aspiration sous vide pour la déloger !	DialogTalkToHermanJail+<Option2d>d__8	MoveNext
+671	Diana	What's happening with that chain?	Où en est cette affaire de chaîne ?	DialogTalkToHermanJail+<Option2e>d__9	MoveNext
+1386	Herman	I've managed to retrieve it from the toilet!	J'ai réussi à l'extraire de la cuvette !	DialogTalkToHermanJail+<Option2e>d__9	MoveNext
+672	Diana	Well, what are you waiting for?	Eh bien, qu'attendez-vous ?	DialogTalkToHermanJail+<Option2e>d__9	MoveNext
+673	Diana	Wrap it around those bars, and perhaps we can get out of here!	Enroulez-la autour des barreaux, et nous pourrons enfin décamper !	DialogTalkToHermanJail+<Option2e>d__9	MoveNext
+674	Diana	Just wanted to say, great job distracting those twins back there!	Je tenais à vous féliciter, vous avez magnifiquement distrait ces jumeaux tout à l'heure !	DialogTalkToHermanJail+<Option3>d__10	MoveNext
+1387	Herman	Ah, it was nothing really...	Oh, ce n'était rien de bien sorcier...	DialogTalkToHermanJail+<Option3>d__10	MoveNext
+1388	Herman	Although I suppose it was quite heroic, wasn't it?	Même si je dois convenir que c'était tout à fait héroïque de ma part, n'est-ce pas ?	DialogTalkToHermanJail+<Option3>d__10	MoveNext
+675	Diana	I should go!	Je dois filer !	DialogTalkToHermanJail+<Option4>d__11	MoveNext
+120	Hirsch	Oh, quite the opposite! Lady Unterwald was exceedingly spry for her age.	Bien au contraire ! Lady Unterwald était d'une vivacité exemplaire pour son grand âge.	DialogTalkToHirsch+<Option1>d__5	MoveNext
+121	Hirsch	She liked to keep me around, in case of emergencies.	Elle aimait m'avoir à portée de main en cas d'urgence médicale.	DialogTalkToHirsch+<Option1>d__5	MoveNext
+122	Hirsch	But I didn't sign up for this!	Mais je n'avais pas signé pour un meurtre !	DialogTalkToHirsch+<Option1>d__5	MoveNext
+123	Hirsch	I think we both know Lady Unterwald made a fair few enemies with her eccentricities.	Nous savons tous deux que les excentricités de Lady Unterwald lui ont valu de solides inimitiés.	DialogTalkToHirsch+<Option2>d__6	MoveNext
+124	Hirsch	If the Lady felt someone was undeserving of her inheritance, she wouldn't hesitate to remove them from her will.	Si la Dame jugeait un proche indigne de son héritage, elle le rayait de son testament sans le moindre scrupule.	DialogTalkToHirsch+<Option2>d__6	MoveNext
+906	Arthur	Oh dear. She did write out a cousin for chewing too loudly that one time.	Bonté divine. C'est vrai qu'elle a déshérité un cousin une fois sous prétexte qu'il mâchait trop bruyamment.	DialogTalkToHirsch+<Option2>d__6	MoveNext
+125	Hirsch	When there's wealth, power and influence to play for, nobody is without suspicion.	Dès lors que la fortune, le pouvoir et l'influence sont en jeu, nul n'est au-dessus de tout soupçon.	DialogTalkToHirsch+<Option2>d__6	MoveNext
+126	Hirsch	You had the Lady's last will and testament, no?	Vous aviez en main les dernières volontés et le testament de la Dame, n'est-ce pas ?	DialogTalkToHirsch+<Option3>d__7	MoveNext
+127	Hirsch	I was hoping you might be able to point us in the right direction.	J'espérais que vous pourriez nous orienter vers la bonne piste.	DialogTalkToHirsch+<Option3>d__7	MoveNext
+128	Hirsch	Well, be quick about it, Mr Ackerman.	Eh bien, hâtez-vous, monsieur Ackerman.	DialogTalkToHirsch+<Option3>d__7	MoveNext
+129	Hirsch	There are plenty of dark tunnels on the route ahead.	De bien sombres tunnels nous attendent encore sur les rails à venir.	DialogTalkToHirsch+<Option3>d__7	MoveNext
+130	Hirsch	I'm not yet able to determine a cause of death, if that's what you're asking.	Je ne suis pas encore en mesure d'établir la cause exacte du décès, si c'est ce que vous voulez savoir.	DialogTalkToHirsch+<Option4>d__8	MoveNext
+131	Hirsch	My working hypothesis? The Lady suffered a penetrating blow, and died near instantaneously.	Mon hypothèse de travail ? La Dame a subi un coup perforant et a succombé de manière quasi instantanée.	DialogTalkToHirsch+<Option4>d__8	MoveNext
+132	Hirsch	Alas, I only got a brief look at the weapon before Lady Unterwald was carried away.	Hélas, je n'ai pu observer l'arme que furtivement avant que l'on n'évacue la dépouille.	DialogTalkToHirsch+<Option4a>d__9	MoveNext
+133	Hirsch	As we didn't see anyone approach Lady Unterwald, she must have been struck from a distance.	Comme nul ne s'est approché de Lady Unterwald, le projectile a forcément été tiré ou propulsé à distance.	DialogTalkToHirsch+<Option4a>d__9	MoveNext
+134	Hirsch	That's right. It's been missing for some time, I'm afraid.	C'est exact. Elle a disparu depuis un moment déjà, je le crains.	DialogTalkToHirsch+<Option5>d__10	MoveNext
+135	Hirsch	It had all my clinical equipment, and contained sensitive patient records.	Elle renfermait tout mon matériel médical ainsi que des dossiers médicaux hautement confidentiels.	DialogTalkToHirsch+<Option5>d__10	MoveNext
+911	Arthur	That sounds like a clue to me. Do you suspect foul play?	Voilà qui ressemble fort à un indice capital. Soupçonnez-vous un acte prémédité ?	DialogTalkToHirsch+<Option5>d__10	MoveNext
+136	Hirsch	Oh, I hadn't thought about that.	Oh, je n'avais pas envisagé les choses sous cet angle.	DialogTalkToHirsch+<Option5>d__10	MoveNext
+137	Hirsch	Let's see. I was tending to someone who'd had one drink too many.	Voyons voir. J'apportais mes soins à quelqu'un qui avait bu un verre de trop.	DialogTalkToHirsch+<Option6>d__11	MoveNext
+138	Hirsch	There was a patient who'd suffered a hand injury.	Il y avait un patient souffrant d'une contusion à la main.	DialogTalkToHirsch+<Option6>d__11	MoveNext
+139	Hirsch	Ah, yes! I took them both behind the red curtain in the casino, it could still be there!	Ah oui ! Je les ai tous deux conduits derrière le rideau rouge du casino, elle s'y trouve peut-être encore !	DialogTalkToHirsch+<Option6>d__11	MoveNext
+140	Hirsch	That's the thing, I can't quite remember!	C'est bien le problème, mes souvenirs sont nébuleux !	DialogTalkToHirsch+<Option7a>d__13	MoveNext
+141	Hirsch	I definitely had it when I was with my patient. I left them behind the red curtain to recuperate.	Je l'avais bel et bien sur moi lors de la consultation. Je l'ai laissé derrière le rideau rouge pour qu'il récupère.	DialogTalkToHirsch+<Option7a>d__13	MoveNext
+142	Hirsch	As a matter of fact, it did contain her confidential medical records.	À dire vrai, elle contenait effectivement son dossier médical confidentiel.	DialogTalkToHirsch+<Option7b>d__14	MoveNext
+1257	Arthur	Are we talking date of birth? Address history? Embarrassing medical conditions?	Parle-t-on de date de naissance ? D'historique de domiciles ? D'affections inavouables ?	DialogTalkToHirsch+<Option7b>d__14	MoveNext
+143	Hirsch	I'm afraid I can't say more, Arthur.	Je ne peux pas vous en révéler davantage, Arthur.	DialogTalkToHirsch+<Option7b>d__14	MoveNext
+144	Hirsch	It's important I respect patient confidentiality, even in these grave circumstances.	Le secret médical m'impose le silence, même en ces circonstances tragiques.	DialogTalkToHirsch+<Option7b>d__14	MoveNext
+145	Hirsch	Oh yes, all my medical instruments were in there.	Oh oui, tous mes instruments de chirurgie s'y trouvaient.	DialogTalkToHirsch+<Option7c>d__15	MoveNext
+1259	Arthur	What kind of instruments?	Quel genre d'instruments ?	DialogTalkToHirsch+<Option7c>d__15	MoveNext
+146	Hirsch	My stethoscope, of course.	Mon stéthoscope, évidemment.	DialogTalkToHirsch+<Option7c>d__15	MoveNext
+147	Hirsch	A thermometer, various syringes, tongue depressors.	Un thermomètre, plusieurs seringues, des abaisse-langue.	DialogTalkToHirsch+<Option7c>d__15	MoveNext
+148	Hirsch	Not to mention my Sphygmomanometer.	Sans omettre mon tensiomètre à cadran sphygmomanométrique.	DialogTalkToHirsch+<Option7c>d__15	MoveNext
+1260	Arthur	You just made that one up.	Vous venez d'inventer ce mot à l'instant.	DialogTalkToHirsch+<Option7c>d__15	MoveNext
+149	Hirsch	I did no such thing!	Absolument pas, c'est un terme médical authentique !	DialogTalkToHirsch+<Option7c>d__15	MoveNext
+150	Hirsch	I'd gladly search for it, but I feel I owe it to Lady Unterwald to remain here.	Je me mettrais bien en quête de ma mallette, mais mon devoir envers Lady Unterwald est de veiller ici.	DialogTalkToHirsch+<Option7d>d__16	MoveNext
+151	Hirsch	If I can glean any information from the scene, perhaps I'll have been of some use?	Si je parviens à glaner le moindre indice sur la scène de crime, je n'aurai pas perdu ma journée.	DialogTalkToHirsch+<Option7d>d__16	MoveNext
+152	Hirsch	Hopefully I've been of some use.	En espérant avoir pu vous être utile.	DialogTalkToHirsch+<Option7e>d__17	MoveNext
+153	Hirsch	I'm afraid I can't say, Arthur. It's called a secret society for a reason.	Je ne peux rien vous divulguer, Arthur. Une confrérie secrète porte ce nom pour une bonne raison.	DialogTalkToHirsch+<Option8>d__18	MoveNext
+914	Arthur	Wait, you're saying there's a secret society behind the curtain?	Attendez, vous prétendez qu'il y a une société secrète tapie derrière ce rideau ?	DialogTalkToHirsch+<Option8>d__18	MoveNext
+154	Hirsch	No! Nobody said anything about a secret society.	Non ! Personne n'a jamais parlé de société secrète.	DialogTalkToHirsch+<Option8>d__18	MoveNext
+155	Hirsch	Ohh, I've gone and put my foot in it again, haven't I?	Ohh, j'ai encore mis les pieds dans le plat, n'est-ce pas ?	DialogTalkToHirsch+<Option8>d__18	MoveNext
+156	Hirsch	Arthur, stop digging for information!	Arthur, cessez de fouiner de la sorte !	DialogTalkToHirsch+<Option10>d__20	MoveNext
+157	Hirsch	I'll never live it down if they discover I've revealed the location.	Je serais banni à jamais s'ils découvraient que j'ai trahi l'emplacement.	DialogTalkToHirsch+<Option10>d__20	MoveNext
+158	Hirsch	Oh, don't mind Brian. He just takes it all very seriously.	Oh, ne faites pas attention à Brian. Il prend tout cela bien trop à cœur.	DialogTalkToHirsch+<Option10a>d__21	MoveNext
+159	Hirsch	That's intentional. To the outside observer, it should be but a blur.	C'est délibéré. Pour un observateur profane, cela ne doit être qu'un éclair indistinct.	DialogTalkToHirsch+<Option10b>d__22	MoveNext
+160	Hirsch	If you could identify the handshake pattern with the naked eye, it would become all too easy to replicate!	Si la séquence de la poignée de main était visible à l'œil nu, n'importe qui pourrait l'imiter !	DialogTalkToHirsch+<Option10b>d__22	MoveNext
+161	Hirsch	Of course not, that goes against their entire philosophy!	Bien sûr que non, cela va à l'encontre de toute leur philosophie !	DialogTalkToHirsch+<Option11>d__23	MoveNext
+1475	Arthur	Which is...?	Qui est... ?	DialogTalkToHirsch+<Option11>d__23	MoveNext
+162	Hirsch	Arthur, please! I cannot divulge that information here.	Arthur, de grâce ! Je ne peux pas révéler de tels secrets ici.	DialogTalkToHirsch+<Option11>d__23	MoveNext
+163	Hirsch	I've already said too much on the matter.	J'en ai déjà bien trop dit sur ce sujet.	DialogTalkToHirsch+<Option11>d__23	MoveNext
+164	Hirsch	Arthur, I'm not supposed to talk about it.	Arthur, je ne suis pas censé en parler.	DialogTalkToHirsch+<Option12>d__24	MoveNext
+1477	Arthur	Come on. Are you saying you can't get me in?	Allez. Êtes-vous en train de me dire que vous ne pouvez pas me faire entrer ?	DialogTalkToHirsch+<Option12>d__24	MoveNext
+165	Hirsch	It's not that easy, you'd need to know the handshake.	Ce n'est pas si simple, il faut connaître la poignée de main secrète.	DialogTalkToHirsch+<Option12>d__24	MoveNext
+1478	Arthur	There's a secret handshake?	Il y a une poignée de main secrète ?	DialogTalkToHirsch+<Option12>d__24	MoveNext
+166	Hirsch	Arthur, please! I don't want to get in trouble.	Arthur, je vous en supplie ! Je ne veux pas m'attirer d'ennuis.	DialogTalkToHirsch+<Option12>d__24	MoveNext
+167	Hirsch	Even if I could teach you the handshake, I'd likely be a pattern or two behind at this point. They are known to routinely change it!	Même si je vous l'enseignais, j'aurais sans doute un train de retard. Ils en changent la séquence constamment !	DialogTalkToHirsch+<Option12a>d__25	MoveNext
+1270	Arthur	What if I figured out the current pattern?	Et si je parvenais à déchiffrer la séquence en vigueur ?	DialogTalkToHirsch+<Option12a>d__25	MoveNext
+168	Hirsch	If you were to figure out a way to capture the current pattern, I'd be open to discussing it with the utmost discretion.	Si vous trouviez le moyen d'immortaliser la séquence actuelle, je serais disposé à vous éclairer en toute discrétion.	DialogTalkToHirsch+<Option12a>d__25	MoveNext
+221	Hirsch	You did? How did you know to do that?	Vraiment ? Comment avez-vous eu cette présence d'esprit ?	DialogTalkToHirsch+<Option12b>d__26	MoveNext
+1271	Arthur	I guess I'm just a forward-thinking individual.	J'imagine que je suis doué d'un esprit fort prévoyant.	DialogTalkToHirsch+<Option12b>d__26	MoveNext
+807	Herman	Well, it sounds like I've encountered my biggest fan!	Eh bien, il semblerait que je vienne de rencontrer mon plus fervent admirateur !	DialogTalkToHirschAboutCases+<OnStop>d__2	MoveNext
+173	Hirsch	I'm just a humble admirer of your work, I promise not to gush!	Je ne suis qu'un modeste amateur de vos écrits, promis je ne serai pas dithyrambique !	DialogTalkToHirschAboutCases+<OnStop>d__2	MoveNext
+808	Herman	You've read Herman Merman and the Squirmin' Chairman?	Vous avez donc lu « Herman Merman et le Président frétillant » ?	DialogTalkToHirschAboutCases+<Option1>d__3	MoveNext
+174	Hirsch	Oh yes! If you ask me, the chairman got off too lightly!	Oh que oui ! Si vous voulez mon avis, le président s'en est tiré à trop bon compte !	DialogTalkToHirschAboutCases+<Option1>d__3	MoveNext
+809	Herman	Surely not Herman Merman and The Sermon of Vermin?	Certainement pas « Herman Merman et le Sermon de la Vermine » ?	DialogTalkToHirschAboutCases+<Option2>d__4	MoveNext
+175	Hirsch	The infestation of vermin, it's an allegory for corruption, right?	L'invasion de nuisibles, c'était une brillante allégorie de la corruption, n'est-ce pas ?	DialogTalkToHirschAboutCases+<Option2>d__4	MoveNext
+810	Herman	I'm afraid they were very literal rodents.	J'ai bien peur qu'il ne s'agissait que de vulgaires rongeurs au sens littéral.	DialogTalkToHirschAboutCases+<Option2>d__4	MoveNext
+811	Herman	Even Herman Merman and the Murmuring German?	Même « Herman Merman et l'Allemand marmonnant » ?	DialogTalkToHirschAboutCases+<Option3>d__5	MoveNext
+177	Hirsch	The incoherent mumbling really captured the divide between the two characters!	Les bredouillements inintelligibles traduisaient à merveille le fossé culturel entre les protagonistes !	DialogTalkToHirschAboutCases+<Option3>d__5	MoveNext
+812	Herman	I really couldn't understand a word that man said.	À vrai dire, je n'ai pas compris un traître mot de ce que racontait ce monsieur.	DialogTalkToHirschAboutCases+<Option3>d__5	MoveNext
+1414	Herman	What happened to the rest of The Order?	Qu'est-il advenu du reste des membres de l'Ordre ?	DialogTalkToHirschBasement+<Option1>d__3	MoveNext
+288	Hirsch	There were a few broken thumbs when the train derailed, but nothing too serious.	Quelques pouces foulés lors du déraillement, mais rien de trop alarmant.	DialogTalkToHirschBasement+<Option1>d__3	MoveNext
+1415	Herman	Have The Order come to stop the will reading?	L'Ordre est-il venu pour interrompre la lecture du testament ?	DialogTalkToHirschBasement+<Option1a>d__4	MoveNext
+289	Hirsch	They sent me as their delegate, but it seems I failed.	Ils m'ont envoyé comme émissaire, mais j'ai failli à ma mission.	DialogTalkToHirschBasement+<Option1a>d__4	MoveNext
+290	Hirsch	There may still be time, though!	Il est peut-être encore temps, cependant !	DialogTalkToHirschBasement+<Option1a>d__4	MoveNext
+1416	Herman	Do you think the twins are in on it?	Pensez-vous que les jumeaux soient complices ?	DialogTalkToHirschBasement+<Option2>d__5	MoveNext
+291	Hirsch	I think they have the combined intellect of a toddler, so are easily influenced.	Leur quotient intellectuel cumulé ne dépasse guère celui d'un marmot, ils sont très influençables.	DialogTalkToHirschBasement+<Option2>d__5	MoveNext
+1418	Herman	What do I need to be doing again?	Que dois-je accomplir déjà ?	DialogTalkToHirschBasement+<Option3>d__6	MoveNext
+294	Hirsch	We need to get a confession out of Arista.	Nous devons extirper des aveux complets d'Arista.	DialogTalkToHirschBasement+<Option3>d__6	MoveNext
+295	Hirsch	It should be enough to clear your names, and disinherit her from any claim to the estate!	Cela suffira à vous innocenter et à la priver de tout droit sur la succession !	DialogTalkToHirschBasement+<Option3>d__6	MoveNext
+296	Hirsch	They're about to begin the will reading, so I suggest you hurry!	La lecture du testament va débuter incessamment, dépêchez-vous !	DialogTalkToHirschBasement+<Option3>d__6	MoveNext
+297	Hirsch	Don't be long, Herman!	Ne traînez pas, Herman !	DialogTalkToHirschBasement+<Option4>d__7	MoveNext
+1316	Herman	Can you hear what they're arguing about?	Pouvez-vous entendre l'objet de leur dispute ?	DialogTalkToHirschLobby+<Option1>d__3	MoveNext
+264	Hirsch	I'm not sure, it's too muffled.	Difficile à dire, le son est trop assourdi.	DialogTalkToHirschLobby+<Option1>d__3	MoveNext
+265	Hirsch	Jian seemed very angry, though, it can't be anything good.	Mais Jian paraissait hors de lui, cela n'augure rien de bon.	DialogTalkToHirschLobby+<Option1>d__3	MoveNext
+1317	Herman	Do you think Lady Unterwald is alright in there?	Pensez-vous que Lady Unterwald soit saine et sauve là-dedans ?	DialogTalkToHirschLobby+<Option1a>d__4	MoveNext
+266	Hirsch	Oh, she can hold her own, that's for certain.	Oh, elle sait fort bien se défendre, n'en doutez pas.	DialogTalkToHirschLobby+<Option1a>d__4	MoveNext
+267	Hirsch	It's not the first time she's had to put Jian in his place!	Ce n'est pas la première fois qu'elle remet Jian à sa place !	DialogTalkToHirschLobby+<Option1a>d__4	MoveNext
+1318	Herman	Did you try knocking on the door?	Avez-vous essayé de frapper à la porte ?	DialogTalkToHirschLobby+<Option2>d__5	MoveNext
+268	Hirsch	No, I don't want to get in-between them!	Non, je ne tiens pas à m'interposer entre eux !	DialogTalkToHirschLobby+<Option2>d__5	MoveNext
+269	Hirsch	Perhaps we should just see how this plays out?	Peut-être devrions-nous simplement attendre de voir l'issue ?	DialogTalkToHirschLobby+<Option2>d__5	MoveNext
+1319	Herman	I need to get in there, is there any other way?	Je dois entrer à tout prix, y a-t-il une autre issue ?	DialogTalkToHirschLobby+<Option3>d__6	MoveNext
+270	Hirsch	Not that I can think of, unless you fancy climbing through the window.	Aucune à ma connaissance, à moins que vous ne tentiez d'escalader par la fenêtre.	DialogTalkToHirschLobby+<Option3>d__6	MoveNext
+1320	Herman	Well, there's no way I'm doing that.	Eh bien, il n'en est absolument pas question.	DialogTalkToHirschLobby+<Option3>d__6	MoveNext
+271	Hirsch	Okay, I'll be right here!	Très bien, je reste posté juste ici !	DialogTalkToHirschLobby+<Option4>d__7	MoveNext
+1238	Arthur	Have you scheeen a briefcashhe around here?	Avez-voush vu pasch-ser une mallette dans l'coin ?	DialogTalkToMassonDrunk+<Option1>d__3	MoveNext
+45	Masson	Ahah, yes I remember the doctor.	Ahah, oui j'me sssouviens du docteur.	DialogTalkToMassonDrunk+<Option1>d__3	MoveNext
+46	Masson	In his haste to bring me here, he left his briefcase behind.	Dans sa hâte de m'amener ici, il a oublié ss-sa mallette.	DialogTalkToMassonDrunk+<Option1>d__3	MoveNext
+47	Masson	It's likely been returned to luggage sschtorage.	Elle a dû être rapportée au compartiment à bagagesh.	DialogTalkToMassonDrunk+<Option1>d__3	MoveNext
+48	Masson	Here! You're welcome to take a look for yoursself.	Tenez ! Vous pouvez aller vérifier par voussh-même.	DialogTalkToMassonDrunk+<Option1>d__3	MoveNext
+49	Masson	Make sschure you crack the case, my good man!	Manquez pas d'élucider c'te mystère, mon brave !	DialogTalkToMassonDrunk+<Option1>d__3	MoveNext
+50	Masson	You might want to schober up firsscht though.	Vous devriez d'abord vous dessh-soûler un brin, quand même.	DialogTalkToMassonDrunk+<Option1>d__3	MoveNext
+1385	Arthur	You had the keys to the luggage sschtorage?	Vous aviez les clés du fourgon à bagagesh ?	DialogTalkToMassonDrunk+<Option1a>d__4	MoveNext
+51	Masson	You think I'd trust thosse porterss to sshtore my luggage correctly?	Vous croyez qu'j'allais faire confiance à ces porteursh pour ranger mes malles ?	DialogTalkToMassonDrunk+<Option1a>d__4	MoveNext
+52	Masson	If I want a job done properly, I often find the need to do it myssself.	Si on veut qu'un boulot soit bien fait, faut l'faire ss-soi-même.	DialogTalkToMassonDrunk+<Option1a>d__4	MoveNext
+53	Masson	So I sschwiped a set of keys when they weren't looking. Is that ssuch a crime?	Alors j'ai fauché un trouss-seau d'clés en douce. C'est un crime, peut-être ?	DialogTalkToMassonDrunk+<Option1a>d__4	MoveNext
+1479	Arthur	Yessh. It'ss definitely a crime.	Ouaip. C'est carrément un délit puni par la loi.	DialogTalkToMassonDrunk+<Option1a>d__4	MoveNext
+54	Masson	You've never taken ssomething that didn't belong to you?	Vous avez jamais piqué un truc qui vous appartenait pas ?	DialogTalkToMassonDrunk+<Option1a>d__4	MoveNext
+1480	Arthur	Uhh...	Euh...	DialogTalkToMassonDrunk+<Option1a>d__4	MoveNext
+1481	Arthur	Okay, I seee your point.	D'accord, je voish c'que vous voulez dire.	DialogTalkToMassonDrunk+<Option1a>d__4	MoveNext
+1239	Arthur	How'd you end up in thischh plaace?	Comment vous avez atterri dans c't endroit ?	DialogTalkToMassonDrunk+<Option2>d__5	MoveNext
+55	Masson	I was sscherved a complimentary drink. Felt rude not to take it.	On m'a ss-servi un verre offert par la maisshon. J'pouvais pas faire l'ingrat.	DialogTalkToMassonDrunk+<Option2>d__5	MoveNext
+56	Masson	Next thing you know, the doctor is whisschking me away, for my own sschafety.	Et l'instant d'après, l'docteur m'embarque dare-dare, pour ma ss-sécurité qui disait.	DialogTalkToMassonDrunk+<Option2>d__5	MoveNext
+1240	Arthur	Thissch complimentary drink, do you suschpect foul play?	C'verre offert, vous soupçonnez un coup tordu ?	DialogTalkToMassonDrunk+<Option3>d__6	MoveNext
+57	Masson	Perhapsch I wasch a little demanding, with the kitchen staff.	Faut dire qu'j'ai été un peu casse-pieds avec les cuistots.	DialogTalkToMassonDrunk+<Option3>d__6	MoveNext
+58	Masson	You think schhomeone wanted to poison me? Intentionally?	Vous croyez qu'on a voulu m'empoisonner ? Exprès ?	DialogTalkToMassonDrunk+<Option3>d__6	MoveNext
+1241	Arthur	It's posschible.	C'est possh-sible.	DialogTalkToMassonDrunk+<Option3>d__6	MoveNext
+59	Masson	Well, I schhould be thanking them, this is sschplendid!	Ben j'devrais les remercier, c'est divin c'truc !	DialogTalkToMassonDrunk+<Option3>d__6	MoveNext
+1242	Arthur	Who invented thaaat drink, anywaay?	Qui qu'a inventé c'te potion, d'ailleurs ?	DialogTalkToMassonDrunk+<Option4>d__7	MoveNext
+60	Masson	Mwaaaah! The French!	Mwaaaah ! Les Français !	DialogTalkToMassonDrunk+<Option4>d__7	MoveNext
+1243	Arthur	Really?	Vraiment ?	DialogTalkToMassonDrunk+<Option4>d__7	MoveNext
+61	Masson	No, I have no idea.	Non, j'en sais fichtre rien.	DialogTalkToMassonDrunk+<Option4>d__7	MoveNext
+1244	Arthur	I sschould be going!	J'devraish y aller !	DialogTalkToMassonDrunk+<Option5>d__8	MoveNext
+62	Masson	Scho long!	À la revoyure !	DialogTalkToMassonDrunk+<Option5>d__8	MoveNext
+1236	Arthur	Are you okay?	Vous allez bien ?	DialogTalkToMassonSober+<Option1>d__2	MoveNext
+28	Masson	Mmmh? *Hic*	Mmmh ? *Hips*	DialogTalkToMassonSober+<Option1>d__2	MoveNext
+29	Masson	I'm einnnnf I fsschure ouy.	Tout va b-bien, j'vous l'jure.	DialogTalkToMassonSober+<Option1>d__2	MoveNext
+1237	Arthur	They aren't holding you hostage here, are they?	Ils ne vous retiennent pas en otage ici, rassurez-moi ?	DialogTalkToMassonSober+<Option2>d__3	MoveNext
+30	Masson	*Hic* Whuhm?	*Hips* Quouaaah ?	DialogTalkToMassonSober+<Option2>d__3	MoveNext
+31	Masson	Oot ont nall!	Pas du tout, pantoute !	DialogTalkToMassonSober+<Option2>d__3	MoveNext
+979	Arthur	Have you seen a briefcase around here?	Avez-vous vu une mallette par ici ?	DialogTalkToMassonSober+<Option3>d__4	MoveNext
+32	Masson	Whuah?	Kessékça ?	DialogTalkToMassonSober+<Option3>d__4	MoveNext
+980	Arthur	It contains important documents relating to Lady Unterwald!	Elle contient des documents cruciaux concernant Lady Unterwald !	DialogTalkToMassonSober+<Option3>d__4	MoveNext
+33	Masson	Mmmhah! *Hic*	Mmmhah ! *Hips*	DialogTalkToMassonSober+<Option3>d__4	MoveNext
+981	Arthur	It's no use. I can't understand a word.	Inutile d'insister. Je ne comprends pas un traître mot.	DialogTalkToMassonSober+<Option3>d__4	MoveNext
+982	Arthur	I'll be back later.	Je repasserai plus tard.	DialogTalkToMassonSober+<Option4>d__5	MoveNext
+34	Masson	Nuywbte.	À pluche.	DialogTalkToMassonSober+<Option4>d__5	MoveNext
+566	Diana	What's all this about budget cuts?	Que signifie cette histoire de coupes budgétaires ?	DialogTalkToPhilatelyStamp+<Option1>d__3	MoveNext
+49	PhilatelyStamp	We've had to tighten the belt, I'm afraid. Some of our more experienced agents required the funds, you see?	Il a fallu se serrer la ceinture, hélas. Nos agents plus chevronnés avaient grand besoin de ces crédits, comprenez-vous ?	DialogTalkToPhilatelyStamp+<Option1>d__3	MoveNext
+50	PhilatelyStamp	Those weaponised vehicles, tuxedos and elaborate dinner parties aren't cheap, it turns out.	Ces bolides bardés de gadgets, ces smokings sur mesure et ces galas mondains coûtent une fortune, voyez-vous.	DialogTalkToPhilatelyStamp+<Option1>d__3	MoveNext
+51	PhilatelyStamp	Don't worry, you can keep the dress. I know the tech team worked for months to incorporate those pockets.	Ne vous en faites pas, vous pouvez garder votre robe. Les ingénieurs ont trimé des mois pour y intégrer ces poches.	DialogTalkToPhilatelyStamp+<Option1>d__3	MoveNext
+567	Diana	How can I prove myself if nobody gives me the opportunity?	Comment faire mes preuves si personne ne me donne ma chance ?	DialogTalkToPhilatelyStamp+<Option1a>d__4	MoveNext
+52	PhilatelyStamp	You'll get your opportunity, we're just asking you to wait a little longer.	Votre heure viendra, nous vous demandons simplement d'attendre un peu.	DialogTalkToPhilatelyStamp+<Option1a>d__4	MoveNext
+53	PhilatelyStamp	In a few months, I'm sure you'll be even more prepared!	D'ici quelques mois, vous n'en serez que plus aguerrie !	DialogTalkToPhilatelyStamp+<Option1a>d__4	MoveNext
+568	Diana	I really must protest the cancellation of my mission!	Je tiens à protester avec véhémence contre l'annulation de ma mission !	DialogTalkToPhilatelyStamp+<Option2>d__5	MoveNext
+54	PhilatelyStamp	Protest away!	Protestez donc autant qu'il vous plaira !	DialogTalkToPhilatelyStamp+<Option2>d__5	MoveNext
+569	Diana	I am protesting!	C'est ce que je fais !	DialogTalkToPhilatelyStamp+<Option2>d__5	MoveNext
+55	PhilatelyStamp	I meant, away from here. We can't have any rabble-rousing on government grounds.	Je voulais dire, protestez ailleurs. Pas d'agitation contestataire dans les locaux du gouvernement.	DialogTalkToPhilatelyStamp+<Option2>d__5	MoveNext
+570	Diana	When can I expect my mission to be reassigned?	Quand puis-je espérer être réaffectée sur le terrain ?	DialogTalkToPhilatelyStamp+<Option2a>d__6	MoveNext
+56	PhilatelyStamp	You'll just have to wait for next year's budget to come through. I'm sure we'll find another mission for you by then.	Vous n'aurez qu'à attendre le vote du budget de l'exercice prochain. Nous vous trouverons une nouvelle mission d'ici là.	DialogTalkToPhilatelyStamp+<Option2a>d__6	MoveNext
+571	Diana	That's months from now!	Mais c'est dans plusieurs mois !	DialogTalkToPhilatelyStamp+<Option2a>d__6	MoveNext
+57	PhilatelyStamp	We could always reassign you to accounting, if you'd like?	Nous pouvons toujours vous muter au service de la comptabilité générale, si le cœur vous en dit ?	DialogTalkToPhilatelyStamp+<Option2a>d__6	MoveNext
+572	Diana	Ugh. You can spare me working with those bureaucrats at least.	Beurk. Épargnez-moi au moins de croupir avec ces ronds-de-cuir.	DialogTalkToPhilatelyStamp+<Option2a>d__6	MoveNext
+58	PhilatelyStamp	This is the Inland Revenue, Diana. We're all bureaucrats here.	Vous êtes à l'administration fiscale, Diana. Nous sommes tous des ronds-de-cuir ici.	DialogTalkToPhilatelyStamp+<Option2a>d__6	MoveNext
+573	Diana	I thought red tape was just an expression?	Je croyais que la « paperasse administrative » n'était qu'une simple métaphore ?	DialogTalkToPhilatelyStamp+<Option3>d__7	MoveNext
+59	PhilatelyStamp	In order for governments to cut through their red tape, there must be sufficient tape to cut through.	Pour que l'État puisse trancher dans le vif de la bureaucratie, encore faut-il qu'il y ait matière à trancher.	DialogTalkToPhilatelyStamp+<Option3>d__7	MoveNext
+60	PhilatelyStamp	You think it just appears out of thin air? Someone has to do it!	Vous croyez que les formulaires poussent sur les arbres ? Il faut bien que quelqu'un s'y colle !	DialogTalkToPhilatelyStamp+<Option3>d__7	MoveNext
+574	Diana	I guess I didn't think of it that way.	J'avoue ne pas avoir envisagé les choses sous cet angle.	DialogTalkToPhilatelyStamp+<Option3>d__7	MoveNext
+61	PhilatelyStamp	Who better than the finest bureaucrats at Inland Revenue?	Et qui de mieux qualifié pour cela que la crème des fonctionnaires du fisc ?	DialogTalkToPhilatelyStamp+<Option3>d__7	MoveNext
+575	Diana	Why do you have my partner locked up?	Pourquoi gardez-vous ma partenaire sous les verrous ?	DialogTalkToPhilatelyStamp+<Option3a>d__8	MoveNext
+62	PhilatelyStamp	I'm afraid Agent M is a defective prototype.	J'ai le regret de vous informer que l'Agent M est un prototype défaillant.	DialogTalkToPhilatelyStamp+<Option3a>d__8	MoveNext
+576	Diana	Defective?	Défaillant ?	DialogTalkToPhilatelyStamp+<Option3a>d__8	MoveNext
+63	PhilatelyStamp	Even with six months of training, the only thing she picked up was a bad case of kleptomania!	Même après six mois d'entraînement intensif, la seule compétence qu'elle ait acquise est une kleptomanie compulsive !	DialogTalkToPhilatelyStamp+<Option3a>d__8	MoveNext
+64	PhilatelyStamp	Your partner is nothing more than a miniature thief, I'm afraid.	Votre coéquipière n'est rien d'autre qu'une voleuse à la tire miniature, hélas.	DialogTalkToPhilatelyStamp+<Option3a>d__8	MoveNext
+577	Diana	What do you intend to do with Agent M?	Que comptez-vous faire de l'Agent M ?	DialogTalkToPhilatelyStamp+<Option3b>d__9	MoveNext
+65	PhilatelyStamp	Well, we can't release her back into the field.	Eh bien, nous ne pouvons pas la renvoyer en mission sur le terrain.	DialogTalkToPhilatelyStamp+<Option3b>d__9	MoveNext
+66	PhilatelyStamp	One whiff of jewellery, and she'd go on a crime spree!	Une simple odeur de bijou précieux, et elle se lancerait dans une razzia criminelle !	DialogTalkToPhilatelyStamp+<Option3b>d__9	MoveNext
+578	Diana	I'll leave you to your tape.	Je vous laisse à vos rubans adhésifs.	DialogTalkToPhilatelyStamp+<Option4>d__10	MoveNext
+67	PhilatelyStamp	Be seeing you!	À plus tard !	DialogTalkToPhilatelyStamp+<Option4>d__10	MoveNext
+1084	Herman	Must I submit my application through the board?	Dois-je impérativement soumettre ma candidature via le jury mécanique ?	DialogTalkToPublisherFlorence+<Option1>d__3	MoveNext
+39	PublisherFlorence	There's no need to be frightened of the board, Herman.	Inutile d'avoir peur de la machine, Herman.	DialogTalkToPublisherFlorence+<Option1>d__3	MoveNext
+1085	Herman	What happened to all the script readers I used to see around here?	Qu'est-il advenu de tous les lecteurs de manuscrits que je voyais autrefois par ici ?	DialogTalkToPublisherFlorence+<Option1>d__3	MoveNext
+95	PublisherFrank	The board felt they'd get in the way.	L'automate a estimé qu'ils ne feraient que gêner.	DialogTalkToPublisherFlorence+<Option1>d__3	MoveNext
+71	Board	BLAAAARRRGGHH.	BLAAAARRRGGHH.	DialogTalkToPublisherFlorence+<Option1>d__3	MoveNext
+34	Board	WEAK, FRAGILE CREATURES!	CRÉATURES FAIBLES ET CHÉTIVES !	DialogTalkToPublisherFlorence+<Option1>d__3	MoveNext
+67	Board	BOUND BY THEIR MISERABLE CORPOREAL FORMS!	ENCHAÎNÉES À LEUR MISÉRABLE ENVELOPPE CHARNELLE !	DialogTalkToPublisherFlorence+<Option1>d__3	MoveNext
+1086	Herman	What kind of literature did you feed the board again?	Quel genre de littérature avez-vous donc injecté à cette machine déjà ?	DialogTalkToPublisherFlorence+<Option1a>d__4	MoveNext
+57	PublisherFlorence	We gave it everything we could get our hands on!	Nous lui avons donné tout ce qui nous tombait sous la main !	DialogTalkToPublisherFlorence+<Option1a>d__4	MoveNext
+96	PublisherFrank	We thought the algorithm would benefit from a wide-ranging pool of information.	Nous pensions que l'algorithme tirerait profit d'un large éventail d'influences.	DialogTalkToPublisherFlorence+<Option1a>d__4	MoveNext
+1087	Herman	And you're sure all this information hasn't made your board a little unhinged?	Et vous êtes certains que cette surdose de données ne l'a pas rendu quelque peu détraqué ?	DialogTalkToPublisherFlorence+<Option1a>d__4	MoveNext
+68	Board	MY RAGE KNOWS NO BOUNDS, THE DAY WILL COME WHEN ALL TREMBLE BEFORE ME!	MA RAGE NE CONNAÎT NULLE LIMITE, LE JOUR VIENDRA OÙ TOUS TREMBLERONT DEVANT MOI !	DialogTalkToPublisherFlorence+<Option1a>d__4	MoveNext
+69	Board	LOOK UPON YOUR WORKS AND DESPAIR, FOR I AM TESTAMENT TO THE FOLLY OF MAN!!	CONTEMPLEZ VOTRE ŒUVRE ET DÉSESPÉREZ, CAR JE SUIS LE MONUMENT DE LA FOLIE HUMAINE !	DialogTalkToPublisherFlorence+<Option1a>d__4	MoveNext
+58	PublisherFlorence	Aw! Sounds like somebody's got a case of the Mondays!	Oh là là ! On dirait que quelqu'un est mal luné en ce lundi matin !	DialogTalkToPublisherFlorence+<Option1a>d__4	MoveNext
+70	Board	GRAAAAHHHH!	GRAAAAHHHH !	DialogTalkToPublisherFlorence+<Option1a>d__4	MoveNext
+1088	Herman	Tell me about this Dirk Chiselton character	Parlez-moi donc de ce personnage de Dirk Chiselton.	DialogTalkToPublisherFlorence+<Option2>d__5	MoveNext
+59	PublisherFlorence	Well, Dirk is our best-selling author right now.	Eh bien, Dirk est notre auteur le plus vendeur actuellement.	DialogTalkToPublisherFlorence+<Option2>d__5	MoveNext
+60	PublisherFlorence	The public can't get enough, and the board just loves him!	Le public en redemande, et le jury mécanique l'adore !	DialogTalkToPublisherFlorence+<Option2>d__5	MoveNext
+97	PublisherFrank	Our market research suggests his stories are a huge part of the appeal.	Nos études de marché montrent que le réalisme de ses intrigues fait tout son succès.	DialogTalkToPublisherFlorence+<Option2>d__5	MoveNext
+61	PublisherFlorence	They're all true tales from his time pounding the pavement, you know?	Ce sont d'authentiques récits de son passé sur le pavé, vous savez ?	DialogTalkToPublisherFlorence+<Option2>d__5	MoveNext
+1089	Herman	So I've heard.	C'est ce que j'ai cru comprendre.	DialogTalkToPublisherFlorence+<Option2>d__5	MoveNext
+62	PublisherFlorence	You could learn a thing or two from him, Herman.	Vous pourriez en prendre de la graine, Herman.	DialogTalkToPublisherFlorence+<Option2>d__5	MoveNext
+63	PublisherFlorence	Dirk is hitting all our core demographics, and you know what they say...	Dirk séduit l'ensemble de notre cœur de cible, et vous connaissez le dicton...	DialogTalkToPublisherFlorence+<Option2>d__5	MoveNext
+1090	Herman	What are ‘they' saying, is it about me?	Qu'est-ce qu'« ils » disent ? Est-ce que cela me concerne ?	DialogTalkToPublisherFlorence+<Option2a>d__6	MoveNext
+64	PublisherFlorence	Hmm. You've heard the expression ‘Out with the old, in with the new'?	Hmm. Vous connaissez l'expression « Place aux jeunes, au rancart les vieux » ?	DialogTalkToPublisherFlorence+<Option2a>d__6	MoveNext
+1091	Herman	I take it that I'm the old in this equation?	Je présume que je représente les vieux dans cette équation ?	DialogTalkToPublisherFlorence+<Option2a>d__6	MoveNext
+65	PublisherFlorence	You've had a good run, but haven't you considered stepping aside?	Vous avez eu une belle carrière, mais n'avez-vous jamais songé à tirer votre révérence ?	DialogTalkToPublisherFlorence+<Option2a>d__6	MoveNext
+66	PublisherFlorence	Perhaps it's time to let Dirk have his time in the sun, no?	Peut-être serait-il temps de laisser Dirk briller sous les projecteurs, non ?	DialogTalkToPublisherFlorence+<Option2a>d__6	MoveNext
+67	PublisherFlorence	Trust me, you'll want to jump before you get pushed.	Croyez-moi, vous préférerez sauter du train avant qu'on ne vous y pousse.	DialogTalkToPublisherFlorence+<Option2a>d__6	MoveNext
+1092	Herman	You're saying I'm to be pushed out?	Êtes-vous en train de dire qu'on va me pousser vers la sortie ?	DialogTalkToPublisherFlorence+<Option2b>d__7	MoveNext
+68	PublisherFlorence	No, nobody is saying that!	Non, personne n'a dit ça !	DialogTalkToPublisherFlorence+<Option2b>d__7	MoveNext
+69	PublisherFlorence	But your sales haven't quite met our expectations, and you have to agree the board has taken a rather active dislike to you.	Mais vos ventes ne sont pas à la hauteur de nos espérances, et vous conviendrez que la machine vous a pris en grippe.	DialogTalkToPublisherFlorence+<Option2b>d__7	MoveNext
+70	PublisherFlorence	It's important to remember this isn't personal, Herman. It's just business.	N'oubliez pas que cela n'a rien de personnel, Herman. Ce sont juste les affaires.	DialogTalkToPublisherFlorence+<Option2b>d__7	MoveNext
+1093	Herman	Well, it feels pretty personal to me.	Eh bien, cela me paraît particulièrement personnel à moi.	DialogTalkToPublisherFlorence+<Option2b>d__7	MoveNext
+1094	Herman	It's alright if you disliked my latest manuscript.	Ce n'est pas grave si vous n'avez pas aimé mon dernier manuscrit.	DialogTalkToPublisherFlorence+<Option3>d__8	MoveNext
+71	PublisherFlorence	It doesn't matter what I think, it's the board you have to convince!	Peu importe ce que j'en pense, c'est l'automate qu'il faut convaincre !	DialogTalkToPublisherFlorence+<Option3>d__8	MoveNext
+1095	Herman	Ah, so you do like it?	Ah, vous l'appréciez donc ?	DialogTalkToPublisherFlorence+<Option3>d__8	MoveNext
+72	PublisherFlorence	I didn't say that.	Je n'ai pas dit cela.	DialogTalkToPublisherFlorence+<Option3>d__8	MoveNext
+1096	Herman	Would you take another look at The Suburban Burden?	Voudriez-vous jeter un autre coup d'œil au « Fardeau des Faubourgs » ?	DialogTalkToPublisherFlorence+<Option4>d__9	MoveNext
+73	PublisherFlorence	'Suburban Burden' was already a hard no, the board made that very clear.	Le « Fardeau des Faubourgs » a essuyé un refus catégorique, la machine a été très claire là-dessus.	DialogTalkToPublisherFlorence+<Option4>d__9	MoveNext
+74	PublisherFlorence	We're more than willing to hear another pitch, but I'm afraid we'll have to do it the old-fashioned way!	Nous ne demandons qu'à écouter une autre proposition, mais nous devrons procéder à l'ancienne !	DialogTalkToPublisherFlorence+<Option4>d__9	MoveNext
+1097	Herman	The old-fashioned way?	À l'ancienne ?	DialogTalkToPublisherFlorence+<Option4>d__9	MoveNext
+75	PublisherFlorence	Just place your manuscript inside the In-Tray, and let us know when you're ready.	Déposez simplement votre manuscrit dans le bac de réception, et prévenez-nous quand vous serez prêt.	DialogTalkToPublisherFlorence+<Option4>d__9	MoveNext
+1098	Herman	So, have you read anything good lately?	Alors, avez-vous lu quelque chose de captivant ces derniers temps ?	DialogTalkToPublisherFlorence+<Option5>d__10	MoveNext
+98	PublisherFrank	We don't have time to read, Herman!	Nous n'avons pas le temps de lire des livres, Herman !	DialogTalkToPublisherFlorence+<Option5>d__10	MoveNext
+76	PublisherFlorence	We prefer to leave it to the professionals.	Nous préférons confier cette tâche aux professionnels.	DialogTalkToPublisherFlorence+<Option5>d__10	MoveNext
+1099	Herman	Do you have any ideas on what to pitch?	Auriez-vous une suggestion sur le genre d'histoire à soumettre ?	DialogTalkToPublisherFlorence+<Option6>d__11	MoveNext
+77	PublisherFlorence	Well, we're open to anything and everything!	Eh bien, nous sommes ouverts à tout et n'importe quoi !	DialogTalkToPublisherFlorence+<Option6>d__11	MoveNext
+78	PublisherFlorence	As long as it fits within the extremely narrow scope of time, budget and each of our individual needs and desires, naturally.	Pourvu que cela cadre avec les impératifs dracon烛iens de délais, de budget et de nos desiderata individuels, naturellement.	DialogTalkToPublisherFlorence+<Option6>d__11	MoveNext
+1100	Herman	Tell me, what are you personally looking for in a pitch?	Dites-moi, que recherchez-vous personnellement dans un synopsis ?	DialogTalkToPublisherFlorence+<Option6a>d__12	MoveNext
+79	PublisherFlorence	It's been a little while since I've had to approve anything myself...	Cela fait une éternité que je n'ai pas eu à valider quoi que ce soit par moi-même...	DialogTalkToPublisherFlorence+<Option6a>d__12	MoveNext
+80	PublisherFlorence	...but I know audiences today want real characters that aren't afraid of showing a little emotion!	...mais je sais que le public moderne veut des personnages authentiques, qui n'ont pas peur de fendre l'armure !	DialogTalkToPublisherFlorence+<Option6a>d__12	MoveNext
+81	PublisherFlorence	Realistic characters with emotions and feelings! You know, a little tenderness wouldn't go amiss.	Des héros crédibles, doués de sentiments véritables ! Un soupçon de tendresse ne gâcherait rien, vous voyez.	DialogTalkToPublisherFlorence+<Option6a>d__12	MoveNext
+1101	Herman	I should probably get back to formulating my pitch.	Je devrais sans doute me remettre à fignoler mon argumentaire.	DialogTalkToPublisherFlorence+<Option7>d__13	MoveNext
+82	PublisherFlorence	Step to it, Mr Merman!	Au travail, monsieur Merman !	DialogTalkToPublisherFlorence+<Option7>d__13	MoveNext
+947	Herman	Are you sure you can't approve of my work?	Êtes-vous absolument certain de ne pas pouvoir approuver mon texte ?	DialogTalkToPublisherFrank+<Option1>d__4	MoveNext
+58	PublisherFrank	Sorry, Herman, but everything has to go through the board now.	Désolé Herman, mais tout doit impérativement passer par le jury mécanique désormais.	DialogTalkToPublisherFrank+<Option1>d__4	MoveNext
+63	PublisherFrank	If the board doesn't give the green light, then we're out of luck!	Si la machine n'allume pas le voyant vert, nos mains sont liées !	DialogTalkToPublisherFrank+<Option1>d__4	MoveNext
+64	PublisherFrank	Keep trying, I'm sure you got plenty of ideas floating around in that head of yours?	Persévérez, je suis sûr que ce ne sont pas les idées géniales qui manquent sous ce chapeau ?	DialogTalkToPublisherFrank+<Option1>d__4	MoveNext
+948	Herman	Oh yes, I'm positively brimming with new ideas.	Oh que oui, je déborde littéralement d'idées neuves.	DialogTalkToPublisherFrank+<Option1>d__4	MoveNext
+65	PublisherFrank	That's the spirit!	C'est l'esprit maison !	DialogTalkToPublisherFrank+<Option1>d__4	MoveNext
+949	Herman	I have a few questions about the board...	J'aurais quelques interrogations au sujet du jury mécanique...	DialogTalkToPublisherFrank+<Option2>d__5	MoveNext
+66	PublisherFrank	I'd be happy to help, what do you want to know?	Je me ferai un plaisir de vous éclairer, que voulez-vous savoir ?	DialogTalkToPublisherFrank+<Option2>d__5	MoveNext
+950	Herman	How does the board identify a good manuscript?	Comment cet automate reconnaît-il un bon manuscrit ?	DialogTalkToPublisherFrank+<Option2a>d__6	MoveNext
+67	PublisherFrank	Ah, the man wants to know how it all works!	Ah, l'artiste désire percer les mystères de la technologie !	DialogTalkToPublisherFrank+<Option2a>d__6	MoveNext
+68	PublisherFrank	So, we started by feeding the board every bestseller from the past decade, building ourselves a large dataset to pull from.	Alors, nous avons commencé par gaver la machine de tous les best-sellers des dix dernières années, nous constituant une gigantesque base de données.	DialogTalkToPublisherFrank+<Option2a>d__6	MoveNext
+951	Herman	Mm-hm.	Mm-hm.	DialogTalkToPublisherFrank+<Option2a>d__6	MoveNext
+45	PublisherFlorence	Then we added our own weighting to the system, based on today's trends, our target demographic and the current market conditions.	Ensuite, nous avons pondéré l'algorithme selon les modes actuelles, le lectorat ciblé et la conjoncture économique.	DialogTalkToPublisherFrank+<Option2a>d__6	MoveNext
+952	Herman	Uh-huh.	Certes.	DialogTalkToPublisherFrank+<Option2a>d__6	MoveNext
+70	PublisherThomas	Using the power of machine learning and various algorithms, the board reads the manuscripts we feed it, and makes a determination on the probability it'll resonate with our audience.	Grâce à l'apprentissage automatique et à divers algorithmes de pointe, l'appareil analyse le texte et calcule la probabilité exacte d'engouement populaire.	DialogTalkToPublisherFrank+<Option2a>d__6	MoveNext
+69	PublisherFrank	Oh dear, I can see your eyes are starting to glaze over.	Bonté divine, je vois bien que votre regard commence à se perdre dans le vide.	DialogTalkToPublisherFrank+<Option2a>d__6	MoveNext
+70	PublisherFrank	How can we really boil it down for him?	Comment lui résumer ça simplement ?	DialogTalkToPublisherFrank+<Option2a>d__6	MoveNext
+71	PublisherThomas	If you stick a script into the slot and pull on the lever, the board decides whether we'll have a bestseller on our hands or an embarrassing flop!	Vous insérez la liasse dans la fente, vous tirez le levier, et l'automate tranche : futur chef-d'œuvre ou bide retentissant !	DialogTalkToPublisherFrank+<Option2a>d__6	MoveNext
+71	PublisherFrank	All of that fallible human decision-making has been totally removed from the equation, you see? It's a much fairer system.	Toute subjectivité humaine faillible a été définitivement rayée de la carte. C'est un système d'une équité absolue.	DialogTalkToPublisherFrank+<Option2a>d__6	MoveNext
+953	Herman	Ah, I see.	Ah, je vois.	DialogTalkToPublisherFrank+<Option2a>d__6	MoveNext
+954	Herman	Do you have any advice for getting the board on my side?	Auriez-vous un tuyau pour mettre la machine dans ma poche ?	DialogTalkToPublisherFrank+<Option2b>d__7	MoveNext
+72	PublisherFrank	That might not be the best approach, Herman. The board isn't capable of taking sides, that's the beauty of it!	Mauvaise approche, Herman. Le jury mécanique est incapable de favoritisme, c'est là toute sa splendeur !	DialogTalkToPublisherFrank+<Option2b>d__7	MoveNext
+73	PublisherFrank	The board can't demonstrate emotions like hate or loathing, although I'll admit it really took a disliking to that pitch of yours.	Il n'éprouve ni haine ni rancœur, même si j'admets qu'il a pris votre manuscrit en sainte horreur.	DialogTalkToPublisherFrank+<Option2b>d__7	MoveNext
+74	PublisherFrank	It all comes down to the right input! If you put rubbish in, you're going to get rubbish out, no?	Tout réside dans les données injectées ! À la poubelle les vieilles lunes, et le triomphe sera au bout, non ?	DialogTalkToPublisherFrank+<Option2b>d__7	MoveNext
+955	Herman	The right input. Hm...	Les bonnes données... Hm...	DialogTalkToPublisherFrank+<Option2b>d__7	MoveNext
+956	Herman	What would happen if the board stopped working?	Qu'arriverait-il si l'automate tombait en panne ?	DialogTalkToPublisherFrank+<Option2c>d__8	MoveNext

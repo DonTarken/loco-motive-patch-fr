@@ -1,0 +1,85 @@
+﻿Id	Character	English	French	Class	Method
+221	Diana	Morning, Sir!	Bonjour, Monsieur !	CharacterPhilatelyStamp+<OnInteractChapterFive>d__1	MoveNext
+68	PhilatelyStamp	Diana.	Diana.	CharacterPhilatelyStamp+<OnInteractChapterFive>d__1	MoveNext
+754	Diana	I need to refuel the motorbike, any ideas?	Je dois faire le plein de la moto, une idée ?	DialogHintLineChapterFive+<Option1>d__5	MoveNext
+276	Chiselton	Have another look around, there's probably something you haven't spotted.	Regardez bien autour de vous, il y a sûrement un détail qui vous a échappé.	DialogHintLineChapterFive+<Option1>d__5	MoveNext
+756	Diana	I need another hint about refuelling the bike.	J'ai besoin d'un autre indice sur le ravitaillement de la moto.	DialogHintLineChapterFive+<Option1a>d__6	MoveNext
+277	Chiselton	You might be able to find a container for storing fuel nearby.	Vous pourriez peut-être dénicher un récipient pour stocker du carburant à proximité.	DialogHintLineChapterFive+<Option1a>d__6	MoveNext
+278	Chiselton	There's an empty fuel canister near the pneumatic station, I'd start there.	Il y a un bidon d'essence vide près de la station pneumatique, je commencerais par là.	DialogHintLineChapterFive+<Option1b>d__7	MoveNext
+757	Diana	I've got the fuel canister, but it's empty. What now?	J'ai le bidon d'essence, mais il est vide. Et maintenant ?	DialogHintLineChapterFive+<Option2>d__8	MoveNext
+279	Chiselton	Well, you'll need to get fuel from somewhere.	Eh bien, il va falloir trouver du carburant quelque part.	DialogHintLineChapterFive+<Option2>d__8	MoveNext
+758	Diana	I need another hint about refuelling the bike.	J'ai besoin d'un autre indice sur le ravitaillement de la moto.	DialogHintLineChapterFive+<Option2a>d__9	MoveNext
+280	Chiselton	You should inspect the other vehicles, see if there's any fuel left over.	Vous devriez inspecter les autres véhicules, voir s'il ne reste pas un fond d'essence.	DialogHintLineChapterFive+<Option2a>d__9	MoveNext
+759	Diana	That rubber tubing looks useful, but it's stuck.	Ce tuyau en caoutchouc a l'air bien utile, mais il est coincé.	DialogHintLineChapterFive+<Option3>d__10	MoveNext
+281	Chiselton	You might be able to remove it, with the right tool.	Vous pourriez peut-être le détacher avec le bon outil.	DialogHintLineChapterFive+<Option3>d__10	MoveNext
+760	Diana	I need another hint about the rubber tubing.	J'ai besoin d'un autre indice sur le tuyau en caoutchouc.	DialogHintLineChapterFive+<Option3a>d__11	MoveNext
+282	Chiselton	You'll need something sharp to cut that tubing out.	Il vous faudra un objet tranchant pour sectionner ce tuyau.	DialogHintLineChapterFive+<Option3a>d__11	MoveNext
+283	Chiselton	That wiring kit looks sharp, have you asked the quartermaster about it?	Ce kit de câblage a l'air bien coupant, avez-vous interrogé la fourrière à ce sujet ?	DialogHintLineChapterFive+<Option3b>d__12	MoveNext
+762	Diana	The quartermaster won't let me have the wiring kit, what now?	L'intendante refuse de me céder le kit de câblage, que faire ?	DialogHintLineChapterFive+<Option4>d__13	MoveNext
+284	Chiselton	That might be a dead end, she's not going to bend the rules. What else can you see?	C'est une impasse, elle ne dérogera pas au règlement. Que voyez-vous d'autre ?	DialogHintLineChapterFive+<Option4>d__13	MoveNext
+763	Diana	I need another hint, what should I do?	J'ai besoin d'un autre indice, que dois-je faire ?	DialogHintLineChapterFive+<Option4a>d__14	MoveNext
+285	Chiselton	If the quartermaster won't give you that item, maybe you can take it!	Si l'intendante refuse de vous le donner, vous pourriez peut-être le subtiliser !	DialogHintLineChapterFive+<Option4a>d__14	MoveNext
+764	Diana	I need another hint, what should I do?	J'ai besoin d'un autre indice, que dois-je faire ?	DialogHintLineChapterFive+<Option4b>d__15	MoveNext
+286	Chiselton	There's a cage on that desk, have you had a peek inside yet?	Il y a une cage sur ce bureau, avez-vous déjà jeté un coup d'œil à l'intérieur ?	DialogHintLineChapterFive+<Option4b>d__15	MoveNext
+765	Diana	I've located Agent M, she's a miniature thief!	J'ai localisé l'Agent M : c'est une petite voleuse hors pair !	DialogHintLineChapterFive+<Option5>d__16	MoveNext
+287	Chiselton	A thief might come in handy! What else can you find?	Une voleuse pourrait s'avérer fort utile ! Que pouvez-vous trouver d'autre ?	DialogHintLineChapterFive+<Option5>d__16	MoveNext
+766	Diana	I need another hint, what should I do?	J'ai besoin d'un autre indice, que dois-je faire ?	DialogHintLineChapterFive+<Option5a>d__17	MoveNext
+288	Chiselton	With the right equipment, I'm sure you can get Agent M to help you.	Avec le bon équipement, je suis convaincu que l'Agent M acceptera de vous aider.	DialogHintLineChapterFive+<Option5a>d__17	MoveNext
+767	Diana	I need another hint, what should I do?	J'ai besoin d'un autre indice, que dois-je faire ?	DialogHintLineChapterFive+<Option5b>d__18	MoveNext
+289	Chiselton	There's a pile of discarded pneumatic containers, why not take one?	Il y a une pile de capsules pneumatiques usagées, pourquoi ne pas en prendre une ?	DialogHintLineChapterFive+<Option5b>d__18	MoveNext
+768	Diana	What should I do with this pneumatic container?	Que dois-je faire de cette capsule pneumatique ?	DialogHintLineChapterFive+<Option6>d__19	MoveNext
+290	Chiselton	You can put something in there and send it to the quartermaster's booth!	Vous pouvez y glisser quelque chose et l'expédier au guichet de l'intendante !	DialogHintLineChapterFive+<Option6>d__19	MoveNext
+769	Diana	I need another hint about the pneumatic container.	J'ai besoin d'un autre indice sur la capsule pneumatique.	DialogHintLineChapterFive+<Option6a>d__20	MoveNext
+291	Chiselton	You'll want to send something to that booth, but what?	Vous voudrez envoyer quelque chose vers ce guichet, mais quoi ?	DialogHintLineChapterFive+<Option6a>d__20	MoveNext
+770	Diana	I need another hint about the pneumatic container.	J'ai besoin d'un autre indice sur la capsule pneumatique.	DialogHintLineChapterFive+<Option6b>d__21	MoveNext
+292	Chiselton	You can send Agent M through the pipes directly to that quartermaster's booth!	Vous pouvez propulser l'Agent M dans les tuyaux directement vers le guichet de l'intendante !	DialogHintLineChapterFive+<Option6b>d__21	MoveNext
+771	Diana	Do you know how the pneumatic station works?	Savez-vous comment fonctionne la station pneumatique ?	DialogHintLineChapterFive+<Option7>d__22	MoveNext
+293	Chiselton	Those levers should control where the package ends up, try different combinations and see where it goes.	Ces leviers contrôlent la destination du colis. Essayez plusieurs combinaisons pour voir où il atterrit.	DialogHintLineChapterFive+<Option7>d__22	MoveNext
+772	Diana	I need another hint about the pneumatic station.	J'ai besoin d'un autre indice sur la station pneumatique.	DialogHintLineChapterFive+<Option7a>d__23	MoveNext
+294	Chiselton	Have a closer look at the pipes, can you see a pattern?	Examinez les tuyaux de plus près, remarquez-vous une logique ?	DialogHintLineChapterFive+<Option7a>d__23	MoveNext
+773	Diana	I need another hint about the pneumatic station.	J'ai besoin d'un autre indice sur la station pneumatique.	DialogHintLineChapterFive+<Option7b>d__24	MoveNext
+295	Chiselton	The levers and pipes have symbols on them, match those symbols and you're all set!	Les leviers et les tuyaux portent des symboles. Faites-les correspondre et le tour est joué !	DialogHintLineChapterFive+<Option7b>d__24	MoveNext
+774	Diana	I've got the wiring kit, what should I do now?	J'ai le kit de câblage, que dois-je faire maintenant ?	DialogHintLineChapterFive+<Option8>d__25	MoveNext
+296	Chiselton	I'd be careful with that, it looks pretty sharp, useful for slicing through stuff though.	Soyez prudente, c'est très tranchant. Mais fort utile pour couper des trucs en deux.	DialogHintLineChapterFive+<Option8>d__25	MoveNext
+775	Diana	I need another hint about the wiring kit.	J'ai besoin d'un autre indice sur le kit de câblage.	DialogHintLineChapterFive+<Option8a>d__26	MoveNext
+297	Chiselton	You can use the wiring kit to snip off the rubber tubing in the car.	Vous pouvez vous servir du kit de câblage pour sectionner le tuyau en caoutchouc dans la voiture.	DialogHintLineChapterFive+<Option8a>d__26	MoveNext
+776	Diana	I've got the rubber tubing, what should I do now?	J'ai le tuyau en caoutchouc, que faire à présent ?	DialogHintLineChapterFive+<Option9>d__27	MoveNext
+298	Chiselton	That rubber tubing should help you refuel!	Ce tuyau en caoutchouc devrait vous aider à faire le plein !	DialogHintLineChapterFive+<Option9>d__27	MoveNext
+299	Chiselton	With the right equipment, you could use that tube to help syphon fuel.	Avec le bon équipement, vous pourriez utiliser ce tuyau pour siphonner du carburant.	DialogHintLineChapterFive+<Option9a>d__28	MoveNext
+300	Chiselton	If you combine that rubber tubing with the fuel canister, I bet you could make an effective syphoning tool.	Si vous combinez ce tuyau avec le bidon d'essence, je parie que vous obtiendrez un parfait siphon.	DialogHintLineChapterFive+<Option9b>d__29	MoveNext
+779	Diana	I've made the syphon kit, what's next?	J'ai fabriqué le kit de siphonnage, quelle est la suite ?	DialogHintLineChapterFive+<Option10>d__30	MoveNext
+301	Chiselton	That other vehicle might have some leftover fuel.	L'autre véhicule contient peut-être encore du carburant.	DialogHintLineChapterFive+<Option10>d__30	MoveNext
+780	Diana	I need another hint about syphoning the fuel.	J'ai besoin d'un autre indice sur le siphonnage d'essence.	DialogHintLineChapterFive+<Option10a>d__31	MoveNext
+302	Chiselton	You should try to syphon the fuel from that vehicle.	Vous devriez tenter de siphonner l'essence de ce véhicule.	DialogHintLineChapterFive+<Option10a>d__31	MoveNext
+781	Diana	I need another hint about syphoning fuel.	J'ai besoin d'un autre indice sur le siphonnage du carburant.	DialogHintLineChapterFive+<Option10b>d__32	MoveNext
+303	Chiselton	That vehicle might have some fuel left over, try syphoning it out of the fuel inlet.	Ce véhicule a peut-être du carburant en réserve, essayez de le pomper par la trappe à essence.	DialogHintLineChapterFive+<Option10b>d__32	MoveNext
+782	Diana	I need to fix the faulty wiring on the motorbike.	Je dois réparer le câblage défectueux de la moto.	DialogHintLineChapterFive+<Option11>d__33	MoveNext
+304	Chiselton	You've got a wiring kit, don't you? Try using that.	Vous avez un kit de câblage, n'est-ce pas ? Essayez de vous en servir.	DialogHintLineChapterFive+<Option11>d__33	MoveNext
+783	Diana	The bike is fixed, what should I do now?	La moto est réparée, que dois-je faire maintenant ?	DialogHintLineChapterFive+<Option12>d__34	MoveNext
+305	Chiselton	Nothing left to do but ride out of there in style!	Il ne vous reste plus qu'à prendre la route avec panache !	DialogHintLineChapterFive+<Option12>d__34	MoveNext
+306	Chiselton	Good luck on your mission, agent!	Bonne chance pour votre mission, agent !	DialogHintLineChapterFive+<Option12>d__34	MoveNext
+784	Diana	Well, I'm not officially an a-	Eh bien, je ne suis pas officiellement un a-	DialogHintLineChapterFive+<Option12>d__34	MoveNext
+785	Diana	Oh, he's gone.	Oh, il a raccroché.	DialogHintLineChapterFive+<Option12>d__34	MoveNext
+786	Diana	I've got it from here, thanks.	Je prends les choses en main d'ici, merci.	DialogHintLineChapterFive+<Option13>d__35	MoveNext
+22	Lamont	Look, lady. We just want to know the truth. Can't you just tell us what happened?	Écoutez, ma petite dame. On veut juste la vérité. Vous ne pouvez pas simplement nous dire ce qui s'est passé ?	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+0	Diana	I'd love to tell you, officer, but I'm afraid it's all classified.	J'adorerais, inspecteur, mais j'ai bien peur que ce soit top secret.	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+1	Diana	Top secret. My lips are sealed.	Secret défense. Mes lèvres sont scellées.	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+23	Lamont	*Groan*	*Soupir*	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+24	Lamont	Bailey, we've been at this for days... I'm not sure if I have it in me any more.	Bailey, ça fait des jours qu'on est dessus... Je ne sais pas si je vais tenir le coup.	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+17	Bailey	Diana, please. We're all just looking to wrap this up.	Diana, s'il vous plaît. On veut tous en finir avec cette affaire.	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+25	Lamont	Was it money? Vengeance? A burning hatred for the elderly?	C'était pour l'argent ? La vengeance ? Une aversion viscérale envers le troisième âge ?	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+2	Diana	The tragic death of Lady Unterwald wasn't my doing, in fact it made my mission terribly complicated.	La fin tragique de Lady Unterwald n'est pas de mon fait, au contraire, ça a terribly compliqué ma mission.	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+26	Lamont	Mission? What mission?	Mission ? Quelle mission ?	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+18	Bailey	We found you at the scene, Diana. But you weren't on the manifest.	On vous a trouvée sur place, Diana. Mais vous ne figurez pas sur la liste des passagers.	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+19	Bailey	There's no record of you ever boarding the train.	Il n'y a aucune trace de votre montée à bord.	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+3	Diana	Probably just a clerical error. I'm sure it happens all the time.	Certainement une simple erreur administrative. Ça arrive tout le temps, voyons.	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+27	Lamont	It's highly suspicious, you have to admit.	C'est extrêmement louche, vous en conviendrez.	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+20	Bailey	This is the sort of detail that could be very compelling to a jury.	C'est le genre de détail qui fait mouche auprès d'un jury.	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+5	Diana	Fine, I can tell you aren't going to stop asking. But it won't do you any good, you know!	D'accord, je vois bien que vous ne lâcherez pas l'affaire. Mais ça ne vous avancera à rien, je vous préviens !	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+21	Bailey	Start at the beginning.	Commencez par le début.	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveOpeningScene>d__48	MoveNext
+28	Lamont	Alright, so that explains how you got on the train. What happened next?	Très bien, voilà qui explique comment vous êtes montée à bord. Que s'est-il passé ensuite ?	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveFlashback>d__49	MoveNext
+6	Diana	I believe you're well aware of what happened next, detective.	Je crois que vous savez pertinemment ce qui s'est passé ensuite, inspecteur.	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveFlashback>d__49	MoveNext
+29	Lamont	Indulge us.	Faites-nous le plaisir de nous rafraîchir la mémoire.	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveFlashback>d__49	MoveNext
+7	Diana	*Sigh*	*Soupir*	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveFlashback>d__49	MoveNext
+8	Diana	Well, it all got a bit complicated.	Eh bien, les choses se sont un peu compliquées.	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveFlashback>d__49	MoveNext
+45	Diana	I stuck to my orders, and made contact with the informant. Or so I thought...	J'ai obéi aux ordres et pris contact avec l'informateur. Du moins, c'est ce que je croyais...	RoomInterrogation+<OnEnterRoomAfterFadeChapterFiveFlashback>d__49	MoveNext
