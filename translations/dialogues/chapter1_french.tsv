@@ -708,7 +708,7 @@ Id	Character	English	French	Class	Method
 312	Arthur	They're filled with nondescript types of brown liquid.	Elles sont remplies d'un liquide brunâtre non identifié.	RoomDiningCarriage+<OnLookAtPropGlassesActOne>d__66	MoveNext
 313	Arthur	I'm not sure who'd drink these willingly.	Je me demande bien qui boirait ça de son plein gré.	RoomDiningCarriage+<OnLookAtPropGlassesActOne>d__66	MoveNext
 0	Ron	They're an acquired taste.	C'est une saveur qui s'apprivoise.	RoomDiningCarriage+<OnLookAtPropGlassesActOne>d__66	MoveNext
-299	Arthur	Ladder hemstitch, mitered corners, 100% white linen.	Jour échelle, coins en onglet, 100 % pur lin blanc.	RoomDiningCarriage+<OnLookAtPropNapkinsActOne>d__70	MoveNext
+299	Arthur	Ladder hemstitch, mitered corners, 100% white linen.	Ourlet à jour échelle, coins en onglet, 100 % pur lin blanc.	RoomDiningCarriage+<OnLookAtPropNapkinsActOne>d__70	MoveNext
 300	Arthur	These are some high-end cocktail napkins!	Voilà des serviettes de cocktail de grand standing !	RoomDiningCarriage+<OnLookAtPropNapkinsActOne>d__70	MoveNext
 6	Bartender	You should expect nothing less on the Reuss Express.	On n'en attend pas moins à bord du Reuss Express.	RoomDiningCarriage+<OnLookAtPropNapkinsActOne>d__70	MoveNext
 301	Arthur	''Please wait to be seated.''	« Veuillez attendre qu'on vous place. »	RoomDiningCarriage+<OnLookAtPropSignActOne>d__78	MoveNext
