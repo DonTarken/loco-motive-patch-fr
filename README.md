@@ -1,43 +1,80 @@
-# Loco Motive — Patch de Traduction Française Intégrale (100%)
+# 🚂 Loco Motive — Patch de Traduction Française Intégrale (100 %)
 
-Ce projet a pour objectif la traduction intégrale en français du jeu d'aventure point-and-click **Loco Motive** (développé par *Robust Games* et édité par *Chucklefish*).
+[![Version](https://img.shields.io/badge/Version-v1.0.0-blue.svg)](https://github.com/DonTarken/loco-motive-patch-fr/releases)
+[![Statut](https://img.shields.io/badge/Traduction-100%25-brightgreen.svg)]()
+[![Plateformes](https://img.shields.io/badge/Plateformes-Windows%20%7C%20Steam%20Deck%20(Proton)-orange.svg)]()
+[![Compatibilité](https://img.shields.io/badge/Compatibilit%C3%A9-Steam%20%7C%20GOG-purple.svg)]()
 
----
-
-## 🚂 Présentation
-
-*Loco Motive* est un jeu d'enquête humoristique hommage aux classiques du point-and-click des années 90 et aux romans policiers à huis clos (Agatha Christie). N'ayant pas bénéficié d'une traduction officielle en français, ce projet propose :
-- Une **extraction exhaustive (100%)** de l'ensemble des textes du jeu (dialogues, options de dialogue, inventaire, descriptions d'objets, menus, indices).
-- Une **adaptation soignée de l'humour, des jeux de mots et du ton d'époque** des protagonistes (Arthur Ackerman, Herman Merman, Diana Osterhagen).
-- Un **patch technique non-destructif** garantissant la prise en charge complète des accents français (`é, è, ê, à, ç, œ, « »`) avec un temps de lecture adapté.
-- Un **installeur 1-clic** simple pour toutes les versions (GOG, Steam).
+Ce projet propose un patch de localisation intégrale en français pour le jeu d'aventure point-and-click **Loco Motive**, développé par *Robust Games* et édité par *Chucklefish*.
 
 ---
 
-## 📂 Structure du Répertoire
+## 🎯 Contenu du Patch
 
-- `tools/` : Scripts d'extraction, de parsing et de synchronisation des textes du jeu.
-- `translations/` : Fichiers sources de traduction (dialogues, interface, objets, glossaire).
-  - `translations/dialogues/` : Lignes de dialogue classées par chapitres / scènes / personnages.
-  - `translations/ui/` : Menus, options, astuces et tutoriels.
-  - `translations/items/` : Objets d'inventaire et descriptions de hotspots.
-  - `translations/glossary.json` : Glossaire terminologique et choix d'adaptation.
-- `patch/` : Code source et configuration du moteur d'injection.
-- `dist/` : Fichiers finaux prêts à l'installation pour les joueurs.
+* **100 % des textes traduits** : dialogues, cinématiques, choix de répliques, inventaire, indices, descriptions de survols d'objets (hotspots), objectifs de quêtes et interfaces.
+* **Localisation soignée pour le Point & Click** : adaptation respectueuse de l'humour britannique des années 1930, des calembours, des énigmes textuelles et des répliques sarcastiques des trois protagonistes (*Arthur Ackerman*, *Herman Merman*, *Diana Osterhagen*).
+* **Intégration directe dans les options du jeu** : le français apparaît nativement dans le menu *Paramètres > Langue du texte*, aux côtés de l'anglais et de l'allemand.
+* **Rechargement à chaud (Touche F5)** : possibilité de rafraîchir instantanément les fichiers de textes en plein jeu sans devoir relancer la partie.
 
 ---
 
-## 🛠️ Spécifications Techniques
+## 📥 Téléchargement
 
-- **Moteur :** Unity 2021.3 (Mono x64).
-- **Framework narratif :** PowerQuest (`PowerTools.Quest.SystemText`).
-- **Rendu typographique :** TextMeshPro (`QuestTextPro` / SDF).
-- **Format de travail :** JSON & TSV bilingues (Anglais original / Français adapté / Contexte).
+Rendez-vous dans la section des versions publiées :  
+👉 **[Télécharger le dernier patch (Fichier ZIP)](https://github.com/DonTarken/loco-motive-patch-fr/releases/latest)**
 
 ---
 
-## ⚖️ Licence & Remerciements
+## 🛠️ Tutoriel d'Installation
 
-- Projet communautaire bénévole à but non lucratif.
-- Merci aux pionniers de la communauté de traduction francophone des jeux d'aventure (*Planète Aventure*).
-- *Loco Motive* est la propriété exclusive de Robust Games et Chucklefish.
+### 🖥️ Sur Windows (Steam ou GOG)
+
+1. **Téléchargez** l'archive `LocoMotive_Patch_FR_vX.X.X.zip` depuis le lien ci-dessus.
+2. **Accédez au dossier de votre jeu** :
+   * **Steam** : Dans votre bibliothèque, faites un clic droit sur *Loco Motive* > *Gérer* > *Parcourir les fichiers locaux*.
+   * **GOG Galaxy** : Clic droit sur le jeu > *Gérer l'installation* > *Afficher le dossier*.
+3. **Extrayez tout le contenu du fichier ZIP** directement dans ce dossier (au même niveau que le fichier exécutable `Loco Motive.exe`).  
+   *(Vous devez y voir apparaître les fichiers `winhttp.dll`, `doorstop_config.ini` et le dossier `BepInEx`).*
+4. **Lancez le jeu normalement**, rendez-vous dans **Paramètres > Langue du texte**, puis sélectionnez **Français**.
+
+---
+
+### 🎮 Sur Steam Deck / Linux (Proton)
+
+1. Suivez les mêmes étapes d'extraction dans le dossier du jeu en mode Bureau.
+2. Dans Steam, ouvrez les **Propriétés** de *Loco Motive*.
+3. Dans la section **Général > Options de lancement**, copiez-collez la commande suivante :
+   ```bash
+   WINEDLLOVERRIDES="winhttp=n,b" %command%
+   ```
+4. Lancez le jeu et activez le français dans les options.
+
+---
+
+## 🗑️ Désinstallation
+
+Le patch est totalement non-destructif et ne modifie aucun fichier original du jeu.  
+Pour le désinstaller, supprimez simplement du dossier du jeu :
+* Le dossier `BepInEx`
+* Le fichier `winhttp.dll`
+* Le fichier `doorstop_config.ini`
+
+---
+
+## 💬 Retours, signalement de coquilles et bugs
+
+Votre aide est précieuse pour peaufiner la traduction ! Si vous repérez :
+* Un texte manquant ou resté en anglais
+* Une faute d'orthographe ou une maladresse de formulation
+* Une incohérence dans une énigme ou un nom d'objet
+* Un problème technique
+
+👉 **[Ouvrir un ticket sur GitHub Issues](https://github.com/DonTarken/loco-motive-patch-fr/issues/new/choose)**  
+*(Des formulaires guidés sont disponibles pour vous faciliter la tâche, avec possibilité de joindre une capture d'écran).*
+
+---
+
+## ⚖️ Mentions légales
+
+* Ce patch est un projet bénévole réalisé par des passionnés pour la communauté francophone.
+* *Loco Motive* est une marque et une œuvre développée par **Robust Games** et publiée par **Chucklefish**. Tous droits réservés.
