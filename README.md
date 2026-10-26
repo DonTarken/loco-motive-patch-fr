@@ -11,7 +11,15 @@ Ce projet propose un patch de localisation intégrale en français pour le jeu d
 > [!IMPORTANT]
 > **📢 Projet en cours — Bêta Publique & Playtest Communautaire**  
 > L'intégralité des textes du jeu (100 % des dialogues, interactions, menus et inventaire) a été traduite et le jeu est jouable du début à la fin en français.  
-> Le projet est actuellement en **phase de relecture et de playtest en conditions réelles**. Vos retours sont essentiels pour peaufiner les répliques, corriger les éventuelles coquilles ou ajuster les tournures d'humour !
+> Le projet est actuellement en **phase de relecture et de playtest actif en conditions réelles**.
+> 
+> **⚠️ Anomalies éventuelles à surveiller pendant votre partie :**
+> En raison de la complexité du moteur de jeu et des réutilisations d'identifiants internes, vous pourriez occasionnellement rencontrer :
+> * **Des dialogues décalés ou hors sujet** : Une réplique qui ne semble pas correspondre à la situation ou au personnage qui parle.
+> * **Des interactions ou objets résiduels en anglais** : Une action au survol de la souris, une option de réponse ou un objet d'inventaire qui n'aurait pas été traduit.
+> * **Des coquilles ou des tournures perfectibles** : Fautes d'orthographe, lourdeurs de style ou calembours à affiner.
+>
+> 👉 **Si vous repérez l'une de ces anomalies :** Prenez une simple capture d'écran (F12 sur Steam ou Impr. Écran) et [ouvrez un ticket sur GitHub](https://github.com/DonTarken/loco-motive-patch-fr/issues/new/choose). Nous pourrons corriger la ligne immédiatement !
 
 ---
 
