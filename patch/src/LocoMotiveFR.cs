@@ -10,7 +10,7 @@ using TMPro;
 
 namespace LocoMotiveFR
 {
-    [BepInPlugin("org.dontarken.locomotive.fr", "Loco Motive Patch FR", "1.5.0")]
+    [BepInPlugin("org.dontarken.locomotive.fr", "Loco Motive Patch FR", "1.6.0")]
     public class LocoMotiveFRPlugin : BaseUnityPlugin
     {
         public static LocoMotiveFRPlugin Instance;
@@ -115,6 +115,18 @@ namespace LocoMotiveFR
                 typeof(Patch_TooltipSlot_Show), "Prefix", null);
 
             // Hooks pour les descriptions d'objets, éléments interactifs et personnages
+            PatchMethod(harmony, typeof(PowerTools.Quest.PowerQuest), "GetMouseOverInteractDescription",
+                Type.EmptyTypes,
+                typeof(Patch_PowerQuest_GetMouseOverInteractDescription), null, "Postfix");
+
+            PatchMethod(harmony, typeof(PowerTools.Quest.PowerQuest), "GetMouseOverLookDescription",
+                Type.EmptyTypes,
+                typeof(Patch_PowerQuest_GetMouseOverLookDescription), null, "Postfix");
+
+            PatchMethod(harmony, typeof(PowerTools.Quest.PowerQuest), "GetMouseOverDescription",
+                Type.EmptyTypes,
+                typeof(Patch_PowerQuest_GetMouseOverDescription), null, "Postfix");
+
             PatchMethod(harmony, typeof(PowerTools.Quest.Prop), "get_InteractDescription",
                 Type.EmptyTypes,
                 typeof(Patch_Prop_get_InteractDescription), null, "Postfix");
@@ -126,6 +138,14 @@ namespace LocoMotiveFR
             PatchMethod(harmony, typeof(PowerTools.Quest.Prop), "get_Description",
                 Type.EmptyTypes,
                 typeof(Patch_Prop_get_Description), null, "Postfix");
+
+            PatchMethod(harmony, typeof(PowerTools.Quest.Hotspot), "get_InteractDescription",
+                Type.EmptyTypes,
+                typeof(Patch_Hotspot_get_InteractDescription), null, "Postfix");
+
+            PatchMethod(harmony, typeof(PowerTools.Quest.Hotspot), "get_LookDescription",
+                Type.EmptyTypes,
+                typeof(Patch_Hotspot_get_LookDescription), null, "Postfix");
 
             PatchMethod(harmony, typeof(PowerTools.Quest.Hotspot), "get_Description",
                 Type.EmptyTypes,
@@ -407,6 +427,40 @@ namespace LocoMotiveFR
                 }
             }
 
+            // 6. Tolérance pour les articles ("the", "a", "an")
+            if (trimmed.Contains(" the "))
+            {
+                string withoutThe = trimmed.Replace(" the ", " ");
+                if (TextByEnglish.TryGetValue(withoutThe, out fr) && !string.IsNullOrEmpty(fr))
+                {
+                    return PreserveSpaces(text, fr);
+                }
+            }
+            if (trimmed.StartsWith("the ", StringComparison.OrdinalIgnoreCase))
+            {
+                string withoutThe = trimmed.Substring(4);
+                if (TextByEnglish.TryGetValue(withoutThe, out fr) && !string.IsNullOrEmpty(fr))
+                {
+                    return PreserveSpaces(text, fr);
+                }
+            }
+            if (trimmed.StartsWith("a ", StringComparison.OrdinalIgnoreCase))
+            {
+                string withoutA = trimmed.Substring(2);
+                if (TextByEnglish.TryGetValue(withoutA, out fr) && !string.IsNullOrEmpty(fr))
+                {
+                    return PreserveSpaces(text, fr);
+                }
+            }
+            if (trimmed.StartsWith("an ", StringComparison.OrdinalIgnoreCase))
+            {
+                string withoutAn = trimmed.Substring(3);
+                if (TextByEnglish.TryGetValue(withoutAn, out fr) && !string.IsNullOrEmpty(fr))
+                {
+                    return PreserveSpaces(text, fr);
+                }
+            }
+
             return input;
         }
 
@@ -524,10 +578,130 @@ namespace LocoMotiveFR
                     }
                     catch {}
                 }
+
+                // Injecter les traductions françaises directement dans m_strings et m_textOnlyStrings de SystemText
+                InjectFrenchTranslations(__instance);
             }
             catch (Exception ex)
             {
                 if (LocoMotiveFRPlugin.Log != null) LocoMotiveFRPlugin.Log.LogError("Erreur SystemText.Awake : " + ex.Message);
+            }
+        }
+
+        private static void InjectFrenchTranslations(PowerTools.Quest.SystemText sysText)
+        {
+            try
+            {
+                int frIndex = LocoMotiveFRPlugin.FrenchLanguageIndex;
+                int targetTransIndex = frIndex - 1; // Index de traduction dans TextData.m_translations
+                if (targetTransIndex < 0) return;
+
+                var fiStrings = AccessTools.Field(typeof(PowerTools.Quest.SystemText), "m_strings");
+                var list = fiStrings != null ? fiStrings.GetValue(sysText) as List<PowerTools.Quest.TextData> : null;
+                int injectedCount = 0;
+
+                string dumpPath = Path.Combine(LocoMotiveFRPlugin.TranslationDir, "all_engine_strings.tsv");
+                bool shouldDump = !File.Exists(dumpPath);
+                StreamWriter dumpWriter = null;
+                if (shouldDump)
+                {
+                    try
+                    {
+                        dumpWriter = new StreamWriter(dumpPath, false, Encoding.UTF8);
+                        dumpWriter.WriteLine("Id\tCharacter\tSourceFile\tSourceFunction\tEnglish\tGerman\tEnglishUS");
+                    }
+                    catch {}
+                }
+
+                if (list != null)
+                {
+                    foreach (var td in list)
+                    {
+                        if (td == null) continue;
+                        if (dumpWriter != null)
+                        {
+                            string de = (td.m_translations != null && td.m_translations.Length > 0) ? td.m_translations[0] : "";
+                            string us = (td.m_translations != null && td.m_translations.Length > 2) ? td.m_translations[2] : "";
+                            dumpWriter.WriteLine(string.Format("{0}\t{1}\t{2}\t{3}\t{4}\t{5}\t{6}",
+                                td.m_id, td.m_character, td.m_sourceFile, td.m_sourceFunction,
+                                td.m_string != null ? td.m_string.Replace("\n", " \\n ") : "",
+                                de != null ? de.Replace("\n", " \\n ") : "",
+                                us != null ? us.Replace("\n", " \\n ") : ""));
+                        }
+
+                        if (!string.IsNullOrEmpty(td.m_string))
+                        {
+                            string fr = LocoMotiveFRPlugin.TranslateString(td.m_string, td.m_character);
+                            if (fr != td.m_string)
+                            {
+                                EnsureTranslationSlot(td, targetTransIndex);
+                                td.m_translations[targetTransIndex] = fr;
+                                injectedCount++;
+                            }
+                        }
+                    }
+                }
+
+                var fiTextOnly = AccessTools.Field(typeof(PowerTools.Quest.SystemText), "m_textOnlyStrings");
+                var dict = fiTextOnly != null ? fiTextOnly.GetValue(sysText) as Dictionary<string, PowerTools.Quest.TextData> : null;
+                if (dict != null)
+                {
+                    foreach (var kvp in dict)
+                    {
+                        var td = kvp.Value;
+                        if (td == null) continue;
+                        if (dumpWriter != null)
+                        {
+                            string de = (td.m_translations != null && td.m_translations.Length > 0) ? td.m_translations[0] : "";
+                            string us = (td.m_translations != null && td.m_translations.Length > 2) ? td.m_translations[2] : "";
+                            dumpWriter.WriteLine(string.Format("{0}\t{1}\t{2}\t{3}\t{4}\t{5}\t{6}",
+                                td.m_id, td.m_character, td.m_sourceFile, td.m_sourceFunction,
+                                td.m_string != null ? td.m_string.Replace("\n", " \\n ") : "",
+                                de != null ? de.Replace("\n", " \\n ") : "",
+                                us != null ? us.Replace("\n", " \\n ") : ""));
+                        }
+
+                        if (!string.IsNullOrEmpty(td.m_string))
+                        {
+                            string fr = LocoMotiveFRPlugin.TranslateString(td.m_string, td.m_character);
+                            if (fr != td.m_string)
+                            {
+                                EnsureTranslationSlot(td, targetTransIndex);
+                                td.m_translations[targetTransIndex] = fr;
+                                injectedCount++;
+                            }
+                        }
+                    }
+                }
+
+                if (dumpWriter != null)
+                {
+                    dumpWriter.Dispose();
+                    if (LocoMotiveFRPlugin.Log != null) LocoMotiveFRPlugin.Log.LogInfo("-> Dump complet des textes du moteur enregistré dans : " + dumpPath);
+                }
+
+                if (LocoMotiveFRPlugin.Log != null)
+                {
+                    LocoMotiveFRPlugin.Log.LogInfo(string.Format("-> {0} traductions françaises injectées directement dans le cache TextData du moteur !", injectedCount));
+                }
+            }
+            catch (Exception ex)
+            {
+                if (LocoMotiveFRPlugin.Log != null) LocoMotiveFRPlugin.Log.LogError("Erreur InjectFrenchTranslations : " + ex.Message);
+            }
+        }
+
+        private static void EnsureTranslationSlot(PowerTools.Quest.TextData td, int targetIndex)
+        {
+            if (td.m_translations == null)
+            {
+                td.m_translations = new string[targetIndex + 1];
+            }
+            else if (td.m_translations.Length <= targetIndex)
+            {
+                var newArr = new string[targetIndex + 1];
+                Array.Copy(td.m_translations, newArr, td.m_translations.Length);
+                td.m_translations = newArr;
             }
         }
     }
@@ -767,6 +941,56 @@ namespace LocoMotiveFR
     }
 
     public static class Patch_Hotspot_get_Description
+    {
+        public static void Postfix(ref string __result)
+        {
+            if (string.IsNullOrEmpty(__result)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+            __result = LocoMotiveFRPlugin.TranslateString(__result);
+        }
+    }
+
+    public static class Patch_Hotspot_get_InteractDescription
+    {
+        public static void Postfix(ref string __result)
+        {
+            if (string.IsNullOrEmpty(__result)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+            __result = LocoMotiveFRPlugin.TranslateString(__result);
+        }
+    }
+
+    public static class Patch_Hotspot_get_LookDescription
+    {
+        public static void Postfix(ref string __result)
+        {
+            if (string.IsNullOrEmpty(__result)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+            __result = LocoMotiveFRPlugin.TranslateString(__result);
+        }
+    }
+
+    public static class Patch_PowerQuest_GetMouseOverInteractDescription
+    {
+        public static void Postfix(ref string __result)
+        {
+            if (string.IsNullOrEmpty(__result)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+            __result = LocoMotiveFRPlugin.TranslateString(__result);
+        }
+    }
+
+    public static class Patch_PowerQuest_GetMouseOverLookDescription
+    {
+        public static void Postfix(ref string __result)
+        {
+            if (string.IsNullOrEmpty(__result)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+            __result = LocoMotiveFRPlugin.TranslateString(__result);
+        }
+    }
+
+    public static class Patch_PowerQuest_GetMouseOverDescription
     {
         public static void Postfix(ref string __result)
         {

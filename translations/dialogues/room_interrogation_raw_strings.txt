@@ -1,0 +1,102 @@
+﻿ Li'
+&Li
+D #
+ D0
+Library/unity default resource5
+Finale Ligh
+" 2
+Door -
+N (1)
+Window Rim CharacterO
+Desk Dust Particl
+Opening Parametrick
+Bulb 
+EventSystem 
+  S
+PropCoatstand
+PropInteriorFloo
+PropUmbrellaHotspo
+PropPhone
+Border (8
+PropBook
+PropWallPhoto
+l Collider
+PropSuspectBoard=
+ /W
+Newspape 
+PropSuspectBoard
+Window Light 2D
+Border (4)x
+Door 
+PlayerOffset 
+Desk Point=
+oor Dust Particles
+U AX9
+ BZz
+ 0=)\
+ L-
+" A
+" B
+&BT
+&Fq
+&H_
+&9k<
+&T2$
+&}v0
+&*g
+&p$$
+&stl
+&hLH
+&VD
+&{W<
+&YjT
+&MR
+&v0`
+ /!
+S E
+&47 Inspect the lam
+&22 desk
+&35 It's full of trash, as I su
+5b&8 bin
+S2 Ugh
+&5 ashtray
+&27 FlipI
+ight switc
+&46 Is thi
+ng recording me3
+&41 Check ou:
+newspaper clipp
+&it
+&p+
+&Lg
+&$E$
+&,"
+&40 Read
+&24 Pick u
+ t*
+toppled coatrac
+&&9
+tlist of
+&17 evidence board
+2 This box i
+6 Rifle throughu
+&38 So close, and yet so far!'
+d1 keys
+23 'Borrow''
+&29 Enjoy
+&39 Look at
+&43
+6 troph<8
+5 Grab u2 
+t37 Gaze
+&34 Those
+ are my ticket to freedom
+&7-
+ 0O
+5 Maybe I could escap
+8 They sound distracted`>
+i1 door
+call for help}
+m3 phon
+"y 
+ default rI
