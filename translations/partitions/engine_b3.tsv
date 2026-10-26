@@ -1,0 +1,369 @@
+﻿English	German	SampleSourceFile	SampleSourceFunction
+Talk to the cashier	Mit der Kassiererin reden	Character- Cashier	Character - Primary
+Croupier	Croupier	Character- Croupier	Character - Display Name
+the croupier	den Croupier	Character- Croupier	Character - Shorthand
+Talk to the croupier	Mit dem Croupier reden	Character- Croupier	Character - Primary
+Slot Player	Automatenspieler	Character- Vince	Character - Display Name
+the slot player	den Automatenspieler	Character- Vince	Character - Shorthand
+Talk to the slot player	Mit dem Automatenspieler reden	Character- Vince	Character - Primary
+Publisher	Verleger	Character- PublisherFrank	Character - Display Name
+the publisher	der Verleger	Character- PublisherFrank	Character - Shorthand
+Talk to the publisher	Mit dem Verleger reden	Character- PublisherFrank	Character - Primary
+Aaagh, my eyes!	Aaagh, meine Augen!	Character- JianLiu	BackgroundShowdownBlindedEnter
+My one weakness!	Meine einzige Schwäche!	Character- JianLiu	BackgroundShowdownBlindedEnter
+That was a cheap shot, Mr Ackerman!	Das war ein mieser Trick, Herr Ackerman!	Character- JianLiu	BackgroundShowdownBlindedExit
+I'm so angry, I'm repeating myself!	Ich bin so wütend, dass ich mich wiederhole!	Character- JianLiu	BackgroundShowdownInsult
+Stop hiding, you spineless invertebrate!	Hör auf, dich zu verstecken, du rückgratloser Wirbelloser!	Character- JianLiu	BackgroundShowdownInsult
+Time's up, you clueless ape!	Die Zeit ist um, du ahnungsloser Affe!	Character- JianLiu	BackgroundShowdownInsult
+I'm going to riddle you with bullets, you whimpering simpleton!	Ich werde dich mit Kugeln durchlöchern, du wimmernder Einfaltspinsel!	Character- JianLiu	BackgroundShowdownInsult
+You wretched milquetoast!	Du erbärmlicher Angsthase!	Character- JianLiu	BackgroundShowdownInsult
+You wet blanket of a man!	Du Schlappschwanz von einem Mann!	Character- JianLiu	BackgroundShowdownInsult
+That was my favourite gun, you know!	Das war meine Lieblingswaffe, weißt du!	Character- JianLiu	BackgroundShowdownInsult
+Eat lead, you miserable cockroach!	Friss Blei, du erbärmliche Kakerlake!	Character- JianLiu	BackgroundShowdownInsult
+Bumbling buffoon!	Stümperhafter Possenreißer!	Character- JianLiu	BackgroundShowdownInsult
+You blustering rodent!	Du tobendes Nagetier!	Character- JianLiu	BackgroundShowdownInsult
+You threadbare juggler!	Du fadenscheiniger Gaukler!	Character- JianLiu	BackgroundShowdownInsult
+Gah! Hold still while I reload.	Gah! Halt still, während ich nachlade.	Character- JianLiu	BackgroundShowdownReload
+These bullets aren't cheap, you know!	Diese Kugeln sind nicht billig, weißt du!	Character- JianLiu	BackgroundShowdownReload
+Stop hiding and let me shoot you!	Hör auf, dich zu verstecken, und lass mich dich erschießen!	Character- JianLiu	BackgroundShowdownReload
+You're being very inconsiderate!	Du bist sehr rücksichtslos!	Character- JianLiu	BackgroundShowdownReload
+Hold on a second...	Warte mal kurz ...	Character- JianLiu	BackgroundShowdownReload
+Ugh, I'm out of bullets already!	Ugh, ich habe schon keine Kugeln mehr!	Character- JianLiu	BackgroundShowdownReload
+Wait right there! Don't you dare move an inch!	Warte hier! Wage es nicht, dich auch nur einen Zentimeter zu bewegen!	Character- JianLiu	BackgroundShowdownReload
+Come out, you coward!	Komm raus, du Feigling!	Character- JianLiu	BackgroundShowdownReload
+Talk to Mr Liu	Mit Herrn Liu reden	Character- JianLiu	Character - Primary
+Leader	Anführer	Character- HandshakeLeader	Character - Display Name
+the hooded figure	die vermummte Gestalt	Character- HandshakeLeader	Character - Shorthand
+Talk to the hooded figure	Mit der vermummten Gestalt reden	Character- HandshakeLeader	Character - Primary
+Brother Brian	Bruder Brian	Character- BrotherBrian	OnInteractActTwoFirstMeeting
+Talk to Brother Brian	Mit Bruder Brian reden	Character- BrotherBrian	OnInteractActTwoFirstMeeting
+Brian	Brian	Character- BrotherBrian	Character - Display Name
+Talk to the club member	Mit dem Klubmitglied reden	Character- BrotherBrian	Character - Primary
+Sister Gretchen	Schwester Gretchen	Character- SisterGretchen	OnInteractActOne
+Talk to Sister Gretchen	Mit Schwester Gretchen reden	Character- SisterGretchen	OnInteractActOne
+Gretchen	Gretchen	Character- SisterGretchen	Character - Display Name
+Jared	Jared	Character- BrotherJared	Character - Display Name
+Manager	Inspizientin	Character- StageManager	Character - Display Name
+the stage manager	der Inspizientin	Character- StageManager	Character - Shorthand
+Talk to the stage manager	Mit der Inspizientin reden	Character- StageManager	Character - Primary
+Chiselton	Chiselton	Character- Chiselton	Character - Display Name
+Dirk Chiselton	Dirk Chiselton	Character- Chiselton	Character - Shorthand
+Talk to Dirk Chiselton	Mit Dirk Chiselton reden	Character- Chiselton	Character - Primary
+April	April	Character- April	Character - Display Name
+Talk to April	Mit April reden	Character- April	Character - Primary
+Kid	Mädchen	Character- Kid	Character - Display Name
+the shoeshine kid	dem Schuhputzmädchen	Character- Kid	Character - Shorthand
+Talk to the kid	Mit dem Mädchen reden	Character- Kid	Character - Primary
+Mr Stamp	Herr Stamp	Character- PhilatelyStamp	Character - Display Name
+Talk to Mr Stamp	Mit Herrn Stamp reden	Character- PhilatelyStamp	Character - Primary
+Quartermaster	Quartiermeisterin	Character- Quartermaster	Character - Display Name
+the quartermaster	der Quartiermeisterin	Character- Quartermaster	Character - Shorthand
+Talk to the Quartermaster	Mit der Quartiermeisterin reden	Character- Quartermaster	Character - Primary
+Executor	Testamentsvollstrecker	Character- Executor	Character - Display Name
+the executor	dem Testamentsvollstrecker	Character- Executor	Character - Shorthand
+desk fan	Tischventilator	Item- Fan	Item Tooltip - Shorthand
+Grab	Nehmen	Item- Fan	Item Tooltip - Primary
+Examine the desk fan	Den Tischventilator untersuchen	Item- Fan	Item Tooltip - Secondary
+Read today's newspaper	Die Zeitung von heute lesen	Item- Newspaper	Item Tooltip - Secondary
+crude air funnel	behelfsmäßiger Trichter	Item- FunnelFan	Item Tooltip - Shorthand
+Admire crudely constructed air funnel	Den behelfsmäßigen Trichter bewundern	Item- FunnelFan	Item Tooltip - Secondary
+It's a classic umbrella	Es ist ein klassischer Regenschirm	Item- Umbrella	Item Tooltip - Secondary
+Pore over Lady Unterwald's letter	Den Brief von Lady Unterwald studieren	Item- LetterToArthur	Item Tooltip - Secondary
+love note	Liebesbrief	Item- PerfumedLoveNote	Item Tooltip - Shorthand
+Reluctantly inspect love note	Zögernd den Liebesbrief inspizieren	Item- PerfumedLoveNote	Item Tooltip - Secondary
+Don's key	Dons Schlüssel	Item- DonsRoomKey	Item Tooltip - Shorthand
+Examine Don's room keys	Dons Zimmerschlüssel untersuchen	Item- DonsRoomKey	Item Tooltip - Secondary
+Examine mysterious napkin	Die geheimnisvolle Serviette untersuchen	Item- MysteriousNapkin	Item Tooltip - Secondary
+ear trumpet	Ohrtrompete	Item- HearingHorn	Item Tooltip - Shorthand
+Stare in horror at the ear trumpet	Entsetzt auf die Ohrtrompete starren	Item- HearingHorn	Item Tooltip - Secondary
+wire hanger	Drahtbügel	Item- MetalHanger	Item Tooltip - Shorthand
+Examine wire hanger	Drahtbügel untersuchen	Item- MetalHanger	Item Tooltip - Secondary
+It's the twisted remains of a hanger	Es sind die verdrehten Überreste eines Kleiderbügels	Item- BrokenHanger	Item Tooltip - Secondary
+Attempt to decipher the records	Versuchen, die Aufzeichnungen zu entziffern	Item- AccountingRecords	Item Tooltip - Secondary
+cup of coffee	Tasse Kaffee	Item- Coffee	Item Tooltip - Shorthand
+Look at the cup of coffee	Die Tasse Kaffee ansehen	Item- Coffee	Item Tooltip - Secondary
+Examine the huge magnet	Den riesigen Magneten untersuchen	Item- Magnet	Item Tooltip - Secondary
+Inspect the stack of casino chips	Den Stapel Casino-Chips inspizieren	Item- CasinoChips	Item Tooltip - Secondary
+pocket recorder	Taschenrekorder	Item- RecordingDevice	Item Tooltip - Shorthand
+Inspect pocket recorder	Taschenrekorder inspizieren	Item- RecordingDevice	Item Tooltip - Secondary
+Bergmann recording	Bergmann-Aufnahme	Item- BergmannRecording	Item Tooltip - Shorthand
+Listen to Bergmann's recording	Die Aufnahme von Bergmann anhören	Item- BergmannRecording	Item Tooltip - Secondary
+empty recorder	leerer Rekorder	Item- EmptyRecorder	Item Tooltip - Shorthand
+Look inside the recording device	Ins Innere des Aufnahmegeräts schauen	Item- EmptyRecorder	Item Tooltip - Secondary
+Examine magnetic ball	Magnetkugel untersuchen	Item- MagneticBall	Item Tooltip - Secondary
+sketches	Skizzen	Item- ArtistSketches	Item Tooltip - Shorthand
+Examine sketches	Skizzen untersuchen	Item- ArtistSketches	Item Tooltip - Secondary
+Inspect the corking device	Das Korkgerät inspizieren	Item- CorkingDevice	Item Tooltip - Secondary
+Sniff the petal leaf	An den Blütenblättern schnuppern	Item- PetalLeaf	Item Tooltip - Secondary
+Bud-Lite	Bud-Lite	Item- BudLite	Item Tooltip - Shorthand
+Examine Bud-Lite	Bud-Lite untersuchen	Item- BudLite	Item Tooltip - Secondary
+Read mouthwash label	Etikett der Mundspülung lesen	Item- Mouthwash	Item Tooltip - Secondary
+corked hearing horn	verkorktes Hörrohr	Item- CorkedHorn	Item Tooltip - Shorthand
+Inspect the corked hearing horn	Das verkorkte Hörrohr inspizieren	Item- CorkedHorn	Item Tooltip - Secondary
+Rosebud	Rosebud	Item- Rosebud	Item Tooltip - Shorthand
+Drink the Rosebud	Den Rosebud trinken	Item- Rosebud	Item Tooltip - Secondary
+storage key	Lagerschlüssel	Item- LuggageStorageKey	Item Tooltip - Shorthand
+Examine storage key	Lagerschlüssel untersuchen	Item- LuggageStorageKey	Item Tooltip - Secondary
+Examine briefcase	Aktentasche untersuchen	Item- MedicalBriefcase	Item Tooltip - Secondary
+Examine medical records	Die Krankenakten untersuchen	Item- MedicalRecords	Item Tooltip - Secondary
+Examine block of cheese	Den Käseblock untersuchen	Item- BlockOfCheese	Item Tooltip - Secondary
+Examine oven gloves	Ofenhandschuhe untersuchen	Item- OvenGloves	Item Tooltip - Secondary
+Examine mouse	Maus untersuchen	Item- Mouse	Item Tooltip - Secondary
+Herman's key	Hermanns Schlüssel	Item- HermanRoomKey	Item Tooltip - Shorthand
+Examine Herman's key	Hermanns Schlüssel untersuchen	Item- HermanRoomKey	Item Tooltip - Secondary
+lightly toasted note	leicht gerösteter Brief	Item- SecretNote	Item Tooltip - Shorthand
+Examine lightly toasted note	Den leicht gerösteten Brief untersuchen	Item- SecretNote	Item Tooltip - Secondary
+Examine wire reel	Spule untersuchen	Item- WireReel	Item Tooltip - Secondary
+recording	Aufnahme	Item- UnterwaldRecording	Item Tooltip - Shorthand
+Examine Lady Unterwald's voice recording	Lady Unterwalds Sprachaufnahme untersuchen	Item- UnterwaldRecording	Item Tooltip - Secondary
+Ponder Lady Unterwald's cane	Über Lady Unterwalds Gehstock nachdenken	Item- WalkingCane	Item Tooltip - Secondary
+the will	das Testament	Item- WillOfLadyUnterwald	Item Tooltip - Shorthand
+Examine the will & testament of Lady Unterwald	Das Testament von Lady Unterwald untersuchen	Item- WillOfLadyUnterwald	Item Tooltip - Secondary
+Examine bag of cash	Geldbeutel untersuchen	Item- BagOfCash	Item Tooltip - Secondary
+Look at the wax seal	Das Wachssiegel ansehen	Item- WaxSeal	Item Tooltip - Secondary
+Look at the lemon	Die Zitrone ansehen	Item- Lemon	Item Tooltip - Secondary
+junior detective badge	Junior-Detektiv-Abzeichen	Item- ToyDetectiveBadge	Item Tooltip - Shorthand
+Examine junior detective badge	Das Junior-Detektiv-Abzeichen untersuchen	Item- ToyDetectiveBadge	Item Tooltip - Secondary
+band set list	Band-Setliste	Item- SetList	Item Tooltip - Shorthand
+Examine band set list	Die Band-Setliste untersuchen	Item- SetList	Item Tooltip - Secondary
+Examine the boots	Die Stiefel untersuchen	Item- Boots	Item Tooltip - Secondary
+Examine the hand idol	Den Handgötzen untersuchen	Item- HandIdol	Item Tooltip - Secondary
+Examine the hand cream	Die Handcreme untersuchen	Item- HandCream	Item Tooltip - Secondary
+Examine the butter	Die Butter untersuchen	Item- Butter	Item Tooltip - Secondary
+suit	Anzug	Item- BlueSuit	Item Tooltip - Shorthand
+Examine the suit	Den Anzug untersuchen	Item- BlueSuit	Item Tooltip - Secondary
+Look at the business card	Die Visitenkarte ansehen	Item- BusinessCard	Item Tooltip - Secondary
+Look at the cup of paste	Den Becher mit Paste ansehen	Item- CupofPaste	Item Tooltip - Secondary
+Look at the filled cup	Den gefüllten Becher ansehen	Item- FilledCup	Item Tooltip - Secondary
+toy lockpick	Spielzeugdietrich	Item- Lockpick	Item Tooltip - Shorthand
+Look at the toy lockpick	Den Spielzeugdietrich ansehen	Item- Lockpick	Item Tooltip - Secondary
+Look at the magnifying glass	Die Lupe ansehen	Item- MagnifyingGlass	Item Tooltip - Secondary
+packing popcorn	Packpopcorn	Item- PackingPopcorn	Item Tooltip - Shorthand
+Look at the packing popcorn	Das Packpopcorn ansehen	Item- PackingPopcorn	Item Tooltip - Secondary
+Look at the paper cup	Den Pappbecher ansehen	Item- PaperCup	Item Tooltip - Secondary
+Look at the sawdust	Das Sägemehl ansehen	Item- Sawdust	Item Tooltip - Secondary
+Look at the cup of sawdust	Den Becher Sägemehl ansehen	Item- SawdustCup	Item Tooltip - Secondary
+pen	Stift	Item- Pen	Item Tooltip - Shorthand
+Look at the pen	Den Stift ansehen	Item- Pen	Item Tooltip - Secondary
+Look at the stapler	Den Hefter ansehen	Item- Stapler	Item Tooltip - Secondary
+Look at the letter opener	Den Brieföffner ansehen	Item- LetterOpener	Item Tooltip - Secondary
+Look at the adventure manuscript	Das Abenteuer-Manuskript ansehen	Item- AdventureManuscript	Item Tooltip - Secondary
+Look at the romance manuscript	Das romantische Manuskript ansehen	Item- RomanceManuscript	Item Tooltip - Secondary
+Chiselton's manuscript	Chiseltons Manuskript	Item- ActionManuscript	Item Tooltip - Shorthand
+Look at Chiselton's manuscript	Chiseltons Manuskript ansehen	Item- ActionManuscript	Item Tooltip - Secondary
+Look at the package	Das Paket ansehen	Item- Package	Item Tooltip - Secondary
+Squeeze the prototype doll	Die Prototyp-Puppe drücken	Item- PrototypeDoll	Item Tooltip - Secondary
+torn doll	zerfetzte Puppe	Item- OpenedDoll	Item Tooltip - Shorthand
+Look at the torn doll	Die zerfetzte Puppe ansehen	Item- OpenedDoll	Item Tooltip - Secondary
+Look at the habanero pepper	Den Habanero-Chili ansehen	Item- Habanero	Item Tooltip - Secondary
+Look at the pearl necklace	Die Perlenkette ansehen	Item- PearlNecklace	Item Tooltip - Secondary
+forged entry list	gefälschte Gästeliste	Item- ForgedEntryList	Item Tooltip - Shorthand
+Look at the forged entry list	Die gefälschte Gästeliste ansehen	Item- ForgedEntryList	Item Tooltip - Secondary
+Look at the plunger	Die Saugglocke ansehen	Item- KitchenPlunger	Item Tooltip - Secondary
+Look at the boots	Die Stiefel ansehen	Item- KitchenBoots	Item Tooltip - Secondary
+Look at the suction boots	Die Saugstiefel ansehen	Item- SuctionBoots	Item Tooltip - Secondary
+photograph	Foto	Item- DianaPhoto	Item Tooltip - Shorthand
+Look at the photograph	Das Foto ansehen	Item- DianaPhoto	Item Tooltip - Secondary
+Read the Rosebud recipe	Das Rosebud-Rezept lesen	Item- RosebudRecipe	Item Tooltip - Secondary
+Look at the rubber tubing	Den Gummischlauch ansehen	Item- RubberTubing	Item Tooltip - Secondary
+empty fuel tank	leerer Benzintank	Item- EmptyFuelCanister	Item Tooltip - Shorthand
+Look at the empty fuel tank	Den leeren Benzintank ansehen	Item- EmptyFuelCanister	Item Tooltip - Secondary
+filled fuel tank	gefüllter Benzintank	Item- FilledFuelCanister	Item Tooltip - Shorthand
+Look at the filled fuel tank	Den gefüllten Benzintank ansehen	Item- FilledFuelCanister	Item Tooltip - Secondary
+tube container	Rohrbehälter	Item- EmptyCanister	Item Tooltip - Shorthand
+Look at the tube container	Den Rohrbehälter ansehen	Item- EmptyCanister	Item Tooltip - Secondary
+gadget bag	Gadget-Tasche	Item- GadgetGrabBag	Item Tooltip - Shorthand
+Open the gadget bag	Die Gadget-Tasche öffnen	Item- GadgetGrabBag	Item Tooltip - Secondary
+Take an incendiary pencil	Einen Brandstift nehmen	Item- IncendiaryPencils	Item Tooltip - Secondary
+Look at the deactivated truth serum	Das deaktivierte Wahrheitsserum ansehen	Item- DeactivatedTruthSerum	Item Tooltip - Secondary
+Look at the incendiary fuel tank	Den Brandstofftank ansehen	Item- IncendiaryFuelTank	Item Tooltip - Secondary
+lump of coal	Kohlenklumpen	Item- Coal	Item Tooltip - Shorthand
+Look at the lump of coal	Den Kohlenklumpen ansehen	Item- Coal	Item Tooltip - Secondary
+heavy chains	schwere Ketten	Item- Chains	Item Tooltip - Shorthand
+Look at the heavy chains	Die schweren Ketten ansehen	Item- Chains	Item Tooltip - Secondary
+shackle key	Fesselschlüssel	Item- AnkletKey	Item Tooltip - Shorthand
+Look at the shackle key	Den Fesselschlüssel ansehen	Item- AnkletKey	Item Tooltip - Secondary
+rusty metal pole	rostige Metallstange	Item- RustyPole	Item Tooltip - Shorthand
+Look at the rusty metal pole	Die rostige Metallstange ansehen	Item- RustyPole	Item Tooltip - Secondary
+suction cup	Saugnapf	Item- PlungerCup	Item Tooltip - Shorthand
+Look at the suction cup	Den Saugnapf ansehen	Item- PlungerCup	Item Tooltip - Secondary
+Look at the makeshift plunger	Die Behelfssaugglocke ansehen	Item- MakeshiftPlunger	Item Tooltip - Secondary
+Look at the melted wax	Das geschmolzene Wachs ansehen	Item- MeltedWaxBlob	Item Tooltip - Secondary
+resolidified wax	wiedererstarrtes Wachs	Item- HardenedWaxBlob	Item Tooltip - Shorthand
+Look at the resolidified wax	Das wiedererstarrte Wachs ansehen	Item- HardenedWaxBlob	Item Tooltip - Secondary
+Look at the wax imprint	Den Wachsabdruck ansehen	Item- WaxImprint	Item Tooltip - Secondary
+Listen to the recording	Die Aufnahme anhören	Item- PhonographRecording	Item Tooltip - Secondary
+Look at the gramophone record	Die Grammofonplatte ansehen	Item- GramophoneRecord	Item Tooltip - Secondary
+syringe	Spritze	Item- Antidote	Item Tooltip - Shorthand
+Look at the syringe	Die Spritze ansehen	Item- Antidote	Item Tooltip - Secondary
+incendiary pencil	Brandstift	Item- Pencil	Item Tooltip - Shorthand
+Look at the incendiary pencil	Den Brandstift ansehen	Item- Pencil	Item Tooltip - Secondary
+Look at the gunpowder	Das Schießpulver ansehen	Item- Gunpowder	Item Tooltip - Secondary
+sealed letter	versiegelter Brief	Item- LadyULetter	Item Tooltip - Shorthand
+Look at the sealed letter	Den versiegelten Brief ansehen	Item- LadyULetter	Item Tooltip - Secondary
+Look at the napkin	Die Serviette ansehen	Item- Napkin	Item Tooltip - Secondary
+bottle of surgical spirit	Flasche Wundbenzin	Item- SurgicalSpirit	Item Tooltip - Shorthand
+Look at the bottle of surgical spirit	Die Flasche Wundbenzin ansehen	Item- SurgicalSpirit	Item Tooltip - Secondary
+spirit stained napkin	alkoholbefleckte Serviette	Item- SurgicalSpiritNapkin	Item Tooltip - Shorthand
+Look at the spirit stained napkin	Die alkoholbefleckte Serviette ansehen	Item- SurgicalSpiritNapkin	Item Tooltip - Secondary
+fruity mocktail	fruchtiger Mocktail	Item- Mocktail	Item Tooltip - Shorthand
+Look at the fruity mocktail	Den fruchtigen Mocktail ansehen	Item- Mocktail	Item Tooltip - Secondary
+Don's poetry journal	Dons Poesiealbum	Item- PoetryBook	Item Tooltip - Shorthand
+Grimace at Don's poetry journal	Beim Anblick von Dons Poesiealbum Gesicht verziehen	Item- PoetryBook	Item Tooltip - Secondary
+Dr Phogg’s Guide to Invis-Ability	Dr. Schleihers Leitfaden zur Unsichtbarkeit	Item- InvisibleBook	Item Tooltip - Shorthand
+Peruse Dr Phogg’s Guide to Invis-Ability	Dr. Schleihers Leitfaden zur Unsichtbarkeit lesen	Item- InvisibleBook	Item Tooltip - Secondary
+Inspect the detective badge	Das Detektivabzeichen inspizieren	Item- DetectiveBadge	Item Tooltip - Secondary
+cover page	Deckblatt	Item- ChiseltonCover	Item Tooltip - Shorthand
+Look at the cover page	Das Deckblatt ansehen	Item- ChiseltonCover	Item Tooltip - Secondary
+fake chiselton novel	gefälschter Chiselton-Roman	Item- FakeNovel	Item Tooltip - Shorthand
+Read the fake chiselton novel	Den gefälschten Chiselton-Roman lesen	Item- FakeNovel	Item Tooltip - Secondary
+Look at the slippery mixture	Die glitschige Mischung ansehen	Item- SlipperyMixture	Item Tooltip - Secondary
+spicy soup	scharfe Suppe	Item- SoupCup	Item Tooltip - Shorthand
+Inspect the spicy soup	Die scharfe Suppe inspizieren	Item- SoupCup	Item Tooltip - Secondary
+Examine the knife	Das Messer untersuchen	Item- Knife	Item Tooltip - Secondary
+Examine the slippery knife	Das glitschige Messer untersuchen	Item- SlipperyKnife	Item Tooltip - Secondary
+Let's get back on track here, shall we?	Kommen wir wieder zur Sache, ja?	Dialog- LamontQuestioning	CheckLamontLeaveDesk
+Alright, that's enough for now.	In Ordnung, das reicht für den Moment.	Dialog- TalkToHirsch	Dialog Option
+Do I have to spank you both?	Muss ich euch beiden den Hintern versohlen?	Dialog- TalkToTwins	Option14
+I'm leaving now.	Ich werde jetzt gehen.	Dialog- TalkToGuard	Dialog Option
+It looks like I'll be pitching directly for the time being.	Es sieht so aus, als müsste ich vorerst direkt pitchen.	Dialog- TalkToPublisherFrank	Dialog Option
+My Love is on the Line	My Love is on the Line.	Dialog- StageManagerQuestion2	Dialog Option
+Freight Train Blues	Freight Train Blues.	Dialog- StageManagerQuestion2	Dialog Option
+Does your guide book cover revealing hidden messages?	Steht in deinem Leitfaden etwas darüber, wie man versteckte Botschaften aufdeckt?	Dialog- TalkToBrotherJaredActOne	Dialog Option
+I have some questions about the missing hand idol	Ich habe ein paar Fragen zu dem fehlenden Handgötzen.	Dialog- TalkToSisterGretchenActTwo	Dialog Option
+Aren't you worried about Mr. Liu?	Machst du dir keine Sorgen um Herrn Liu?	Dialog- TalkToHandshakeLeaderActTwo	Dialog Option
+'Keep Calm And Carry On''	„Aufstehen, Krone richten, weitermachen“?	Dialog- DescribeIdolEngraving	Dialog Option
+'Dance Like Nobody's Watching''	„Lebe jeden Tag, als wäre es dein letzter“?	Dialog- DescribeIdolEngraving	Dialog Option
+'Live, Laugh, Love''?	„Lebe, liebe, lache“?	Dialog- DescribeIdolEngraving	Dialog Option
+I have to go now	Ich muss jetzt gehen.	Dialog- TalkToDonServices	Dialog Option
+I thought we'd bonded over our shared love of infrastructure!	Ich dachte, wir hätten durch unsere gemeinsame Liebe zur Infrastruktur eine Verbindung aufgebaut!	Dialog- TalkToGunter	Dialog Option
+You've read Herman Merman & The Squirming Chairman?	Du hast Hermann Mermann im verflixten Zauberbann gelesen?	Dialog- TalkToHirschAboutCases	Dialog Option
+Surely not Herman Merman & The Sermon of Vermin?	Sicherlich nicht Hermann Mermann, der manchmal mehr kann?	Dialog- TalkToHirschAboutCases	Dialog Option
+Even Herman Merman & The Murmuring German?	Auch Hermann Mermann und der plappernde Fährmann?	Dialog- TalkToHirschAboutCases	Dialog Option
+The Order of Idle Hands? What is this all about?	Der Orden der müßigen Hände? Was hat es damit auf sich?	Dialog- TalkToHirschChapterFour	Dialog Option
+There's no set-up! The estate attorney, he's your man.	Es ist keine Hinterlist! Der Nachlassverwalter ist dein Mann.	Dialog- AmbushedByDiana	Dialog Option
+I was instructed to deliver the suit, that's all I know!	Ich wurde angewiesen, den Anzug abzuliefern, mehr weiß ich nicht!	Dialog- AmbushedByDiana	Dialog Option
+This kind of talk is only going to spook your informant!	Diese Art von Gerede wird deinen Informanten nur verschrecken!	Dialog- AmbushedByDiana	Dialog Option
+Your informant, I'm afraid they're dead...	Ich fürchte, dein Informant ist tot ...	Dialog- AmbushedByDiana	Dialog Option
+Are you sure you can't accept this note?	Bist du sicher, dass du diesen Brief nicht annehmen kannst?	Dialog- TalkToSusanne	Dialog Option
+I have to go!	Ich muss los!	Dialog- TalkToSusanne	Dialog Option
+You had the keys to the luggage storage?	Warte, Sie hatten den Schlüssel für das Gepäcklager?	Dialog- TalkToMassonDrunk	Dialog Option
+How did you end up in this place?	Wie sind Sie hier gelandet?	Dialog- TalkToMassonDrunk	Dialog Option
+This complimentary drink, do you suspect foul play?	Dieses Gratisgetränk, vermuten Sie da ein Verbrechen?	Dialog- TalkToMassonDrunk	Dialog Option
+Who invented that drink anyway?	Wer hat diesen Drink eigentlich erfunden?	Dialog- TalkToMassonDrunk	Dialog Option
+I should be going!	Ich sollte jetzt gehen!	Dialog- TalkToMassonDrunk	Dialog Option
+Would this bag of cash be enough for a painting?	Würde dieser Geldbeutel für ein Gemälde reichen?	Dialog- TalkToArtistActOne	Dialog Option
+Good news, I've apprehended the mouse!	Gute Nachrichten, ich habe die Maus gefangen!	Dialog- TalkToChefFrancoisChapterTwo	Dialog Option
+Why did you send your boy into the ventilation system?	Warum hast du deinen Jungen in das Belüftungssystem geschickt?	Dialog- TalkToAristaAboutHorn	Dialog Option
+Could put in a good word for me with Beverly Moore?	Kannst du bei Beverly Meehr ein gutes Wort für mich einlegen?	Dialog- TalkToSusanneChapterFour	Dialog Option
+Sorry? What was that?	Wie bitte? Wie war das?	Dialog- AristaConfessionHerman	Option3
+I need another hint to get Mr Masson talking	Ich brauche noch einen Hinweis, wie ich Herrn Masson zum Reden bringe.	Dialog- HintLineChapterTwo	Dialog Option
+Ugh, I need a hint!	Ugh, ich brauche einen Hinweis!	Dialog- HintLineHerman	Dialog Option
+What's going on, Donny?	Was ist los, Donny?	Global Script	FollowDonTalkToBergmann
+Nothing. I'm just grabbing more casino chips, okay?	Nix. Ich hole mir nur mehr Casino-Chips, okay?	Global Script	FollowDonTalkToBergmann
+It's a minor setback, that's all.	Es ist ein kleiner Rückschlag, das ist alles.	Global Script	FollowDonTalkToBergmann
+You're losing? I'd hardly consider that a minor setback!	Du verlierst? Das würde ich kaum als kleinen Rückschlag bezeichnen!	Global Script	FollowDonTalkToBergmann
+Ahh, don't worry your little head about it.	Ahh, zerbrich dir nicht deinen kleinen Kopf darüber.	Global Script	FollowDonTalkToBergmann
+I'll be back in the game before you know it.	Ehe du dich versiehst, bin ich wieder im Spiel.	Global Script	FollowDonTalkToBergmann
+Another setback, Donny?	Ein weiterer Rückschlag, Donny?	Global Script	FollowDonTalkToBergmann
+Look, I know what I'm doing okay?	Ich weiß, was ich tue, okay?	Global Script	FollowDonTalkToBergmann
+Turns out you can't win 'em all, even with your thumb on the scale!	Du kannst nicht immer gewinnen, selbst wenn du das System austrickst!	Global Script	FollowDonTalkToBergmann
+Don't give me that look.	Sieh mich nicht so an.	Global Script	FollowDonTalkToBergmann
+Not another word out of you, okay?	Kein Wort mehr von dir, okay?	Global Script	FollowDonTalkToBergmann
+Pardon the delay, bud.	Entschuldige die Verzögerung, Kumpel.	Global Script	DonReturnRouletteTable
+Now, are we gonna play or what?	Spielen wir jetzt, oder was?	Global Script	DonReturnRouletteTable
+Welcome!	Willkommen!	Gui- Disclaimer	OnShow
+Prepare to board the Reuss Express for a 20-minute \n timed demo of this murder mystery comedy adventure.	Mach dich bereit, den Reuss Express zu besteigen, um eine 20-minütige	Gui- Disclaimer	OnShow
+Prepare to board the Reuss Express for an exclusive \n demo of this murder mystery comedy adventure. \n	Mach dich bereit, den Reuss Express zu besteigen, um eine exklusive	Gui- Disclaimer	OnShow
+The full game will feature:	Die Vollversion wird Folgendes beinhalten:	Gui- Disclaimer	OnShow
+Three playable characters in a \n feature-length story!	Drei spielbare Charaktere in einer	Gui- Disclaimer	OnShow
+Puzzle hint system!	Hinweis-System!	Gui- Disclaimer	OnShow
+Even more jokes and puzzles!	Noch mehr Witze und Rätsel!	Gui- Disclaimer	OnShow
+Coming to PC & Nintendo Switch - Q4 2024!	Erscheint für PC & Nintendo Switch - Q4 2024!	Gui- Disclaimer	OnShow
+Wishlist on Steam!	Zur Wunschliste Hinzufügen!	Gui- EndSlate	OnShow
+Wishlist	Wunschliste	Gui- EndSlate	RefreshNavigationUI
+Autosave data will be overwritten. Are you sure you want to start a new game?	Die automatisch gespeicherten Daten werden überschrieben. Möchtest du wirklich ein neues Spiel beginnen?	Gui- MainMenu	OnClickBtnStart
+Copyright 2025 Robust Games	Copyright 2025 Robust Games	Gui- Title	OnShow
+Developed by Robust Games	Entwickelt von Robust Games	Gui- Title	OnShow
+Published by Chucklefish	Veröffentlicht von Chucklefish	Gui- Title	OnShow
+All Rights Reserved	Alle Rechte vorbehalten	Gui- Title	OnShow
+Robust Games	Robust Games	Gui- TitleCard	ShowIntroduction
+presents	präsentiert	Gui- TitleCard	ShowIntroduction
+Loco Motive	Loco Motive	Gui- TitleCard	ShowIntroduction
+Copyright MMXXIV By Robust Games	Copyright MMXXIV von Robust Games	Gui- TitleCard	ShowIntroduction
+Meet with Lady Unterwald	Lady Unterwald treffen	PowerQuestExEnumProgression	eChapterCardPrologueProgression
+Look with melancholy at the wardrobe	Mit Wehmut auf den Kleiderschrank blicken	PowerQuestExEnumProgression	eChapterCardPartOneProgression
+Ponder the instrument case	Über den Instrumentenkoffer nachdenken	PowerQuestExEnumProgression	eChapterCardPartOneProgression
+Pry open the drawer	Die Schublade aufhebeln	PowerQuestExEnumProgression	eChapterCardPartOneProgression
+Lament over the briefcase	Die Aktentasche betrauern	PowerQuestExEnumProgression	eChapterCardPartOneProgression
+Look wistfully through the books	Wehmütig die Bücher durchsehen	PowerQuestExEnumProgression	eChapterCardPartOneProgression
+It's the model 3 WHISPERNOTE	Es ist eine FLÜSTERDRUCK, Modell 3	PowerQuestExEnumProgression	eChapterCardPartOneProgression
+Mope over the retirement gifts	Trübsal blasen wegen der Ruhestandgeschenke	PowerQuestExEnumProgression	eChapterCardPartOneProgression
+Look sadly at the balloons	Traurig auf die Luftballons blicken	PowerQuestExEnumProgression	eChapterCardPartOneProgression
+Is Herman still in there?	Ist Hermann noch da drin?	PowerQuestExEnumProgression	eChapterCardPartTwoProgression
+Talk to the shifty individual	Mit der verschlagenen Person reden	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+shifty individual	verschlagene Person	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Listen in on the conversation	Das Gespräch belauschen	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Go to the Lobby Carriage	Zum Loungewaggon	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Assorted legal tomes	Diverse juristische Bücher	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Stack of boring looking paperwork	Ein Stapel langweilig aussehender Papierkram	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+It's a cosy desk lamp	Es ist eine gemütliche Schreibtischlampe	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+It's a portrait of Lady Unterwald	Es ist ein Porträt von Lady Unterwald	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Comfy looking slippers	Gemütlich aussehende Hausschuhe	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Trusty looking typewriter	Zuverlässig aussehende Schreibmaschine	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+It's a collection of greyish suits	Es ist eine Sammlung von grauen Anzügen	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Go to my quarters	In mein Quartier gehen	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+It's a luggage cart	Es ist ein Gepäckwagen	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Respectfully knock	Respektvoll anklopfen	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Plate of leftovers	Teller mit Essensresten	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Ask about the champagne	Nach dem Champagner fragen	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Examine the mouse hole	Das Mäuseloch untersuchen	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Don's book of poetry	Dons Gedichtband	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Eye the instrument case	Den Instrumentenkoffer beäugen	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+These are some generous gifts	Das sind ein paar großzügige Geschenke	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Inspect the chilli plant	Die Chilipflanze inspizieren	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Like nails on a chalkboard	Wie Nägel auf einer Kreidetafel	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Admire the opulent outfits	Die opulenten Outfits bewundern	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Is that a model 3?	Ist das ein Modell 3?	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Check the drawer	Die Schublade überprüfen	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Look through the books	Die Bücher durchsehen	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+To Lobby Carriage	Zum Loungewaggon	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Peer into the mouse burrow	In das Mäuseloch blicken	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+It's a pile of lemons	Es ist ein Haufen Zitronen	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Ask about the tray of drinks	Nach dem Getränketablett fragen	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+water jug	Wasserkrug	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Look at the water jug	Den Wasserkrug ansehen	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Go to the Lounge Carriage	Zum Loungewaggon gehen	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Is that a crystal chandelier?	Ist das ein Kristallkronleuchter?	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Ask about the slot machine	Nach dem Spielautomaten fragen	PowerQuestExEnumProgression	eChapterCardPartThreeProgression
+Speak to Mr Masson	Mit Herrn Masson sprechen	PowerQuestExEnumProgression	eChapterCardPartFourProgression
+The Leader	Anführer	PowerQuestExEnumProgression	eChapterCardPartFourProgression
+Talk to the Leader	Mit dem Anführer reden	PowerQuestExEnumProgression	eChapterCardPartFourProgression
+Enter the secret meeting room	Den geheimen Besprechungsraum betreten	PowerQuestExEnumProgression	eChapterCardPartFourProgression
+What is he doing?!	Was macht er?!	PowerQuestExEnumProgression	eChapterCardPartFiveProgression
+Obsess over the untidy paperwork	Sich über den unordentlichen Papierkram aufregen	PowerQuestExEnumProgression	eChapterCardPartFiveProgression
+It's a cheap looking typewriter	Es ist eine billig aussehende Schreibmaschine	PowerQuestExEnumProgression	eChapterCardPartFiveProgression
+It's Herman's manuscripts!	Es sind Hermanns Manuskripte!	PowerQuestExEnumProgression	eChapterCardPartFiveProgression
+Could those novels be of any use?	Könnten diese Romane von Nutzen sein?	PowerQuestExEnumProgression	eChapterCardPartFiveProgression
+Study the luggage	Das Gepäck studieren	PowerQuestExEnumProgression	eChapterCardPartFiveProgression
+Join the speech	Der Rede beiwohnen	PowerQuestExEnumProgression	ePrologueProgressionState
+Bask in the scent of the rose petals	Den Duft der Rosenblüten genießen	PowerQuestExEnumProgression	ePrologueProgressionState
+Head back to the Casino Carriage	Zurück zum Casinowaggon gehen	PowerQuestExEnumProgression	eChapterOneCasinoPuzzleProgression
+Speak to the drunk	Mit dem Betrunkenen sprechen	PowerQuestExEnumProgression	eChapterTwoRosebudProgression
+the drunk	den Betrunkenen	PowerQuestExEnumProgression	eChapterTwoRosebudProgression
+Unlock the luggage storage room	Den Gepäcklagerraum aufschließen	PowerQuestExEnumProgression	eChapterTwoRosebudProgression
+Go to the luggage storage room	Zum Gepäcklagerraum gehen	PowerQuestExEnumProgression	eChapterTwoRosebudProgression
+Go to Diana's quarters	Zu Dianas Quartier gehen	PowerQuestExEnumProgression	eChapterTwoMouseProgression
+Enter the luggage storage	Das Gepäcklager betreten	PowerQuestExEnumProgression	eChapterTwoMouseProgression
+Talk to Doctor Hirsch	Mit Doktor Leisch reden	PowerQuestExEnumProgression	eChapterTwoSafePuzzleProgression
+Go to Herman's quarters	Zu Hermanns Quartier gehen	PowerQuestExEnumProgression	eChapterTwoSafePuzzleProgression
+Is this my room?	Ist das mein Zimmer?	PowerQuestExEnumProgression	eChapterThreeHermanRoomAccessProgression
+I'm starting to feel bad for him	Er tut mir langsam leid	PowerQuestExEnumProgression	eChapterFourHandIdolPuzzleProgression
+To Arthur's Quarters	Zu Arthurs Quartier	PowerQuestExEnumProgression	eChapterFourPlantSuitPuzzleProgression
+Check if anyone's in	Prüfen, ob jemand da ist	PowerQuestExEnumProgression	eChapterThreeMissingTwinsPuzzleProgression
+Tap on the instrument case	Auf den Instrumentenkoffer tippen	PowerQuestExEnumProgression	eChapterFiveTimeSkipProgression
+Attempt to open the instrument case	Versuchen, den Instrumentenkoffer zu öffnen	PowerQuestExEnumProgression	eChapterFiveTimeSkipProgression
+Call out to April	Nach April rufen	PowerQuestExEnumProgression	eChapterSixJailbreakPuzzleProgression
+Click {0} to walk. \n Hold {1} to run to an object or area.	Klicke auf {0}, um zu gehen.	TutorialScript	BackgroundRunTutorial
+Use {0} to walk. \n Hold down {1} or {2} to run.	Verwende {0}, um zu gehen.	TutorialScript	BackgroundRunTutorial
+Tap {0} to walk. \n Hold down {1} or {2} to run.	Tippe auf {0}, um zu gehen.	TutorialScript	BackgroundRunTutorial

@@ -5,49 +5,10 @@ using System.Text;
 
 class MergeShared {
     static void Main() {
-        var idMap = new Dictionary<string, string>();
-        var textMap = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
+        // Map from partition files by key: Class + "\t" + Method + "\t" + English
+        var partitionMap = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
+        var textFallback = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
 
-        // 1. Load from all chapter files & inventory & UI & glossary
-        string[] baseFiles = new string[] {
-            @"translations\glossary_items.tsv",
-            @"translations\ui\ui_french.tsv",
-            @"translations\dialogues\inventory_french.tsv",
-            @"translations\dialogues\prologue_french.tsv",
-            @"translations\dialogues\chapter1_french.tsv",
-            @"translations\dialogues\chapter2_french.tsv",
-            @"translations\dialogues\chapter3_french.tsv",
-            @"translations\dialogues\chapter4_french.tsv",
-            @"translations\dialogues\chapter5_french.tsv",
-            @"translations\dialogues\chapter6_french.tsv",
-            @"translations\dialogues\chapter7_french.tsv"
-        };
-
-        foreach (var f in baseFiles) {
-            if (!File.Exists(f)) continue;
-            var lines = File.ReadAllLines(f, Encoding.UTF8);
-            foreach (var l in lines) {
-                var p = l.Split('\t');
-                if (p.Length >= 4) {
-                    if (p[0] == "Id" && p[2] == "English") continue;
-                    string id = p[0].Trim();
-                    string en = p[2].Trim();
-                    string fr = p[3].Trim();
-                    if (!string.IsNullOrEmpty(fr)) {
-                        if (!string.IsNullOrEmpty(id)) idMap[id] = fr;
-                        if (!string.IsNullOrEmpty(en)) textMap[en] = fr;
-                    }
-                } else if (p.Length == 2) {
-                    string en = p[0].Trim();
-                    string fr = p[1].Trim();
-                    if (!string.IsNullOrEmpty(en) && !string.IsNullOrEmpty(fr)) {
-                        textMap[en] = fr;
-                    }
-                }
-            }
-        }
-
-        // 2. Load from the 8 shared partition files
         string[] partitionFiles = new string[] {
             @"translations\partitions\shared_room_looks_french.tsv",
             @"translations\partitions\shared_char_interactions_french.tsv",
@@ -67,18 +28,49 @@ class MergeShared {
             var lines = File.ReadAllLines(pf, Encoding.UTF8);
             for (int i = 1; i < lines.Length; i++) {
                 var p = lines[i].Split('\t');
-                if (p.Length < 4) continue;
-                string id = p[0].Trim();
+                if (p.Length < 6) continue;
                 string en = p[2].Trim();
                 string fr = p[3].Trim();
+                string cls = p[4].Trim();
+                string meth = p[5].Trim();
+
                 if (!string.IsNullOrEmpty(fr)) {
-                    if (!string.IsNullOrEmpty(id)) idMap[id] = fr;
-                    if (!string.IsNullOrEmpty(en)) textMap[en] = fr;
+                    string key = cls + "\t" + meth + "\t" + en;
+                    partitionMap[key] = fr;
+                    textFallback[en] = fr;
                 }
             }
         }
 
-        // 3. Process shared_raw.tsv
+        // Also load textFallback from base files (prologue, chapters)
+        string[] baseFiles = new string[] {
+            @"translations\dialogues\prologue_french.tsv",
+            @"translations\dialogues\chapter1_french.tsv",
+            @"translations\dialogues\chapter2_french.tsv",
+            @"translations\dialogues\chapter3_french.tsv",
+            @"translations\dialogues\chapter4_french.tsv",
+            @"translations\dialogues\chapter5_french.tsv",
+            @"translations\dialogues\chapter6_french.tsv",
+            @"translations\dialogues\chapter7_french.tsv",
+            @"translations\dialogues\inventory_french.tsv",
+            @"translations\glossary_items.tsv"
+        };
+
+        foreach (var f in baseFiles) {
+            if (!File.Exists(f)) continue;
+            foreach (var l in File.ReadAllLines(f, Encoding.UTF8)) {
+                var p = l.Split('\t');
+                if (p.Length >= 4) {
+                    if (p[0] == "Id" && p[2] == "English") continue;
+                    string en = p[2].Trim();
+                    string fr = p[3].Trim();
+                    if (!string.IsNullOrEmpty(en) && !string.IsNullOrEmpty(fr) && !textFallback.ContainsKey(en)) {
+                        textFallback[en] = fr;
+                    }
+                }
+            }
+        }
+
         var rawLines = File.ReadAllLines(@"translations\partitions\shared_raw.tsv", Encoding.UTF8);
         string outPath = @"translations\dialogues\shared_french.tsv";
         int translatedCount = 0;
@@ -93,19 +85,21 @@ class MergeShared {
                 string id = p[0].Trim();
                 string ch = p[1].Trim();
                 string en = p[2].Trim();
-                string fr = "";
                 string cls = p[4].Trim();
                 string meth = p[5].Trim();
 
-                if (idMap.ContainsKey(id)) {
-                    fr = idMap[id];
-                } else if (textMap.ContainsKey(en)) {
-                    fr = textMap[en];
+                string key = cls + "\t" + meth + "\t" + en;
+                string fr = "";
+
+                if (partitionMap.ContainsKey(key)) {
+                    fr = partitionMap[key];
+                } else if (textFallback.ContainsKey(en)) {
+                    fr = textFallback[en];
                 }
 
                 if (string.IsNullOrEmpty(fr)) {
                     missingCount++;
-                    Console.WriteLine(string.Format("Missing ({0}): [{1}]", id, en));
+                    Console.WriteLine(string.Format("Missing: [{0}] in {1}.{2}", en, cls, meth));
                     fr = en;
                 } else {
                     translatedCount++;

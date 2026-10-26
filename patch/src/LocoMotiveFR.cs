@@ -325,22 +325,89 @@ namespace LocoMotiveFR
 
         private static void LoadTsvFile(string path)
         {
+            string fileName = Path.GetFileName(path);
+            if (fileName.Equals("all_engine_strings.tsv", StringComparison.OrdinalIgnoreCase) ||
+                fileName.StartsWith("extracted_", StringComparison.OrdinalIgnoreCase) ||
+                fileName.StartsWith("unhandled_", StringComparison.OrdinalIgnoreCase) ||
+                fileName.StartsWith("unity_", StringComparison.OrdinalIgnoreCase))
+            {
+                return;
+            }
+
             using (var reader = new StreamReader(path, Encoding.UTF8))
             {
                 string line;
                 bool isFirst = true;
+                int enCol = 0;
+                int frCol = 1;
+                int charCol = -1;
+                bool hasExplicitHeader = false;
+
                 while ((line = reader.ReadLine()) != null)
                 {
                     if (string.IsNullOrWhiteSpace(line)) continue;
-                    if (isFirst && (line.StartsWith("Id\t") || line.StartsWith("Character\t"))) { isFirst = false; continue; }
-                    isFirst = false;
 
                     string[] parts = line.Split('\t');
-                    if (parts.Length >= 4)
+                    if (isFirst)
                     {
-                        string character = parts[1].Trim();
-                        string en = parts[2].Trim().Replace(" \\n ", "\n");
-                        string fr = parts[3].Trim().Replace(" \\n ", "\n");
+                        isFirst = false;
+                        string firstCol = parts[0].Trim();
+                        if (firstCol.Equals("Id", StringComparison.OrdinalIgnoreCase) || firstCol.Equals("ID", StringComparison.OrdinalIgnoreCase))
+                        {
+                            hasExplicitHeader = true;
+                            charCol = 1;
+                            enCol = 2;
+                            frCol = 3;
+                            continue;
+                        }
+                        else if (firstCol.Equals("Character", StringComparison.OrdinalIgnoreCase))
+                        {
+                            hasExplicitHeader = true;
+                            charCol = 0;
+                            enCol = 1;
+                            frCol = 2;
+                            continue;
+                        }
+                        else if (firstCol.Equals("ItemKey", StringComparison.OrdinalIgnoreCase))
+                        {
+                            hasExplicitHeader = true;
+                            charCol = -1;
+                            enCol = 1;
+                            frCol = 2;
+                            continue;
+                        }
+                        else if (firstCol.Equals("English", StringComparison.OrdinalIgnoreCase) || firstCol.Equals("Key", StringComparison.OrdinalIgnoreCase))
+                        {
+                            hasExplicitHeader = true;
+                            charCol = -1;
+                            enCol = 0;
+                            frCol = 1;
+                            continue;
+                        }
+                    }
+
+                    if (!hasExplicitHeader)
+                    {
+                        int dummyId;
+                        if (parts.Length >= 4 && int.TryParse(parts[0].Trim(), out dummyId))
+                        {
+                            charCol = 1;
+                            enCol = 2;
+                            frCol = 3;
+                        }
+                        else
+                        {
+                            charCol = -1;
+                            enCol = 0;
+                            frCol = 1;
+                        }
+                    }
+
+                    if (enCol < parts.Length && frCol < parts.Length)
+                    {
+                        string character = (charCol >= 0 && charCol < parts.Length) ? parts[charCol].Trim() : null;
+                        string en = parts[enCol].Trim().Replace(" \\n ", "\n");
+                        string fr = parts[frCol].Trim().Replace(" \\n ", "\n");
 
                         if (!string.IsNullOrEmpty(en) && !string.IsNullOrEmpty(fr))
                         {
@@ -349,15 +416,6 @@ namespace LocoMotiveFR
                             {
                                 TextByEnglish[character + "::" + en] = fr;
                             }
-                        }
-                    }
-                    else if (parts.Length >= 2)
-                    {
-                        string en = parts[0].Trim().Replace(" \\n ", "\n");
-                        string fr = parts[1].Trim().Replace(" \\n ", "\n");
-                        if (!string.IsNullOrEmpty(en) && !string.IsNullOrEmpty(fr))
-                        {
-                            TextByEnglish[en] = fr;
                         }
                     }
                 }

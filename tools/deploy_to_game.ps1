@@ -43,6 +43,7 @@ if (Test-Path $destData) {
 $canonicalFiles = @(
     "translations\glossary_items.tsv",
     "translations\ui\ui_french.tsv",
+    "translations\ui\interactions_french.tsv",
     "translations\dialogues\inventory_french.tsv",
     "translations\dialogues\prologue_french.tsv",
     "translations\dialogues\chapter1_french.tsv",
@@ -52,11 +53,7 @@ $canonicalFiles = @(
     "translations\dialogues\chapter5_french.tsv",
     "translations\dialogues\chapter6_french.tsv",
     "translations\dialogues\chapter7_french.tsv",
-    "translations\dialogues\shared_french.tsv",
-    "translations\dialogues\extracted_id_strings.tsv",
-    "translations\dialogues\extracted_pq_all.tsv",
-    "translations\dialogues\unhandled_strings.tsv",
-    "translations\dialogues\unity_exact_ids.tsv"
+    "translations\dialogues\shared_french.tsv"
 )
 
 foreach ($relPath in $canonicalFiles) {

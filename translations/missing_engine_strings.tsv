@@ -1,0 +1,1670 @@
+﻿SourceFile	SourceFunction	English	German
+Room- Interrogation	OnUseInvPropKeys	Could I escape through the door?	Könnte ich durch die Tür entkommen?
+Room- Interrogation	Prop Tooltip - Shorthand	coatrack	Kleiderständer
+Room- Interrogation	Prop Tooltip - Shorthand	coatrack	Kleiderständer
+Room- Interrogation	Prop Tooltip - Shorthand	recording device	Aufnahmegerät
+Room- Interrogation	Prop Tooltip - Primary	'Borrow'' the desk fan	Den Tischventilator „ausleihen“
+Room- Interrogation	Prop Tooltip - Primary	Rifle through the books	Die Bücher durchstöbern
+Room- Interrogation	Prop Tooltip - Secondary	They sound distracted out there	Sie klingen da draußen abgelenkt
+Room- Interrogation	Prop Tooltip - Secondary	Enjoy the breeze	Die Brise genießen
+Room- Interrogation	Prop Tooltip - Secondary	I could call for help?	Ich könnte um Hilfe rufen?
+Room- Interrogation	Prop Tooltip - Secondary	It's today's newspaper	Das ist die Zeitung von heute
+Room- Interrogation	Prop Tooltip - Secondary	Those keys are my ticket to freedom!	Dieser Schlüssel ist mein Ticket in die Freiheit!
+Room- Interrogation	Prop Tooltip - Secondary	It's full of trash, as I suspected	Er ist, wie vermutet, voller Müll
+Room- Interrogation	Prop Tooltip - Secondary	Inspect the toppled coatrack	Den umgestürzten Kleiderständer inspizieren
+Room- Interrogation	Prop Tooltip - Secondary	Gaze at the umbrella	Auf den Regenschirm blicken
+Room- Interrogation	Prop Tooltip - Secondary	So close, and yet so far!	So nah, und doch so fern!
+Room- Interrogation	Prop Tooltip - Secondary	This box is full of documents	Diese Kiste ist voller Dokumente
+Room- Interrogation	Prop Tooltip - Secondary	Check out the list of suspects	Die Liste der Verdächtigen ansehen
+Room- Interrogation	Prop Tooltip - Secondary	Maybe I could escape through the window?	Vielleicht könnte ich durch das Fenster entkommen?
+Room- Interrogation	Prop Tooltip - Secondary	Is this thing recording me?	Nimmt dieses Ding mich auf?
+Room- IntroCarriage	Prop Tooltip - Shorthand	the pamphlets	Broschüren
+Room- IntroCarriage	Prop Tooltip - Shorthand	the plant pot	Blumentopf
+Room- IntroCarriage	Prop Tooltip - Shorthand	the carriage directions	Waggonwegbeschreibung
+Room- IntroCarriage	Prop Tooltip - Shorthand	the statue	Statue
+Room- IntroCarriage	Prop Tooltip - Shorthand	the dining cart	Servierwagen
+Room- IntroCarriage	Prop Tooltip - Primary	Return to my quarters	In mein Quartier zurückkehren
+Room- IntroCarriage	Prop Tooltip - Primary	Browse travel pamphlets	Reisebroschüren ansehen
+Room- IntroCarriage	Prop Tooltip - Primary	Peruse the dining cart	Den Servierwagen durchstöbern
+Room- IntroCarriage	Prop Tooltip - Secondary	Inspect the plant pot	Den Blumentopf inspizieren
+Room- IntroCarriage	Prop Tooltip - Secondary	Read carriage directions	Waggonwegbeschreibung lesen
+Room- IntroCarriage	Prop Tooltip - Secondary	Admire statue	Statue bewundern
+Room- ArthurQuarters	Prop Tooltip - Shorthand	files	Akten
+Room- ArthurQuarters	Prop Tooltip - Shorthand	portrait	Porträt
+Room- ArthurQuarters	Prop Tooltip - Shorthand	picture	Bild
+Room- ArthurQuarters	Prop Tooltip - Shorthand	letter	Brief
+Room- ArthurQuarters	Prop Tooltip - Shorthand	flashy suit	auffälliger Anzug
+Room- ArthurQuarters	Prop Tooltip - Shorthand	Look Outside	Nach draußen schauen
+Room- ArthurQuarters	Prop Tooltip - Shorthand	plain suits	eintönige Anzüge
+Room- ArthurQuarters	Prop Tooltip - Shorthand	lightswitch	Lichtschalter
+Room- ArthurQuarters	Prop Tooltip - Shorthand	drawers	Schubladen
+Room- ArthurQuarters	Prop Tooltip - Shorthand	sink cupboard	Waschbeckenschrank
+Room- ArthurQuarters	Prop Tooltip - Primary	Take the wooden hanger	Den Holzbügel nehmen
+Room- ArthurQuarters	Prop Tooltip - Primary	Take the mysterious letter	Den geheimnisvollen Brief nehmen
+Room- ArthurQuarters	Prop Tooltip - Primary	It's time to suit up!	Zeit, sich in Schale zu werfen!
+Room- ArthurQuarters	Prop Tooltip - Primary	Leave the room	Den Raum verlassen
+Room- ArthurQuarters	Prop Tooltip - Primary	Take a long, hard look in the mirror	Einen langen, harten Blick in den Spiegel werfen
+Room- ArthurQuarters	Prop Tooltip - Primary	Open the drawers	Die Schubladen öffnen
+Room- ArthurQuarters	Prop Tooltip - Primary	Peek inside the cupboard	In den Schrank schauen
+Room- ArthurQuarters	Prop Tooltip - Primary	Take the mouthwash	Die Mundspülung nehmen
+Room- ArthurQuarters	Prop Tooltip - Secondary	Late night reading materials	Lesestoff für die späte Nacht
+Room- ArthurQuarters	Prop Tooltip - Secondary	A fresh bundle of files!	Ein frisches Bündel Akten!
+Room- ArthurQuarters	Prop Tooltip - Secondary	It's my cosy desk lamp	Das ist meine gemütliche Schreibtischlampe
+Room- ArthurQuarters	Prop Tooltip - Secondary	Neatly packed luggage	Ordentlich gepacktes Gepäck
+Room- ArthurQuarters	Prop Tooltip - Secondary	It's a tiny portrait of Lady Unterwald	Es ist ein kleines Porträt von Lady Unterwald
+Room- ArthurQuarters	Prop Tooltip - Secondary	Look closely at the picture frame	Den Bilderrahmen genau ansehen
+Room- ArthurQuarters	Prop Tooltip - Secondary	Incredibly fluffy slippers	Unglaublich flauschige Hausschuhe
+Room- ArthurQuarters	Prop Tooltip - Secondary	Trusty typewriter	Zuverlässige Schreibmaschine
+Room- ArthurQuarters	Prop Tooltip - Secondary	Look at the wooden hanger	Den Holzbügel ansehen
+Room- ArthurQuarters	Prop Tooltip - Secondary	Stare reluctantly at the suit jacket	Widerwillig auf die Anzugjacke starren
+Room- ArthurQuarters	Prop Tooltip - Secondary	Classic suit jackets	Klassische Anzugjacken
+Room- ArthurQuarters	Prop Tooltip - Secondary	Stare at the quietly dripping sink	Auf das leise tropfende Waschbecken starren
+Room- ArthurQuarters	Prop Tooltip - Secondary	Examine the mouthwash	Die Mundspülung untersuchen
+Room- HermanQuarters	OnEnterRoomAfterFadeActThreeAfterListenedToGramophone	I won't blink this time!	Dieses Mal werde ich nicht blinzeln!
+Room- HermanQuarters	OnInteractPropArthurWiggle	We'll need to distract them somehow, Arthur.	Wir müssen sie irgendwie ablenken, Arthur.
+Room- HermanQuarters	BackgroundActThreeStaringContest	Was that a blink? No...	War das ein Blinzeln? Nein ...
+Room- HermanQuarters	BackgroundActThreeStaringContest	We can do this, it's two versus one!	Wir können es schaffen. Zwei gegen einen!
+Room- HermanQuarters	BackgroundActThreeStaringContest	Concentrate...	Konzentration ...
+Room- HermanQuarters	BackgroundActThreeStaringContest	My eyes are starting to water!	Meine Augen fangen an zu tränen!
+Room- HermanQuarters	BackgroundActThreeStaringContest	Mustn't... blink.	Darf ... nicht ... blinzeln.
+Room- HermanQuarters	BackgroundActThreeStaringContest	My eyeballs are burning!	Meine Augäpfel brennen!
+Room- HermanQuarters	BackgroundActThreeStaringContest	It's been a while now. He's got to blink at some point!	Es dauert jetzt schon eine ganze Weile an. Irgendwann muss er ja mal blinzeln!
+Room- HermanQuarters	BackgroundActThreeStaringContest	Damn, I blinked!	Verdammt, ich habe geblinzelt!
+Room- HermanQuarters	BackgroundActThreeStaringContest	Me too!	Ich auch!
+Room- HermanQuarters	BackgroundActThreeStaringContest	We demand a rematch, Herman!	Wir fordern eine Revanche, Hermann!
+Room- HermanQuarters	BackgroundActThreeStaringContest	That last round was just a warm-up.	Die letzte Runde war nur zum Aufwärmen.
+Room- HermanQuarters	Prop Tooltip - Shorthand	crumpled paper	zerknittertes Papier
+Room- HermanQuarters	Prop Tooltip - Shorthand	tightly wound ropes	straffe Seile
+Room- HermanQuarters	Prop Tooltip - Shorthand	manuscripts	Manuskripte
+Room- HermanQuarters	Prop Tooltip - Shorthand	novels	Romane
+Room- HermanQuarters	Prop Tooltip - Shorthand	messy papers	unordentliche Papiere
+Room- HermanQuarters	Prop Tooltip - Shorthand	manuscripts	Manuskripte
+Room- HermanQuarters	Prop Tooltip - Primary	Return to the sleeper carriage	Zum Schlafwaggon zurückkehren
+Room- HermanQuarters	Prop Tooltip - Primary	Slide open the window	Das Fenster aufschieben
+Room- HermanQuarters	Prop Tooltip - Primary	Pick up the crumpled paper	Das zerknitterte Papier nehmen
+Room- HermanQuarters	Prop Tooltip - Primary	Attempt to wriggle free	Versuchen, dich frei zu winden
+Room- HermanQuarters	Prop Tooltip - Secondary	Inspect the clothes chest	Die Kleidertruhe inspizieren
+Room- HermanQuarters	Prop Tooltip - Secondary	Critique the typewriter	Die Schreibmaschine kritisieren
+Room- HermanQuarters	Prop Tooltip - Secondary	Read the manuscripts	Die Manuskripte lesen
+Room- HermanQuarters	Prop Tooltip - Secondary	It’s a stack of Herman’s novels	Es ist ein Stapel von Hermanns Romanen
+Room- HermanQuarters	Prop Tooltip - Secondary	Ponder the messy papers	Über die unordentlichen Papiere nachdenken
+Room- HermanQuarters	Prop Tooltip - Secondary	Glance at the books	Auf die Bücher blicken
+Room- HermanQuarters	Prop Tooltip - Secondary	Could that be freedom?	Könnte das Freiheit sein?
+Room- HermanQuarters	Prop Tooltip - Secondary	A possible escape route!	Ein möglicher Fluchtweg!
+Room- HermanQuarters	Prop Tooltip - Secondary	Is that all he brought with him?	Ist das alles, was er mitgebracht hat?
+Room- HermanQuarters	Prop Tooltip - Secondary	Examine the manuscripts	Die Manuskripte untersuchen
+Room- DonQuarters	OnInteractPropCupboardActOneHidSuccess	Chat to Bergmann	Mit Bergmann plaudern
+Room- DonQuarters	OnInteractPropCupboardActOneHidSuccess	Bergmann	Bergmann
+Room- DonQuarters	OnUseInvPropMouseHole	Mouse Burrow with Cheese Crumbs	Mäuseloch mit Käsekrümeln
+Room- DonQuarters	SetHideDescriptions	Hide under the covers	Unter der Decke verstecken
+Room- DonQuarters	SetHideDescriptions	Hide in the closet	Im Kleiderschrank verstecken
+Room- DonQuarters	SetHideDescriptions	Hide under the sink	Unter dem Waschbecken verstecken
+Room- DonQuarters	SetDefaultDescriptions	Slide the closet door	Die Schranktür schieben
+Room- DonQuarters	SetDefaultDescriptions	Look inside the cupboard	In den Schrank schauen
+Room- DonQuarters	OnExitRoom	That's one big magnet!	Das ist aber ein großer Magnet!
+Room- DonQuarters	Prop Tooltip - Shorthand	sink cupboard	Waschbeckenschrank
+Room- DonQuarters	Prop Tooltip - Shorthand	hanger	Kleiderbügel
+Room- DonQuarters	Prop Tooltip - Shorthand	recording device	Aufnahmegerät
+Room- DonQuarters	Prop Tooltip - Shorthand	mouse burrow	Mäuseloch
+Room- DonQuarters	Prop Tooltip - Shorthand	corked mouse burrow	verkorktes Mäuseloch
+Room- DonQuarters	Prop Tooltip - Shorthand	secret panel	Geheimfach
+Room- DonQuarters	Prop Tooltip - Shorthand	closet door	Schranktür
+Room- DonQuarters	Prop Tooltip - Shorthand	closet door	Schranktür
+Room- DonQuarters	Prop Tooltip - Shorthand	bed	Bett
+Room- DonQuarters	Prop Tooltip - Shorthand	fraudulent chips	gefälschte Chips
+Room- DonQuarters	Prop Tooltip - Shorthand	suitcase	Koffer
+Room- DonQuarters	Prop Tooltip - Shorthand	book of poetry	Gedichtband
+Room- DonQuarters	Prop Tooltip - Shorthand	unmentionables	Unaussprechlichen
+Room- DonQuarters	Prop Tooltip - Shorthand	dirty plate	schmutziges Geschirr
+Room- DonQuarters	Prop Tooltip - Shorthand	champagne bucket	Champagnerkübel
+Room- DonQuarters	Prop Tooltip - Shorthand	ball bearings	Kugellager
+Room- DonQuarters	Prop Tooltip - Shorthand	fraudulent chips	gefälschte Chips
+Room- DonQuarters	Prop Tooltip - Primary	Look inside the cupboard	In den Schrank schauen
+Room- DonQuarters	Prop Tooltip - Primary	Pocket the wire hanger	Den Drahtbügel einstecken
+Room- DonQuarters	Prop Tooltip - Primary	Back to the Sleeper Carriage	Zurück zum Schlafwaggon
+Room- DonQuarters	Prop Tooltip - Primary	Acquire the magnet	Den Magneten mitnehmen
+Room- DonQuarters	Prop Tooltip - Primary	Pick up the magnetic ball	Die Magnetkugel nehmen
+Room- DonQuarters	Prop Tooltip - Primary	Take the device	Das Gerät nehmen
+Room- DonQuarters	Prop Tooltip - Primary	Feel around for the secret panel	Das Geheimfach erfühlen
+Room- DonQuarters	Prop Tooltip - Primary	Slide the closet door	Die Schranktür schieben
+Room- DonQuarters	Prop Tooltip - Primary	Slide the closet door	Die Schranktür schieben
+Room- DonQuarters	Prop Tooltip - Primary	Grab the book of poetry	Gedichtband nehmen
+Room- DonQuarters	Prop Tooltip - Secondary	That's a huge magnet!	Das ist ein riesiger Magnet!
+Room- DonQuarters	Prop Tooltip - Secondary	Don dropped his recorder!	Don hat seinen Rekorder fallen lassen!
+Room- DonQuarters	Prop Tooltip - Secondary	It's a mouse burrow!	Das ist ein Mäuseloch!
+Room- DonQuarters	Prop Tooltip - Secondary	It's perfectly sealed!	Es ist perfekt versiegelt!
+Room- DonQuarters	Prop Tooltip - Secondary	Inspect the secret panel	Das Geheimfach inspizieren
+Room- DonQuarters	Prop Tooltip - Secondary	Contemplate the heart shaped bed	Über das herzförmige Bett nachdenken
+Room- DonQuarters	Prop Tooltip - Secondary	Are these wooden casino chips?	Sind das Casino-Chips aus Holz?
+Room- DonQuarters	Prop Tooltip - Secondary	Judge the disorderly packing style	Den unordentlichen Packstil verurteilen
+Room- DonQuarters	Prop Tooltip - Secondary	Grimace at the book of poetry	Beim Anblick des Gedichtbandes das Gesicht verziehen
+Room- DonQuarters	Prop Tooltip - Secondary	Acknowledge the unmentionables	Die Unaussprechlichen zur Kenntnis nehmen
+Room- DonQuarters	Prop Tooltip - Secondary	What a slob!	Was für ein Schmutzfink!
+Room- DonQuarters	Prop Tooltip - Secondary	This champagne looks expensive	Dieser Champagner sieht teuer aus
+Room- DonQuarters	Prop Tooltip - Secondary	A tray of ball bearings?	Ein Tablett mit Kugellagern?
+Room- DonQuarters	Prop Tooltip - Secondary	Are these wooden casino chips?	Sind das Casino-Chips aus Holz?
+Room- DianaQuarters	Prop Tooltip - Shorthand	wire reel stack	Haufen Spulen
+Room- DianaQuarters	Prop Tooltip - Shorthand	wire reel stack	Haufen Spulen
+Room- DianaQuarters	Prop Tooltip - Shorthand	confusing machine	verwirrende Maschine
+Room- DianaQuarters	Prop Tooltip - Shorthand	closet	Kleiderschrank
+Room- DianaQuarters	Prop Tooltip - Shorthand	panel	Schalttafel
+Room- DianaQuarters	Prop Tooltip - Shorthand	radio panel	Funkschalttafel
+Room- DianaQuarters	Prop Tooltip - Shorthand	radio panel	Funkschalttafel
+Room- DianaQuarters	Prop Tooltip - Shorthand	wire recorder	Spulenrekorder
+Room- DianaQuarters	Prop Tooltip - Shorthand	wires	Kabel
+Room- DianaQuarters	Prop Tooltip - Shorthand	radio panel	Funkschalttafel
+Room- DianaQuarters	Prop Tooltip - Primary	Return to the sleeper carriage	Zum Schlafwaggon zurückkehren
+Room- DianaQuarters	Prop Tooltip - Primary	Ask about the wire reel stack	Nach dem Haufen Spulen fragen
+Room- DianaQuarters	Prop Tooltip - Primary	Adjust the lamp	Die Lampe einstellen
+Room- DianaQuarters	Prop Tooltip - Secondary	Ask about the wire reel stack	Nach dem Haufen Spulen fragen
+Room- DianaQuarters	Prop Tooltip - Secondary	What is any of this stuff?	Was ist das für ein Zeug?
+Room- DianaQuarters	Prop Tooltip - Secondary	Open the closet	Den Kleiderschrank öffnen
+Room- DianaQuarters	Prop Tooltip - Secondary	The panel is covered in dials and gauges!	Die Schalttafel ist voller Ziffernblätter und Anzeigen!
+Room- DianaQuarters	Prop Tooltip - Secondary	Play with the radio panel	An der Funkschalttafel herumspielen
+Room- DianaQuarters	Prop Tooltip - Secondary	Play with the radio panel	An der Funkschalttafel herumspielen
+Room- DianaQuarters	Prop Tooltip - Secondary	It’s a wire recorder!	Es ist ein Spulenrekorder!
+Room- DianaQuarters	Prop Tooltip - Secondary	Complain about the wires	Über die Kabel beschweren
+Room- DianaQuarters	Prop Tooltip - Secondary	Play with the radio panel	An der Funkschalttafel herumspielen
+Room- SleeperCarriage	BackgroundTwinsCalloutOne	Try harder!	Streng dich an!
+Room- SleeperCarriage	BackgroundTwinsCalloutTwo	Come on out, detective!	Komm raus, Detektiv!
+Room- SleeperCarriage	BackgroundTwinsCalloutTwo	He has to be in there!	Er muss da drin sein!
+Room- SleeperCarriage	BackgroundTwinsCalloutThree	It's no use. It's locked!	Es ist sinnlos. Sie ist verschlossen!
+Room- SleeperCarriage	BackgroundTwinsCalloutThree	You couldn't find a spare set of keys?	Konntest du keinen Ersatzschlüssel auftreiben?
+Room- SleeperCarriage	BackgroundTwinsCalloutFour	We just want to have a chat, Herman!	Wir wollen nur ein bisschen plaudern, Hermann!
+Room- SleeperCarriage	BackgroundTwinsCalloutFour	You can't hide in there forever, detective!	Du kannst dich da drin nicht ewig verstecken, Detektiv!
+Room- SleeperCarriage	OnInteractPropArthurDoorArthurMuffledFirst	Keep listening	Weiter zuhören
+Room- SleeperCarriage	Prop Tooltip - Shorthand	the Dining Carriage	Speisewaggon
+Room- SleeperCarriage	Prop Tooltip - Shorthand	the Kitchen Carriage	Küchenwaggon
+Room- SleeperCarriage	Prop Tooltip - Shorthand	the door sign	Türschild
+Room- SleeperCarriage	Prop Tooltip - Shorthand	the luggage cart	Gepäckwagen
+Room- SleeperCarriage	Prop Tooltip - Shorthand	the pamphlets	Broschüren
+Room- SleeperCarriage	Prop Tooltip - Shorthand	the plant pot	Blumentopf
+Room- SleeperCarriage	Prop Tooltip - Shorthand	the telephone	Telefon
+Room- SleeperCarriage	Prop Tooltip - Shorthand	the statue	Statue
+Room- SleeperCarriage	Prop Tooltip - Shorthand	the statue	Statue
+Room- SleeperCarriage	Prop Tooltip - Shorthand	the carriage directions	Waggonwegbeschreibung
+Room- SleeperCarriage	Prop Tooltip - Shorthand	the carriage directions	Waggonwegbeschreibung
+Room- SleeperCarriage	Prop Tooltip - Shorthand	plaque	Tafel
+Room- SleeperCarriage	Prop Tooltip - Shorthand	plaque	Tafel
+Room- SleeperCarriage	Prop Tooltip - Shorthand	fusebox	Sicherungskasten
+Room- SleeperCarriage	Prop Tooltip - Shorthand	the wiring	der Verkabelung
+Room- SleeperCarriage	Prop Tooltip - Primary	Return to my quarters	In mein Quartier zurückkehren
+Room- SleeperCarriage	Prop Tooltip - Primary	Politely knock	Höflich anklopfen
+Room- SleeperCarriage	Prop Tooltip - Primary	Hesitantly knock	Zögerlich anklopfen
+Room- SleeperCarriage	Prop Tooltip - Primary	Cautiously knock	Vorsichtig anklopfen
+Room- SleeperCarriage	Prop Tooltip - Primary	Go to the Dining Carriage	Zum Speisewaggon gehen
+Room- SleeperCarriage	Prop Tooltip - Primary	Go to the Kitchen Carriage	Zum Küchenwaggon gehen
+Room- SleeperCarriage	Prop Tooltip - Primary	Politely knock	Höflich anklopfen
+Room- SleeperCarriage	Prop Tooltip - Primary	Browse travel pamphlets	Reisebroschüren ansehen
+Room- SleeperCarriage	Prop Tooltip - Primary	Call the onboard service	Den Bordservice anrufen
+Room- SleeperCarriage	Prop Tooltip - Primary	Tentatively knock	Zaghaft anklopfen
+Room- SleeperCarriage	Prop Tooltip - Primary	To Don's Quarters	Zu Dons Quartier
+Room- SleeperCarriage	Prop Tooltip - Primary	Disconnect the wiring	Die Verkabelung trennen
+Room- SleeperCarriage	Prop Tooltip - Secondary	Inspect room number	Zimmernummer inspizieren
+Room- SleeperCarriage	Prop Tooltip - Secondary	Inspect room number	Zimmernummer inspizieren
+Room- SleeperCarriage	Prop Tooltip - Secondary	Inspect room number	Zimmernummer inspizieren
+Room- SleeperCarriage	Prop Tooltip - Secondary	Inspect room number	Zimmernummer inspizieren
+Room- SleeperCarriage	Prop Tooltip - Secondary	Glance at the door sign	Auf das Türschild blicken
+Room- SleeperCarriage	Prop Tooltip - Secondary	Ooh, fancy!	Oh, schick!
+Room- SleeperCarriage	Prop Tooltip - Secondary	Inspect the plant pot	Den Blumentopf inspizieren
+Room- SleeperCarriage	Prop Tooltip - Secondary	Admire statue	Statue bewundern
+Room- SleeperCarriage	Prop Tooltip - Secondary	Admire statue	Statue bewundern
+Room- SleeperCarriage	Prop Tooltip - Secondary	Read carriage directions	Waggonwegbeschreibung lesen
+Room- SleeperCarriage	Prop Tooltip - Secondary	Read carriage directions	Waggonwegbeschreibung lesen
+Room- SleeperCarriage	Prop Tooltip - Secondary	Inspect room number	Zimmernummer inspizieren
+Room- SleeperCarriage	Prop Tooltip - Secondary	Look at the fusebox	Den Sicherungskasten ansehen
+Room- DiningCarriage	OnEnterRoom	Meet up with Lady Unterwald	Lady Unterwald treffen
+Room- DiningCarriage	OnEnterRoomAfterFadeSoberUp	Some Time Later...	Einige Zeit später ...
+Room- DiningCarriage	BackgroundWalkPastSign	No line cutting!	Nicht vordrängeln!
+Room- DiningCarriage	OnDonCallOut	Psst!	Psst!
+Room- DiningCarriage	OnDonCallOut	Hey kid!	Hey, Junge!
+Room- DiningCarriage	Prop Tooltip - Shorthand	water pitcher	Wasserkrug
+Room- DiningCarriage	Prop Tooltip - Shorthand	sign	Schild
+Room- DiningCarriage	Prop Tooltip - Shorthand	will	Testament
+Room- DiningCarriage	Prop Tooltip - Shorthand	napkins	Servietten
+Room- DiningCarriage	Prop Tooltip - Shorthand	glasses	Gläser
+Room- DiningCarriage	Prop Tooltip - Shorthand	lemons	Zitronen
+Room- DiningCarriage	Prop Tooltip - Shorthand	half-eaten meal	halb gegessene Mahlzeit
+Room- DiningCarriage	Prop Tooltip - Shorthand	half-eaten meal	halb gegessene Mahlzeit
+Room- DiningCarriage	Prop Tooltip - Shorthand	bottles	Flaschen
+Room- DiningCarriage	Prop Tooltip - Shorthand	bottles	Flaschen
+Room- DiningCarriage	Prop Tooltip - Shorthand	the sunset	Sonnenuntergang
+Room- DiningCarriage	Prop Tooltip - Shorthand	briefcase	Aktentasche
+Room- DiningCarriage	Prop Tooltip - Primary	Grab Don's room keys	Dons Zimmerschlüssel nehmen
+Room- DiningCarriage	Prop Tooltip - Primary	Go to the Sleeper Carriage	Zum Schlafwaggon gehen
+Room- DiningCarriage	Prop Tooltip - Primary	Go to the Casino Carriage	Zum Casinowaggon gehen
+Room- DiningCarriage	Prop Tooltip - Primary	Grab the missing will!	Das vermisste Testament nehmen!
+Room- DiningCarriage	Prop Tooltip - Primary	Ask about the corking device	Nach dem Korkgerät fragen
+Room- DiningCarriage	Prop Tooltip - Primary	Take a napkin	Eine Serviette nehmen
+Room- DiningCarriage	Prop Tooltip - Primary	Take a lemon	Eine Zitrone nehmen
+Room- DiningCarriage	Prop Tooltip - Primary	Pick up the magnet	Den Magneten nehmen
+Room- DiningCarriage	Prop Tooltip - Primary	Rummage through the briefcase	Die Aktentasche durchwühlen
+Room- DiningCarriage	Prop Tooltip - Secondary	Look at the water pitcher	Den Wasserkrug ansehen
+Room- DiningCarriage	Prop Tooltip - Secondary	Read the sign	Das Schild lesen
+Room- DiningCarriage	Prop Tooltip - Secondary	Examine the box of napkins	Die Schachtel mit Servietten untersuchen
+Room- DiningCarriage	Prop Tooltip - Secondary	Peer over the tray of drinks	Auf das Tablett mit den Drinks schauen
+Room- DiningCarriage	Prop Tooltip - Secondary	Ask about the lemons	Nach den Zitronen fragen
+Room- DiningCarriage	Prop Tooltip - Secondary	What was he eating?	Was hat er gegessen?
+Room- DiningCarriage	Prop Tooltip - Secondary	What was he eating?	Was hat er gegessen?
+Room- DiningCarriage	Prop Tooltip - Secondary	Inspect the bottles	Die Flaschen inspizieren
+Room- DiningCarriage	Prop Tooltip - Secondary	Inspect the bottles	Die Flaschen inspizieren
+Room- DiningCarriage	Prop Tooltip - Secondary	Stare directly into the sunset	Direkt in den Sonnenuntergang starren
+Room- DiningCarriage	Prop Tooltip - Secondary	Look at the briefcase	Die Aktentasche ansehen
+Room- CasinoCarriage	ChapterOne_WitnessedMeeting	Watch Don play roulette	Don beim Roulette spielen zusehen
+Room- CasinoCarriage	OnEnterRoom	Watch Don play roulette	Don beim Roulette spielen zusehen
+Room- CasinoCarriage	BackgroundChapterOneDonPlacesBet	Put it all on, uhh...	Setzen wir alles auf, ähh ...
+Room- CasinoCarriage	BackgroundChapterOneDonPlacesBet	Let's put everything on...	Setzen wir alles auf ...
+Room- CasinoCarriage	BackgroundChapterOneDonPlacesBet	I want everything on...	Ich setze alles auf ...
+Room- CasinoCarriage	BackgroundChapterOneDonPlacesBet	How about we put it all on...	Setzen wir doch alles auf ...
+Room- CasinoCarriage	BackgroundChapterOneDonPlacesBet	Red.	Rot.
+Room- CasinoCarriage	BackgroundChapterOneDonPlacesBet	Black.	Schwarz.
+Room- CasinoCarriage	BackgroundDonCelebratesAWin	Things are coming up green for Donny!	Für Donny ist alles im grünen Bereich!
+Room- CasinoCarriage	BackgroundDonCelebratesAWin	Yow! I love it!	Juhu! Ich liebe es!
+Room- CasinoCarriage	BackgroundDonCelebratesAWin	Woo! Money in the bag, baby!	Wuhu! Das Geld ist im Sack, Baby!
+Room- CasinoCarriage	BackgroundDonCelebratesAWin	Oh yeah! I won!	Oh ja! Ich habe gewonnen!
+Room- CasinoCarriage	BackgroundDonCelebratesAWin	I won!	Ich habe gewonnen!
+Room- CasinoCarriage	Prop Tooltip - Shorthand	curtain	Vorhang
+Room- CasinoCarriage	Prop Tooltip - Shorthand	roulette table	Roulettetisch
+Room- CasinoCarriage	Prop Tooltip - Shorthand	slot machine	Spielautomat
+Room- CasinoCarriage	Prop Tooltip - Shorthand	chandelier	Kronleuchter
+Room- CasinoCarriage	Prop Tooltip - Shorthand	notice	Aushang
+Room- CasinoCarriage	Prop Tooltip - Shorthand	the carriage directions	Waggonwegbeschreibung
+Room- CasinoCarriage	Prop Tooltip - Shorthand	the carriage directions	Waggonwegbeschreibung
+Room- CasinoCarriage	Prop Tooltip - Shorthand	casino patrons	Casinobesucher
+Room- CasinoCarriage	Prop Tooltip - Shorthand	flurry of hands	Handgemenge
+Room- CasinoCarriage	Prop Tooltip - Primary	Talk to the hidden figure	Mit der versteckten Gestalt reden
+Room- CasinoCarriage	Prop Tooltip - Primary	Go to the Dining Carriage	Zum Speisewaggon gehen
+Room- CasinoCarriage	Prop Tooltip - Primary	Go to Lounge Carriage	Zum Loungewaggon gehen
+Room- CasinoCarriage	Prop Tooltip - Primary	Chat to the casino patrons	Mit den Casinobesuchern plaudern
+Room- CasinoCarriage	Prop Tooltip - Secondary	What's behind this curtain?	Was verbirgt sich hinter diesem Vorhang?
+Room- CasinoCarriage	Prop Tooltip - Secondary	Inspect the roulette table	Den Roulettetisch inspizieren
+Room- CasinoCarriage	Prop Tooltip - Secondary	It's loud and annoying	Es ist laut und nervig
+Room- CasinoCarriage	Prop Tooltip - Secondary	It's a dazzling crystal chandelier	Es ist ein schillernder Kronleuchter aus Kristall
+Room- CasinoCarriage	Prop Tooltip - Secondary	Read the polite notice	Die höfliche Mitteilung lesen
+Room- CasinoCarriage	Prop Tooltip - Secondary	Read carriage directions	Waggonwegbeschreibung lesen
+Room- CasinoCarriage	Prop Tooltip - Secondary	Read carriage directions	Waggonwegbeschreibung lesen
+Room- CasinoCarriage	Prop Tooltip - Secondary	Look at the large magnet	Den großen Magneten ansehen
+Room- CasinoCarriage	Prop Tooltip - Secondary	It's a flurry of hands!	Es ist ein Handgemenge!
+Room- LoungeCarriage	OnEnterAfterFadePrologueAfterLostWill	Meanwhile...	In der Zwischenzeit ...
+Room- LoungeCarriage	ShowTrainHornSubtitle	WOooOOoooOOOOooo	TschUuuUUuuuUUUUuuu
+Room- LoungeCarriage	OnActOneHermanSpeechScene	Aieeeeee!	Aieeeeeeee!
+Room- LoungeCarriage	OnEnterAfterFadeActOneWillReading	Arthur Ackerman.	Arthur Ackerman.
+Room- LoungeCarriage	OnEnterAfterFadeActOneWillReading	YOU?!	DU?!
+Room- LoungeCarriage	OnEnterAfterFadeActOneWillReading	Huh?!	Hm?!
+Room- LoungeCarriage	OnEnterAfterFadeActOneWillReading	Wha-!	Wa...!
+Room- LoungeCarriage	OnEnterAfterFadeActTwoInterruptWillReading	Arthur Ackerman.	Arthur Ackerman.
+Room- LoungeCarriage	OnEnterAfterFadeActTwoInterruptWillReading	YOU?!	DU?!
+Room- LoungeCarriage	OnEnterAfterFadeActTwoInterruptWillReading	Huh?!	Hm?!
+Room- LoungeCarriage	OnEnterAfterFadeActTwoInterruptWillReading	Wha-!	Wa...!
+Room- LoungeCarriage	OnEnterAfterFadeActTwoHermanSpeech	Aieeeeee!	Aieeeeeeee!
+Room- LoungeCarriage	BackgroundActOneAristaYellsAtTwins	That's enough bickering, boys!	Schluss mit dem Gezanke, Jungs!
+Room- LoungeCarriage	BackgroundActOneAristaYellsAtTwins	Haven't we suffered enough?	Haben wir nicht schon genug gelitten?
+Room- LoungeCarriage	BackgroundActOneAristaYellsAtTwins	Sorry, mother.	Entschuldige, Mutter.
+Room- LoungeCarriage	Prop Tooltip - Shorthand	will	Testament
+Room- LoungeCarriage	Prop Tooltip - Shorthand	guest list	Gästeliste
+Room- LoungeCarriage	Prop Tooltip - Shorthand	bottle of turpentine	Flasche Terpentin
+Room- LoungeCarriage	Prop Tooltip - Shorthand	table	Tisch
+Room- LoungeCarriage	Prop Tooltip - Shorthand	piano	Klavier
+Room- LoungeCarriage	Prop Tooltip - Shorthand	backstage door	Backstage-Tür
+Room- LoungeCarriage	Prop Tooltip - Shorthand	microphone	Mikrofon
+Room- LoungeCarriage	Prop Tooltip - Shorthand	blood stain	Blutfleck
+Room- LoungeCarriage	Prop Tooltip - Shorthand	confetti	Konfetti
+Room- LoungeCarriage	Prop Tooltip - Shorthand	shoeshine seats	Schuhschein-Sitze
+Room- LoungeCarriage	Prop Tooltip - Shorthand	bookshelf	Bücherregal
+Room- LoungeCarriage	Prop Tooltip - Primary	Go to the Casino Carriage	Zum Casinowaggon gehen
+Room- LoungeCarriage	Prop Tooltip - Primary	Go to Lady Unterwald's quarters	Zu Lady Unterwalds Quartier gehen
+Room- LoungeCarriage	Prop Tooltip - Primary	Snatch the hearing horn	Das Hörrohr schnappen
+Room- LoungeCarriage	Prop Tooltip - Primary	Hurriedly grab the will	Eilig das Testament nehmen
+Room- LoungeCarriage	Prop Tooltip - Primary	Swipe the set list	Die Setliste stibitzen
+Room- LoungeCarriage	Prop Tooltip - Primary	Grab the guest list	Die Gästeliste nehmen
+Room- LoungeCarriage	Prop Tooltip - Primary	Go to the green room	In den Green Room gehen
+Room- LoungeCarriage	Prop Tooltip - Primary	Pick up the bottle of turpentine	Die Flasche Terpentin nehmen
+Room- LoungeCarriage	Prop Tooltip - Secondary	Look at the hearing horn	Das Hörrohr ansehen
+Room- LoungeCarriage	Prop Tooltip - Secondary	Read the guest list	Die Gästeliste lesen
+Room- LoungeCarriage	Prop Tooltip - Secondary	Look at the table	Den Tisch ansehen
+Room- LoungeCarriage	Prop Tooltip - Secondary	Admire the Piano	Das Klavier bewundern
+Room- LoungeCarriage	Prop Tooltip - Secondary	Peer into the Green Room	In den Green Room spähen
+Room- LoungeCarriage	Prop Tooltip - Secondary	Grab the Microphone	Das Mikrofon nehmen
+Room- LoungeCarriage	Prop Tooltip - Secondary	It’s a dried up blood stain	Es ist ein eingetrockneter Blutfleck
+Room- LoungeCarriage	Prop Tooltip - Secondary	Look at the confetti	Das Konfetti ansehen
+Room- LoungeCarriage	Prop Tooltip - Secondary	Take a seat	Hinsetzen
+Room- LoungeCarriage	Prop Tooltip - Secondary	Inspect the bookshelf	Das Bücherregal inspizieren
+Room- HandshakeClub	OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited	THE ORDER OF IDLE HANDS.	ORDEN DER MÜßIGEN HÄNDE.
+Room- HandshakeClub	OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited	THE ORDER OF IDLE HANDS.	ORDEN DER MÜßIGEN HÄNDE.
+Room- HandshakeClub	OnEnterRoomAfterFadeActOneBeforeHandshakeClubVisited	THE ORDER OF IDLE HANDS.	ORDEN DER MÜßIGEN HÄNDE.
+Room- HandshakeClub	OnEnterRoomAfterFadeActTwoSustainedInjury	Take it easy there, Herman. You had a bit of a nasty hand injury.	Ganz ruhig, Hermann. Du hattest eine böse Handverletzung.
+Room- HandshakeClub	OnEnterRoomAfterFadeActTwoSustainedInjury	Jian?	Jian?
+Room- HandshakeClub	OnEnterRoomAfterFadeActTwoSustainedInjury	Brother Jared	Bruder Jared
+Room- HandshakeClub	OnEnterRoomAfterFadeActTwoSustainedInjury	Talk to Brother Jared	Mit Bruder Jared reden
+Room- HandshakeClub	OnUseInvPropMouseHole	Mouse Burrow with Cheese Crumbs	Mäuseloch mit Käsekrümeln
+Room- HandshakeClub	Prop Tooltip - Shorthand	curtain	Vorhang
+Room- HandshakeClub	Prop Tooltip - Shorthand	mouse burrow	Mäuseloch
+Room- HandshakeClub	Prop Tooltip - Shorthand	mouse burrow	Mäuseloch
+Room- HandshakeClub	Prop Tooltip - Shorthand	smudge	Fleck
+Room- HandshakeClub	Prop Tooltip - Shorthand	painting	Gemälde
+Room- HandshakeClub	Prop Tooltip - Shorthand	book	Buch
+Room- HandshakeClub	Prop Tooltip - Primary	Leave the room	Den Raum verlassen
+Room- HandshakeClub	Prop Tooltip - Secondary	It's a mouse burrow!	Das ist ein Mäuseloch!
+Room- HandshakeClub	Prop Tooltip - Secondary	A corked up mouse hole	Ein verkorktes Mauseloch
+Room- HandshakeClub	Prop Tooltip - Secondary	Is that a smudge?	Ist das ein Fleck?
+Room- HandshakeClub	Prop Tooltip - Secondary	Look at the gesture	Die Geste ansehen
+Room- HandshakeClub	Prop Tooltip - Secondary	Ask about the book	Nach dem Buch fragen
+Room- StorageRoom	OnEnterRoomAfterFadeActOneHermanConductorCutscene	Are you sure you haven't just misplaced your room keys, sir?	Sind Sie sicher, dass Sie Ihren Zimmerschlüssel nicht bloß verlegt haben, Sir?
+Room- StorageRoom	OnEnterRoomAfterFadeActOneHermanConductorCutscene	No sir, you've been very cl-	Nein, Sir, Sie waren sehr ...
+Room- StorageRoom	OnEnterRoomAfterFadeActOneHermanConductorCutscene	I smell a rat, and I'm going to sniff them out, if my name isn't-	Ich rieche eine Ratte und ich werde sie erschnüffeln, sonst wäre ich nicht ...
+Room- StorageRoom	OnInteractPropMouse	Attempt to grab the mouse	Versuchen, die Maus zu greifen
+Room- StorageRoom	Prop Tooltip - Shorthand	briefcase	Aktentasche
+Room- StorageRoom	Prop Tooltip - Shorthand	fence	Zaun
+Room- StorageRoom	Prop Tooltip - Shorthand	Cheese	Käse
+Room- StorageRoom	Prop Tooltip - Shorthand	large crate	große Kiste
+Room- StorageRoom	Prop Tooltip - Shorthand	the padlock	Vorhängeschloss
+Room- StorageRoom	Prop Tooltip - Shorthand	gate	Tor
+Room- StorageRoom	Prop Tooltip - Shorthand	ladder pull	Leiterhaken
+Room- StorageRoom	Prop Tooltip - Shorthand	spray bottle	Sprühflasche
+Room- StorageRoom	Prop Tooltip - Shorthand	heavy chest	schwere Truhe
+Room- StorageRoom	Prop Tooltip - Shorthand	briefcases	Aktentaschen
+Room- StorageRoom	Prop Tooltip - Shorthand	the darkness	Dunkelheit
+Room- StorageRoom	Prop Tooltip - Primary	Is that the doctor's briefcase?	Ist das die Aktentasche des Doktors?
+Room- StorageRoom	Prop Tooltip - Primary	Leave the luggage storage	Das Gepäcklager verlassen
+Room- StorageRoom	Prop Tooltip - Primary	Quickly apprehend the mouse	Schnell die Maus ergreifen
+Room- StorageRoom	Prop Tooltip - Primary	Open the gate	Das Tor öffnen
+Room- StorageRoom	Prop Tooltip - Primary	Take the ladder pull	Den Leiterhaken nehmen
+Room- StorageRoom	Prop Tooltip - Primary	Pick up the spray bottle	Die Sprühflasche nehmen
+Room- StorageRoom	Prop Tooltip - Secondary	Inspect the briefcase	Die Aktentasche inspizieren
+Room- StorageRoom	Prop Tooltip - Secondary	Examine the chewed up fence	Den zerfressenen Zaun untersuchen
+Room- StorageRoom	Prop Tooltip - Secondary	Look at the cheese	Den Käse ansehen
+Room- StorageRoom	Prop Tooltip - Secondary	Examine the large crate	Die große Kiste untersuchen
+Room- StorageRoom	Prop Tooltip - Secondary	Tug on the padlock	An dem Vorhängeschloss ziehen
+Room- StorageRoom	Prop Tooltip - Secondary	Explore the chest	Die Truhe untersuchen
+Room- StorageRoom	Prop Tooltip - Secondary	Look through the briefcases	Die Aktentasche durchsehen
+Room- StorageRoom	Prop Tooltip - Secondary	Peer into the darkness	In die Dunkelheit blicken
+Room- UnterwaldCarriage	OnEnterRoomAfterFadeActTwoBeforeWearingDisguise	Some Time Later...	Einige Zeit später ...
+Room- UnterwaldCarriage	OnEnterRoomAfterFadeActTwoUnterwaldHermanIntroduction	Another bouquet? You certainly know how to flatter an old gal.	Noch ein Strauß? Du weißt wirklich, wie man einem alten Mädchen schmeichelt.
+Room- UnterwaldCarriage	OnEnterRoomAfterFadeActTwoUnterwaldHermanIntroduction	room key	Zimmerschlüssel
+Room- UnterwaldCarriage	OnEnterRoomAfterFadeActTwoUnterwaldHermanIntroduction	Examine room key	Zimmerschlüssel untersuchen
+Room- UnterwaldCarriage	OnEnterRoomAfterFadeActOneOpeningTheSafe	Some Time Later...	Einige Zeit später ...
+Room- UnterwaldCarriage	OnEnterRoomAfterFadeActTwoEnterVent	No, Jian. We don't have a deal. I've made up my mind!	Nein, Jian. Wir haben keine Abmachung. Ich habe mich entschieden!
+Room- UnterwaldCarriage	OnEnterRoomAfterFadeActTwoEnterVent	AauGHh!	AauGHh!
+Room- UnterwaldCarriage	OnLookAtPropWardrobeActOneChapterOneTalkToHerman	Coerce Herman out of the wardrobe	Hermann aus dem Kleiderschrank drängen
+Room- UnterwaldCarriage	OnInteractPropInstrumentCaseFreeMrLiu	Do we really believe that Lady Unterwald left her entire estate to that no-name attorney?	Glauben wir wirklich, dass Lady Unterwald ihr gesamtes Vermögen diesem unbekannten Anwalt vermacht hat?
+Room- UnterwaldCarriage	OnInteractPropInstrumentCaseFreeMrLiu	Arthur had access to Lady Unterwald and her legal paperwork. It's a troubling thought, I must say.	Arthur hatte Zugang zu Lady Unterwald und ihren offiziellen Dokumenten. Das ist ein beunruhigender Gedanke, muss ich sagen.
+Room- UnterwaldCarriage	Prop Tooltip - Shorthand	briefcase	Aktentasche
+Room- UnterwaldCarriage	Prop Tooltip - Shorthand	instrument case	Instrumentenkoffer
+Room- UnterwaldCarriage	Prop Tooltip - Shorthand	gift basket	Geschenkkorb
+Room- UnterwaldCarriage	Prop Tooltip - Shorthand	chilli plant	Chilipflanze
+Room- UnterwaldCarriage	Prop Tooltip - Shorthand	gift basket	Geschenkkorb
+Room- UnterwaldCarriage	Prop Tooltip - Shorthand	balloon	Luftballon
+Room- UnterwaldCarriage	Prop Tooltip - Shorthand	wardrobe	Kleiderschrank
+Room- UnterwaldCarriage	Prop Tooltip - Shorthand	rug	Teppich
+Room- UnterwaldCarriage	Prop Tooltip - Shorthand	drawer	Schublade
+Room- UnterwaldCarriage	Prop Tooltip - Shorthand	petal leaf	Blütenblätter
+Room- UnterwaldCarriage	Prop Tooltip - Shorthand	hatch	Klappe
+Room- UnterwaldCarriage	Prop Tooltip - Shorthand	greetings card	Grußkarte
+Room- UnterwaldCarriage	Prop Tooltip - Shorthand	painting	Gemälde
+Room- UnterwaldCarriage	Prop Tooltip - Shorthand	safe	Tresor
+Room- UnterwaldCarriage	Prop Tooltip - Shorthand	Mr Liu	Herr Liu
+Room- UnterwaldCarriage	Prop Tooltip - Primary	Take a chilli pepper	Eine Chilischote nehmen
+Room- UnterwaldCarriage	Prop Tooltip - Primary	Slide open the window	Das Fenster aufschieben
+Room- UnterwaldCarriage	Prop Tooltip - Primary	Roll up the rug	Den Teppich aufrollen
+Room- UnterwaldCarriage	Prop Tooltip - Primary	Rifle through the drawer	Die Schublade durchwühlen
+Room- UnterwaldCarriage	Prop Tooltip - Primary	Pick up the petal leaf	Die Blütenblätter nehmen
+Room- UnterwaldCarriage	Prop Tooltip - Primary	Leave the room	Den Raum verlassen
+Room- UnterwaldCarriage	Prop Tooltip - Primary	Examine the locks	Die Schlösser untersuchen
+Room- UnterwaldCarriage	Prop Tooltip - Secondary	Examine the briefcase	Die Aktentasche untersuchen
+Room- UnterwaldCarriage	Prop Tooltip - Secondary	Look over the books	Die Bücher ansehen
+Room- UnterwaldCarriage	Prop Tooltip - Secondary	This instrument case is huge!	Dieser Instrumentenkoffer ist riesig!
+Room- UnterwaldCarriage	Prop Tooltip - Secondary	Check out the retirement gift	Die Ruhestandgeschenke ansehen
+Room- UnterwaldCarriage	Prop Tooltip - Secondary	Check out the chilli plant	Die Chilipflanze ansehen
+Room- UnterwaldCarriage	Prop Tooltip - Secondary	Check out the retirement gift	Die Ruhestandgeschenke ansehen
+Room- UnterwaldCarriage	Prop Tooltip - Secondary	Enjoy the balloons	Dich an den Luftballons erfreuen
+Room- UnterwaldCarriage	Prop Tooltip - Secondary	It's a real life walk-in wardrobe!	Das ist ein echter begehbarer Kleiderschrank!
+Room- UnterwaldCarriage	Prop Tooltip - Secondary	Was this moved recently?	Wurde der kürzlich bewegt?
+Room- UnterwaldCarriage	Prop Tooltip - Secondary	Ask about the rose petals	Nach den Rosenblättern fragen
+Room- UnterwaldCarriage	Prop Tooltip - Secondary	Stare in awe at the floor hatch	Ehrfürchtig auf die Bodenklappe starren
+Room- UnterwaldCarriage	Prop Tooltip - Secondary	It's the same model as mine!	Es ist das gleiche Modell wie meins!
+Room- UnterwaldCarriage	Prop Tooltip - Secondary	Read the greetings card	Die Grußkarte lesen
+Room- UnterwaldCarriage	Prop Tooltip - Secondary	I hope I didn't spoil the portrait	Ich hoffe, ich habe das Porträt nicht ruiniert
+Room- UnterwaldCarriage	Prop Tooltip - Secondary	Ponder the safe	Über den Tresor nachdenken
+Room- UnterwaldCarriage	Prop Tooltip - Secondary	Look at Mr Liu	Herrn Liu ansehen
+Room- KitchenCarriage	OnEnterRoomAfterFadeActOneDrunkMontageEnd	Some Time Later...	
+Room- KitchenCarriage	OnLookAtPropSaucepanActOne	Taste the soup	Den Eintopf probieren
+Room- KitchenCarriage	OnLookAtPropSaucepanActOne	suspicious soup	verdächtiger Eintopf
+Room- KitchenCarriage	Prop Tooltip - Shorthand	mouse burrow	Mäuseloch
+Room- KitchenCarriage	Prop Tooltip - Shorthand	corked burrow	verkorktes Loch
+Room- KitchenCarriage	Prop Tooltip - Shorthand	pans	Pfannen
+Room- KitchenCarriage	Prop Tooltip - Shorthand	stovetop	Herdplatte
+Room- KitchenCarriage	Prop Tooltip - Shorthand	tap	Wasserhahn
+Room- KitchenCarriage	Prop Tooltip - Shorthand	gas valve	Gasventil
+Room- KitchenCarriage	Prop Tooltip - Shorthand	sink plunger	Saugglocke
+Room- KitchenCarriage	Prop Tooltip - Shorthand	oyster sack	Austernsack
+Room- KitchenCarriage	Prop Tooltip - Shorthand	stockpot	Suppentopf
+Room- KitchenCarriage	Prop Tooltip - Shorthand	knobs	Knöpfe
+Room- KitchenCarriage	Prop Tooltip - Shorthand	spice rack	Gewürzregal
+Room- KitchenCarriage	Prop Tooltip - Shorthand	discarded gas canister	ausrangierter Benzinkanister
+Room- KitchenCarriage	Prop Tooltip - Primary	Swipe the oven gloves	Die Ofenhandschuhe stibitzen
+Room- KitchenCarriage	Prop Tooltip - Primary	Grab the butter	Die Butter nehmen
+Room- KitchenCarriage	Prop Tooltip - Primary	Use the tap	Den Wasserhahn verwenden
+Room- KitchenCarriage	Prop Tooltip - Primary	Increase the gas flow	Den Gasfluss erhöhen
+Room- KitchenCarriage	Prop Tooltip - Primary	Grab the sink plunger	Die Saugglocke nehmen
+Room- KitchenCarriage	Prop Tooltip - Primary	Turn off the grill	Den Grill ausschalten
+Room- KitchenCarriage	Prop Tooltip - Primary	Go to the exterior carriage	Zum Außenwaggon gehen
+Room- KitchenCarriage	Prop Tooltip - Primary	To Kitchen Pantry	Zum Küchenvorratswagen.
+Room- KitchenCarriage	Prop Tooltip - Primary	Return to the sleeper carriage	Zum Schlafwaggon zurückkehren
+Room- KitchenCarriage	Prop Tooltip - Secondary	It's a house for a mouse	Es ist ein Haus für eine Maus
+Room- KitchenCarriage	Prop Tooltip - Secondary	It's perfectly sealed!	Es ist perfekt versiegelt!
+Room- KitchenCarriage	Prop Tooltip - Secondary	Glance at the pans	Auf die Pfannen blicken
+Room- KitchenCarriage	Prop Tooltip - Secondary	That's a fancy stovetop	Das ist eine schicke Herdplatte
+Room- KitchenCarriage	Prop Tooltip - Secondary	When was this last cleaned?	Wann wurden die zuletzt gereinigt?
+Room- KitchenCarriage	Prop Tooltip - Secondary	Look at the oyster sack	Den Austernsack ansehen
+Room- KitchenCarriage	Prop Tooltip - Secondary	What’s cooking?	Was köchelt denn da?
+Room- KitchenCarriage	Prop Tooltip - Secondary	Examine the spice rack	Das Gewürzregal untersuchen
+Room- KitchenCarriage	Prop Tooltip - Secondary	It’s a discarded gas canister	Es ist ein ausrangierter Benzinkanister
+Room- KitchenCarriage	Prop Tooltip - Secondary	This must be the pantry	Das muss der Vorratswaggon sein
+Room- Pantry	Prop Tooltip - Shorthand	cheese wheel	Käserad
+Room- Pantry	Prop Tooltip - Shorthand	baguettes	Baguettes
+Room- Pantry	Prop Tooltip - Shorthand	the eggs	Eier
+Room- Pantry	Prop Tooltip - Shorthand	pickle jars	Einmachgläser
+Room- Pantry	Prop Tooltip - Shorthand	preserves	Konserven
+Room- Pantry	Prop Tooltip - Shorthand	flour	Mehl
+Room- Pantry	Prop Tooltip - Shorthand	Lady Unterwald’s Cane	Lady Unterwalds Gehstock
+Room- Pantry	Prop Tooltip - Shorthand	freezer	Gefriertruhe
+Room- Pantry	Prop Tooltip - Primary	Leave the pantry	Den Vorratswaggon verlassen
+Room- Pantry	Prop Tooltip - Primary	Break off a piece	Ein Stück abbrechen
+Room- Pantry	Prop Tooltip - Primary	Grab the walking cane	Den Gehstock nehmen
+Room- Pantry	Prop Tooltip - Secondary	Investigate the cheese wheel	Das Käserad untersuchen
+Room- Pantry	Prop Tooltip - Secondary	Gaze at the baguettes	Auf die Baguettes blicken
+Room- Pantry	Prop Tooltip - Secondary	Check the eggs	Die Eier überprüfen
+Room- Pantry	Prop Tooltip - Secondary	Inspect the pickle jars	Die Einmachgläser inspizieren
+Room- Pantry	Prop Tooltip - Secondary	Look at the preserves	Die Konserven ansehen
+Room- Pantry	Prop Tooltip - Secondary	Examine the flour	Das Mehl untersuchen
+Room- Pantry	Prop Tooltip - Secondary	Is this Lady Unterwald’s Cane?	Ist das Lady Unterwalds Gehstock?
+Room- Pantry	Prop Tooltip - Secondary	That’s a large freezer	Das ist eine große Gefriertruhe
+Room- ExteriorCarriage	OnEnterRoomAfterFadeActThreeMrLiuShowdown	Not so fast!	Nicht so schnell!
+Room- ChapterCard	OnEnterRoomAfterFade	Finale	Finale
+Room- UnterwaldLobby	OnEnterRoomAfterFadeActTwoMeetArista	Boys, stop this arguing at once!	Jungs, hört sofort auf zu streiten!
+Room- UnterwaldLobby	OnEnterRoomAfterFadeActTwoMeetArista	There's to be no arguing! Not in front of our guest.	Es wird nicht gestritten! Nicht vor unserem Gast.
+Room- UnterwaldLobby	OnEnterRoomAfterFadeActTwoMeetArista	Sorry, mother.	Entschuldige, Mutter.
+Room- UnterwaldLobby	Prop Tooltip - Shorthand	button	Taste
+Room- UnterwaldLobby	Prop Tooltip - Shorthand	plaque	Tafel
+Room- UnterwaldLobby	Prop Tooltip - Shorthand	the telephone	
+Room- UnterwaldLobby	Prop Tooltip - Primary	Go to Lady Unterwald's Quarters	Zu Lady Unterwalds Quartier gehen
+Room- UnterwaldLobby	Prop Tooltip - Primary	Go to Lounge Carriage	Zum Loungewaggon gehen
+Room- UnterwaldLobby	Prop Tooltip - Primary	Go to the washroom	Zum Waschraum gehen
+Room- UnterwaldLobby	Prop Tooltip - Primary	Push the button	Die Taste drücken
+Room- UnterwaldLobby	Prop Tooltip - Primary	Attempt to open the door	Versuchen, die Tür zu öffnen
+Room- UnterwaldLobby	Prop Tooltip - Primary	Call the onboard service	
+Room- PublisherOffice	OnEnterRoomAfterFadeActTwoMeetThePublishers	Nooooo!	Neeeeein!
+Room- PublisherOffice	OnEnterRoomAfterFadeActTwoMeetThePublishers	Nooooo!	Neeeeein!
+Room- PublisherOffice	OnEnterRoomAfterFadeActTwoMeetThePublishers	Nooooo!	Neeeeein!
+Room- PublisherOffice	OnEnterRoomAfterFadeActTwoMeetThePublishers	The board.	Das Rad.
+Room- PublisherOffice	OnEnterRoomAfterFadeActTwoMeetThePublishers	The board.	Das Rad.
+Room- PublisherOffice	OnEnterRoomAfterFadeActTwoMeetThePublishers	The board.	Das Rad.
+Room- PublisherOffice	OnUseInvPropSlotCupOfPaste	Gloat at the board	Dem Rad hämische Blicke zuwerfen
+Room- PublisherOffice	OnDeliverCorrectManuscript	Ah ha ha!	Ah ha ha!
+Room- PublisherOffice	OnDeliverCorrectManuscript	Oh ho ho!	Oh ho ho!
+Room- PublisherOffice	OnDeliverCorrectManuscript	Ah ha ha!	Ah ha ha!
+Room- PublisherOffice	OnDeliverCorrectManuscript	It's for you, Herman. Were you expecting a call?	Es ist für dich, Hermann. Hast du einen Anruf erwartet?
+Room- PublisherOffice	BackgroundPublishersDistracted	Shoo! Get out of here!	Kusch! Verschwinde von hier!
+Room- PublisherOffice	BackgroundPublishersDistracted	Get out of here!	Verschwinde von hier!
+Room- PublisherOffice	BackgroundPublishersDistracted	Get away from here, you winged rodents!	Verschwindet von hier, ihr geflügelten Nagetiere!
+Room- PublisherOffice	Prop Tooltip - Shorthand	the billboard	der Werbetafel
+Room- PublisherOffice	Prop Tooltip - Shorthand	the merch pile	dem Merch-Stapel
+Room- PublisherOffice	Prop Tooltip - Shorthand	the desk phone	dem Tischtelefon
+Room- PublisherOffice	Prop Tooltip - Shorthand	the board	dem Rad
+Room- PublisherOffice	Prop Tooltip - Shorthand	the slot	dem Schlitz
+Room- PublisherOffice	Prop Tooltip - Shorthand	the water cooler	dem Wasserspender
+Room- PublisherOffice	Prop Tooltip - Shorthand	the slot	dem Schlitz
+Room- PublisherOffice	Prop Tooltip - Shorthand	the paper cups	den Pappbechern
+Room- PublisherOffice	Prop Tooltip - Shorthand	the in-tray	der Ablage
+Room- PublisherOffice	Prop Tooltip - Shorthand	the document	dem Dokument
+Room- PublisherOffice	Prop Tooltip - Shorthand	the in-tray	
+Room- PublisherOffice	Prop Tooltip - Shorthand	the stationary pot	dem Schreibtischzubehör
+Room- PublisherOffice	Prop Tooltip - Shorthand	the packaging	dem Verpackungsmaterial
+Room- PublisherOffice	Prop Tooltip - Shorthand	the windowsill	der Fensterbank
+Room- PublisherOffice	Prop Tooltip - Shorthand	the pigeon	der Taube
+Room- PublisherOffice	Prop Tooltip - Shorthand	the waste paper bin	der Papiertonne
+Room- PublisherOffice	Prop Tooltip - Shorthand	the lever	dem Hebel
+Room- PublisherOffice	Prop Tooltip - Shorthand	the cityscape	dem Stadtbild
+Room- PublisherOffice	Prop Tooltip - Shorthand	the mail	der Post
+Room- PublisherOffice	Prop Tooltip - Primary	Pick up the prototype doll	Die Prototyp-Puppe nehmen
+Room- PublisherOffice	Prop Tooltip - Primary	Grab a paper cup	Einen Pappbecher nehmen
+Room- PublisherOffice	Prop Tooltip - Primary	Check for packages	Nach Paketen überprüfen
+Room- PublisherOffice	Prop Tooltip - Primary	Swipe the stationary pot	Das Schreibtischzubehör stibitzen
+Room- PublisherOffice	Prop Tooltip - Primary	Take some popcorn	Etwas Popcorn nehmen
+Room- PublisherOffice	Prop Tooltip - Primary	Take the discarded manuscript	Das weggeworfene Manuskript nehmen
+Room- PublisherOffice	Prop Tooltip - Secondary	Is that a Dirk Chiselton billboard?	Ist das eine Dirk-Chiselton-Plakatwand?
+Room- PublisherOffice	Prop Tooltip - Secondary	Look at all that Herman merch!	Sieh dir all das Hermann-Merchandise an!
+Room- PublisherOffice	Prop Tooltip - Secondary	Look at the desk phone	Das Tischtelefon ansehen
+Room- PublisherOffice	Prop Tooltip - Secondary	Glare at the board	Dem Rad böse Blicke zuwerfen
+Room- PublisherOffice	Prop Tooltip - Secondary	Examine the slot	Den Schlitz untersuchen
+Room- PublisherOffice	Prop Tooltip - Secondary	Look at the water cooler	Den Wasserspender ansehen
+Room- PublisherOffice	Prop Tooltip - Secondary	Examine the slot	Den Schlitz untersuchen
+Room- PublisherOffice	Prop Tooltip - Secondary	Peek at the in-tray	In die Ablage schauen
+Room- PublisherOffice	Prop Tooltip - Secondary	Look at the document	Das Dokument ansehen
+Room- PublisherOffice	Prop Tooltip - Secondary	Look at the stationary pot	Das Schreibtischzubehör ansehen
+Room- PublisherOffice	Prop Tooltip - Secondary	Ponder the packaging	Über das Verpackungsmaterial nachdenken
+Room- PublisherOffice	Prop Tooltip - Secondary	Look at the windowsill	Die Fensterbank ansehen
+Room- PublisherOffice	Prop Tooltip - Secondary	It's a pigeon!	Es ist eine Taube!
+Room- PublisherOffice	Prop Tooltip - Secondary	Look at the waste paper bin	Die Papiertonne ansehen
+Room- PublisherOffice	Prop Tooltip - Secondary	That's a big lever	Das ist ein großer Hebel
+Room- PublisherOffice	Prop Tooltip - Secondary	Ponder the skyline	Über die Skyline nachdenken
+Room- PublisherOffice	Prop Tooltip - Secondary	Peer at the stacks of mail	Den Poststapel ansehen
+Room- HermanExterior	Prop Tooltip - Shorthand	lost will	verlorenes Testament
+Room- HermanExterior	Prop Tooltip - Primary	Head back inside	Wieder reingehen
+Room- HermanExterior	Prop Tooltip - Secondary	Look at the will	Das Testament ansehen
+Room- SealedLetter	OnInteractPropEnvelope	Pick at the wax seal	Am Wachssiegel herumpicken
+Room- SealedLetter	OnInteractPropEnvelope	Scrape at the wax seal	Am Wachssiegel kratzen
+Room- SealedLetter	Prop Tooltip - Shorthand	seal	Siegel
+Room- SealedLetter	Prop Tooltip - Primary	Break the wax seal	Das Wachssiegel aufbrechen
+Room- DonCasinoChips	Prop Tooltip - Primary	Confiscate the casino chips	Die Casino-Chips konfiszieren
+Room- HermanRooftop	Prop Tooltip - Shorthand	lost will	verlorenes Testament
+Room- HermanRooftop	Prop Tooltip - Primary	Head back inside	Wieder reingehen
+Room- HermanRooftop	Prop Tooltip - Secondary	Look at the will	Das Testament ansehen
+Room- RooftopAccess	OnInteractPropLadderSuctionBoots	With this new footwear, I should be able to slip into my room, unhindered.	Mit diesem neuen Schuhwerk sollte ich ungehindert in mein Zimmer schlüpfen können.
+Room- RooftopAccess	Prop Tooltip - Shorthand	ladder	Leiter
+Room- RooftopAccess	Prop Tooltip - Primary	Go to the Kitchen Carriage	
+Room- RooftopAccess	Prop Tooltip - Primary	Climb on to the roof	Auf das Dach klettern
+Room- Cell	Prop Tooltip - Shorthand	toilet bowl	Toilettenschüssel
+Room- Cell	Prop Tooltip - Shorthand	toilet flush	Toilettenspülung
+Room- Cell	Prop Tooltip - Shorthand	opening	Öffnung
+Room- Cell	Prop Tooltip - Shorthand	cell door	Zellentür
+Room- Cell	Prop Tooltip - Shorthand	valve	Ventil
+Room- Cell	Prop Tooltip - Shorthand	toilet	Toilette
+Room- Cell	Prop Tooltip - Shorthand	toilet flush	Toilettenspülung
+Room- Cell	Prop Tooltip - Shorthand	opening	Öffnung
+Room- Cell	Prop Tooltip - Shorthand	cell door	Zellentür
+Room- Cell	Prop Tooltip - Shorthand	toilet	Toilette
+Room- Cell	Prop Tooltip - Shorthand	toilet flush	Toilettenspülung
+Room- Cell	Prop Tooltip - Shorthand	opening	Öffnung
+Room- Cell	Prop Tooltip - Shorthand	cell door	Zellentür
+Room- Cell	Prop Tooltip - Shorthand	the bed	dem Bett
+Room- Cell	Prop Tooltip - Shorthand	the bed frame	dem Bettrahmen
+Room- Cell	Prop Tooltip - Shorthand	the bed	dem Bett
+Room- Cell	Prop Tooltip - Shorthand	the pillow	dem Kissen
+Room- Cell	Prop Tooltip - Shorthand	leaky pipe	undichte Leitung
+Room- Cell	Prop Tooltip - Shorthand	the bed	
+Room- Cell	Prop Tooltip - Primary	Flush the toilet	Die Toilette spülen
+Room- Cell	Prop Tooltip - Primary	Turn the valve	Das Ventil drehen
+Room- Cell	Prop Tooltip - Primary	Flush the toilet	Die Toilette spülen
+Room- Cell	Prop Tooltip - Primary	Flush the toilet	Die Toilette spülen
+Room- Cell	Prop Tooltip - Primary	Pick up the rusty pole	Die rostige Stange nehmen
+Room- Cell	Prop Tooltip - Secondary	Look inside the toilet	In die Toilette schauen
+Room- Cell	Prop Tooltip - Secondary	Look out from the cell	Aus der Zelle herausschauen
+Room- Cell	Prop Tooltip - Secondary	Attempt the cell door	Die Zellentür versuchen
+Room- Cell	Prop Tooltip - Secondary	Look inside the toilet	In die Toilette schauen
+Room- Cell	Prop Tooltip - Secondary	Peek through the bars	Durch die Gitterstäbe spähen
+Room- Cell	Prop Tooltip - Secondary	Look inside the toilet	In die Toilette schauen
+Room- Cell	Prop Tooltip - Secondary	Check the hallway	Den Korridor überprüfen
+Room- Cell	Prop Tooltip - Secondary	Look at the cell door	Die Zellentür ansehen
+Room- Cell	Prop Tooltip - Secondary	Climb up to the window	Zum Fenster hochklettern
+Room- Cell	Prop Tooltip - Secondary	Examine the bed	Das Bett untersuchen
+Room- Cell	Prop Tooltip - Secondary	Examine the bed frame	Den Bettrahmen untersuchen
+Room- Cell	Prop Tooltip - Secondary	Grimace at the bed	Beim Anblick des Bettes das Gesicht verziehen
+Room- Cell	Prop Tooltip - Secondary	Check under the pillow	Unter dem Kissen nachsehen
+Room- Cell	Prop Tooltip - Secondary	Is that a leaky pipe?	Ist das ein undichtes Rohr?
+Room- Cell	Prop Tooltip - Secondary	Examine the bed	
+Room- CellExterior	OnUseInvPropMagneticBallAgentM	That's it, bring it back to me!	Das ist sie! Bring sie mir!
+Room- CellExterior	Prop Tooltip - Shorthand	lockbox	Schließfach
+Room- CellExterior	Prop Tooltip - Shorthand	chain	Kette
+Room- CellExterior	Prop Tooltip - Shorthand	cell	Zelle
+Room- CellExterior	Prop Tooltip - Shorthand	cell	Zelle
+Room- CellExterior	Prop Tooltip - Shorthand	cell	Zelle
+Room- CellExterior	Prop Tooltip - Shorthand	jail keys	Gefängnisschlüssel
+Room- CellExterior	Prop Tooltip - Shorthand	the telephone	
+Room- CellExterior	Prop Tooltip - Primary	Return to the cell	In die Zelle zurückkehren
+Room- CellExterior	Prop Tooltip - Primary	Return to the cell	In die Zelle zurückkehren
+Room- CellExterior	Prop Tooltip - Primary	Return to the cell	In die Zelle zurückkehren
+Room- CellExterior	Prop Tooltip - Primary	Swipe the jail keys	Die Gefängnisschlüssel stibitzen
+Room- CellExterior	Prop Tooltip - Primary	Phone the Dirk Chiselton Hotline	Die Dirk-Chiselton-Hotline anrufen
+Room- CellExterior	Prop Tooltip - Secondary	Check out the locker	Das Schließfach ansehen
+Room- CellExterior	Prop Tooltip - Secondary	Look at the wall chain	Die Wandkette ansehen
+Room- CellExterior	Prop Tooltip - Secondary	Did somebody drop that?	Hat das jemand fallen lassen?
+Room- StationExterior	Prop Tooltip - Secondary	Return to my cell	In meine Zelle zurückkehren
+Room- GreenRoom	OnEnterRoomResetState	Talk to the singer	Mit der Sängerin reden
+Room- GreenRoom	OnEnterRoomResetState	singer	Sängerin
+Room- GreenRoom	OnEnterRoomResetState	Talk to the band members	Mit den Bandmitgliedern reden
+Room- GreenRoom	OnEnterRoomResetState	bassist	Bassist
+Room- GreenRoom	OnEnterRoomResetState	Talk to the band members	Mit den Bandmitgliedern reden
+Room- GreenRoom	OnEnterRoomResetState	drummer	Schlagzeuger
+Room- GreenRoom	OnEnterRoomResetState	Talk to the band members	Mit den Bandmitgliedern reden
+Room- GreenRoom	OnEnterRoomResetState	saxophonist	Saxofonist
+Room- GreenRoom	OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued	He's taking a tumble!	Er stürzt!
+Room- GreenRoom	OnEnterRegionToLoungeCarriageBeforeSustainedInjuryContinued	Somebody get the doctor!	Jemand muss den Doktor holen!
+Room- GreenRoom	Prop Tooltip - Primary	Leave the green room	Den Green Room verlassen
+Room- GreenRoom	Prop Tooltip - Secondary	Look at the knife	Das Messer ansehen
+Room- Bathroom	BackgroundVentArgument	Auugh!	Auugh!
+Room- Bathroom	BackgroundVentArgument	Ow! Ow!	Aua! Aua!
+Room- Bathroom	BackgroundVentArgument	Ow! My head!	Aua! Mein Kopf!
+Room- Bathroom	Prop Tooltip - Shorthand	ToiletRoll	Toilettenrolle
+Room- Bathroom	Prop Tooltip - Shorthand	plunger	Saugglocke
+Room- Bathroom	Prop Tooltip - Shorthand	cupboard	Schrank
+Room- Bathroom	Prop Tooltip - Shorthand	toilet flush	
+Room- Bathroom	Prop Tooltip - Primary	Take the plunger	Die Saugglocke nehmen
+Room- Bathroom	Prop Tooltip - Primary	Open the cupboard	Den Schrank öffnen
+Room- Bathroom	Prop Tooltip - Primary	Leave the bathroom	Das Badezimmer verlassen
+Room- Bathroom	Prop Tooltip - Primary	Take a long, hard look in the mirror	
+Room- Bathroom	Prop Tooltip - Primary	Flush the toilet	
+Room- InlandRevenueHQ	OnEnterRoomAfterFadeActThree	Morning, Phil!	Morgen, Phil!
+Room- InlandRevenueHQ	BackgroundBikeEscape	Aagh!	Aaah!
+Room- InlandRevenueHQ	Prop Tooltip - Shorthand	the lever	
+Room- InlandRevenueHQ	Prop Tooltip - Shorthand	the vehicle	dem Fahrzeug
+Room- InlandRevenueHQ	Prop Tooltip - Shorthand	motorbike	Motorrad
+Room- InlandRevenueHQ	Prop Tooltip - Shorthand	fuel tank	Benzintank
+Room- InlandRevenueHQ	Prop Tooltip - Shorthand	canister	Kanister
+Room- InlandRevenueHQ	Prop Tooltip - Shorthand	the fuel inlet	dem Benzineinlass
+Room- InlandRevenueHQ	Prop Tooltip - Shorthand	the loading bay	der Laderampe
+Room- InlandRevenueHQ	Prop Tooltip - Shorthand	wiring kit	Kabelsatz
+Room- InlandRevenueHQ	Prop Tooltip - Shorthand	the overhead pipes	den oberirdischen Rohren
+Room- InlandRevenueHQ	Prop Tooltip - Shorthand	engine block	Motorblock
+Room- InlandRevenueHQ	Prop Tooltip - Shorthand	tool cabinet	Werkzeugschrank
+Room- InlandRevenueHQ	Prop Tooltip - Shorthand	the rubbish pile	dem Müllhaufen
+Room- InlandRevenueHQ	Prop Tooltip - Shorthand	the tool box	dem Werkzeugkasten
+Room- InlandRevenueHQ	Prop Tooltip - Shorthand	the telephone	
+Room- InlandRevenueHQ	Prop Tooltip - Shorthand	the mission board	der Missionstafel
+Room- InlandRevenueHQ	Prop Tooltip - Shorthand	the food packet	der Lebensmittelverpackung
+Room- InlandRevenueHQ	Prop Tooltip - Shorthand	the notes	den Notizen
+Room- InlandRevenueHQ	Prop Tooltip - Shorthand	button	
+Room- InlandRevenueHQ	Prop Tooltip - Primary	Push the lever down	Den Hebel ziehen
+Room- InlandRevenueHQ	Prop Tooltip - Primary	Leave the test yard	Das Testgelände verlassen
+Room- InlandRevenueHQ	Prop Tooltip - Primary	Pick up the fuel tank	Den Kraftstofftank nehmen
+Room- InlandRevenueHQ	Prop Tooltip - Primary	Take the canister	Den Kanister nehmen
+Room- InlandRevenueHQ	Prop Tooltip - Primary	Pick up Agent M	Agentin M nehmen
+Room- InlandRevenueHQ	Prop Tooltip - Primary	Phone the Dirk Chiselton Hotline	Die Dirk-Chiselton-Hotline anrufen
+Room- InlandRevenueHQ	Prop Tooltip - Primary	Push the button	
+Room- InlandRevenueHQ	Prop Tooltip - Secondary	What a piece of rubbish!	Was für ein Schrott!
+Room- InlandRevenueHQ	Prop Tooltip - Secondary	Check the fuel inlet	Den Benzineinlass überprüfen
+Room- InlandRevenueHQ	Prop Tooltip - Secondary	Check the motorbike	Das Motorrad überprüfen
+Room- InlandRevenueHQ	Prop Tooltip - Secondary	Check the fuel inlet	
+Room- InlandRevenueHQ	Prop Tooltip - Secondary	Look at the mouse	Die Maus ansehen
+Room- InlandRevenueHQ	Prop Tooltip - Secondary	It's the loading bay!	Das ist die Laderampe!
+Room- InlandRevenueHQ	Prop Tooltip - Secondary	Look at the wiring kit	Schau dir den Kabelsatz an
+Room- InlandRevenueHQ	Prop Tooltip - Secondary	Check out the overhead pipes	Die oberirdischen Rohre ansehen
+Room- InlandRevenueHQ	Prop Tooltip - Secondary	Consider going home	Erwägen, nach Hause zu gehen
+Room- InlandRevenueHQ	Prop Tooltip - Secondary	Are those missiles?	Sind das Raketen?
+Room- InlandRevenueHQ	Prop Tooltip - Secondary	Check the tool cabinet	Den Werkzeugschrank überprüfen
+Room- InlandRevenueHQ	Prop Tooltip - Secondary	Check the rubbish pile	Den Müllhaufen überprüfen
+Room- InlandRevenueHQ	Prop Tooltip - Secondary	Examine the red tool box	Den roten Werkzeugkasten untersuchen
+Room- InlandRevenueHQ	Prop Tooltip - Secondary	Ponder the mission board	Über die Missionstafel nachdenken
+Room- InlandRevenueHQ	Prop Tooltip - Secondary	Inspect the food packet	Die Lebensmittelverpackung inspizieren
+Room- InlandRevenueHQ	Prop Tooltip - Secondary	Read the notes	Die Notizen lesen
+Room- MotorbikeExterior	Prop Tooltip - Shorthand	folded ladder	zusammengeklappte Leiter
+Room- MotorbikeExterior	Prop Tooltip - Primary	Go to the Kitchen Carriage	
+Room- MotorbikeExterior	Prop Tooltip - Secondary	Look at the folded ladder	Die zusammengeklappte Leiter ansehen
+Room- TrainFront	ShowTrainHornSubtitle	WOooOOoooOOOOooo	
+Room- TrainFront	OnInteractPropWhistleCordBlinded	Aiiieeeee!	Aiiieeeee!
+Room- TrainFront	Prop Tooltip - Shorthand	whistle cord	Pfeifenschnur
+Room- TrainFront	Prop Tooltip - Shorthand	the financial records	den Finanzunterlagen
+Room- TrainFront	Prop Tooltip - Shorthand	bullet damage	Kugelschaden
+Room- TrainFront	Prop Tooltip - Shorthand	scenery	Landschaft
+Room- TrainFront	Prop Tooltip - Shorthand	engine room	Maschinenraum
+Room- TrainFront	Prop Tooltip - Shorthand	levers	Hebel
+Room- TrainFront	Prop Tooltip - Shorthand	instruments	Instrumente
+Room- TrainFront	Prop Tooltip - Shorthand	dials	Regler
+Room- TrainFront	Prop Tooltip - Shorthand	ashes	Asche
+Room- TrainFront	Prop Tooltip - Shorthand	the firebox	der Feuerkammer
+Room- TrainFront	Prop Tooltip - Primary	Grab a lump of coal	Einen Kohlenklumpen nehmen
+Room- TrainFront	Prop Tooltip - Primary	Pull on the whistle cord	An der Pfeifenschnur ziehen
+Room- TrainFront	Prop Tooltip - Secondary	Is this the whistle cord?	Ist das die Pfeifenschnur?
+Room- TrainFront	Prop Tooltip - Secondary	Examine the financial records	Die Finanzunterlagen untersuchen
+Room- TrainFront	Prop Tooltip - Secondary	Inspect the bullet holes	Die Einschusslöcher inspizieren
+Room- TrainFront	Prop Tooltip - Secondary	What a view!	Was für eine Aussicht!
+Room- TrainFront	Prop Tooltip - Secondary	Look towards the engine room	Zum Maschinenraum blicken
+Room- TrainFront	Prop Tooltip - Secondary	Ponder the controls	Über die Steuerung nachdenken
+Room- TrainFront	Prop Tooltip - Secondary	What do any of these mean?	Was bedeutet das alles?
+Room- TrainFront	Prop Tooltip - Secondary	Stare at the dials	Auf die Regler blicken
+Room- TrainFront	Prop Tooltip - Secondary	Examine the burnt up financial records	Die verbrannten Finanzunterlagen untersuchen
+Room- TrainFront	Prop Tooltip - Secondary	Look at the firebox	Die Feuerkammer ansehen
+Room- MansionExterior	OnEnterRoomAfterFade	THE END	ENDE
+Room- MansionLobby	OnEnterRoomAfterFadeActThreeHirschPoisoned	Hmm? I don't see a-	Hm? Ich sehe ni...
+Room- MansionLobby	OnEnterRoomAfterFadeActThreeHirschPoisoned	10 Minutes Later...	10 Minuten später ...
+Room- MansionLobby	BackgroundFightTwinsGunterCallout	Hi-yah!	Hi-yah!
+Room- MansionLobby	BackgroundFightTwinsGunterCallout	Let me go, you boulder!	Lass mich los, du Klotz!
+Room- MansionLobby	BackgroundFightTwinsHagenCallout	You're pulling my hair!	Du ziehst mich an den Haaren!
+Room- MansionLobby	BackgroundFightTwinsHagenCallout	Auugh!	Auugh!
+Room- MansionLobby	BackgroundFightTwinsHagenCallout	Ow! Ow!	Aua! Aua!
+Room- MansionLobby	BackgroundFightTwinsHagenCallout	Ow! My head!	Aua! Mein Kopf!
+Room- MansionLobby	BackgroundFightTwinsHagenCallout	No, No! Below the belt! Below the belt!	Nein, nein! Unter die Gürtellinie! Unter die Gürtellinie!
+Room- MansionLobby	BackgroundFightTwinsChiseltonCallout	Take this!	Nimm das!
+Room- MansionLobby	BackgroundFightTwinsChiseltonCallout	And one of these!	Und einen davon!
+Room- MansionLobby	BackgroundFightTwinsChiseltonCallout	Grah!	Grah!
+Room- MansionLobby	BackgroundFightTwinsChiseltonCallout	Stop your squirming!	Hör auf, dich zu winden!
+Room- MansionLobby	BackgroundFightTwinsChiseltonCallout	You're not going anywhere!	Ihr geht nirgendwo hin!
+Room- MansionLobby	BackgroundFightTwinsChiseltonCallout	How's that?	Wie ist das?
+Room- MansionLobby	BackgroundFightTwinsChiseltonCallout	Haha!	Haha!
+Room- MansionLobby	BackgroundFightTwinsChiseltonCallout	I can do this all day!	Ich kann das den ganzen Tag lang machen!
+Room- MansionLobby	BackgroundFightTwinsChiseltonCallout	Grah!	Grah!
+Room- MansionLobby	BackgroundFightTwinsChiseltonCallout	Hold still!	Haltet still!
+Room- MansionLobby	BackgroundFightTwinsChiseltonCallout	You're just going to hurt yourselves!	Ihr werdet euch nur selbst verletzen!
+Room- MansionLobby	OnUseInvPropRopeLetterOpenerArthur	Aieee!	Aieee!
+Room- MansionLobby	OnUseInvPropRopeLetterOpenerHerman	Aieee!	Aieee!
+Room- MansionLobby	OnUseInvPropRopeLetterOpenerDiana	Aieee!	Aieee!
+Room- MansionLobby	Prop Tooltip - Shorthand	rope	Seil
+Room- MansionLobby	Prop Tooltip - Secondary	Look at the rope	Das Seil ansehen
+Room- MansionInterior	OnEnterRoomActThreeAfterSavedDirkChiselton	The order can handle the day-to-day operations. We're here to lend a hand.	Der Orden kann sich um das Tagesgeschäft kümmern. Wir sind hier, um dir zu helfen.
+Room- MansionInterior	OnLookAtPropLibraryGramophoneBeforeUsedRecord	Look over the gramophone	Über das Grammofon schauen
+Room- MansionInterior	Update	Inspect the device	Das Gerät inspizieren
+Room- MansionInterior	OnLookAtPropBasementNotebook	It's an old looking notebook.	Es ist ein alt aussehendes Notizbuch.
+Room- MansionInterior	Prop Tooltip - Shorthand	the telephone	
+Room- MansionInterior	Prop Tooltip - Shorthand	small safe	kleiner Tresor
+Room- MansionInterior	Prop Tooltip - Shorthand	big safe	großer Tresor
+Room- MansionInterior	Prop Tooltip - Shorthand	painting	Gemälde
+Room- MansionInterior	Prop Tooltip - Shorthand	pneumatic tube	Rohrpost
+Room- MansionInterior	Prop Tooltip - Shorthand	swords	Schwerter
+Room- MansionInterior	Prop Tooltip - Shorthand	bull mask	Stiermaske
+Room- MansionInterior	Prop Tooltip - Shorthand	funerary mask	Bestattungsmaske
+Room- MansionInterior	Prop Tooltip - Shorthand	mask	Maske
+Room- MansionInterior	Prop Tooltip - Shorthand	masks	Masken
+Room- MansionInterior	Prop Tooltip - Shorthand	cigar box	Zigarrenschachtel
+Room- MansionInterior	Prop Tooltip - Shorthand	map	Karte
+Room- MansionInterior	Prop Tooltip - Shorthand	painting	Gemälde
+Room- MansionInterior	Prop Tooltip - Shorthand	painting	Gemälde
+Room- MansionInterior	Prop Tooltip - Shorthand	gramophone	Grammofon
+Room- MansionInterior	Prop Tooltip - Shorthand	vinyl records	Schallplatten
+Room- MansionInterior	Prop Tooltip - Shorthand	the machine	der Maschine
+Room- MansionInterior	Prop Tooltip - Shorthand	telescope	Teleskop
+Room- MansionInterior	Prop Tooltip - Shorthand	drinks globe	Getränkeglobus
+Room- MansionInterior	Prop Tooltip - Shorthand	fireplace	Kamin
+Room- MansionInterior	Prop Tooltip - Shorthand	rug	Teppich
+Room- MansionInterior	Prop Tooltip - Shorthand	painting	Gemälde
+Room- MansionInterior	Prop Tooltip - Shorthand	small painting	kleines Gemälde
+Room- MansionInterior	Prop Tooltip - Shorthand	painting	Gemälde
+Room- MansionInterior	Prop Tooltip - Shorthand	painting	Gemälde
+Room- MansionInterior	Prop Tooltip - Shorthand	painting	Gemälde
+Room- MansionInterior	Prop Tooltip - Shorthand	painting	Gemälde
+Room- MansionInterior	Prop Tooltip - Shorthand	newspaper excerpt	Zeitungsausschnitt
+Room- MansionInterior	Prop Tooltip - Shorthand	bookends	Buchstützen
+Room- MansionInterior	Prop Tooltip - Shorthand	pneumatic tube	Rohrpost
+Room- MansionInterior	Prop Tooltip - Shorthand	wire reel	Spule
+Room- MansionInterior	Prop Tooltip - Shorthand	boiler	Kessel
+Room- MansionInterior	Prop Tooltip - Shorthand	poison barrels	Giftfässer
+Room- MansionInterior	Prop Tooltip - Shorthand	body	Körper
+Room- MansionInterior	Prop Tooltip - Shorthand	notebook	Notizbuch
+Room- MansionInterior	Prop Tooltip - Shorthand	frames	Rahmen
+Room- MansionInterior	Prop Tooltip - Shorthand	globe	Globus
+Room- MansionInterior	Prop Tooltip - Shorthand	telescope	Teleskop
+Room- MansionInterior	Prop Tooltip - Shorthand	box	Kiste
+Room- MansionInterior	Prop Tooltip - Shorthand	make-shift grave	provisorisches Grab
+Room- MansionInterior	Prop Tooltip - Shorthand	valve	
+Room- MansionInterior	Prop Tooltip - Primary	Phone the Dirk Chiselton Hotline	Die Dirk-Chiselton-Hotline anrufen
+Room- MansionInterior	Prop Tooltip - Primary	Examine the locks	
+Room- MansionInterior	Prop Tooltip - Primary	Listen to the mechanism	Auf den Mechanismus horschen
+Room- MansionInterior	Prop Tooltip - Primary	Push the request button	Die Anforderungstaste drücken
+Room- MansionInterior	Prop Tooltip - Primary	Take a vinyl record	Eine Schallplatte nehmen
+Room- MansionInterior	Prop Tooltip - Primary	Check for packages	
+Room- MansionInterior	Prop Tooltip - Primary	Press the request button	Die Anforderungstaste drücken
+Room- MansionInterior	Prop Tooltip - Primary	Take the wire reel	Die Spule nehmen
+Room- MansionInterior	Prop Tooltip - Primary	Head back to the lobby	Zurück in die Lobby gehen
+Room- MansionInterior	Prop Tooltip - Primary	Turn the valve	
+Room- MansionInterior	Prop Tooltip - Secondary	Ponder the safe	
+Room- MansionInterior	Prop Tooltip - Secondary	Look at the big safe	Den großen Tresor ansehen
+Room- MansionInterior	Prop Tooltip - Secondary	Study the painting	Das Gemälde studieren
+Room- MansionInterior	Prop Tooltip - Secondary	Look at the pneumatic tube	Die Rohrpoststation ansehen
+Room- MansionInterior	Prop Tooltip - Secondary	They look razor sharp!	Sie sehen rasiermesserscharf aus!
+Room- MansionInterior	Prop Tooltip - Secondary	Inspect the bull mask	Die Stiermaske inspizieren
+Room- MansionInterior	Prop Tooltip - Secondary	Study the funerary mask	Die Bestattungsmaske studieren
+Room- MansionInterior	Prop Tooltip - Secondary	Ponder the mask	Über die Maske nachdenken
+Room- MansionInterior	Prop Tooltip - Secondary	Look at the masks	Die Masken ansehen
+Room- MansionInterior	Prop Tooltip - Secondary	Glance at the books	Auf die Bücher blicken
+Room- MansionInterior	Prop Tooltip - Secondary	Examine the cigar box	Die Zigarrenschachtel untersuchen
+Room- MansionInterior	Prop Tooltip - Secondary	Check out the map	Die Karte ansehen
+Room- MansionInterior	Prop Tooltip - Secondary	Admire the painting	Das Gemälde bewundern
+Room- MansionInterior	Prop Tooltip - Secondary	Survey the painting	Das Gemälde begutachten
+Room- MansionInterior	Prop Tooltip - Secondary	Look over the gramophone	
+Room- MansionInterior	Prop Tooltip - Secondary	Examine the vinyl collection	Die Schallplattensammlung untersuchen
+Room- MansionInterior	Prop Tooltip - Secondary	Inspect the machine	Die Maschine inspizieren
+Room- MansionInterior	Prop Tooltip - Secondary	Pine over the telescope	Nach dem Teleskop schmachten
+Room- MansionInterior	Prop Tooltip - Secondary	An actual drinks globe!	Ein echter Getränkeglobus!
+Room- MansionInterior	Prop Tooltip - Secondary	It’s a roaring fire	Es ist ein loderndes Feuer
+Room- MansionInterior	Prop Tooltip - Secondary	Ponder the bear rug	Über den Bärenteppich nachdenken
+Room- MansionInterior	Prop Tooltip - Secondary	Contemplate the painting	Über das Gemälde nachdenken
+Room- MansionInterior	Prop Tooltip - Secondary	Survey the painting	Das Gemälde begutachten
+Room- MansionInterior	Prop Tooltip - Secondary	Inspect the painting	Das Gemälde inspizieren
+Room- MansionInterior	Prop Tooltip - Secondary	Study the painting	Das Gemälde studieren
+Room- MansionInterior	Prop Tooltip - Secondary	Admire the painting	Das Gemälde bewundern
+Room- MansionInterior	Prop Tooltip - Secondary	Examine the painting	Das Gemälde untersuchen
+Room- MansionInterior	Prop Tooltip - Secondary	Read the clipping	Den Ausschnitt lesen
+Room- MansionInterior	Prop Tooltip - Secondary	Review the excerpt	Den Auszug überdenken
+Room- MansionInterior	Prop Tooltip - Secondary	Glance at the books	Auf die Bücher blicken
+Room- MansionInterior	Prop Tooltip - Secondary	Study the books	Die Bücher studieren
+Room- MansionInterior	Prop Tooltip - Secondary	Examine the bookends	Die Buchstützen untersuchen
+Room- MansionInterior	Prop Tooltip - Secondary	Inspect the device	
+Room- MansionInterior	Prop Tooltip - Secondary	It's a discarded statue	Es ist eine ausrangierte Statue
+Room- MansionInterior	Prop Tooltip - Secondary	Warm up near the boiler	Am Kessel aufwärmen
+Room- MansionInterior	Prop Tooltip - Secondary	Inspect the poison barrels	Die Giftfässer inspizieren
+Room- MansionInterior	Prop Tooltip - Secondary	Search the doctor's body	Die Leiche des Doktors durchsuchen
+Room- MansionInterior	Prop Tooltip - Secondary	Look at the notes	Die Notizen ansehen
+Room- MansionInterior	Prop Tooltip - Secondary	These look opulent!	Die sehen opulent aus!
+Room- MansionInterior	Prop Tooltip - Secondary	Ponder the statue	Über die Statue nachdenken
+Room- MansionInterior	Prop Tooltip - Secondary	Check out the globe	Den Globus ansehen
+Room- MansionInterior	Prop Tooltip - Secondary	It's a dusty looking telescope	Es ist ein staubig aussehendes Teleskop
+Room- MansionInterior	Prop Tooltip - Secondary	Glance at the books	Auf die Bücher blicken
+Room- MansionInterior	Prop Tooltip - Secondary	Peek into the box	In die Kiste blicken
+Room- MansionInterior	Prop Tooltip - Secondary	Check out the make-shift grave	Das provisorische Grab ansehen
+Room- UnterwaldSafeLocks	Prop Tooltip - Shorthand	dial	Einstellrad
+Room- UnterwaldSafeLocks	Prop Tooltip - Shorthand	dial	Einstellrad
+Room- UnterwaldSafeLocks	Prop Tooltip - Shorthand	dial	Einstellrad
+Room- UnterwaldSafeLocks	Prop Tooltip - Shorthand	dial	Einstellrad
+Room- UnterwaldSafeLocks	Prop Tooltip - Shorthand	dial	Einstellrad
+Room- UnterwaldSafeLocks	Prop Tooltip - Shorthand	dial	Einstellrad
+Room- UnterwaldSafeLocks	Prop Tooltip - Shorthand	voice lock	Sprachsteuerung
+Room- UnterwaldSafeLocks	Prop Tooltip - Shorthand	combination lock	Zahlenschloss
+Room- UnterwaldSafeLocks	Prop Tooltip - Secondary	Inspect the voice lock	Die Sprachsteuerung inspizieren
+Room- UnterwaldSafeLocks	Prop Tooltip - Secondary	Examine the combination lock	Das Zahlenschloss untersuchen
+Room- DrawerLedger	OnInteractPropLedger	Open the drawer	Die Schublade öffnen
+Room- DrawerLedger	Prop Tooltip - Shorthand	accounting ledger	Hauptbuch
+Room- DrawerLedger	Prop Tooltip - Primary	Take the accounting ledger	Das Hauptbuch nehmen
+Room- DianaPhoto	Prop Tooltip - Primary	Flip the photo	Das Foto umdrehen
+Room- LoungeRosebud	OnEnterRoomAfterFade	10 Minutes Later...	
+Room- MansionSafeLocks	Prop Tooltip - Shorthand	voice lock	
+Room- MansionSafeLocks	Prop Tooltip - Shorthand	strange lock	Seltsames Schloss
+Room- MansionSafeLocks	Prop Tooltip - Secondary	Inspect the voice lock	
+Room- MansionSafeLocks	Prop Tooltip - Secondary	What is this thing?	Was ist das für ein Ding?
+Room- UnterwaldLiuHand	Prop Tooltip - Shorthand	Mr Liu	Herr Liu
+Room- UnterwaldLiuHand	Prop Tooltip - Secondary	Look at Mr Liu	Herrn Liu ansehen
+Room- TestYardEngine	Prop Tooltip - Primary	Take the rubber tubing	Den Gummischlauch nehmen
+Room- MansionStatue	Prop Tooltip - Secondary	Ponder the statue	
+Room- PublisherOfficeInTray	Prop Tooltip - Shorthand	the in-tray	
+Room- PublisherOfficeInTray	Prop Tooltip - Secondary	Peek at the in-tray	
+Character- Arthur	Character - Display Name	Arthur	Arthur
+Character- Arthur	Character - Shorthand	Arthur	
+Character- Arthur	Character - Primary	Talk to Arthur	Mit Arthur reden
+Character- Diana	OnInteractBeforeObtainedMysteriousNapkin	Speak to Diana	Mit Diana sprechen
+Character- Diana	OnInteractBeforeObtainedMysteriousNapkin	Diana	Diana
+Character- Diana	Character - Display Name	Diana	Diana
+Character- Diana	Character - Shorthand	the fashionable woman	die modische Frau
+Character- Diana	Character - Primary	Speak to the fashionable woman	Mit der modischen Frau sprechen
+Character- Herman	Character - Display Name	Herman	Hermann
+Character- Herman	Character - Shorthand	Herman	
+Character- Herman	Character - Primary	Talk to Herman	Mit Hermann reden
+Character- LadyUnterwald	Character - Display Name	Lady Unterwald	Lady Unterwald
+Character- LadyUnterwald	Character - Shorthand	Lady Unterwald	
+Character- LadyUnterwald	Character - Primary	Talk to Lady Unterwald	Mit Lady Unterwald reden
+Character- Lamont	Character - Display Name	Lamont	Lamont
+Character- Lamont	Character - Shorthand	Detective Lamont	Detective Lamont
+Character- Lamont	Character - Primary	Talk to Lamont	Mit Lamont reden
+Character- Bailey	Character - Display Name	Bailey	Bailey
+Character- Bailey	Character - Shorthand	Detective Bailey	Detective Bailey
+Character- Bailey	Character - Primary	Talk to Bailey	Mit Bailey reden
+Character- ElusiveHand	Character - Display Name	Elusive Hand	Flinke Hand
+Character- ElusiveHand	Character - Shorthand	the elusive hand	die flinke Hand
+Character- Bartender	OnUseInvBartenderRosebudRecipeAccepted	He's out cold	Er ist bewusstlos
+Character- Bartender	Character - Display Name	Bartender	Barkeeper
+Character- Bartender	Character - Shorthand	the bartender	den Barkeeper
+Character- Bartender	Character - Primary	Get the bartender's attention	Den Barkeeper auf dich aufmerksam machen
+Character- Conductor	Character - Display Name	Conductor	Schaffner
+Character- Conductor	Character - Shorthand	the conductor	den Schaffner
+Character- Conductor	Character - Primary	Talk to the conductor	Mit dem Schaffner reden
+Character- Guard	OnUseInvGuardPerfumedLoveNote	Awful.	Schrecklich.
+Character- Guard	Character - Display Name	Guard	Wachmann
+Character- Guard	Character - Shorthand	the guard	den Wachmann
+Character- Guard	Character - Primary	Talk to the guard	Mit dem Wachmann reden
+Character- Hirsch	OnInteractChapterThree	doctor	Doktor
+Character- Hirsch	OnInteractChapterThree	Talk to the doctor	Mit dem Doktor reden
+Character- Hirsch	Character - Display Name	Doctor Hirsch	Doktor Leisch
+Character- Hirsch	Character - Shorthand	the man	den Mann
+Character- Hirsch	Character - Primary	Talk to the moustached gentleman	Mit dem schnauzbärtigen Gentleman reden
+Character- Masson	OnInteractActTwoWithWaiter	Talk to the annoyed gentleman	Mit dem verärgerten Gentleman reden
+Character- Masson	OnInteractActTwoWithWaiter	annoyed gentleman	verärgerter Gentleman
+Character- Masson	Character - Display Name	Mr Masson	Herr Masson
+Character- Masson	Character - Shorthand	the sleeping man	den schlafenden Mann
+Character- Masson	Character - Primary	Wake the sleeping man	Den schlafenden Mann wecken
+Character- Don	OnInteractActOneDiningCarriage	Talk to Don	Mit Don reden
+Character- Don	OnInteractActOneDiningCarriage	Don	Don
+Character- Don	OnInteractActTwoBeforeLearnedAboutMouse	Talk to Don	Mit Don reden
+Character- Don	OnInteractActTwoBeforeLearnedAboutMouse	Don	Don
+Character- Don	OnActOneReturnToDon	You see, kid? It's that easy.	Siehst du, Junge? So einfach geht das.
+Character- Don	MoveDonToCasino	Watch Don play roulette	
+Character- Don	Character - Display Name	Don	Don
+Character- Don	Character - Shorthand	the slicked back man	den aalglatten Mann
+Character- Don	Character - Primary	Talk to the uncouth slob	Mit dem ungehobelten Kerl reden
+Character- Susanne	OnInteractActOne	Speak to Susanne	Mit Susanne sprechen
+Character- Susanne	OnInteractActOne	Susanne	Susanne
+Character- Susanne	OnUseInv	Speak to Susanne	Mit Susanne sprechen
+Character- Susanne	OnUseInv	Susanne	Susanne
+Character- Susanne	Character - Display Name	Susanne	Susanne
+Character- Susanne	Character - Shorthand	the smoking woman	die rauchende Frau
+Character- Susanne	Character - Primary	Introduce yourself	Dich vorstellen
+Character- Bergmann	Character - Display Name	Bergmann	Bergmann
+Character- Bergmann	Character - Shorthand	the man	den Mann
+Character- Bergmann	Character - Primary	Chat to the monocled gentleman	Mit dem monokeltragenden Gentleman plaudern
+Character- Bergmann	Character - Secondary	I think I broke him	Ich glaube, ich habe ihn gebrochen.
+Character- Arista	Character - Display Name	Arista	Arista
+Character- Arista	Character - Shorthand	the deaf lady	die schwerhörige Lady
+Character- Arista	Character - Primary	Talk to the deaf lady	Mit der schwerhörigen Lady reden
+Character- Gunter	OnUseInvGunterBriefcase	Uhhh.	Ähhh.
+Character- Gunter	Character - Display Name	Gunter	Gunter
+Character- Gunter	Character - Shorthand	the twin	den Zwilling
+Character- Gunter	Character - Primary	Speak to the twin	Mit dem Zwilling sprechen
+Character- Hagen	Character - Display Name	Hagen	Hagen
+Character- Hagen	Character - Shorthand	the other twin	den anderen Zwilling
+Character- Hagen	Character - Primary	Speak to the other twin	Mit dem anderen Zwilling sprechen
+Character- Maurice	Character - Display Name	Waiter	Kellner
+Character- Maurice	Character - Shorthand	the waiter	den Kellner
+Character- Maurice	Character - Primary	Talk to the waiter	Mit dem Kellner reden
+Character- Pierre	Character - Display Name	Pierre	Pierre
+Character- Pierre	Character - Shorthand	the artist	den Künstler
+Character- Pierre	Character - Primary	Talk to the artist	Mit dem Künstler reden
+Character- Jimmy	Character - Display Name	Jimmy	Jimmy
+Character- Jimmy	Character - Shorthand	Jimmy	Jimmy
+Character- Jimmy	Character - Primary	Talk to Jimmy	Mit Jimmy reden
+Character- ChefFrancois	OnUseInvChefFrancoisMouse	It's not possible!	Das ist nicht möglich!
+Character- ChefFrancois	OnUseInvChefFrancoisMouse	Bravo !	Bravo !
+Character- ChefFrancois	OnUseInvChefFrancoisMouse	Chapeau !	Chapeau !
+Character- ChefFrancois	OnUseInvChefFrancoisMouse	Bien joué !	Bien joué !
+Character- ChefFrancois	Character - Display Name	François	François
+Character- ChefFrancois	Character - Shorthand	the chef	den Chefkoch
+Character- ChefFrancois	Character - Primary	Talk to the chef	Mit dem Chefkoch reden
+Character- ChefRemy	Character - Display Name	Remy	Remy
+Character- ChefRemy	Character - Shorthand	the chef	den Koch
+Character- ChefRemy	Character - Primary	Talk to the chef	Mit dem Koch reden
+Character- ChefAntoine	Character - Display Name	Antoine	Antoine
+Character- ChefAntoine	Character - Shorthand	the chef	den Koch
+Character- ChefAntoine	Character - Primary	Talk to the chef	Mit dem Koch reden
+Character- Ron	OnInteractActOneFirstOccurrence	Talk to Ron	Mit Ron reden
+Character- Ron	OnInteractActOneFirstOccurrence	Ron	Ron
+Character- Ron	OnInteractChapterThree	Do you need something?	Brauchst du etwas?
+Character- Ron	Character - Display Name	Ron	Ron
+Character- Ron	Character - Shorthand	the bar patron	den Barbesucher
+Character- Ron	Character - Primary	Talk to the bar patron	Mit dem Barbesucher reden
+Character- Isaac	Character - Display Name	Isaac	Isaac
+Character- Isaac	Character - Shorthand	the chatting man	den plaudernden Mann
+Character- Isaac	Character - Primary	They look deep in conversation	Sie wirken tief ins Gespräch vertieft
+Character- Shelly	Character - Display Name	Shelly	Shelly
+Character- Shelly	Character - Shorthand	the chatting woman	die plaudernde Frau
+Character- Shelly	Character - Primary	They look deep in conversation	Sie wirken tief ins Gespräch vertieft
+Character- Belle	OnInteractArthur	Keep listening	
+Character- Belle	OnInteractHerman	Keep listening	
+Character- Belle	Character - Display Name	Belle	Belle
+Character- Belle	Character - Shorthand	the woman	die Frau
+Character- Belle	Character - Primary	Eavesdrop on the conversation	Das Gespräch belauschen
+Character- WaiterTwo	Character - Display Name	Waiter	Kellner
+Character- WaiterTwo	Character - Shorthand	the waiter	den Kellner
+Character- WaiterTwo	Character - Primary	He looks busy	Er sieht beschäftigt aus
+Character- Mary	Character - Display Name	Casino Patron	Casinobesucher
+Character- Mary	Character - Shorthand	the casino patron	die Casinobesucherin
+Character- Mary	Character - Primary	Listen to the highrollers	Den High Rollern zuhören
+Character- Harold	Character - Display Name	Casino Patron	Casinobesucher
+Character- Harold	Character - Shorthand	the casino patron	den Casinobesucher
+Character- Harold	Character - Primary	Listen to the highrollers	Den High Rollern zuhören
+Character- Edna	Character - Display Name	Casino Patron	Casinobesucher
+Character- Edna	Character - Shorthand	the casino patron	die Casinobesucherin
+Character- Edna	Character - Primary	Listen to the highrollers	Den High Rollern zuhören
+Character- CasinoEnforcerOne	Character - Display Name	Bouncer	Türsteher
+Character- CasinoEnforcerOne	Character - Shorthand	the bouncer	den Türsteher
+Character- CasinoEnforcerOne	Character - Primary	Speak to the goon	Mit dem Gorilla sprechen
+Character- CasinoEnforcerTwo	Character - Display Name	Bouncer	Türsteher
+Character- CasinoEnforcerTwo	Character - Shorthand	the bouncer	den Türsteher
+Character- CasinoEnforcerTwo	Character - Primary	Talk to the bouncer	Mit dem Türsteher reden
+Character- BandSaxophone	Character - Display Name	Saxophonist	Saxofonist
+Character- BandSaxophone	Character - Shorthand	the band member	das Bandmitglied
+Character- Byron	Character - Display Name	Bassist	Bassist
+Character- Byron	Character - Shorthand	the band member	das Bandmitglied
+Character- BandDrummer	Character - Display Name	Drummer	Schlagzeuger
+Character- BandDrummer	Character - Shorthand	the band member	das Bandmitglied
+Character- Josephine	Character - Display Name	Guest	Gast
+Character- Josephine	Character - Shorthand	the casino patron	die Casinobesucherin
+Character- Guest2	Character - Display Name	Guest	Gast
+Character- Guest2	Character - Shorthand	the passenger	den Passagier
+Character- Guest3	Character - Display Name	Guest	Gast
+Character- Guest3	Character - Shorthand	the passenger	den Passagier
+Character- Doris	Character - Display Name	Guest	Gast
+Character- Doris	Character - Shorthand	the casino patron	die Casinobesucherin
+Character- Victor	Character - Display Name	Guest	Gast
+Character- Victor	Character - Shorthand	the casino patron	die Casinobesucherin
+Character- Guest6	Character - Display Name	Guest	Gast
+Character- Guest6	Character - Shorthand	the passenger	den Passagier
+Character- Ruth	Character - Display Name	Guest	Gast
+Character- Ruth	Character - Shorthand	the passenger	die Passagierin
+Character- Guest8	Character - Display Name	Guest	Gast
+Character- Guest8	Character - Shorthand	the passenger	den Passagier
+Character- Evelyn	Character - Display Name	Guest	Gast
+Character- Evelyn	Character - Shorthand	the casino patron	die Casinobesucherin
+Character- James	Character - Display Name	Guest	Gast
+Character- James	Character - Shorthand	the casino patron	die Casinobesucherin
+Character- Cashier	Character - Display Name	Cashier	Kassiererin
+Character- Cashier	Character - Shorthand	the cashier	die Kassiererin
+Character- Cashier	Character - Primary	Talk to the cashier	Mit der Kassiererin reden
+Character- Croupier	Character - Display Name	Croupier	Croupier
+Character- Croupier	Character - Shorthand	the croupier	den Croupier
+Character- Croupier	Character - Primary	Talk to the croupier	Mit dem Croupier reden
+Character- Vince	Character - Display Name	Slot Player	Automatenspieler
+Character- Vince	Character - Shorthand	the slot player	den Automatenspieler
+Character- Vince	Character - Primary	Talk to the slot player	Mit dem Automatenspieler reden
+Character- PublisherFrank	Character - Display Name	Publisher	Verleger
+Character- PublisherFrank	Character - Shorthand	the publisher	der Verleger
+Character- PublisherFrank	Character - Primary	Talk to the publisher	Mit dem Verleger reden
+Character- PublisherFlorence	Character - Display Name	Publisher	Verlegerin
+Character- PublisherFlorence	Character - Shorthand	the publisher	der Verlegerin
+Character- PublisherFlorence	Character - Primary	Talk to the publisher	Mit der Verlegerin reden
+Character- PublisherThomas	Character - Display Name	Publisher	Verleger
+Character- PublisherThomas	Character - Shorthand	the publisher	der Verleger
+Character- PublisherThomas	Character - Primary	Talk to the publisher	Mit dem Verleger reden
+Character- JianLiu	BackgroundShowdownBlindedEnter	Aaagh, my eyes!	Aaagh, meine Augen!
+Character- JianLiu	BackgroundShowdownBlindedEnter	My one weakness!	Meine einzige Schwäche!
+Character- JianLiu	BackgroundShowdownBlindedExit	That was a cheap shot, Mr Ackerman!	Das war ein mieser Trick, Herr Ackerman!
+Character- JianLiu	BackgroundShowdownInsult	I'm so angry, I'm repeating myself!	Ich bin so wütend, dass ich mich wiederhole!
+Character- JianLiu	BackgroundShowdownInsult	Stop hiding, you spineless invertebrate!	Hör auf, dich zu verstecken, du rückgratloser Wirbelloser!
+Character- JianLiu	BackgroundShowdownInsult	Time's up, you clueless ape!	Die Zeit ist um, du ahnungsloser Affe!
+Character- JianLiu	BackgroundShowdownInsult	I'm going to riddle you with bullets, you whimpering simpleton!	Ich werde dich mit Kugeln durchlöchern, du wimmernder Einfaltspinsel!
+Character- JianLiu	BackgroundShowdownInsult	You wretched milquetoast!	Du erbärmlicher Angsthase!
+Character- JianLiu	BackgroundShowdownInsult	You wet blanket of a man!	Du Schlappschwanz von einem Mann!
+Character- JianLiu	BackgroundShowdownInsult	That was my favourite gun, you know!	Das war meine Lieblingswaffe, weißt du!
+Character- JianLiu	BackgroundShowdownInsult	Eat lead, you miserable cockroach!	Friss Blei, du erbärmliche Kakerlake!
+Character- JianLiu	BackgroundShowdownInsult	Bumbling buffoon!	Stümperhafter Possenreißer!
+Character- JianLiu	BackgroundShowdownInsult	You blustering rodent!	Du tobendes Nagetier!
+Character- JianLiu	BackgroundShowdownInsult	You threadbare juggler!	Du fadenscheiniger Gaukler!
+Character- JianLiu	BackgroundShowdownReload	Gah! Hold still while I reload.	Gah! Halt still, während ich nachlade.
+Character- JianLiu	BackgroundShowdownReload	These bullets aren't cheap, you know!	Diese Kugeln sind nicht billig, weißt du!
+Character- JianLiu	BackgroundShowdownReload	Stop hiding and let me shoot you!	Hör auf, dich zu verstecken, und lass mich dich erschießen!
+Character- JianLiu	BackgroundShowdownReload	You're being very inconsiderate!	Du bist sehr rücksichtslos!
+Character- JianLiu	BackgroundShowdownReload	I can do this all day!	Ich kann das den ganzen Tag lang machen!
+Character- JianLiu	BackgroundShowdownReload	Hold on a second...	Warte mal kurz ...
+Character- JianLiu	BackgroundShowdownReload	Ugh, I'm out of bullets already!	Ugh, ich habe schon keine Kugeln mehr!
+Character- JianLiu	BackgroundShowdownReload	Wait right there! Don't you dare move an inch!	Warte hier! Wage es nicht, dich auch nur einen Zentimeter zu bewegen!
+Character- JianLiu	BackgroundShowdownReload	Come out, you coward!	Komm raus, du Feigling!
+Character- JianLiu	Character - Display Name	Mr Liu	Herr Liu
+Character- JianLiu	Character - Shorthand	Mr Liu	
+Character- JianLiu	Character - Primary	Talk to Mr Liu	Mit Herrn Liu reden
+Character- HandshakeLeader	Character - Display Name	Leader	Anführer
+Character- HandshakeLeader	Character - Shorthand	the hooded figure	die vermummte Gestalt
+Character- HandshakeLeader	Character - Primary	Talk to the hooded figure	Mit der vermummten Gestalt reden
+Character- BrotherBrian	OnInteractActTwoFirstMeeting	Brother Brian	Bruder Brian
+Character- BrotherBrian	OnInteractActTwoFirstMeeting	Talk to Brother Brian	Mit Bruder Brian reden
+Character- BrotherBrian	Character - Display Name	Brian	Brian
+Character- BrotherBrian	Character - Shorthand	the hooded figure	die vermummte Gestalt
+Character- BrotherBrian	Character - Primary	Talk to the club member	Mit dem Klubmitglied reden
+Character- SisterGretchen	OnInteractActOne	Sister Gretchen	Schwester Gretchen
+Character- SisterGretchen	OnInteractActOne	Talk to Sister Gretchen	Mit Schwester Gretchen reden
+Character- SisterGretchen	OnInteractActTwoFirstMeeting	Sister Gretchen	Schwester Gretchen
+Character- SisterGretchen	OnInteractActTwoFirstMeeting	Talk to Sister Gretchen	Mit Schwester Gretchen reden
+Character- SisterGretchen	Character - Display Name	Gretchen	Gretchen
+Character- SisterGretchen	Character - Shorthand	the hooded figure	die vermummte Gestalt
+Character- SisterGretchen	Character - Primary	Talk to the club member	Mit dem Klubmitglied reden
+Character- BrotherJared	OnInteractActOneFirstOccurrence	Brother Jared	Bruder Jared
+Character- BrotherJared	OnInteractActOneFirstOccurrence	Talk to Brother Jared	Mit Bruder Jared reden
+Character- BrotherJared	OnInteractActOne	Brother Jared	Bruder Jared
+Character- BrotherJared	OnInteractActOne	Talk to Brother Jared	Mit Bruder Jared reden
+Character- BrotherJared	Character - Display Name	Jared	Jared
+Character- BrotherJared	Character - Shorthand	the hooded figure	die vermummte Gestalt
+Character- BrotherJared	Character - Primary	Talk to the club member	Mit dem Klubmitglied reden
+Character- StageManager	Character - Display Name	Manager	Inspizientin
+Character- StageManager	Character - Shorthand	the stage manager	der Inspizientin
+Character- StageManager	Character - Primary	Talk to the stage manager	Mit der Inspizientin reden
+Character- Chiselton	Character - Display Name	Chiselton	Chiselton
+Character- Chiselton	Character - Shorthand	Dirk Chiselton	Dirk Chiselton
+Character- Chiselton	Character - Primary	Talk to Dirk Chiselton	Mit Dirk Chiselton reden
+Character- April	Character - Display Name	April	April
+Character- April	Character - Shorthand	April	
+Character- April	Character - Primary	Talk to April	Mit April reden
+Character- Kid	Character - Display Name	Kid	Mädchen
+Character- Kid	Character - Shorthand	the shoeshine kid	dem Schuhputzmädchen
+Character- Kid	Character - Primary	Talk to the kid	Mit dem Mädchen reden
+Character- PhilatelyStamp	Character - Display Name	Mr Stamp	Herr Stamp
+Character- PhilatelyStamp	Character - Shorthand	Mr Stamp	
+Character- PhilatelyStamp	Character - Primary	Talk to Mr Stamp	Mit Herrn Stamp reden
+Character- Quartermaster	Character - Display Name	Quartermaster	Quartiermeisterin
+Character- Quartermaster	Character - Shorthand	the quartermaster	der Quartiermeisterin
+Character- Quartermaster	Character - Primary	Talk to the Quartermaster	Mit der Quartiermeisterin reden
+Character- Executor	Character - Display Name	Executor	Testamentsvollstrecker
+Character- Executor	Character - Shorthand	the executor	dem Testamentsvollstrecker
+Character- Board	Character - Display Name	The Board	Das Rad
+Character- Board	Character - Shorthand	the board	
+Item- Fan	Item Tooltip - Shorthand	desk fan	Tischventilator
+Item- Fan	Item Tooltip - Primary	Grab	Nehmen
+Item- Fan	Item Tooltip - Secondary	Examine the desk fan	Den Tischventilator untersuchen
+Item- Newspaper	Item Tooltip - Primary	Grab	Nehmen
+Item- Newspaper	Item Tooltip - Secondary	Read today's newspaper	Die Zeitung von heute lesen
+Item- FunnelFan	Item Tooltip - Shorthand	crude air funnel	behelfsmäßiger Trichter
+Item- FunnelFan	Item Tooltip - Primary	Grab	Nehmen
+Item- FunnelFan	Item Tooltip - Secondary	Admire crudely constructed air funnel	Den behelfsmäßigen Trichter bewundern
+Item- Umbrella	Item Tooltip - Primary	Grab	Nehmen
+Item- Umbrella	Item Tooltip - Secondary	It's a classic umbrella	Es ist ein klassischer Regenschirm
+Item- LetterToArthur	Item Tooltip - Shorthand	letter	Brief
+Item- LetterToArthur	Item Tooltip - Primary	Grab	Nehmen
+Item- LetterToArthur	Item Tooltip - Secondary	Pore over Lady Unterwald's letter	Den Brief von Lady Unterwald studieren
+Item- PerfumedLoveNote	Item Tooltip - Shorthand	love note	Liebesbrief
+Item- PerfumedLoveNote	Item Tooltip - Primary	Grab	Nehmen
+Item- PerfumedLoveNote	Item Tooltip - Secondary	Reluctantly inspect love note	Zögernd den Liebesbrief inspizieren
+Item- DonsRoomKey	Item Tooltip - Shorthand	Don's key	Dons Schlüssel
+Item- DonsRoomKey	Item Tooltip - Primary	Grab	Nehmen
+Item- DonsRoomKey	Item Tooltip - Secondary	Examine Don's room keys	Dons Zimmerschlüssel untersuchen
+Item- MysteriousNapkin	Item Tooltip - Primary	Grab	Nehmen
+Item- MysteriousNapkin	Item Tooltip - Secondary	Examine mysterious napkin	Die geheimnisvolle Serviette untersuchen
+Item- HearingHorn	Item Tooltip - Shorthand	ear trumpet	Ohrtrompete
+Item- HearingHorn	Item Tooltip - Primary	Grab	Nehmen
+Item- HearingHorn	Item Tooltip - Secondary	Stare in horror at the ear trumpet	Entsetzt auf die Ohrtrompete starren
+Item- MetalHanger	Item Tooltip - Shorthand	wire hanger	Drahtbügel
+Item- MetalHanger	Item Tooltip - Primary	Grab	Nehmen
+Item- MetalHanger	Item Tooltip - Secondary	Examine wire hanger	Drahtbügel untersuchen
+Item- BrokenHanger	Item Tooltip - Primary	Grab	Nehmen
+Item- BrokenHanger	Item Tooltip - Secondary	It's the twisted remains of a hanger	Es sind die verdrehten Überreste eines Kleiderbügels
+Item- AccountingRecords	Item Tooltip - Primary	Grab	Nehmen
+Item- AccountingRecords	Item Tooltip - Secondary	Attempt to decipher the records	Versuchen, die Aufzeichnungen zu entziffern
+Item- Coffee	Item Tooltip - Shorthand	cup of coffee	Tasse Kaffee
+Item- Coffee	Item Tooltip - Primary	Grab	Nehmen
+Item- Coffee	Item Tooltip - Secondary	Look at the cup of coffee	Die Tasse Kaffee ansehen
+Item- Magnet	Item Tooltip - Primary	Grab	Nehmen
+Item- Magnet	Item Tooltip - Secondary	Examine the huge magnet	Den riesigen Magneten untersuchen
+Item- CasinoChips	Item Tooltip - Primary	Grab	Nehmen
+Item- CasinoChips	Item Tooltip - Secondary	Inspect the stack of casino chips	Den Stapel Casino-Chips inspizieren
+Item- RecordingDevice	Item Tooltip - Shorthand	pocket recorder	Taschenrekorder
+Item- RecordingDevice	Item Tooltip - Primary	Grab	Nehmen
+Item- RecordingDevice	Item Tooltip - Secondary	Inspect pocket recorder	Taschenrekorder inspizieren
+Item- BergmannRecording	Item Tooltip - Shorthand	Bergmann recording	Bergmann-Aufnahme
+Item- BergmannRecording	Item Tooltip - Primary	Grab	Nehmen
+Item- BergmannRecording	Item Tooltip - Secondary	Listen to Bergmann's recording	Die Aufnahme von Bergmann anhören
+Item- EmptyRecorder	Item Tooltip - Shorthand	empty recorder	leerer Rekorder
+Item- EmptyRecorder	Item Tooltip - Primary	Grab	Nehmen
+Item- EmptyRecorder	Item Tooltip - Secondary	Look inside the recording device	Ins Innere des Aufnahmegeräts schauen
+Item- MagneticBall	Item Tooltip - Primary	Grab	Nehmen
+Item- MagneticBall	Item Tooltip - Secondary	Examine magnetic ball	Magnetkugel untersuchen
+Item- ArtistSketches	Item Tooltip - Shorthand	sketches	Skizzen
+Item- ArtistSketches	Item Tooltip - Primary	Grab	Nehmen
+Item- ArtistSketches	Item Tooltip - Secondary	Examine sketches	Skizzen untersuchen
+Item- CorkingDevice	Item Tooltip - Primary	Grab	Nehmen
+Item- CorkingDevice	Item Tooltip - Secondary	Inspect the corking device	Das Korkgerät inspizieren
+Item- PetalLeaf	Item Tooltip - Shorthand	petal leaf	Blütenblätter
+Item- PetalLeaf	Item Tooltip - Primary	Grab	Nehmen
+Item- PetalLeaf	Item Tooltip - Secondary	Sniff the petal leaf	An den Blütenblättern schnuppern
+Item- BudLite	Item Tooltip - Shorthand	Bud-Lite	Bud-Lite
+Item- BudLite	Item Tooltip - Primary	Grab	Nehmen
+Item- BudLite	Item Tooltip - Secondary	Examine Bud-Lite	Bud-Lite untersuchen
+Item- Mouthwash	Item Tooltip - Primary	Grab	Nehmen
+Item- Mouthwash	Item Tooltip - Secondary	Read mouthwash label	Etikett der Mundspülung lesen
+Item- CorkedHorn	Item Tooltip - Shorthand	corked hearing horn	verkorktes Hörrohr
+Item- CorkedHorn	Item Tooltip - Primary	Grab	Nehmen
+Item- CorkedHorn	Item Tooltip - Secondary	Inspect the corked hearing horn	Das verkorkte Hörrohr inspizieren
+Item- HornFullLiquidBlue	Item Tooltip - Shorthand	corked hearing horn	verkorktes Hörrohr
+Item- HornFullLiquidBlue	Item Tooltip - Primary	Grab	Nehmen
+Item- HornFullLiquidBlue	Item Tooltip - Secondary	Inspect the corked hearing horn	Das verkorkte Hörrohr inspizieren
+Item- HornFullLiquidPink	Item Tooltip - Shorthand	corked hearing horn	verkorktes Hörrohr
+Item- HornFullLiquidPink	Item Tooltip - Primary	Grab	Nehmen
+Item- HornFullLiquidPink	Item Tooltip - Secondary	Inspect the corked hearing horn	Das verkorkte Hörrohr inspizieren
+Item- Rosebud	Item Tooltip - Shorthand	Rosebud	Rosebud
+Item- Rosebud	Item Tooltip - Primary	Grab	Nehmen
+Item- Rosebud	Item Tooltip - Secondary	Drink the Rosebud	Den Rosebud trinken
+Item- LuggageStorageKey	Item Tooltip - Shorthand	storage key	Lagerschlüssel
+Item- LuggageStorageKey	Item Tooltip - Primary	Grab	Nehmen
+Item- LuggageStorageKey	Item Tooltip - Secondary	Examine storage key	Lagerschlüssel untersuchen
+Item- MedicalBriefcase	Item Tooltip - Shorthand	briefcase	Aktentasche
+Item- MedicalBriefcase	Item Tooltip - Primary	Grab	Nehmen
+Item- MedicalBriefcase	Item Tooltip - Secondary	Examine briefcase	Aktentasche untersuchen
+Item- MedicalRecords	Item Tooltip - Primary	Grab	Nehmen
+Item- MedicalRecords	Item Tooltip - Secondary	Examine medical records	Die Krankenakten untersuchen
+Item- BlockOfCheese	Item Tooltip - Shorthand	cheese	Käse
+Item- BlockOfCheese	Item Tooltip - Primary	Grab	Nehmen
+Item- BlockOfCheese	Item Tooltip - Secondary	Examine block of cheese	Den Käseblock untersuchen
+Item- OvenGloves	Item Tooltip - Primary	Grab	Nehmen
+Item- OvenGloves	Item Tooltip - Secondary	Examine oven gloves	Ofenhandschuhe untersuchen
+Item- Mouse	Item Tooltip - Primary	Grab	Nehmen
+Item- Mouse	Item Tooltip - Secondary	Examine mouse	Maus untersuchen
+Item- HermanRoomKey	Item Tooltip - Shorthand	Herman's key	Hermanns Schlüssel
+Item- HermanRoomKey	Item Tooltip - Primary	Grab	Nehmen
+Item- HermanRoomKey	Item Tooltip - Secondary	Examine Herman's key	Hermanns Schlüssel untersuchen
+Item- SecretNote	Item Tooltip - Shorthand	lightly toasted note	leicht gerösteter Brief
+Item- SecretNote	Item Tooltip - Primary	Grab	Nehmen
+Item- SecretNote	Item Tooltip - Secondary	Examine lightly toasted note	Den leicht gerösteten Brief untersuchen
+Item- WireReel	Item Tooltip - Shorthand	wire reel	Spule
+Item- WireReel	Item Tooltip - Primary	Grab	Nehmen
+Item- WireReel	Item Tooltip - Secondary	Examine wire reel	Spule untersuchen
+Item- UnterwaldRecording	Item Tooltip - Shorthand	recording	Aufnahme
+Item- UnterwaldRecording	Item Tooltip - Primary	Grab	Nehmen
+Item- UnterwaldRecording	Item Tooltip - Secondary	Examine Lady Unterwald's voice recording	Lady Unterwalds Sprachaufnahme untersuchen
+Item- WalkingCane	Item Tooltip - Primary	Grab	Nehmen
+Item- WalkingCane	Item Tooltip - Secondary	Ponder Lady Unterwald's cane	Über Lady Unterwalds Gehstock nachdenken
+Item- HookedWalkingCane	Item Tooltip - Primary	Grab	Nehmen
+Item- HookedWalkingCane	Item Tooltip - Secondary	Ponder Lady Unterwald's cane	
+Item- WillOfLadyUnterwald	Item Tooltip - Shorthand	the will	das Testament
+Item- WillOfLadyUnterwald	Item Tooltip - Primary	Grab	Nehmen
+Item- WillOfLadyUnterwald	Item Tooltip - Secondary	Examine the will & testament of Lady Unterwald	Das Testament von Lady Unterwald untersuchen
+Item- BagOfCash	Item Tooltip - Primary	Grab	Nehmen
+Item- BagOfCash	Item Tooltip - Secondary	Examine bag of cash	Geldbeutel untersuchen
+Item- WoodenHanger	Item Tooltip - Primary	Grab	
+Item- WaxSeal	Item Tooltip - Primary	Grab	Nehmen
+Item- WaxSeal	Item Tooltip - Secondary	Look at the wax seal	Das Wachssiegel ansehen
+Item- Lemon	Item Tooltip - Primary	Grab	Nehmen
+Item- Lemon	Item Tooltip - Secondary	Look at the lemon	Die Zitrone ansehen
+Item- ToyDetectiveBadge	Item Tooltip - Shorthand	junior detective badge	Junior-Detektiv-Abzeichen
+Item- ToyDetectiveBadge	Item Tooltip - Primary	Grab	Nehmen
+Item- ToyDetectiveBadge	Item Tooltip - Secondary	Examine junior detective badge	Das Junior-Detektiv-Abzeichen untersuchen
+Item- SetList	Item Tooltip - Shorthand	band set list	Band-Setliste
+Item- SetList	Item Tooltip - Primary	Grab	Nehmen
+Item- SetList	Item Tooltip - Secondary	Examine band set list	Die Band-Setliste untersuchen
+Item- Boots	Item Tooltip - Primary	Grab	Nehmen
+Item- Boots	Item Tooltip - Secondary	Examine the boots	Die Stiefel untersuchen
+Item- HandIdol	Item Tooltip - Primary	Grab	Nehmen
+Item- HandIdol	Item Tooltip - Secondary	Examine the hand idol	Den Handgötzen untersuchen
+Item- HandCream	Item Tooltip - Primary	Grab	Nehmen
+Item- HandCream	Item Tooltip - Secondary	Examine the hand cream	Die Handcreme untersuchen
+Item- Butter	Item Tooltip - Primary	Grab	Nehmen
+Item- Butter	Item Tooltip - Secondary	Examine the butter	Die Butter untersuchen
+Item- BlueSuit	Item Tooltip - Shorthand	suit	Anzug
+Item- BlueSuit	Item Tooltip - Primary	Grab	Nehmen
+Item- BlueSuit	Item Tooltip - Secondary	Examine the suit	Den Anzug untersuchen
+Item- BusinessCard	Item Tooltip - Primary	Grab	Nehmen
+Item- BusinessCard	Item Tooltip - Secondary	Look at the business card	Die Visitenkarte ansehen
+Item- CupofPaste	Item Tooltip - Primary	Grab	Nehmen
+Item- CupofPaste	Item Tooltip - Secondary	Look at the cup of paste	Den Becher mit Paste ansehen
+Item- FilledCup	Item Tooltip - Primary	Grab	Nehmen
+Item- FilledCup	Item Tooltip - Secondary	Look at the filled cup	Den gefüllten Becher ansehen
+Item- Lockpick	Item Tooltip - Shorthand	toy lockpick	Spielzeugdietrich
+Item- Lockpick	Item Tooltip - Primary	Grab	Nehmen
+Item- Lockpick	Item Tooltip - Secondary	Look at the toy lockpick	Den Spielzeugdietrich ansehen
+Item- MagnifyingGlass	Item Tooltip - Primary	Grab	Nehmen
+Item- MagnifyingGlass	Item Tooltip - Secondary	Look at the magnifying glass	Die Lupe ansehen
+Item- PackingPopcorn	Item Tooltip - Shorthand	packing popcorn	Packpopcorn
+Item- PackingPopcorn	Item Tooltip - Primary	Grab	Nehmen
+Item- PackingPopcorn	Item Tooltip - Secondary	Look at the packing popcorn	Das Packpopcorn ansehen
+Item- PaperCup	Item Tooltip - Primary	Grab	Nehmen
+Item- PaperCup	Item Tooltip - Secondary	Look at the paper cup	Den Pappbecher ansehen
+Item- Sawdust	Item Tooltip - Primary	Grab	Nehmen
+Item- Sawdust	Item Tooltip - Secondary	Look at the sawdust	Das Sägemehl ansehen
+Item- SawdustCup	Item Tooltip - Primary	Grab	Nehmen
+Item- SawdustCup	Item Tooltip - Secondary	Look at the cup of sawdust	Den Becher Sägemehl ansehen
+Item- Pen	Item Tooltip - Shorthand	pen	Stift
+Item- Pen	Item Tooltip - Primary	Grab	Nehmen
+Item- Pen	Item Tooltip - Secondary	Look at the pen	Den Stift ansehen
+Item- Stapler	Item Tooltip - Primary	Grab	Nehmen
+Item- Stapler	Item Tooltip - Secondary	Look at the stapler	Den Hefter ansehen
+Item- LetterOpener	Item Tooltip - Primary	Grab	Nehmen
+Item- LetterOpener	Item Tooltip - Secondary	Look at the letter opener	Den Brieföffner ansehen
+Item- AdventureManuscript	Item Tooltip - Primary	Grab	Nehmen
+Item- AdventureManuscript	Item Tooltip - Secondary	Look at the adventure manuscript	Das Abenteuer-Manuskript ansehen
+Item- RomanceManuscript	Item Tooltip - Primary	Grab	Nehmen
+Item- RomanceManuscript	Item Tooltip - Secondary	Look at the romance manuscript	Das romantische Manuskript ansehen
+Item- ActionManuscript	Item Tooltip - Shorthand	Chiselton's manuscript	Chiseltons Manuskript
+Item- ActionManuscript	Item Tooltip - Primary	Grab	Nehmen
+Item- ActionManuscript	Item Tooltip - Secondary	Look at Chiselton's manuscript	Chiseltons Manuskript ansehen
+Item- Package	Item Tooltip - Primary	Grab	Nehmen
+Item- Package	Item Tooltip - Secondary	Look at the package	Das Paket ansehen
+Item- PrototypeDoll	Item Tooltip - Primary	Grab	Nehmen
+Item- PrototypeDoll	Item Tooltip - Secondary	Squeeze the prototype doll	Die Prototyp-Puppe drücken
+Item- OpenedDoll	Item Tooltip - Shorthand	torn doll	zerfetzte Puppe
+Item- OpenedDoll	Item Tooltip - Primary	Grab	Nehmen
+Item- OpenedDoll	Item Tooltip - Secondary	Look at the torn doll	Die zerfetzte Puppe ansehen
+Item- Habanero	Item Tooltip - Primary	Grab	Nehmen
+Item- Habanero	Item Tooltip - Secondary	Look at the habanero pepper	Den Habanero-Chili ansehen
+Item- PearlNecklace	Item Tooltip - Primary	Grab	Nehmen
+Item- PearlNecklace	Item Tooltip - Secondary	Look at the pearl necklace	Die Perlenkette ansehen
+Item- ForgedEntryList	Item Tooltip - Shorthand	forged entry list	gefälschte Gästeliste
+Item- ForgedEntryList	Item Tooltip - Primary	Grab	Nehmen
+Item- ForgedEntryList	Item Tooltip - Secondary	Look at the forged entry list	Die gefälschte Gästeliste ansehen
+Item- KitchenPlunger	Item Tooltip - Shorthand	plunger	Saugglocke
+Item- KitchenPlunger	Item Tooltip - Primary	Grab	Nehmen
+Item- KitchenPlunger	Item Tooltip - Secondary	Look at the plunger	Die Saugglocke ansehen
+Item- ToiletPlunger	Item Tooltip - Shorthand	plunger	Saugglocke
+Item- ToiletPlunger	Item Tooltip - Primary	Grab	Nehmen
+Item- ToiletPlunger	Item Tooltip - Secondary	Look at the plunger	Die Saugglocke ansehen
+Item- KitchenBoots	Item Tooltip - Primary	Grab	Nehmen
+Item- KitchenBoots	Item Tooltip - Secondary	Look at the boots	Die Stiefel ansehen
+Item- ToiletBoots	Item Tooltip - Primary	Grab	Nehmen
+Item- ToiletBoots	Item Tooltip - Secondary	Look at the boots	Die Stiefel ansehen
+Item- SuctionBoots	Item Tooltip - Primary	Grab	Nehmen
+Item- SuctionBoots	Item Tooltip - Secondary	Look at the suction boots	Die Saugstiefel ansehen
+Item- DianaPhoto	Item Tooltip - Shorthand	photograph	Foto
+Item- DianaPhoto	Item Tooltip - Primary	Grab	Nehmen
+Item- DianaPhoto	Item Tooltip - Secondary	Look at the photograph	Das Foto ansehen
+Item- RosebudRecipe	Item Tooltip - Primary	Grab	Nehmen
+Item- RosebudRecipe	Item Tooltip - Secondary	Read the Rosebud recipe	Das Rosebud-Rezept lesen
+Item- WireCutters	Item Tooltip - Shorthand	wiring kit	Kabelsatz
+Item- WireCutters	Item Tooltip - Primary	Grab	Nehmen
+Item- WireCutters	Item Tooltip - Secondary	Look at the wiring kit	Schau dir den Kabelsatz an
+Item- RubberTubing	Item Tooltip - Primary	Grab	Nehmen
+Item- RubberTubing	Item Tooltip - Secondary	Look at the rubber tubing	Den Gummischlauch ansehen
+Item- EmptyFuelCanister	Item Tooltip - Shorthand	empty fuel tank	leerer Benzintank
+Item- EmptyFuelCanister	Item Tooltip - Primary	Grab	Nehmen
+Item- EmptyFuelCanister	Item Tooltip - Secondary	Look at the empty fuel tank	Den leeren Benzintank ansehen
+Item- FilledFuelCanister	Item Tooltip - Shorthand	filled fuel tank	gefüllter Benzintank
+Item- FilledFuelCanister	Item Tooltip - Primary	Grab	Nehmen
+Item- FilledFuelCanister	Item Tooltip - Secondary	Look at the filled fuel tank	Den gefüllten Benzintank ansehen
+Item- EmptyCanister	Item Tooltip - Shorthand	tube container	Rohrbehälter
+Item- EmptyCanister	Item Tooltip - Primary	Grab	Nehmen
+Item- EmptyCanister	Item Tooltip - Secondary	Look at the tube container	Den Rohrbehälter ansehen
+Item- MouseCanister	Item Tooltip - Primary	Grab	Nehmen
+Item- AgentM	Item Tooltip - Primary	Grab	Nehmen
+Item- GadgetGrabBag	Item Tooltip - Shorthand	gadget bag	Gadget-Tasche
+Item- GadgetGrabBag	Item Tooltip - Primary	Grab	Nehmen
+Item- GadgetGrabBag	Item Tooltip - Secondary	Open the gadget bag	Die Gadget-Tasche öffnen
+Item- IncendiaryPencils	Item Tooltip - Primary	Grab	Nehmen
+Item- IncendiaryPencils	Item Tooltip - Secondary	Take an incendiary pencil	Einen Brandstift nehmen
+Item- DeactivatedTruthSerum	Item Tooltip - Primary	Grab	Nehmen
+Item- DeactivatedTruthSerum	Item Tooltip - Secondary	Look at the deactivated truth serum	Das deaktivierte Wahrheitsserum ansehen
+Item- IncendiaryFuelTank	Item Tooltip - Primary	Grab	Nehmen
+Item- IncendiaryFuelTank	Item Tooltip - Secondary	Look at the incendiary fuel tank	Den Brandstofftank ansehen
+Item- Coal	Item Tooltip - Shorthand	lump of coal	Kohlenklumpen
+Item- Coal	Item Tooltip - Primary	Grab	Nehmen
+Item- Coal	Item Tooltip - Secondary	Look at the lump of coal	Den Kohlenklumpen ansehen
+Item- Chains	Item Tooltip - Shorthand	heavy chains	schwere Ketten
+Item- Chains	Item Tooltip - Primary	Grab	Nehmen
+Item- Chains	Item Tooltip - Secondary	Look at the heavy chains	Die schweren Ketten ansehen
+Item- AnkletKey	Item Tooltip - Shorthand	shackle key	Fesselschlüssel
+Item- AnkletKey	Item Tooltip - Primary	Grab	Nehmen
+Item- AnkletKey	Item Tooltip - Secondary	Look at the shackle key	Den Fesselschlüssel ansehen
+Item- RustyPole	Item Tooltip - Shorthand	rusty metal pole	rostige Metallstange
+Item- RustyPole	Item Tooltip - Primary	Grab	Nehmen
+Item- RustyPole	Item Tooltip - Secondary	Look at the rusty metal pole	Die rostige Metallstange ansehen
+Item- PlungerCup	Item Tooltip - Shorthand	suction cup	Saugnapf
+Item- PlungerCup	Item Tooltip - Primary	Grab	Nehmen
+Item- PlungerCup	Item Tooltip - Secondary	Look at the suction cup	Den Saugnapf ansehen
+Item- MakeshiftPlunger	Item Tooltip - Primary	Grab	Nehmen
+Item- MakeshiftPlunger	Item Tooltip - Secondary	Look at the makeshift plunger	Die Behelfssaugglocke ansehen
+Item- MeltedWaxBlob	Item Tooltip - Primary	Grab	Nehmen
+Item- MeltedWaxBlob	Item Tooltip - Secondary	Look at the melted wax	Das geschmolzene Wachs ansehen
+Item- HardenedWaxBlob	Item Tooltip - Shorthand	resolidified wax	wiedererstarrtes Wachs
+Item- HardenedWaxBlob	Item Tooltip - Primary	Grab	Nehmen
+Item- HardenedWaxBlob	Item Tooltip - Secondary	Look at the resolidified wax	Das wiedererstarrte Wachs ansehen
+Item- WaxImprint	Item Tooltip - Primary	Grab	Nehmen
+Item- WaxImprint	Item Tooltip - Secondary	Look at the wax imprint	Den Wachsabdruck ansehen
+Item- PhonographRecording	Item Tooltip - Primary	Grab	Nehmen
+Item- PhonographRecording	Item Tooltip - Secondary	Listen to the recording	Die Aufnahme anhören
+Item- GramophoneRecord	Item Tooltip - Primary	Grab	Nehmen
+Item- GramophoneRecord	Item Tooltip - Secondary	Look at the gramophone record	Die Grammofonplatte ansehen
+Item- Antidote	Item Tooltip - Shorthand	syringe	Spritze
+Item- Antidote	Item Tooltip - Primary	Grab	Nehmen
+Item- Antidote	Item Tooltip - Secondary	Look at the syringe	Die Spritze ansehen
+Item- Pencil	Item Tooltip - Shorthand	incendiary pencil	Brandstift
+Item- Pencil	Item Tooltip - Primary	Grab	Nehmen
+Item- Pencil	Item Tooltip - Secondary	Look at the incendiary pencil	Den Brandstift ansehen
+Item- Gunpowder	Item Tooltip - Primary	Grab	Nehmen
+Item- Gunpowder	Item Tooltip - Secondary	Look at the gunpowder	Das Schießpulver ansehen
+Item- LadyULetter	Item Tooltip - Shorthand	sealed letter	versiegelter Brief
+Item- LadyULetter	Item Tooltip - Primary	Grab	Nehmen
+Item- LadyULetter	Item Tooltip - Secondary	Look at the sealed letter	Den versiegelten Brief ansehen
+Item- Napkin	Item Tooltip - Primary	Grab	Nehmen
+Item- Napkin	Item Tooltip - Secondary	Look at the napkin	Die Serviette ansehen
+Item- SurgicalSpirit	Item Tooltip - Shorthand	bottle of surgical spirit	Flasche Wundbenzin
+Item- SurgicalSpirit	Item Tooltip - Primary	Grab	Nehmen
+Item- SurgicalSpirit	Item Tooltip - Secondary	Look at the bottle of surgical spirit	Die Flasche Wundbenzin ansehen
+Item- SurgicalSpiritNapkin	Item Tooltip - Shorthand	spirit stained napkin	alkoholbefleckte Serviette
+Item- SurgicalSpiritNapkin	Item Tooltip - Primary	Grab	Nehmen
+Item- SurgicalSpiritNapkin	Item Tooltip - Secondary	Look at the spirit stained napkin	Die alkoholbefleckte Serviette ansehen
+Item- Mocktail	Item Tooltip - Shorthand	fruity mocktail	fruchtiger Mocktail
+Item- Mocktail	Item Tooltip - Primary	Grab	Nehmen
+Item- Mocktail	Item Tooltip - Secondary	Look at the fruity mocktail	Den fruchtigen Mocktail ansehen
+Item- PoetryBook	Item Tooltip - Shorthand	Don's poetry journal	Dons Poesiealbum
+Item- PoetryBook	Item Tooltip - Primary	Grab	Nehmen
+Item- PoetryBook	Item Tooltip - Secondary	Grimace at Don's poetry journal	Beim Anblick von Dons Poesiealbum Gesicht verziehen
+Item- InvisibleBook	Item Tooltip - Shorthand	Dr Phogg’s Guide to Invis-Ability	Dr. Schleihers Leitfaden zur Unsichtbarkeit
+Item- InvisibleBook	Item Tooltip - Primary	Grab	Nehmen
+Item- InvisibleBook	Item Tooltip - Secondary	Peruse Dr Phogg’s Guide to Invis-Ability	Dr. Schleihers Leitfaden zur Unsichtbarkeit lesen
+Item- DetectiveBadge	Item Tooltip - Primary	Grab	Nehmen
+Item- DetectiveBadge	Item Tooltip - Secondary	Inspect the detective badge	Das Detektivabzeichen inspizieren
+Item- ChiseltonCover	Item Tooltip - Shorthand	cover page	Deckblatt
+Item- ChiseltonCover	Item Tooltip - Primary	Grab	Nehmen
+Item- ChiseltonCover	Item Tooltip - Secondary	Look at the cover page	Das Deckblatt ansehen
+Item- FakeNovel	Item Tooltip - Shorthand	fake chiselton novel	gefälschter Chiselton-Roman
+Item- FakeNovel	Item Tooltip - Primary	Grab	Nehmen
+Item- FakeNovel	Item Tooltip - Secondary	Read the fake chiselton novel	Den gefälschten Chiselton-Roman lesen
+Item- SlipperyMixture	Item Tooltip - Primary	Grab	Nehmen
+Item- SlipperyMixture	Item Tooltip - Secondary	Look at the slippery mixture	Die glitschige Mischung ansehen
+Item- SoupCup	Item Tooltip - Shorthand	spicy soup	scharfe Suppe
+Item- SoupCup	Item Tooltip - Primary	Grab	Nehmen
+Item- SoupCup	Item Tooltip - Secondary	Inspect the spicy soup	Die scharfe Suppe inspizieren
+Item- LeftoverMixture	Item Tooltip - Primary	Grab	Nehmen
+Item- LeftoverMixture	Item Tooltip - Secondary	Look at the slippery mixture	
+Item- Knife	Item Tooltip - Primary	Grab	Nehmen
+Item- Knife	Item Tooltip - Secondary	Examine the knife	Das Messer untersuchen
+Item- ButterKnife	Item Tooltip - Primary	Grab	
+Item- ButterKnife	Item Tooltip - Secondary	Examine the knife	
+Item- HandCreamKnife	Item Tooltip - Primary	Grab	
+Item- HandCreamKnife	Item Tooltip - Secondary	Examine the knife	
+Item- SlipperyKnife	Item Tooltip - Primary	Grab	Nehmen
+Item- SlipperyKnife	Item Tooltip - Secondary	Examine the slippery knife	Das glitschige Messer untersuchen
+Item- RepairedHearingHorn	Item Tooltip - Primary	Grab	Nehmen
+Item- RepairedHearingHorn	Item Tooltip - Secondary	Look at the hearing horn	Das Hörrohr ansehen
+Item- BrokenBoots	Item Tooltip - Primary	Grab	
+Item- BrokenBoots	Item Tooltip - Secondary	Look at the boots	
+Dialog- LamontQuestioning	CheckLamontLeaveDesk	Let's get back on track here, shall we?	Kommen wir wieder zur Sache, ja?
+Dialog- TalkToHirsch	Dialog Option	Alright, that's enough for now.	In Ordnung, das reicht für den Moment.
+Dialog- TalkToTwins	Option14	Do I have to spank you both?	Muss ich euch beiden den Hintern versohlen?
+Dialog- TalkToGuard	Dialog Option	I'm leaving now.	Ich werde jetzt gehen.
+Dialog- TalkToPublisherFrank	Dialog Option	It looks like I'll be pitching directly for the time being.	Es sieht so aus, als müsste ich vorerst direkt pitchen.
+Dialog- TalkToPublisherFlorence	Option5	Ah ha ha!	Ah ha ha!
+Dialog- TalkToPublisherFlorence	Option5	Oh ho ho!	Oh ho ho!
+Dialog- TalkToPublisherFlorence	Option5	Ah ha ha!	Ah ha ha!
+Dialog- StageManagerQuestion2	Dialog Option	My Love is on the Line	My Love is on the Line.
+Dialog- StageManagerQuestion2	Dialog Option	Freight Train Blues	Freight Train Blues.
+Dialog- StageManagerQuestion3	Dialog Option	Freight Train Blues	
+Dialog- TalkToBrotherJaredActOne	Dialog Option	Does your guide book cover revealing hidden messages?	Steht in deinem Leitfaden etwas darüber, wie man versteckte Botschaften aufdeckt?
+Dialog- TalkToSisterGretchenActTwo	Dialog Option	I have some questions about the missing hand idol	Ich habe ein paar Fragen zu dem fehlenden Handgötzen.
+Dialog- TalkToHandshakeLeaderActTwo	Dialog Option	Aren't you worried about Mr. Liu?	Machst du dir keine Sorgen um Herrn Liu?
+Dialog- DescribeIdolEngraving	Dialog Option	'Keep Calm And Carry On''	„Aufstehen, Krone richten, weitermachen“?
+Dialog- DescribeIdolEngraving	Dialog Option	'Dance Like Nobody's Watching''	„Lebe jeden Tag, als wäre es dein letzter“?
+Dialog- DescribeIdolEngraving	Dialog Option	'Live, Laugh, Love''?	„Lebe, liebe, lache“?
+Dialog- TalkToDonServices	Dialog Option	I have to go now	Ich muss jetzt gehen.
+Dialog- TalkToGunter	Dialog Option	I thought we'd bonded over our shared love of infrastructure!	Ich dachte, wir hätten durch unsere gemeinsame Liebe zur Infrastruktur eine Verbindung aufgebaut!
+Dialog- TalkToHirschAboutCases	Dialog Option	You've read Herman Merman & The Squirming Chairman?	Du hast Hermann Mermann im verflixten Zauberbann gelesen?
+Dialog- TalkToHirschAboutCases	Dialog Option	Surely not Herman Merman & The Sermon of Vermin?	Sicherlich nicht Hermann Mermann, der manchmal mehr kann?
+Dialog- TalkToHirschAboutCases	Dialog Option	Even Herman Merman & The Murmuring German?	Auch Hermann Mermann und der plappernde Fährmann?
+Dialog- TalkToHirschChapterFour	Dialog Option	The Order of Idle Hands? What is this all about?	Der Orden der müßigen Hände? Was hat es damit auf sich?
+Dialog- AmbushedByDiana	Dialog Option	There's no set-up! The estate attorney, he's your man.	Es ist keine Hinterlist! Der Nachlassverwalter ist dein Mann.
+Dialog- AmbushedByDiana	Dialog Option	I was instructed to deliver the suit, that's all I know!	Ich wurde angewiesen, den Anzug abzuliefern, mehr weiß ich nicht!
+Dialog- AmbushedByDiana	Dialog Option	This kind of talk is only going to spook your informant!	Diese Art von Gerede wird deinen Informanten nur verschrecken!
+Dialog- AmbushedByDiana	Dialog Option	Your informant, I'm afraid they're dead...	Ich fürchte, dein Informant ist tot ...
+Dialog- TalkToSusanne	Dialog Option	Are you sure you can't accept this note?	Bist du sicher, dass du diesen Brief nicht annehmen kannst?
+Dialog- TalkToSusanne	Dialog Option	I have to go!	Ich muss los!
+Dialog- TalkToMassonDrunk	Dialog Option	You had the keys to the luggage storage?	Warte, Sie hatten den Schlüssel für das Gepäcklager?
+Dialog- TalkToMassonDrunk	Dialog Option	How did you end up in this place?	Wie sind Sie hier gelandet?
+Dialog- TalkToMassonDrunk	Dialog Option	This complimentary drink, do you suspect foul play?	Dieses Gratisgetränk, vermuten Sie da ein Verbrechen?
+Dialog- TalkToMassonDrunk	Dialog Option	Who invented that drink anyway?	Wer hat diesen Drink eigentlich erfunden?
+Dialog- TalkToMassonDrunk	Dialog Option	I should be going!	Ich sollte jetzt gehen!
+Dialog- TalkToArtistActOne	Dialog Option	Would this bag of cash be enough for a painting?	Würde dieser Geldbeutel für ein Gemälde reichen?
+Dialog- TalkToChefFrancoisChapterTwo	Dialog Option	Good news, I've apprehended the mouse!	Gute Nachrichten, ich habe die Maus gefangen!
+Dialog- TalkToChefAntoineChapterTwo	Dialog Option	Good news, I've apprehended the mouse!	Gute Nachrichten, ich habe die Maus gefangen!
+Dialog- TalkToAristaAboutHorn	Dialog Option	Why did you send your boy into the ventilation system?	Warum hast du deinen Jungen in das Belüftungssystem geschickt?
+Dialog- TalkToSusanneChapterFour	Dialog Option	Could put in a good word for me with Beverly Moore?	Kannst du bei Beverly Meehr ein gutes Wort für mich einlegen?
+Dialog- AristaConfessionHerman	Option3	Sorry? What was that?	Wie bitte? Wie war das?
+Dialog- HintLineChapterTwo	Dialog Option	I need another hint to get Mr Masson talking	Ich brauche noch einen Hinweis, wie ich Herrn Masson zum Reden bringe.
+Dialog- HintLineChapterTwo	Dialog Option	I need another hint to get Mr Masson talking	Ich brauche noch einen Hinweis, wie ich Herrn Masson zum Reden bringe.
+Dialog- HintLineChapterTwo	Dialog Option	I need another hint to get Mr Masson talking	Ich brauche noch einen Hinweis, wie ich Herrn Masson zum Reden bringe.
+Dialog- HintLineChapterTwo	Dialog Option	I need another hint to get Mr Masson talking	Ich brauche noch einen Hinweis, wie ich Herrn Masson zum Reden bringe.
+Dialog- HintLineHerman	Dialog Option	Ugh, I need a hint!	Ugh, ich brauche einen Hinweis!
+Global Script	FollowDonTalkToBergmann	What's going on, Donny?	Was ist los, Donny?
+Global Script	FollowDonTalkToBergmann	Nothing. I'm just grabbing more casino chips, okay?	Nix. Ich hole mir nur mehr Casino-Chips, okay?
+Global Script	FollowDonTalkToBergmann	It's a minor setback, that's all.	Es ist ein kleiner Rückschlag, das ist alles.
+Global Script	FollowDonTalkToBergmann	You're losing? I'd hardly consider that a minor setback!	Du verlierst? Das würde ich kaum als kleinen Rückschlag bezeichnen!
+Global Script	FollowDonTalkToBergmann	Ahh, don't worry your little head about it.	Ahh, zerbrich dir nicht deinen kleinen Kopf darüber.
+Global Script	FollowDonTalkToBergmann	I'll be back in the game before you know it.	Ehe du dich versiehst, bin ich wieder im Spiel.
+Global Script	FollowDonTalkToBergmann	Another setback, Donny?	Ein weiterer Rückschlag, Donny?
+Global Script	FollowDonTalkToBergmann	Look, I know what I'm doing okay?	Ich weiß, was ich tue, okay?
+Global Script	FollowDonTalkToBergmann	Turns out you can't win 'em all, even with your thumb on the scale!	Du kannst nicht immer gewinnen, selbst wenn du das System austrickst!
+Global Script	FollowDonTalkToBergmann	Don't give me that look.	Sieh mich nicht so an.
+Global Script	FollowDonTalkToBergmann	Not another word out of you, okay?	Kein Wort mehr von dir, okay?
+Global Script	DonReturnRouletteTable	Pardon the delay, bud.	Entschuldige die Verzögerung, Kumpel.
+Global Script	DonReturnRouletteTable	Now, are we gonna play or what?	Spielen wir jetzt, oder was?
+Gui- ChapterSelect	OnShow	Finale	Finale
+Gui- Disclaimer	OnShow	Welcome!	Willkommen!
+Gui- Disclaimer	OnShow	Prepare to board the Reuss Express for a 20-minute \n timed demo of this murder mystery comedy adventure.	Mach dich bereit, den Reuss Express zu besteigen, um eine 20-minütige
+Gui- Disclaimer	OnShow	Prepare to board the Reuss Express for an exclusive \n demo of this murder mystery comedy adventure. \n	Mach dich bereit, den Reuss Express zu besteigen, um eine exklusive
+Gui- Disclaimer	OnShow	The full game will feature:	Die Vollversion wird Folgendes beinhalten:
+Gui- Disclaimer	OnShow	Three playable characters in a \n feature-length story!	Drei spielbare Charaktere in einer
+Gui- Disclaimer	OnShow	Puzzle hint system!	Hinweis-System!
+Gui- Disclaimer	OnShow	Even more jokes and puzzles!	Noch mehr Witze und Rätsel!
+Gui- Disclaimer	OnShow	Coming to PC & Nintendo Switch - Q4 2024!	Erscheint für PC & Nintendo Switch - Q4 2024!
+Gui- EndSlate	OnShow	Wishlist on Steam!	Zur Wunschliste Hinzufügen!
+Gui- EndSlate	RefreshNavigationUI	Wishlist	Wunschliste
+Gui- EndSlate	RefreshNavigationUI	Wishlist	
+Gui- EndSlate	RefreshNavigationUI	Wishlist	
+Gui- EndSlate	RefreshNavigationUI	Wishlist	
+Gui- MainMenu	OnClickBtnStart	Autosave data will be overwritten. Are you sure you want to start a new game?	Die automatisch gespeicherten Daten werden überschrieben. Möchtest du wirklich ein neues Spiel beginnen?
+Gui- Title	OnShow	Copyright 2025 Robust Games	Copyright 2025 Robust Games
+Gui- Title	OnShow	Developed by Robust Games	Entwickelt von Robust Games
+Gui- Title	OnShow	Published by Chucklefish	Veröffentlicht von Chucklefish
+Gui- Title	OnShow	All Rights Reserved	Alle Rechte vorbehalten
+Gui- TitleCard	ShowIntroduction	Robust Games	Robust Games
+Gui- TitleCard	ShowIntroduction	presents	präsentiert
+Gui- TitleCard	ShowIntroduction	Loco Motive	Loco Motive
+Gui- TitleCard	ShowIntroduction	Copyright MMXXIV By Robust Games	Copyright MMXXIV von Robust Games
+PowerQuestExEnumProgression	eChapterCardPrologueProgression	Meet with Lady Unterwald	Lady Unterwald treffen
+PowerQuestExEnumProgression	eChapterCardPartOneProgression	Go to the Casino Carriage	Zum Casinowaggon gehen
+PowerQuestExEnumProgression	eChapterCardPartOneProgression	Leave the room	Den Raum verlassen
+PowerQuestExEnumProgression	eChapterCardPartOneProgression	Look with melancholy at the wardrobe	Mit Wehmut auf den Kleiderschrank blicken
+PowerQuestExEnumProgression	eChapterCardPartOneProgression	Ponder the instrument case	Über den Instrumentenkoffer nachdenken
+PowerQuestExEnumProgression	eChapterCardPartOneProgression	Pry open the drawer	Die Schublade aufhebeln
+PowerQuestExEnumProgression	eChapterCardPartOneProgression	Lament over the briefcase	Die Aktentasche betrauern
+PowerQuestExEnumProgression	eChapterCardPartOneProgression	Look wistfully through the books	Wehmütig die Bücher durchsehen
+PowerQuestExEnumProgression	eChapterCardPartOneProgression	It's the model 3 WHISPERNOTE	Es ist eine FLÜSTERDRUCK, Modell 3
+PowerQuestExEnumProgression	eChapterCardPartOneProgression	Mope over the retirement gifts	Trübsal blasen wegen der Ruhestandgeschenke
+PowerQuestExEnumProgression	eChapterCardPartOneProgression	Read the greetings card	Die Grußkarte lesen
+PowerQuestExEnumProgression	eChapterCardPartOneProgression	Look sadly at the balloons	Traurig auf die Luftballons blicken
+PowerQuestExEnumProgression	eChapterCardPartOneProgression	Pick up the petal leaf	Die Blütenblätter nehmen
+PowerQuestExEnumProgression	eChapterCardPartTwoProgression	Open the drawer	Die Schublade öffnen
+PowerQuestExEnumProgression	eChapterCardPartTwoProgression	Is Herman still in there?	Ist Hermann noch da drin?
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Talk to the shifty individual	Mit der verschlagenen Person reden
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	shifty individual	verschlagene Person
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Talk to the singer	Mit der Sängerin reden
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	singer	Sängerin
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	the man	
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Talk to the moustached gentleman	
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Eavesdrop on the conversation	Das Gespräch belauschen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Eavesdrop on the conversation	Das Gespräch belauschen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	annoyed gentleman	verärgerter Gentleman
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Listen in on the conversation	Das Gespräch belauschen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	waiter	Kellner
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Listen in on the conversation	Das Gespräch belauschen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Go to the Dining Carriage	Zum Speisewaggon gehen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Go to the Lobby Carriage	Zum Loungewaggon
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Assorted legal tomes	Diverse juristische Bücher
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Stack of boring looking paperwork	Ein Stapel langweilig aussehender Papierkram
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	It's a cosy desk lamp	Es ist eine gemütliche Schreibtischlampe
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	It's a portrait of Lady Unterwald	Es ist ein Porträt von Lady Unterwald
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Comfy looking slippers	Gemütlich aussehende Hausschuhe
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Trusty looking typewriter	Zuverlässig aussehende Schreibmaschine
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	It's a collection of greyish suits	Es ist eine Sammlung von grauen Anzügen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Go to my quarters	In mein Quartier gehen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	It's a luggage cart	Es ist ein Gepäckwagen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Respectfully knock	Respektvoll anklopfen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Inspect room number	Zimmernummer inspizieren
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Politely knock	Höflich anklopfen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Inspect room number	Zimmernummer inspizieren
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Hesitantly knock	Zögerlich anklopfen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Inspect room number	Zimmernummer inspizieren
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Tentatively knock	Zaghaft anklopfen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Inspect room number	Zimmernummer inspizieren
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Cautiously knock	Vorsichtig anklopfen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Inspect room number	Zimmernummer inspizieren
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Look inside the cupboard	In den Schrank schauen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	That's one big magnet!	
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Plate of leftovers	Teller mit Essensresten
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Ask about the champagne	Nach dem Champagner fragen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Examine the mouse hole	Das Mäuseloch untersuchen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Ball bearings	Kugellager
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Don's book of poetry	Dons Gedichtband
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Look at the briefcase	
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Eye the instrument case	Den Instrumentenkoffer beäugen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	These are some generous gifts	Das sind ein paar großzügige Geschenke
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	These are some generous gifts	
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Inspect the chilli plant	Die Chilipflanze inspizieren
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Like nails on a chalkboard	Wie Nägel auf einer Kreidetafel
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Admire the opulent outfits	Die opulenten Outfits bewundern
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Is that a model 3?	Ist das ein Modell 3?
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Check the drawer	Die Schublade überprüfen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Look through the books	Die Bücher durchsehen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	To Lobby Carriage	Zum Loungewaggon
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Peer into the mouse burrow	In das Mäuseloch blicken
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	It's a pile of lemons	Es ist ein Haufen Zitronen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Ask about the tray of drinks	Nach dem Getränketablett fragen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	water jug	Wasserkrug
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Look at the water jug	Den Wasserkrug ansehen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Rummage through the briefcase	
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Go to the Lounge Carriage	Zum Loungewaggon gehen
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Is that a crystal chandelier?	Ist das ein Kristallkronleuchter?
+PowerQuestExEnumProgression	eChapterCardPartThreeProgression	Ask about the slot machine	Nach dem Spielautomaten fragen
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	the woman	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	Introduce yourself	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	Chat to Bergmann	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	Bergmann	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	Talk to Ron	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	Ron	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	Talk to the singer	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	singer	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	Talk to the band members	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	bassist	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	Talk to the band members	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	drummer	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	Talk to the band members	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	saxophonist	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	doctor	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	Talk to the doctor	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	Mr Masson	Herr Masson
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	Speak to Mr Masson	Mit Herrn Masson sprechen
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	the hooded figure	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	Talk to the club member	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	the hooded figure	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	Talk to the club member	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	the hooded figure	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	Talk to the club member	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	The Leader	Anführer
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	Talk to the Leader	Mit dem Anführer reden
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	Enter the secret meeting room	Den geheimen Besprechungsraum betreten
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	Go to the Casino Carriage	
+PowerQuestExEnumProgression	eChapterCardPartFourProgression	Go to the Casino Carriage	
+PowerQuestExEnumProgression	eChapterCardPartFiveProgression	Speak to Diana	
+PowerQuestExEnumProgression	eChapterCardPartFiveProgression	Diana	
+PowerQuestExEnumProgression	eChapterCardPartFiveProgression	What is he doing?!	Was macht er?!
+PowerQuestExEnumProgression	eChapterCardPartFiveProgression	Obsess over the untidy paperwork	Sich über den unordentlichen Papierkram aufregen
+PowerQuestExEnumProgression	eChapterCardPartFiveProgression	It's a cheap looking typewriter	Es ist eine billig aussehende Schreibmaschine
+PowerQuestExEnumProgression	eChapterCardPartFiveProgression	It's Herman's manuscripts!	Es sind Hermanns Manuskripte!
+PowerQuestExEnumProgression	eChapterCardPartFiveProgression	Could those novels be of any use?	Könnten diese Romane von Nutzen sein?
+PowerQuestExEnumProgression	eChapterCardPartFiveProgression	Study the luggage	Das Gepäck studieren
+PowerQuestExEnumProgression	ePrologueProgressionState	Join the speech	Der Rede beiwohnen
+PowerQuestExEnumProgression	ePrologueProgressionState	Bask in the scent of the rose petals	Den Duft der Rosenblüten genießen
+PowerQuestExEnumProgression	eChapterOneGuardPuzzleProgression	Go to Lady Unterwald's quarters	Zu Lady Unterwalds Quartier gehen
+PowerQuestExEnumProgression	eChapterOneCasinoPuzzleProgression	To Don's Quarters	Zu Dons Quartier
+PowerQuestExEnumProgression	eChapterOneCasinoPuzzleProgression	Head back to the Casino Carriage	Zurück zum Casinowaggon gehen
+PowerQuestExEnumProgression	eChapterOneCasinoPuzzleProgression	Back to the Sleeper Carriage	Zurück zum Schlafwaggon
+PowerQuestExEnumProgression	eChapterTwoHandshakePuzzleProgression	Enter the secret meeting room	
+PowerQuestExEnumProgression	eChapterTwoRosebudProgression	Speak to the drunk	Mit dem Betrunkenen sprechen
+PowerQuestExEnumProgression	eChapterTwoRosebudProgression	the drunk	den Betrunkenen
+PowerQuestExEnumProgression	eChapterTwoRosebudProgression	Speak to Mr Masson	
+PowerQuestExEnumProgression	eChapterTwoRosebudProgression	Mr Masson	
+PowerQuestExEnumProgression	eChapterTwoRosebudProgression	Unlock the luggage storage room	Den Gepäcklagerraum aufschließen
+PowerQuestExEnumProgression	eChapterTwoRosebudProgression	Go to the luggage storage room	Zum Gepäcklagerraum gehen
+PowerQuestExEnumProgression	eChapterTwoMouseProgression	Go to Diana's quarters	Zu Dianas Quartier gehen
+PowerQuestExEnumProgression	eChapterTwoMouseProgression	Enter the luggage storage	Das Gepäcklager betreten
+PowerQuestExEnumProgression	eChapterTwoSafePuzzleProgression	Talk to Doctor Hirsch	Mit Doktor Leisch reden
+PowerQuestExEnumProgression	eChapterTwoSafePuzzleProgression	Doctor Hirsch	Doktor Leisch
+PowerQuestExEnumProgression	eChapterTwoSafePuzzleProgression	Go to Herman's quarters	Zu Hermanns Quartier gehen
+PowerQuestExEnumProgression	eChapterThreeOnManuscriptProgressionUpdated	the in-tray	
+PowerQuestExEnumProgression	eChapterThreeOnManuscriptProgressionUpdated	Peek at the in-tray	
+PowerQuestExEnumProgression	eChapterThreeOnManuscriptProgressionUpdated	the document	
+PowerQuestExEnumProgression	eChapterThreeOnManuscriptProgressionUpdated	Look at the document	
+PowerQuestExEnumProgression	eChapterThreeHermanRoomAccessProgression	Is this my room?	Ist das mein Zimmer?
+PowerQuestExEnumProgression	eChapterThreeHermanRoomAccessProgression	Inspect room number	Zimmernummer inspizieren
+PowerQuestExEnumProgression	eChapterThreeHermanRoomAccessProgression	Return to my quarters	In mein Quartier zurückkehren
+PowerQuestExEnumProgression	eChapterThreeGreenRoomPuzzleProgression	the stage manager	
+PowerQuestExEnumProgression	eChapterThreeGreenRoomPuzzleProgression	Talk to the stage manager	
+PowerQuestExEnumProgression	eChapterThreeGreenRoomPuzzleProgression	Talk to Don	Mit Don reden
+PowerQuestExEnumProgression	eChapterThreeGreenRoomPuzzleProgression	Don	Don
+PowerQuestExEnumProgression	eChapterThreeGreenRoomPuzzleProgression	To Don's Quarters	Zu Dons Quartier
+PowerQuestExEnumProgression	eChapterThreeGreenRoomPuzzleProgression	doctor	
+PowerQuestExEnumProgression	eChapterThreeGreenRoomPuzzleProgression	Talk to the doctor	
+PowerQuestExEnumProgression	eChapterThreeGreenRoomPuzzleProgression	Mr Masson	
+PowerQuestExEnumProgression	eChapterThreeGreenRoomPuzzleProgression	Speak to Mr Masson	
+PowerQuestExEnumProgression	eChapterThreeGreenRoomPuzzleProgression	Talk to the singer	
+PowerQuestExEnumProgression	eChapterThreeGreenRoomPuzzleProgression	singer	
+PowerQuestExEnumProgression	eChapterThreeGreenRoomPuzzleProgression	Talk to the band members	
+PowerQuestExEnumProgression	eChapterThreeGreenRoomPuzzleProgression	bassist	
+PowerQuestExEnumProgression	eChapterThreeGreenRoomPuzzleProgression	Talk to the band members	
+PowerQuestExEnumProgression	eChapterThreeGreenRoomPuzzleProgression	drummer	
+PowerQuestExEnumProgression	eChapterThreeGreenRoomPuzzleProgression	Talk to the band members	
+PowerQuestExEnumProgression	eChapterThreeGreenRoomPuzzleProgression	saxophonist	
+PowerQuestExEnumProgression	eChapterThreeGreenRoomPuzzleProgression	He's out cold	
+PowerQuestExEnumProgression	eChapterFourHandIdolPuzzleProgression	I'm starting to feel bad for him	Er tut mir langsam leid
+PowerQuestExEnumProgression	eChapterFourHandIdolPuzzleProgression	Mr Masson	Herr Masson
+PowerQuestExEnumProgression	eChapterFourPlantSuitPuzzleProgression	To Arthur's Quarters	Zu Arthurs Quartier
+PowerQuestExEnumProgression	eChapterFourRoofPuzzleProgression	Enter the luggage storage	Das Gepäcklager betreten
+PowerQuestExEnumProgression	eChapterFourRoofPuzzleProgression	Politely knock	
+PowerQuestExEnumProgression	eChapterFourRoofPuzzleProgression	Inspect room number	
+PowerQuestExEnumProgression	eChapterThreeMissingTwinsPuzzleProgression	Check if anyone's in	Prüfen, ob jemand da ist
+PowerQuestExEnumProgression	eChapterThreeMissingTwinsPuzzleProgression	Go to the Lobby Carriage	
+PowerQuestExEnumProgression	eChapterThreeMissingTwinsPuzzleProgression	Go to the Dining Carriage	
+PowerQuestExEnumProgression	eChapterFiveTimeSkipProgression	Tap on the instrument case	Auf den Instrumentenkoffer tippen
+PowerQuestExEnumProgression	eChapterFiveTimeSkipProgression	Attempt to open the instrument case	Versuchen, den Instrumentenkoffer zu öffnen
+PowerQuestExEnumProgression	eChapterFiveShowdownPuzzleProgression	Talk to Arthur	Mit Arthur reden
+PowerQuestExEnumProgression	eChapterFiveShowdownPuzzleProgression	Arthur	Arthur
+PowerQuestExEnumProgression	eChapterFiveBergmannStateProgression	I'm starting to feel bad for him	
+PowerQuestExEnumProgression	eChapterSixJailbreakPuzzleProgression	Call out to April	Nach April rufen
+TutorialScript	BackgroundRunTutorial	Click {0} to walk. \n Hold {1} to run to an object or area.	Klicke auf {0}, um zu gehen.
+TutorialScript	BackgroundRunTutorial	Use {0} to walk. \n Hold down {1} or {2} to run.	Verwende {0}, um zu gehen.
+TutorialScript	BackgroundRunTutorial	Tap {0} to walk. \n Hold down {1} or {2} to run.	Tippe auf {0}, um zu gehen.
