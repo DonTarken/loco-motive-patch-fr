@@ -1,0 +1,213 @@
+﻿Id	Character	English	French	Class	Method
+9000	Arthur	I can't use that.	Je ne peux pas utiliser ça.	Inventory	OnLookAtInventory
+9001	Arthur	It's nothing interesting.	Rien d'intéressant.	Inventory	OnLookAtInventory
+9002	Arthur	Nothing happened.	Il ne se passe rien.	Inventory	OnLookAtInventory
+9003	Arthur	Nah.	Nan.	Inventory	OnLookAtInventory
+9004	Arthur	Nope.	Non.	Inventory	OnLookAtInventory
+9005	Arthur	That doesn't work.	Ça ne marche pas.	Inventory	OnLookAtInventory
+9006	Arthur	No.	Non.	Inventory	OnLookAtInventory
+9007	Arthur	I'm not handing over my ill-gotten gains without a reason!	Je ne vais pas céder mon précieux butin sans une bonne raison !	Inventory	OnLookAtInventory
+9008	Arthur	I think I'll hang on to this for now.	Je crois que je vais garder ça pour le moment.	Inventory	OnLookAtInventory
+9009	Arthur	They wouldn't appreciate that.	Ils n'apprécieraient pas vraiment ça.	Inventory	OnLookAtInventory
+9010	Arthur	I'd rather keep it.	Je préfère le garder.	Inventory	OnLookAtInventory
+9011	Arthur	What do you make of this?	Qu'est-ce que tu penses de ça ?	Inventory	OnLookAtInventory
+9012	Arthur	I don't think it's going to get us closer to that train!	Je ne crois pas que ça va nous rapprocher de ce train !	Inventory	OnLookAtInventory
+9013	Arthur	Adversary Proceeding	Procédure contradictoire	Inventory	OnLookAtInventory
+9014	Arthur	The Late Lady Unterwald	Feue Lady Unterwald	Inventory	OnLookAtInventory
+9015	Arthur	Burden of Proof	La charge de la preuve	Inventory	OnLookAtInventory
+9016	Arthur	The Curious Case Of Mr Liu	Le curieux cas de M. Liu	Inventory	OnLookAtInventory
+9017	Arthur	Contributory Negligence	Négligence contributive	Inventory	OnLookAtInventory
+9018	Arthur	Family Division	Affaires de famille	Inventory	OnLookAtInventory
+9019	Arthur	False Pretences	Faux-semblants	Inventory	OnLookAtInventory
+9020	Arthur	Dispute Resolution	Règlement du litige	Inventory	OnLookAtInventory
+9021	Arthur	Hold to Skip	Maintenir pour passer	Inventory	OnLookAtInventory
+9022	Arthur	I'm sure we'd find a lot of creative accounting in here.	Je suis sûr qu'on trouverait pas mal de comptabilité créative là-dedans.	Inventory	OnLookAtInventory
+9023	Arthur	It's a very thick manuscript. Typical overachiever.	C'est un manuscrit bien épais. Typique des perfectionnistes zélés.	Inventory	OnLookAtInventory
+9024	Arthur	It's the manuscript to my latest masterpiece.	C'est le manuscrit de mon tout dernier chef-d'œuvre.	Inventory	OnLookAtInventory
+9025	Arthur	Herman Merman and the Suburban Burden!	Herman Merman et le Fardeau de Banlieue !	Inventory	OnLookAtInventory
+9026	Arthur	I'll slip my manuscript inside Dirk Chiselton's cover.	Je vais glisser mon manuscrit sous la couverture de Dirk Chiselton.	Inventory	OnLookAtInventory
+9027	Arthur	At first glance, this looks like a Dirk Chiselton manuscript!	Au premier coup d'œil, on dirait un manuscrit de Dirk Chiselton !	Inventory	OnLookAtInventory
+9028	Arthur	Dirk Chiselton sent over a manuscript?	Dirk Chiselton a envoyé un manuscrit ?	Inventory	OnLookAtInventory
+9029	Arthur	Sorry, Dirk, I need it more than you do.	Désolé, Dirk, j'en ai plus besoin que toi.	Inventory	OnLookAtInventory
+9030	Arthur	It's weighty. Could be 70,000 words by my estimate.	C'est lourd. 70 000 mots d'après mon estimation.	Inventory	OnLookAtInventory
+9031	Arthur	It’s the romance novel I retrieved from the bin.	C'est le roman à l'eau de rose que j'ai repêché dans la corbeille.	Inventory	OnLookAtInventory
+9032	Arthur	Perhaps I should have left it there.	J'aurais peut-être dû le laisser là-bas.	Inventory	OnLookAtInventory
+9033	Arthur	It’s the cover page I tore from Dirk Chiselton’s manuscript.	C'est la page de couverture que j'ai arrachée du manuscrit de Dirk Chiselton.	Inventory	OnLookAtInventory
+9034	Arthur	Alright, Agent M. You'll be nice and snug inside this pod.	Très bien, Agent M. Tu seras bien au chaud dans cette capsule.	Inventory	OnLookAtInventory
+9035	Arthur	She's the cutest little agent, ever!	C'est la plus mignonne petite agente de tous les temps !	Inventory	OnLookAtInventory
+9036	Arthur	I wonder who trained her to be such a kleptomaniac?	Je me demande bien qui l'a dressée à devenir une telle kleptomane ?	Inventory	OnLookAtInventory
+9037	Arthur	Are you alright in there, little one?	Tout va bien là-dedans, ma petite ?	Inventory	OnLookAtInventory
+9038	Arthur	She ate all my pocket cheese!	Elle a mangé tout mon fromage de poche !	Inventory	OnLookAtInventory
+9039	Arthur	It's the key I used to get out of my chains!	C'est la clé que j'ai utilisée pour me libérer des fers !	Inventory	OnLookAtInventory
+9040	Arthur	This looks like it might unlock a set of chains.	On dirait que ça pourrait ouvrir des fers.	Inventory	OnLookAtInventory
+9041	Arthur	It's a small key, but I have no idea what it unlocks.	C'est une petite clé, mais je n'ai aucune idée de ce qu'elle ouvre.	Inventory	OnLookAtInventory
+9042	Arthur	This key might unlock those chains!	Cette clé pourrait bien ouvrir ces fers !	Inventory	OnLookAtInventory
+9043	Arthur	It's an anklet key, primarily used for locking prison chains.	C'est une clé de cheville, servant surtout à verrouiller les chaînes de prisonniers.	Inventory	OnLookAtInventory
+9044	Arthur	It's a set of heavy-duty chains!	C'est un ensemble de fers bien solides !	Inventory	OnLookAtInventory
+9045	Arthur	It's a heavy-duty set of prison chains!	C'est un jeu de chaînes de prisonnier ultra résistant !	Inventory	OnLookAtInventory
+9046	Arthur	It's a pile of heavy chains.	C'est un tas de lourdes chaînes.	Inventory	OnLookAtInventory
+9047	Arthur	Hmm. This syringe has a label marked ‘Antidote'.	Hmm. Cette seringue porte une étiquette indiquant « Antidote ».	Inventory	OnLookAtInventory
+9048	Arthur	It's the antidote I used to revive Dr Hirsch!	C'est l'antidote que j'ai utilisé pour ranimer le Dr Hirsch !	Inventory	OnLookAtInventory
+9049	Arthur	I can see the various handshakes in the background of these sketches!	On aperçoit les différentes poignées de main en arrière-plan de ces croquis !	Inventory	OnLookAtInventory
+9050	Arthur	I'll still need some help to figure out the correct order.	J'aurai quand même besoin d'aide pour trouver le bon ordre.	Inventory	OnLookAtInventory
+9051	Arthur	Perhaps you'd settle for a simple fist bump?	Peut-être qu'un simple check du poing vous suffirait ?	Inventory	OnLookAtInventory
+9052	Arthur	If you think I'm still sleeping, you should give me a shake!	Si vous pensez que je dors encore, vous devriez me secouer !	Inventory	OnLookAtInventory
+9053	Arthur	I assure you, these palms, they have a strong grip!	Je vous assure que ces paumes ont une poigne d'acier !	Inventory	OnLookAtInventory
+9054	Arthur	I've watched your dance of digits, and I handedly approve.	J'ai observé votre ballet de doigts, et j'approuve haut la main.	Inventory	OnLookAtInventory
+9055	Arthur	I'm sure I can put Don's winnings to better use.	Je suis convaincu que je peux faire un meilleur usage des gains de Don.	Inventory	OnLookAtInventory
+9056	Arthur	I'm sure Bergmann will choose his words more carefully in future.	Je suis sûr que Bergmann pèsera mieux ses mots à l'avenir.	Inventory	OnLookAtInventory
+9057	Arthur	Hey, it fits!	Eh, ça rentre parfaitement !	Inventory	OnLookAtInventory
+9058	Arthur	Nice, that looks like it's worked.	Chouette, on dirait que ça a fonctionné.	Inventory	OnLookAtInventory
+9059	Arthur	Aha, a perfect fit!	Aha, ça s'emboîte à merveille !	Inventory	OnLookAtInventory
+9060	Arthur	It's just the right size, that was lucky.	C'est pile à la bonne taille, quelle chance.	Inventory	OnLookAtInventory
+9061	Arthur	I don't want to risk recording over Bergmann's reel.	Je ne veux pas risquer d'enregistrer par-dessus la bande de Bergmann.	Inventory	OnLookAtInventory
+9062	Arthur	I'll need another wire reel to record anything new.	J'aurai besoin d'une autre bobine de fil pour enregistrer du nouveau contenu.	Inventory	OnLookAtInventory
+9063	Arthur	It's Don's recording device. It's not much use to me without another wire reel, though.	C'est l'enregistreur de Don. Mais il ne m'est pas d'une grande utilité sans une autre bobine de fil.	Inventory	OnLookAtInventory
+9064	Arthur	We could record something with this if we found another wire reel.	On pourrait enregistrer quelque chose avec ça si on trouvait une autre bobine.	Inventory	OnLookAtInventory
+9065	Arthur	This portable recording device could be useful if it wasn't empty.	Cet enregistreur portatif pourrait être utile s'il n'était pas vide.	Inventory	OnLookAtInventory
+9066	Arthur	Donny was using this device to record Bergmann!	Donny utilisait cet appareil pour enregistrer Bergmann !	Inventory	OnLookAtInventory
+9067	Arthur	It's loaded up with a fresh wire reel, ready for recording.	Il est chargé avec une bobine de fil neuve, prêt à enregistrer.	Inventory	OnLookAtInventory
+9068	Arthur	I should get one of these to take notes on the fly.	Je devrais m'en procurer un pour prendre des notes à la volée.	Inventory	OnLookAtInventory
+9069	Arthur	It's not as discreet as a phone tap, but it gets the job done.	Ce n'est pas aussi discret qu'une écoute téléphonique, mais ça fait le travail.	Inventory	OnLookAtInventory
+9070	Arthur	I can put this wire reel into a recording device to record something.	Je peux insérer cette bobine de fil dans un enregistreur pour enregistrer du son.	Inventory	OnLookAtInventory
+9071	Arthur	It's an empty wire reel, handy if I need to record something.	C'est une bobine de fil vide, pratique si j'ai besoin d'enregistrer.	Inventory	OnLookAtInventory
+9072	Arthur	Lord Unterwald planned to use this to document his astronomical observations.	Lord Unterwald prévoyait d'utiliser ceci pour documenter ses observations astronomiques.	Inventory	OnLookAtInventory
+9073	Arthur	It's a little dusty, but I'm sure it would still record audio.	C'est un peu poussiéreux, mais je suis certain que ça enregistre encore.	Inventory	OnLookAtInventory
+9074	Arthur	Lady Unterwald recorded her own album of songs!	Lady Unterwald a enregistré son propre album de chansons !	Inventory	OnLookAtInventory
+9075	Arthur	It's Lady Unterwald's voice, from beyond the grave!	C'est la voix de Lady Unterwald, d'outre-tombe !	Inventory	OnLookAtInventory
+9076	Arthur	Thank you for calling the Reuss Express onboard service.	Merci d'avoir contacté le service de bord du Reuss Express.	Inventory	OnLookAtInventory
+9077	Arthur	This call may be recorded for training purposes.	Cet appel peut être enregistré à des fins de formation.	Inventory	OnLookAtInventory
+9078	Arthur	This pocket cheese should be useful, and not just for snacking purposes!	Ce fromage de poche devrait s'avérer utile, et pas seulement pour le grignotage !	Inventory	OnLookAtInventory
+9079	Arthur	Just one of these peppers would make any dish unbearably hot.	Un seul de ces piments rendrait n'importe quel plat atrocement brûlant.	Inventory	OnLookAtInventory
+9080	Arthur	It's a harmless lemon.	C'est un citron tout à fait inoffensif.	Inventory	OnLookAtInventory
+9081	Arthur	I've concocted the world's spiciest soup.	J'ai concocté la soupe la plus épicée du monde.	Inventory	OnLookAtInventory
+9082	Arthur	It's all of the sugar, and none of the fun!	Tout le sucre, et aucun plaisir !	Inventory	OnLookAtInventory
+9083	Arthur	It's the blue suit jacket that Mr Liu was wearing.	C'est la veste de costume bleue que portait M. Liu.	Inventory	OnLookAtInventory
+9084	Arthur	It's a pair of Lady Unterwald's boots. We happen to have the same shoe size!	C'est une paire de bottes de Lady Unterwald. Il se trouve qu'on fait la même pointure !	Inventory	OnLookAtInventory
+9085	Arthur	I think I might be onto something here!	Je crois que je tiens une piste intéressante !	Inventory	OnLookAtInventory
+9086	Arthur	Herman Merman, you've done it again! I should be able to get on the roof with these.	Herman Merman, tu as encore frappé ! Je devrais pouvoir monter sur le toit avec ça.	Inventory	OnLookAtInventory
+9087	Arthur	I've successfully attached a suction cup to one of the boots.	J'ai réussi à fixer une ventouse sur l'une des bottes.	Inventory	OnLookAtInventory
+9088	Arthur	I've assembled a working pair of suction boots!	J'ai assemblé une paire de bottes à ventouses fonctionnelle !	Inventory	OnLookAtInventory
+9089	Arthur	A classic wooden hanger. The second best kind of hanger, in my opinion!	Un cintre en bois classique. Le deuxième meilleur type de cintre, à mon humble avis !	Inventory	OnLookAtInventory
+9090	Arthur	Versatile, flexible, durable. The best kind of hanger!	Polyvalent, souple, résistant. Le meilleur type de cintre qui soit !	Inventory	OnLookAtInventory
+9091	Arthur	That drawer put up a fight, but the hanger still has some life left in it.	Ce tiroir ne s'est pas laissé faire, mais le cintre a encore de beaux restes.	Inventory	OnLookAtInventory
+9092	Arthur	A bit of experimentation might give this Bud-Lite a bigger kick.	Une petite expérimentation pourrait donner un peu plus de piquant à cette Bud-Lite.	Inventory	OnLookAtInventory
+9093	Arthur	It's already full.	C'est déjà plein.	Inventory	OnLookAtInventory
+9094	Arthur	Now that it's sealed, it makes a pretty cool, if not gross, container!	Maintenant que c'est scellé, ça fait un récipient plutôt chouette, quoique un peu répugnant !	Inventory	OnLookAtInventory
+9095	Arthur	It's a ''FULL-STOP'' brand recorker. ''The last word in cork plugging.''	C'est un reboucheur de marque « FULL-STOP ». « Le fin mot du bouchonnage. »	Inventory	OnLookAtInventory
+9096	Arthur	The water and sawdust have combined into a thick, sticky paste.	L'eau et la sciure se sont amalgamées en une pâte épaisse et collante.	Inventory	OnLookAtInventory
+9097	Arthur	I'm not quite sure what this is, but the bottle is neat!	Je ne sais pas trop ce que c'est, mais la bouteille a fière allure !	Inventory	OnLookAtInventory
+9098	Arthur	It's a vial of enigmatic liquid, I can hear it gently fizzing in my suit jacket pocket.	C'est une fiole de liquide énigmatique, je l'entends pétiller doucement dans ma poche.	Inventory	OnLookAtInventory
+9099	Arthur	I doubt the truth spray is potent enough, but I love the bottle!	Je doute que ce spray de vérité soit assez puissant, mais j'adore le flacon !	Inventory	OnLookAtInventory
+9100	Arthur	This stuff worked wonders on Bergmann, it just needs a little kick-start to get going.	Ce produit a fait des merveilles sur Bergmann, il lui faut juste un petit coup de fouet pour démarrer.	Inventory	OnLookAtInventory
+9101	Arthur	It's sloshing about with precious fuel!	Il déborde d'un précieux carburant !	Inventory	OnLookAtInventory
+9102	Arthur	It's empty! That's not much use to me.	C'est vide ! Ça ne m'est pas d'une grande utilité.	Inventory	OnLookAtInventory
+9103	Arthur	I've filled the cup with plenty of drinking water.	J'ai rempli le gobelet avec une bonne rasade d'eau potable.	Inventory	OnLookAtInventory
+9104	Arthur	I'll mix some of this fuel with the gunpowder.	Je vais mélanger un peu de ce carburant avec la poudre à canon.	Inventory	OnLookAtInventory
+9105	Arthur	It's an overpowering blend of cheap perfume, plant life and ethanol!	C'est un mélange foudroyant de parfum bon marché, de sève végétale et d'éthanol !	Inventory	OnLookAtInventory
+9106	Arthur	It's full of minty fresh mouthwash!	C'est rempli d'un bain de bouche à la menthe bien fraîche !	Inventory	OnLookAtInventory
+9107	Arthur	I've poured the Bud-Lite in here, but for a stronger kick, I'll need to add a potent alcoholic mixer.	J'ai versé la Bud-Lite ici, mais pour un effet plus corsé, il faudra ajouter un mélange alcoolisé bien puissant.	Inventory	OnLookAtInventory
+9108	Arthur	It's a dangerous concoction of fuel and high octane explosives!	C'est une concoction périlleuse de carburant et d'explosifs à haut indice d'octane !	Inventory	OnLookAtInventory
+9109	Arthur	The liquid would pour straight through.	Le liquide coulerait directement à travers.	Inventory	OnLookAtInventory
+9110	Arthur	I'm sure there's a good reason why I'd need an old lady's hearing aid.	Je suis sûr qu'il y a une excellente raison pour laquelle j'aurais besoin du cornet acoustique d'une vieille dame.	Inventory	OnLookAtInventory
+9111	Arthur	Although, I can't think of one just yet.	Bien que je n'en voie pas encore la raison.	Inventory	OnLookAtInventory
+9112	Arthur	It’s the horn that Arista instructed me to repair.	C'est le cornet qu'Arista m'a demandé de réparer.	Inventory	OnLookAtInventory
+9113	Arthur	''Rinse after brushing. Contains alcohol, do not ingest solution.''	« Rincer après brossage. Contient de l'alcool, ne pas avaler la solution. »	Inventory	OnLookAtInventory
+9114	Arthur	I've soaked the napkin in turpentine.	J'ai imbibé la serviette de térébenthine.	Inventory	OnLookAtInventory
+9115	Arthur	It's a powerful cleaning solvent. This stuff would remove pretty much anything!	C'est un solvant de nettoyage très puissant. Ça dissoudrait quasiment n'importe quoi !	Inventory	OnLookAtInventory
+9116	Arthur	Huh, I guess this model is battery powered.	Tiens, j'imagine que ce modèle fonctionne sur piles.	Inventory	OnLookAtInventory
+9117	Arthur	This should make the desk fan significantly more powerful.	Ça devrait rendre ce ventilateur de bureau nettement plus puissant.	Inventory	OnLookAtInventory
+9118	Arthur	''IT'S THE END OF THE LINE''	« C'EST LE TERMINUS »	Inventory	OnLookAtInventory
+9119	Arthur	''The Unterwald empire came to a grisly end last night, when the wealthy heiress was unexpectedly assassinated aboard her own train.''	« L'empire Unterwald a connu une fin tragique hier soir, lorsque la richissime héritière a été assassinée à bord de son propre train. »	Inventory	OnLookAtInventory
+9120	Arthur	''Three suspects are currently held in custody, awaiting questioning.''	« Trois suspects sont actuellement placés en garde à vue dans l'attente de leur interrogatoire. »	Inventory	OnLookAtInventory
+9121	Arthur	It's bad luck to open an umbrella indoors, but maybe I can find a use for it.	Ouvrir un parapluie à l'intérieur porte malheur, mais je pourrais peut-être lui trouver une utilité.	Inventory	OnLookAtInventory
+9122	Arthur	It's a steaming hot cup of coffee. It kind of burns!	C'est une tasse de café brûlant. Ça pique un peu les doigts !	Inventory	OnLookAtInventory
+9123	Arthur	I sshould shpeak to Mr Masson first.	Je devrrrais d'aborrrd parler à M. Masson.	Inventory	OnLookAtInventory
+9124	Arthur	Lady Unterwald asked me to deliver this to Arthur Ackerman!	Lady Unterwald m'a demandé de remettre ceci à Arthur Ackerman !	Inventory	OnLookAtInventory
+9125	Arthur	It's the last correspondence I received from Lady Unterwald.	C'est la dernière correspondance que j'ai reçue de Lady Unterwald.	Inventory	OnLookAtInventory
+9126	Arthur	It's a letter from Lady Unterwald, asking me to wear the suit she provided.	C'est une lettre de Lady Unterwald, me demandant de porter le costume qu'elle a fourni.	Inventory	OnLookAtInventory
+9127	Arthur	It's a letter from Lady Unterwald, she'd like to meet in her quarters.	C'est une lettre de Lady Unterwald, elle souhaite me rencontrer dans ses quartiers.	Inventory	OnLookAtInventory
+9128	Arthur	I'm supposed to deliver this letter to Mr Ackerman.	Je suis censé remettre cette lettre à M. Ackerman.	Inventory	OnLookAtInventory
+9129	Arthur	It's an excellent forgery, Donny did a great job!	C'est un faux remarquable, Donny a fait du beau travail !	Inventory	OnLookAtInventory
+9130	Arthur	I was sure Diana wrote something on this napkin, but it's blank!	J'étais sûr que Diana avait écrit quelque chose sur cette serviette, mais elle est vierge !	Inventory	OnLookAtInventory
+9131	Arthur	I think there's something here but it's not quite legible.	Je crois qu'il y a quelque chose ici, mais ce n'est pas très lisible.	Inventory	OnLookAtInventory
+9132	Arthur	It's the napkin that I grabbed from the bar.	C'est la serviette que j'ai attrapée au bar.	Inventory	OnLookAtInventory
+9133	Arthur	It's a signed business card from Beverly Moore.	C'est une carte de visite signée de Beverly Moore.	Inventory	OnLookAtInventory
+9134	Arthur	''Moore Or Less - Talent agency to the adequate.''	« Moore ou Moins - L'agence de talents pour les passables. »	Inventory	OnLookAtInventory
+9135	Arthur	The heat revealed the number 306. How mysterious!	La chaleur a fait apparaître le numéro 306. Quel mystère !	Inventory	OnLookAtInventory
+9136	Arthur	It's Donny's recipe for a powerful drink.	C'est la recette de Donny pour un cocktail particulièrement costaud.	Inventory	OnLookAtInventory
+9137	Arthur	Looks like Don booked the honeymoon suite. Room 303!	On dirait que Don a réservé la suite nuptiale. Chambre 303 !	Inventory	OnLookAtInventory
+9138	Arthur	These must be Herman's keys, Room 304.	Ce doivent être les clés d'Herman, chambre 304.	Inventory	OnLookAtInventory
+9139	Arthur	My own private quarters, room 304.	Mes quartiers personnels, chambre 304.	Inventory	OnLookAtInventory
+9140	Arthur	It's a toy set lock pick. Likely effective against only the weakest of locks.	C'est un rossignol de dinette pour enfant. Utile uniquement contre les serrures les plus dérisoires.	Inventory	OnLookAtInventory
+9141	Arthur	My memory of getting these keys is a little fuzzy.	Le souvenir de la façon dont j'ai obtenu ces clés est un peu flou.	Inventory	OnLookAtInventory
+9142	Arthur	I think this hardened blob was Lady Unterwald's wax seal.	Je pense que ce pâté durci était le sceau en cire de Lady Unterwald.	Inventory	OnLookAtInventory
+9143	Arthur	The wax has cooled down and hardened.	La cire a refroidi et a durci.	Inventory	OnLookAtInventory
+9144	Arthur	It's a hardened ball of wax.	C'est une boule de cire durcie.	Inventory	OnLookAtInventory
+9145	Arthur	Ooh, that's hot!	Ouh, c'est chaud !	Inventory	OnLookAtInventory
+9146	Arthur	The wax must have melted from the heat. It looks malleable!	La cire a dû fondre sous l'effet de la chaleur. Elle a l'air malléable !	Inventory	OnLookAtInventory
+9147	Arthur	It's a wax impression of a fingerprint.	C'est une empreinte digitale moulée dans la cire.	Inventory	OnLookAtInventory
+9148	Arthur	It's a wax impression of Lady Unterwald's fingerprint.	C'est l'empreinte digitale de Lady Unterwald moulée dans la cire.	Inventory	OnLookAtInventory
+9149	Arthur	It's a fingerprint impression made from wax.	C'est un moulage d'empreinte digitale en cire.	Inventory	OnLookAtInventory
+9150	Arthur	It's a wax seal from the Unterwald estate.	C'est un sceau de cire du domaine Unterwald.	Inventory	OnLookAtInventory
+9151	Arthur	This is the last wax seal I'll receive from Lady Unterwald.	C'est le tout dernier sceau de cire que je recevrai de Lady Unterwald.	Inventory	OnLookAtInventory
+9152	Arthur	This seal has been on quite the adventure, eh? I feel strangely attached to it.	Ce sceau a vécu une sacrée aventure, hein ? Je m'y sens étrangement attaché.	Inventory	OnLookAtInventory
+9153	Arthur	It's one of Lady Unterwald's wax seals, malleable and quite soft to the touch.	C'est l'un des sceaux de cire de Lady Unterwald, malléable et doux au toucher.	Inventory	OnLookAtInventory
+9154	Arthur	It's a wax seal, embossed with the emblem of the Wald-Bahn empire.	C'est un sceau de cire frappé de l'emblème de l'empire Wald-Bahn.	Inventory	OnLookAtInventory
+9155	Arthur	It's a kitchen plunger, great for unblocking clogged sinks!	C'est une ventouse de cuisine, idéale pour déboucher les éviers obstrués !	Inventory	OnLookAtInventory
+9156	Arthur	Probably best not to dwell on the horrors this plunger has seen.	Il vaut sans doute mieux ne pas imaginer les horreurs que cette ventouse a traversées.	Inventory	OnLookAtInventory
+9157	Arthur	It's an odd looking plunger.	C'est une ventouse à l'allure étrange.	Inventory	OnLookAtInventory
+9158	Arthur	It's my trusty prison cell plunger!	C'est ma fidèle ventouse de cellule de prison !	Inventory	OnLookAtInventory
+9159	Arthur	It's a plunger made from a rusty metal pole.	C'est une ventouse bricolée à partir d'une barre de métal rouillée.	Inventory	OnLookAtInventory
+9160	Arthur	It's the suction cup from a plunger!	C'est la coupelle d'aspiration d'une ventouse !	Inventory	OnLookAtInventory
+9161	Arthur	It's the business end of a plunger.	C'est la partie active d'une ventouse.	Inventory	OnLookAtInventory
+9162	Arthur	It looks like a suction cup to me.	On dirait bien une ventouse d'adhérence.	Inventory	OnLookAtInventory
+9163	Arthur	I'd like to think Lady Unterwald would want me to have this.	J'aime à penser que Lady Unterwald aurait souhaité que je l'aie.	Inventory	OnLookAtInventory
+9164	Arthur	Looks like a rusty metal pole.	On dirait une barre de métal rouillée.	Inventory	OnLookAtInventory
+9165	Arthur	It seems to be some sort of metal pole.	Ça ressemble à une sorte de tige en métal.	Inventory	OnLookAtInventory
+9166	Arthur	A rusty metal pole might be useful in our current circumstances.	Une barre en métal rouillée pourrait bien nous être utile dans notre situation.	Inventory	OnLookAtInventory
+9167	Arthur	It's the rubber tubing I cut from the car.	C'est la tubulure en caoutchouc que j'ai découpée sur la voiture.	Inventory	OnLookAtInventory
+9168	Arthur	It's an official field agent wiring kit!	C'est un kit de câblage officiel d'agent de terrain !	Inventory	OnLookAtInventory
+9169	Arthur	It's a ''Mega-Stich'' brand heavy duty stapler. This thing can staple through 250 sheets!	C'est une agrafeuse industrielle de marque « Mega-Stitch ». Cet engin peut traverser 250 feuilles d'un coup !	Inventory	OnLookAtInventory
+9170	Arthur	For a toy badge, it's quite convincing.	Pour un insigne en plastique, il fait plutôt illusion.	Inventory	OnLookAtInventory
+9171	Arthur	It's a toy badge, but it should still provide an air of authority.	C'est un insigne factice, mais il devrait quand même m'octroyer un brin d'autorité.	Inventory	OnLookAtInventory
+9172	Arthur	Jian Liu had this in his pocket.	Jian Liu avait ça dans sa poche.	Inventory	OnLookAtInventory
+9173	Arthur	It's a genuine pearl necklace.	C'est un authentique collier de perles.	Inventory	OnLookAtInventory
+9174	Arthur	The craftsmanship of this fountain pen is exquisite!	La confection de ce stylo-plume est tout bonnement exquise !	Inventory	OnLookAtInventory
+9175	Arthur	It looks harmless enough.	Ça a l'air bien inoffensif.	Inventory	OnLookAtInventory
+9176	Arthur	I can break the tip off this incendiary pencil, to retrieve the gunpowder inside.	Je peux casser la mine de ce crayon incendiaire pour en extraire la poudre à canon.	Inventory	OnLookAtInventory
+9177	Arthur	I should use the one I took before taking another.	Je devrais utiliser celui que j'ai pris avant d'en piquer un autre.	Inventory	OnLookAtInventory
+9178	Arthur	It's a case of explosives, disguised as harmless stationary.	C'est un étui d'explosifs déguisé en fournitures de bureau inoffensives.	Inventory	OnLookAtInventory
+9179	Arthur	It'll cost a fortune to get the smell of cheap perfume out of this jacket.	Ça va me coûter une petite fortune pour chasser cette odeur de parfum bon marché de ma veste.	Inventory	OnLookAtInventory
+9180	Arthur	They smell quite fragrant!	Elles sentent drôlement bon !	Inventory	OnLookAtInventory
+9181	Arthur	The doll's looking a little scrawny without all that packing sawdust.	La poupée a l'air un peu rabougrie sans toute cette sciure de rembourrage.	Inventory	OnLookAtInventory
+9182	Arthur	This looks very familiar.	Ça me rappelle furieusement quelque chose.	Inventory	OnLookAtInventory
+9183	Arthur	You can withstand the heat with a pair of these oven gloves!	On peut résister à n'importe quelle chaleur avec cette paire de gants de cuisine !	Inventory	OnLookAtInventory
+9184	Arthur	Popcorn isn't just delicious, it doubles as a cheap packing material.	Le popcorn n'est pas seulement délicieux, il sert aussi de matériau de calage économique.	Inventory	OnLookAtInventory
+9185	Arthur	It's a paper cup I swiped from the water cooler.	C'est un gobelet en carton que j'ai chipé à la fontaine d'eau.	Inventory	OnLookAtInventory
+9186	Arthur	I placed sawdust in the bottom of the cup.	J'ai mis de la sciure au fond du gobelet.	Inventory	OnLookAtInventory
+9187	Arthur	It's a pile of sawdust I removed from the doll.	C'est un tas de sciure que j'ai retiré de la poupée.	Inventory	OnLookAtInventory
+9188	Arthur	It looks like Don's been practicing poetry.	On dirait que Don s'est mis à la poésie.	Inventory	OnLookAtInventory
+9189	Arthur	There's no way I'm reading that.	Hors de question que je lise ça.	Inventory	OnLookAtInventory
+9190	Arthur	I'm a little too familiar with how sharp this blade is.	Je ne connais que trop bien le tranchant affûté de cette lame.	Inventory	OnLookAtInventory
+9191	Arthur	Now, this is an exciting piece of high-end stationary!	Voilà un superbe accessoire de papeterie haut de gamme !	Inventory	OnLookAtInventory
+9192	Arthur	This letter opener looks like it'd slice through more than paper.	Ce coupe-papier a l'air de pouvoir trancher bien plus que de la simple papeterie.	Inventory	OnLookAtInventory
+9193	Arthur	I wouldn't trust either of those two with something this sharp.	Je ne ferais confiance à aucun de ces deux-là avec un objet aussi coupant.	Inventory	OnLookAtInventory
+9194	Arthur	The blade is sufficiently lubricated, and rather hard to handle.	La lame est abondamment lubrifiée, et plutôt difficile à manier.	Inventory	OnLookAtInventory
+9195	Arthur	This would surely lubricate anything it touches.	Ça lubrifierait à coup sûr n'importe quoi au moindre contact.	Inventory	OnLookAtInventory
+9196	Arthur	Half a slab of unsalted butter. I think it's slowly melting in my pocket.	Une demi-plaquette de beurre doux. J'ai l'impression qu'elle fond lentement dans ma poche.	Inventory	OnLookAtInventory
+9197	Arthur	It's a highly moisturising hand repair cream. For dry, cracked and injured hands.	C'est une crème pour les mains réparatrice et très hydratante. Pour peaux sèches, gercées et abîmées.	Inventory	OnLookAtInventory
+9198	Arthur	Owning a magnet this large has its positives and negatives.	Posséder un aimant de cette taille a ses côtés positifs et négatifs.	Inventory	OnLookAtInventory
+9199	Arthur	Don could move this up to three spaces with his watch.	Don pouvait déplacer ça jusqu'à trois cases grâce à sa montre.	Inventory	OnLookAtInventory
+9200	Arthur	That's the magnetic ball Donny used to rig his roulette games!	C'est la bille magnétique que Donny utilisait pour truquer ses parties de roulette !	Inventory	OnLookAtInventory
+9201	Arthur	It looks like a roulette ball from the casino.	On dirait une bille de roulette provenant du casino.	Inventory	OnLookAtInventory
+9202	Arthur	That's odd, what's a roulette ball doing here?	Étrange, que fait une bille de roulette ici ?	Inventory	OnLookAtInventory
+9203	Arthur	Hmm, the magnification is very strong!	Hmm, le grossissement est particulièrement puissant !	Inventory	OnLookAtInventory
+9204	Arthur	I'm rich! Although, are these chips even real?	Je suis riche ! Enfin, ces jetons sont-ils seulement authentiques ?	Inventory	OnLookAtInventory
+9205	Arthur	It's an idol, no doubt modelled after Lady Unterwald's own hand!	C'est une idole, sans nul doute sculptée d'après la propre main de Lady Unterwald !	Inventory	OnLookAtInventory
+9206	Arthur	These little pods transport items throughout the whole tube system!	Ces petites capsules transportent des objets à travers tout le réseau pneumatique !	Inventory	OnLookAtInventory
+9207	Arthur	It's explosive powder I cut from the pencil!	C'est de la poudre explosive que j'ai extraite du crayon !	Inventory	OnLookAtInventory
+9208	Arthur	It's Dr Phogg's Guide to Invis-Ability!	C'est le Guide de l'Invis-Abilité du Dr Phogg !	Inventory	OnLookAtInventory
+9209	Arthur	''Apply gentle heat to the paper to reveal messages written in invisible ink.''	« Appliquer une chaleur douce sur le papier pour faire apparaître les messages à l'encre invisible. »	Inventory	OnLookAtInventory
+9210	Arthur	''Avoid using candles, matches, or any open flames, they might just send your message up in smoke.''	« Éviter les bougies, allumettes ou flammes nues qui réduiraient votre message en cendres. »	Inventory	OnLookAtInventory
+9211	Arthur	Hmm, maybe I can find what I'm looking for in the kitchen?	Hmm, peut-être trouverai-je ce que je cherche en cuisine ?	Inventory	OnLookAtInventory

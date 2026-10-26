@@ -1,0 +1,296 @@
+InventoryAccountingRecords	<OnLookAtInventory>d__0	I'm sure we'd find a lot of creative accounting in here.
+InventoryActionManuscript	<OnLookAtInventory>d__0	It's a very thick manuscript. Typical overachiever.
+InventoryAdventureManuscript	<OnLookAtInventory>d__0	It's the manuscript to my latest masterpiece.
+InventoryAdventureManuscript	<OnLookAtInventory>d__0	Herman Merman and the Suburban Burden!
+InventoryAdventureManuscript	<OnUseInvInventory>d__1	I'll slip my manuscript inside Dirk Chiselton's cover.
+InventoryAdventureManuscript	<OnUseInvInventory>d__1	RevealItem
+InventoryAdventureManuscript	<OnUseInvInventory>d__1	UseManuscriptOnChiseltonCover
+InventoryAgentM	<OnUseInvInventory>d__0	UseMouseOnPneumaticTube
+InventoryAgentM	<OnUseInvInventory>d__0	Mouth
+InventoryAgentM	<OnUseInvInventory>d__0	UseMouseOnPneumaticTubeEnter
+InventoryAgentM	<OnUseInvInventory>d__0	Alright, Agent M. You'll be nice and snug inside this pod.
+InventoryAgentM	<OnUseInvInventory>d__0	Talk
+InventoryAgentM	<OnUseInvInventory>d__0	UseMouseOnPneumaticTubeExit
+InventoryAgentM	<OnLookAtInventory>d__1	She's the cutest little agent, ever!
+InventoryAgentM	<OnLookAtInventory>d__1	I wonder who trained her to be such a kleptomaniac?
+InventoryAnkletKey	<OnLookAtInventory>d__0	It's the key I used to get out of my chains!
+InventoryAnkletKey	<OnLookAtInventory>d__0	This looks like it might unlock a set of chains.
+InventoryAnkletKey	<OnLookAtInventory>d__0	It's a small key, but I have no idea what it unlocks.
+InventoryAnkletKey	<OnLookAtInventory>d__0	This key might unlock those chains!
+InventoryAnkletKey	<OnLookAtInventory>d__0	It's an anklet key, primarily used for locking prison chains.
+InventoryAntidote	<OnLookAtInventory>d__0	Hmm. This syringe has a label marked ‘Antidote'.
+InventoryAntidote	<OnLookAtInventory>d__0	It's the antidote I used to revive Dr Hirsch!
+InventoryArtistSketches	<OnLookAtInventory>d__0	I can see the various handshakes in the background of these sketches!
+InventoryArtistSketches	<OnLookAtInventory>d__0	I'll still need some help to figure out the correct order.
+InventoryArtistSketches	<OnSayNextPatternItem>d__1	Perhaps you'd settle for a simple fist bump?
+InventoryArtistSketches	<OnSayNextPatternItem>d__1	If you think I'm still sleeping, you should give me a shake!
+InventoryArtistSketches	<OnSayNextPatternItem>d__1	I assure you, these palms, they have a strong grip!
+InventoryArtistSketches	<OnSayNextPatternItem>d__1	I've watched your dance of digits, and I handedly approve.
+InventoryBagOfCash	<OnLookAtInventory>d__0	I'm sure I can put Don's winnings to better use.
+InventoryBergmannRecording	<OnLookAtInventory>d__0	I'm sure Bergmann will choose his words more carefully in future.
+InventoryBlockOfCheese	<OnLookAtInventory>d__0	This pocket cheese should be useful, and not just for snacking purposes!
+InventoryBlueSuit	<OnLookAtInventory>d__0	It's the blue suit jacket that Mr Liu was wearing.
+InventoryBoots	<OnUseInvInventory>d__0	DisguisedBootMergeRed
+InventoryBoots	<OnUseInvInventory>d__0	I think I might be onto something here!
+InventoryBoots	<OnUseInvInventory>d__0	DisguisedBootMergeBlue
+InventoryBoots	<OnUseInvInventory>d__0	I think I might be onto something here!
+InventoryBoots	<OnLookAtInventoryBootsActTwo>d__2	It's a pair of Lady Unterwald's boots. We happen to have the same shoe size!
+InventoryBrokenBoots	<OnUseInvInventory>d__0	RevealItem
+InventoryBrokenBoots	<OnUseInvInventory>d__0	UseLetterOpenerOnBrokenBoots
+InventoryBrokenBoots	<OnLookAtInventory>d__1	It's a pair of Lady Unterwald's boots. We happen to have the same shoe size!
+InventoryBrokenHanger	<OnLookAtInventory>d__0	That drawer put up a fight, but the hanger still has some life left in it.
+InventoryBudLite	<OnLookAtInventory>d__0	A bit of experimentation might give this Bud-Lite a bigger kick.
+InventoryBudLite	<OnUseInvInventory>d__1	It's already full.
+InventoryBusinessCard	<OnLookAtInventory>d__0	It's a signed business card from Beverly Moore.
+InventoryBusinessCard	<OnLookAtInventory>d__0	''Moore Or Less - Talent agency to the adequate.''
+InventoryButter	<OnLookAtInventory>d__0	Half a slab of unsalted butter. I think it's slowly melting in my pocket.
+InventoryButter	<OnUseInvInventoryButterHandCream>d__2	RevealItem
+InventoryButter	<OnUseInvInventoryButterHandCream>d__2	UseHandCreamOnButter
+InventoryButterKnife	<OnLookAtInventory>d__0	The blade is sufficiently lubricated, and rather hard to handle.
+InventoryButterKnife	<OnUseInvInventoryKnifeSlipperyMixture>d__2	RevealItem
+InventoryButterKnife	<OnUseInvInventoryKnifeSlipperyMixture>d__2	UseSlipperyMixtureOnKnife
+InventoryCasinoChips	<OnLookAtInventory>d__0	I'm rich! Although, are these chips even real?
+InventoryChains	<OnLookAtInventory>d__0	It's a set of heavy-duty chains!
+InventoryChains	<OnLookAtInventory>d__0	It's a heavy-duty set of prison chains!
+InventoryChains	<OnLookAtInventory>d__0	It's a pile of heavy chains.
+InventoryChiseltonCover	<OnLookAtInventory>d__0	It’s the cover page I tore from Dirk Chiselton’s manuscript.
+InventoryCoal	<OnLookAtInventory>d__0	It's a lump of coal!
+InventoryCoffee	<OnLookAtInventory>d__0	It's a steaming hot cup of coffee. It kind of burns!
+InventoryCoffee	<OnLookAtInventory>d__0	I sshould shpeak to Mr Masson first.
+InventoryCorkedHorn	<OnUseInvInventory>d__0	UseBudLiteFirst
+InventoryCorkedHorn	<OnUseInvInventory>d__0	UsingBudLite
+InventoryCorkedHorn	<OnUseInvInventory>d__0	UseMouthwashFirst
+InventoryCorkedHorn	<OnUseInvInventory>d__0	UsingMouthWash
+InventoryCorkedHorn	<OnUseInvInventory>d__0	MouthwashPutAway
+InventoryCorkedHorn	<OnLookAtInventory>d__1	Now that it's sealed, it makes a pretty cool, if not gross, container!
+InventoryCorkingDevice	<OnUseInvInventory>d__0	UseCorkingDevice
+InventoryCorkingDevice	<OnLookAtInventory>d__1	It's a ''FULL-STOP'' brand recorker. ''The last word in cork plugging.''
+InventoryCupofPaste	<OnLookAtInventory>d__0	The water and sawdust have combined into a thick, sticky paste.
+InventoryDeactivatedTruthSerum	<OnLookAtInventory>d__0	I'm not quite sure what this is, but the bottle is neat!
+InventoryDeactivatedTruthSerum	<OnLookAtInventory>d__0	It's a vial of enigmatic liquid, I can hear it gently fizzing in my suit jacket pocket.
+InventoryDeactivatedTruthSerum	<OnLookAtInventory>d__0	I doubt the truth spray is potent enough, but I love the bottle!
+InventoryDeactivatedTruthSerum	<OnLookAtInventory>d__0	This stuff worked wonders on Bergmann, it just needs a little kick-start to get going.
+InventoryDetectiveBadge	<OnLookAtInventory>d__0	For a toy badge, it's quite convincing.
+InventoryDianaPhoto	<OnLookAtInventory>d__0	Jian Liu had this in his pocket.
+InventoryDonsRoomKey	<OnLookAtInventory>d__0	Looks like Don booked the honeymoon suite. Room 303!
+InventoryEmptyCanister	<OnLookAtInventory>d__0	These little pods transport items throughout the whole tube system!
+InventoryEmptyFuelCanister	<OnLookAtInventory>d__0	It's empty! That's not much use to me.
+InventoryEmptyFuelCanister	<OnLookAtInventory>d__0	It's sloshing about with precious fuel!
+InventoryEmptyRecorder	<OnUseInvInventoryWireReelArthur>d__1	RevealItem
+InventoryEmptyRecorder	<OnUseInvInventoryWireReelArthur>d__1	UseWireReel
+InventoryEmptyRecorder	<OnUseInvInventoryWireReelArthur>d__1	UseWireReelOnDevice
+InventoryEmptyRecorder	<OnUseInvInventoryWireReelArthur>d__1	Hey, it fits!
+InventoryEmptyRecorder	<OnUseInvInventoryWireReelArthur>d__1	Nice, that looks like it's worked.
+InventoryEmptyRecorder	<OnUseInvInventoryWireReelArthur>d__1	PutWireReelAway
+InventoryEmptyRecorder	<OnUseInvInventoryWireReelHerman>d__2	Aha, a perfect fit!
+InventoryEmptyRecorder	<OnUseInvInventoryWireReelDiana>d__3	It's just the right size, that was lucky.
+InventoryEmptyRecorder	<OnUseInvInventoryBergmannRecording>d__4	InventoryEmptyRecorderOnUseBergmannRecording
+InventoryEmptyRecorder	<OnUseInvInventoryBergmannRecording>d__4	I don't want to risk recording over Bergmann's reel.
+InventoryEmptyRecorder	<OnUseInvInventoryBergmannRecording>d__4	I'll need another wire reel to record anything new.
+InventoryEmptyRecorder	<OnLookAtInventory>d__5	I'll need another wire reel to record anything new.
+InventoryEmptyRecorder	<OnLookAtInventory>d__5	It's Don's recording device. It's not much use to me without another wire reel, though.
+InventoryEmptyRecorder	<OnLookAtInventory>d__5	We could record something with this if we found another wire reel.
+InventoryEmptyRecorder	<OnLookAtInventory>d__5	This portable recording device could be useful if it wasn't empty.
+InventoryFakeNovel	<OnLookAtInventory>d__0	At first glance, this looks like a Dirk Chiselton manuscript!
+InventoryFan	<OnUseInvInventory>d__0	puzzle_progress
+InventoryFan	<OnUseInvInventory>d__0	RevealItem
+InventoryFan	<OnUseInvInventory>d__0	CombineFan
+InventoryFan	<OnLookAtInventory>d__1	Huh, I guess this model is battery powered.
+InventoryFilledCup	<OnUseInvInventoryFilledCupSawdust>d__1	RevealItem
+InventoryFilledCup	<OnUseInvInventoryFilledCupSawdust>d__1	UseSawdustOnCupWater
+InventoryFilledCup	<OnLookAtInventory>d__2	I've filled the cup with plenty of drinking water.
+InventoryFilledFuelCanister	<OnLookAtInventory>d__0	It's sloshing about with precious fuel!
+InventoryForgedEntryList	<OnLookAtInventory>d__0	It's an excellent forgery, Donny did a great job!
+InventoryFunnelFan	<OnLookAtInventory>d__0	This should make the desk fan significantly more powerful.
+InventoryGramophoneRecord	<OnLookAtInventory>d__0	Lady Unterwald recorded her own album of songs!
+InventoryGunpowder	<OnUseInvInventory>d__0	I'll mix some of this fuel with the gunpowder.
+InventoryGunpowder	<OnUseInvInventory>d__0	UseGunpowderOnSiphonKit
+InventoryGunpowder	<OnLookAtInventory>d__1	It's explosive powder I cut from the pencil!
+InventoryHabanero	<OnLookAtInventory>d__0	Just one of these peppers would make any dish unbearably hot.
+InventoryHandCream	<OnLookAtInventory>d__0	It's a highly moisturising hand repair cream. For dry, cracked and injured hands.
+InventoryHandCream	<OnUseInvInventoryHandCreamButter>d__2	RevealItem
+InventoryHandCream	<OnUseInvInventoryHandCreamButter>d__2	UseHandCreamOnButter
+InventoryHandCreamKnife	<OnLookAtInventory>d__0	The blade is sufficiently lubricated, and rather hard to handle.
+InventoryHandCreamKnife	<OnUseInvInventoryKnifeSlipperyMixture>d__2	RevealItem
+InventoryHandCreamKnife	<OnUseInvInventoryKnifeSlipperyMixture>d__2	UseSlipperyMixtureOnKnife
+InventoryHandIdol	<OnLookAtInventory>d__0	It's an idol, no doubt modelled after Lady Unterwald's own hand!
+InventoryHardenedWaxBlob	<OnLookAtInventory>d__0	I think this hardened blob was Lady Unterwald's wax seal.
+InventoryHardenedWaxBlob	<OnLookAtInventory>d__0	The wax has cooled down and hardened.
+InventoryHardenedWaxBlob	<OnLookAtInventory>d__0	It's a hardened ball of wax.
+InventoryHearingHorn	<OnUseInvInventory>d__0	UseCorkingDevice
+InventoryHearingHorn	<OnUseInvInventory>d__0	The liquid would pour straight through.
+InventoryHearingHorn	<OnLookAtInventoryArthur>d__2	I'm sure there's a good reason why I'd need an old lady's hearing aid.
+InventoryHearingHorn	<OnLookAtInventoryArthur>d__2	Although, I can't think of one just yet.
+InventoryHearingHorn	<OnLookAtInventoryHerman>d__3	It’s the horn that Arista instructed me to repair.
+InventoryHermanRoomKey	<OnLookAtInventoryActOne>d__1	These must be Herman's keys, Room 304.
+InventoryHermanRoomKey	<OnLookAtInventoryActTwo>d__2	My own private quarters, room 304.
+InventoryHookedWalkingCane	<OnLookAtInventory>d__0	I'd like to think Lady Unterwald would want me to have this.
+InventoryHornFullLiquidBlue	<OnUseInvInventoryBudLite>d__1	UseBudLiteSecond
+InventoryHornFullLiquidBlue	<OnUseInvInventoryBudLite>d__1	UsingBudLite
+InventoryHornFullLiquidBlue	<OnUseInvInventoryBudLite>d__1	FaceCamera
+InventoryHornFullLiquidBlue	<OnUseInvInventoryBudLite>d__1	FaceCameraEnter
+InventoryHornFullLiquidBlue	<OnUseInvInventoryBudLite>d__1	It's an overpowering blend of cheap perfume, plant life and ethanol!
+InventoryHornFullLiquidBlue	<OnUseInvInventoryBudLite>d__1	FaceCameraExit
+InventoryHornFullLiquidBlue	<OnLookAtInventory>d__2	It's full of minty fresh mouthwash!
+InventoryHornFullLiquidPink	<OnUseInvInventoryMouthwash>d__1	UseMouthwashSecond
+InventoryHornFullLiquidPink	<OnUseInvInventoryMouthwash>d__1	UsingMouthWash
+InventoryHornFullLiquidPink	<OnUseInvInventoryMouthwash>d__1	Mixing
+InventoryHornFullLiquidPink	<OnUseInvInventoryMouthwash>d__1	FaceCamera
+InventoryHornFullLiquidPink	<OnUseInvInventoryMouthwash>d__1	FaceCameraEnter
+InventoryHornFullLiquidPink	<OnUseInvInventoryMouthwash>d__1	It's an overpowering blend of cheap perfume, plant life and ethanol!
+InventoryHornFullLiquidPink	<OnUseInvInventoryMouthwash>d__1	FaceCameraExit
+InventoryHornFullLiquidPink	<OnLookAtInventory>d__2	I've poured the Bud-Lite in here, but for a stronger kick, I'll need to add a potent alcoholic mixer.
+InventoryIncendiaryFuelTank	<OnLookAtInventory>d__0	It's a dangerous concoction of fuel and high octane explosives!
+InventoryIncendiaryPencils	<OnLookAtInventory>d__0	I should use the one I took before taking another.
+InventoryIncendiaryPencils	<OnLookAtInventory>d__0	OnTakeInventoryIncendiaryPencil
+InventoryIncendiaryPencils	<OnLookAtInventory>d__0	It's a case of explosives, disguised as harmless stationary.
+InventoryInvisibleBook	<OnLookAtInventory>d__0	It's Dr Phogg's Guide to Invis-Ability!
+InventoryInvisibleBook	<OnLookAtInventory>d__0	''Apply gentle heat to the paper to reveal messages written in invisible ink.''
+InventoryInvisibleBook	<OnLookAtInventory>d__0	''Avoid using candles, matches, or any open flames, they might just send your message up in smoke.''
+InventoryInvisibleBook	<OnLookAtInventory>d__0	Hmm, maybe I can find what I'm looking for in the kitchen?
+InventoryKitchenBoots	<OnUseInvInventory>d__0	DisguisedBootMergeBlue
+InventoryKitchenBoots	<OnUseInvInventory>d__0	Herman Merman, you've done it again! I should be able to get on the roof with these.
+InventoryKitchenBoots	<OnLookAtInventory>d__1	I've successfully attached a suction cup to one of the boots.
+InventoryKitchenPlunger	<OnLookAtInventory>d__0	It's a kitchen plunger, great for unblocking clogged sinks!
+InventoryKnife	<OnLookAtInventory>d__0	I'm a little too familiar with how sharp this blade is.
+InventoryKnife	<OnUseInvInventoryKnifeButter>d__2	RevealItem
+InventoryKnife	<OnUseInvInventoryKnifeButter>d__2	UseButterOnKnife
+InventoryKnife	<OnUseInvInventoryKnifeHandCream>d__3	RevealItem
+InventoryKnife	<OnUseInvInventoryKnifeHandCream>d__3	UseHandCreamOnKnife
+InventoryKnife	<OnUseInvInventoryKnifeSlipperyMixture>d__4	RevealItem
+InventoryKnife	<OnUseInvInventoryKnifeSlipperyMixture>d__4	UseSlipperyMixtureOnKnife
+InventoryLadyULetter	<OnLookAtInventory>d__0	Lady Unterwald asked me to deliver this to Arthur Ackerman!
+InventoryLemon	<OnLookAtInventory>d__0	It's a harmless lemon.
+InventoryLetterOpener	<OnLookAtInventory>d__0	Now, this is an exciting piece of high-end stationary!
+InventoryLetterOpener	<OnLookAtInventory>d__0	This letter opener looks like it'd slice through more than paper.
+InventoryLetterOpener	<OnLookAtInventory>d__0	I wouldn't trust either of those two with something this sharp.
+InventoryLetterToArthur	<OnLookAtInventory>d__0	It's the last correspondence I received from Lady Unterwald.
+InventoryLetterToArthur	<OnLookAtInventoryActOne>d__1	It's a letter from Lady Unterwald, asking me to wear the suit she provided.
+InventoryLetterToArthur	<OnLookAtInventoryActOne>d__1	It's a letter from Lady Unterwald, she'd like to meet in her quarters.
+InventoryLetterToArthur	<OnLookAtInventoryActOne>d__1	It's the last correspondence I received from Lady Unterwald.
+InventoryLetterToArthur	<OnLookAtInventoryActTwo>d__2	I'm supposed to deliver this letter to Mr Ackerman.
+InventoryLockpick	<OnLookAtInventory>d__0	It's a toy set lock pick. Likely effective against only the weakest of locks.
+InventoryLuggageStorageKey	<OnLookAtInventory>d__0	My memory of getting these keys is a little fuzzy.
+InventoryMagnet	<OnLookAtInventoryActOne>d__1	Owning a magnet this large has its positives and negatives.
+InventoryMagnet	<OnLookAtInventoryActTwo>d__2	Owning a magnet this large has its positives and negatives.
+InventoryMagneticBall	<OnLookAtInventoryActOne>d__1	Don could move this up to three spaces with his watch.
+InventoryMagneticBall	<OnLookAtInventoryActThree>d__2	That's the magnetic ball Donny used to rig his roulette games!
+InventoryMagneticBall	<OnLookAtInventoryActThree>d__2	It looks like a roulette ball from the casino.
+InventoryMagneticBall	<OnLookAtInventoryActThree>d__2	That's odd, what's a roulette ball doing here?
+InventoryMagnifyingGlass	<OnLookAtInventory>d__0	Hmm, the magnification is very strong!
+InventoryMakeshiftPlunger	<OnLookAtInventory>d__0	It's an odd looking plunger.
+InventoryMakeshiftPlunger	<OnLookAtInventory>d__0	It's my trusty prison cell plunger!
+InventoryMakeshiftPlunger	<OnLookAtInventory>d__0	It's a plunger made from a rusty metal pole.
+InventoryMedicalBriefcase	<OnLookAtInventoryActOne>d__1	It's Doctor Hirsch's medical bag. I assume it's full of doctorly things.
+InventoryMedicalBriefcase	<OnLookAtInventoryActTwo>d__2	It's Doctor Hirsch's medical bag.
+InventoryMeltedWaxBlob	<OnLookAtInventory>d__0	Ooh, that's hot!
+InventoryMeltedWaxBlob	<OnLookAtInventory>d__0	The wax must have melted from the heat. It looks malleable!
+InventoryMetalHanger	<OnLookAtInventory>d__0	Versatile, flexible, durable. The best kind of hanger!
+InventoryMocktail	<OnLookAtInventory>d__0	It's all of the sugar, and none of the fun!
+InventoryMouse	<OnLookAtInventory>d__0	I wonder who trained her to be such a kleptomaniac?
+InventoryMouse	<OnUseInvInventory>d__1	She ate all my pocket cheese!
+InventoryMouseCanister	<OnLookAtInventory>d__0	Are you alright in there, little one?
+InventoryMouthwash	<OnLookAtInventory>d__0	''Rinse after brushing. Contains alcohol, do not ingest solution.''
+InventoryMouthwash	<OnUseInvInventory>d__1	It's already full.
+InventoryMysteriousNapkin	<OnLookAtInventory>d__0	I was sure Diana wrote something on this napkin, but it's blank!
+InventoryMysteriousNapkin	<OnUseInvInventory>d__1	I think there's something here but it's not quite legible.
+InventoryNapkin	<OnUseInvInventory>d__0	UseSpiritNapkin
+InventoryNapkin	<OnLookAtInventory>d__1	It's the napkin that I grabbed from the bar.
+InventoryNewspaper	<OnLookAtInventory>d__0	''IT'S THE END OF THE LINE''
+InventoryNewspaper	<OnLookAtInventory>d__0	''The Unterwald empire came to a grisly end last night, when the wealthy heiress was unexpectedly assassinated aboard her own train.''
+InventoryNewspaper	<OnLookAtInventory>d__0	''Three suspects are currently held in custody, awaiting questioning.''
+InventoryOpenedDoll	<OnLookAtInventory>d__0	The doll's looking a little scrawny without all that packing sawdust.
+InventoryOvenGloves	<OnLookAtInventory>d__0	You can withstand the heat with a pair of these oven gloves!
+InventoryPackage	<OnUseInvInventory>d__0	RevealItem
+InventoryPackage	<OnUseInvInventory>d__0	UseLetterOpenerOnPackage
+InventoryPackage	<OnUseInvInventory>d__0	UseLetterOpenerOnPackageEnter
+InventoryPackage	<OnUseInvInventory>d__0	ActTwoHermanKnowsAboutTheManuscript
+InventoryPackage	<OnUseInvInventory>d__0	Dirk Chiselton sent over a manuscript?
+InventoryPackage	<OnUseInvInventory>d__0	Sorry, Dirk, I need it more than you do.
+InventoryPackage	<OnUseInvInventory>d__0	UseLetterOpenerOnPackageExit
+InventoryPackage	<OnLookAtInventory>d__1	It's weighty. Could be 70,000 words by my estimate.
+InventoryPackingPopcorn	<OnLookAtInventory>d__0	Popcorn isn't just delicious, it doubles as a cheap packing material.
+InventoryPaperCup	<OnUseInvInventory>d__0	RevealItem
+InventoryPaperCup	<OnUseInvInventory>d__0	UseSawdustOnEmptyCup
+InventoryPaperCup	<OnLookAtInventory>d__1	It's a paper cup I swiped from the water cooler.
+InventoryPearlNecklace	<OnLookAtInventory>d__0	It's a genuine pearl necklace.
+InventoryPen	<OnLookAtInventory>d__0	The craftsmanship of this fountain pen is exquisite!
+InventoryPencil	<OnUseInvInventory>d__4	Nah.
+InventoryPencil	<OnUseInvInventory>d__4	Nope.
+InventoryPencil	<OnUseInvInventory>d__4	I can break the tip off this incendiary pencil, to retrieve the gunpowder inside.
+InventoryPencil	<OnUseInvInventory>d__4	UseWireCuttersOnPencil
+InventoryPencil	<OnUseInvInventory>d__4	Nah.
+InventoryPencil	<OnUseInvInventory>d__4	Nope.
+InventoryPencil	<OnLookAtInventory>d__5	It looks harmless enough.
+InventoryPerfumedLoveNote	<OnLookAtInventory>d__0	It'll cost a fortune to get the smell of cheap perfume out of this jacket.
+InventoryPetalLeaf	<OnLookAtInventory>d__0	They smell quite fragrant!
+InventoryPhonographRecording	<OnLookAtInventory>d__0	It's Lady Unterwald's voice, from beyond the grave!
+InventoryPhonographRecording	<OnLookAtInventory>d__0	I should get one of these to take notes on the fly.
+InventoryPhonographRecording	<OnLookAtInventory>d__0	It's not as discreet as a phone tap, but it gets the job done.
+InventoryPlungerCup	<OnLookAtInventory>d__0	It's the suction cup from a plunger!
+InventoryPlungerCup	<OnLookAtInventory>d__0	It's the business end of a plunger.
+InventoryPlungerCup	<OnLookAtInventory>d__0	It looks like a suction cup to me.
+InventoryPoetryBook	<OnLookAtInventory>d__0	It looks like Don's been practicing poetry.
+InventoryPoetryBook	<OnLookAtInventory>d__0	There's no way I'm reading that.
+InventoryPrototypeDoll	<OnUseInvInventory>d__0	RevealItem
+InventoryPrototypeDoll	<OnUseInvInventory>d__0	UseLetterOpenerOnDoll
+InventoryPrototypeDoll	<OnLookAtInventory>d__1	This looks very familiar.
+InventoryRecordingDevice	<OnLookAtInventory>d__0	Donny was using this device to record Bergmann!
+InventoryRecordingDevice	<OnLookAtInventory>d__0	It's loaded up with a fresh wire reel, ready for recording.
+InventoryRecordingDevice	<OnLookAtInventory>d__0	I should get one of these to take notes on the fly.
+InventoryRecordingDevice	<OnLookAtInventory>d__0	It's not as discreet as a phone tap, but it gets the job done.
+InventoryRomanceManuscript	<OnLookAtInventory>d__0	It’s the romance novel I retrieved from the bin.
+InventoryRomanceManuscript	<OnLookAtInventory>d__0	Perhaps I should have left it there.
+InventoryRosebud	<>c	Slowdown
+InventoryRosebud	<OnLookAtInventory>d__0	UseRosebud
+InventoryRosebud	<OnLookAtInventory>d__0	UseRosebudEnter
+InventoryRosebud	<OnLookAtInventory>d__0	DrunkRosebud
+InventoryRosebud	<OnLookAtInventory>d__0	UseRosebudExit
+InventoryRosebud	<OnLookAtInventory>d__0	DrunkRosebudEnter
+InventoryRosebud	<OnLookAtInventory>d__0	Hmm.
+InventoryRosebud	<OnLookAtInventory>d__0	I don't feel any different.
+InventoryRosebud	<OnLookAtInventory>d__0	DrunkRosebudExit
+InventoryRosebudRecipe	<OnLookAtInventory>d__0	It's Donny's recipe for a powerful drink.
+InventoryRubberTubing	<OnLookAtInventory>d__0	It's the rubber tubing I cut from the car.
+InventoryRustyPole	<OnLookAtInventory>d__0	Looks like a rusty metal pole.
+InventoryRustyPole	<OnLookAtInventory>d__0	It seems to be some sort of metal pole.
+InventoryRustyPole	<OnLookAtInventory>d__0	A rusty metal pole might be useful in our current circumstances.
+InventoryRustyPole	<OnUseInvInventory>d__1	RevealItem
+InventoryRustyPole	<OnUseInvInventory>d__1	UsePlungerCupOnRustyPole
+InventorySawdust	<OnLookAtInventory>d__0	It's a pile of sawdust I removed from the doll.
+InventorySawdustCup	<OnLookAtInventory>d__0	I placed sawdust in the bottom of the cup.
+InventorySecretNote	<OnLookAtInventory>d__0	The heat revealed the number 306. How mysterious!
+InventorySlipperyKnife	<OnLookAtInventory>d__0	The blade is sufficiently lubricated, and rather hard to handle.
+InventorySlipperyMixture	<OnLookAtInventory>d__0	This would surely lubricate anything it touches.
+InventorySlipperyMixture	<OnUseInvInventorySlipperyMixtureKnife>d__2	RevealItem
+InventorySlipperyMixture	<OnUseInvInventorySlipperyMixtureKnife>d__2	UseSlipperyMixtureOnKnife
+InventorySoupCup	<OnLookAtInventory>d__0	I've concocted the world's spiciest soup.
+InventoryStapler	<OnLookAtInventory>d__0	It's a ''Mega-Stich'' brand heavy duty stapler. This thing can staple through 250 sheets!
+InventorySuctionBoots	<OnLookAtInventory>d__0	I've assembled a working pair of suction boots!
+InventorySurgicalSpirit	<OnLookAtInventory>d__0	It's a powerful cleaning solvent. This stuff would remove pretty much anything!
+InventorySurgicalSpiritNapkin	<OnLookAtInventory>d__0	I've soaked the napkin in turpentine.
+InventoryToiletBoots	<OnUseInvInventory>d__0	DisguisedBootMergeRed
+InventoryToiletBoots	<OnUseInvInventory>d__0	Herman Merman, you've done it again! I should be able to get on the roof with these.
+InventoryToiletBoots	<OnLookAtInventory>d__1	I've successfully attached a suction cup to one of the boots.
+InventoryToiletPlunger	<OnLookAtInventory>d__0	Probably best not to dwell on the horrors this plunger has seen.
+InventoryToyDetectiveBadge	<OnLookAtInventory>d__0	It's a toy badge, but it should still provide an air of authority.
+InventoryUmbrella	<OnLookAtInventory>d__0	It's bad luck to open an umbrella indoors, but maybe I can find a use for it.
+InventoryUnterwaldRecording	<OnLookAtInventory>d__0	Thank you for calling the Reuss Express onboard service.
+InventoryUnterwaldRecording	<OnLookAtInventory>d__0	This call may be recorded for training purposes.
+InventoryUnterwaldRecording	<OnLookAtInventory>d__0	It's Lady Unterwald's voice, from beyond the grave!
+InventoryWalkingCane	<OnCombineBrokenHanger>d__1	UseHangerOnWalkingCane
+InventoryWalkingCane	<OnLookAtInventory>d__2	I'd like to think Lady Unterwald would want me to have this.
+InventoryWaxImprint	<OnLookAtInventory>d__0	It's a wax impression of a fingerprint.
+InventoryWaxImprint	<OnLookAtInventory>d__0	It's a wax impression of Lady Unterwald's fingerprint.
+InventoryWaxImprint	<OnLookAtInventory>d__0	It's a fingerprint impression made from wax.
+InventoryWaxSeal	<OnLookAtInventory>d__0	It's a wax seal from the Unterwald estate.
+InventoryWaxSeal	<OnLookAtInventory>d__0	This is the last wax seal I'll receive from Lady Unterwald.
+InventoryWaxSeal	<OnLookAtInventory>d__0	This seal has been on quite the adventure, eh? I feel strangely attached to it.
+InventoryWaxSeal	<OnLookAtInventory>d__0	It's one of Lady Unterwald's wax seals, malleable and quite soft to the touch.
+InventoryWaxSeal	<OnLookAtInventory>d__0	It's a wax seal, embossed with the emblem of the Wald-Bahn empire.
+InventoryWireCutters	<OnLookAtInventory>d__0	It's an official field agent wiring kit!
+InventoryWireReel	<OnLookAtInventory>d__0	I can put this wire reel into a recording device to record something.
+InventoryWireReel	<OnLookAtInventory>d__0	It's an empty wire reel, handy if I need to record something.
+InventoryWireReel	<OnLookAtInventory>d__0	Lord Unterwald planned to use this to document his astronomical observations.
+InventoryWireReel	<OnLookAtInventory>d__0	It's a little dusty, but I'm sure it would still record audio.
+InventoryWoodenHanger	<OnLookAtInventory>d__0	A classic wooden hanger. The second best kind of hanger, in my opinion!

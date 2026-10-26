@@ -10,7 +10,7 @@ using TMPro;
 
 namespace LocoMotiveFR
 {
-    [BepInPlugin("org.dontarken.locomotive.fr", "Loco Motive Patch FR", "1.6.0")]
+    [BepInPlugin("org.dontarken.locomotive.fr", "Loco Motive Patch FR", "1.7.0")]
     public class LocoMotiveFRPlugin : BaseUnityPlugin
     {
         public static LocoMotiveFRPlugin Instance;
@@ -154,6 +154,24 @@ namespace LocoMotiveFR
             PatchMethod(harmony, typeof(PowerTools.Quest.Character), "get_Description",
                 Type.EmptyTypes,
                 typeof(Patch_Character_get_Description), null, "Postfix");
+
+            // Hooks pour les objets d'inventaire
+            PatchMethod(harmony, typeof(PowerTools.Quest.Inventory), "get_Description",
+                Type.EmptyTypes,
+                typeof(Patch_Inventory_get_Description), null, "Postfix");
+
+            PatchMethod(harmony, typeof(PowerTools.Quest.Inventory), "get_InteractDescription",
+                Type.EmptyTypes,
+                typeof(Patch_Inventory_get_InteractDescription), null, "Postfix");
+
+            PatchMethod(harmony, typeof(PowerTools.Quest.Inventory), "get_LookDescription",
+                Type.EmptyTypes,
+                typeof(Patch_Inventory_get_LookDescription), null, "Postfix");
+
+            // Hooks pour les cartons de chapitre (GuiChapterCard)
+            PatchMethod(harmony, typeof(GuiChapterCard), "Show",
+                new Type[] { typeof(string), typeof(string), typeof(string) },
+                typeof(Patch_GuiChapterCard_Show), "Prefix", null);
 
             // Hooks pour le sélecteur de langue des Paramètres (4 langues)
             PatchMethod(harmony, typeof(GuiSettings), "OptTextLanguageL", 
@@ -1007,6 +1025,46 @@ namespace LocoMotiveFR
             if (string.IsNullOrEmpty(__result)) return;
             if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
             __result = LocoMotiveFRPlugin.TranslateString(__result);
+        }
+    }
+
+    public static class Patch_Inventory_get_Description
+    {
+        public static void Postfix(ref string __result)
+        {
+            if (string.IsNullOrEmpty(__result)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+            __result = LocoMotiveFRPlugin.TranslateString(__result);
+        }
+    }
+
+    public static class Patch_Inventory_get_InteractDescription
+    {
+        public static void Postfix(ref string __result)
+        {
+            if (string.IsNullOrEmpty(__result)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+            __result = LocoMotiveFRPlugin.TranslateString(__result);
+        }
+    }
+
+    public static class Patch_Inventory_get_LookDescription
+    {
+        public static void Postfix(ref string __result)
+        {
+            if (string.IsNullOrEmpty(__result)) return;
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+            __result = LocoMotiveFRPlugin.TranslateString(__result);
+        }
+    }
+
+    public static class Patch_GuiChapterCard_Show
+    {
+        public static void Prefix(ref string heading, ref string subheading, ref string animName)
+        {
+            if (!LocoMotiveFRPlugin.IsFrenchActive()) return;
+            heading = LocoMotiveFRPlugin.TranslateString(heading);
+            subheading = LocoMotiveFRPlugin.TranslateString(subheading);
         }
     }
 }
