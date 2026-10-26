@@ -1,11 +1,17 @@
-# 🚂 Loco Motive — Patch de Traduction Française Intégrale (100 %)
+# 🚂 Loco Motive — Patch de Traduction Française (Bêta Ouverte)
 
-[![Version](https://img.shields.io/badge/Version-v1.0.0-blue.svg)](https://github.com/DonTarken/loco-motive-patch-fr/releases)
-[![Statut](https://img.shields.io/badge/Traduction-100%25-brightgreen.svg)]()
-[![Plateformes](https://img.shields.io/badge/Plateformes-Windows%20%7C%20Steam%20Deck%20(Proton)-orange.svg)]()
-[![Compatibilité](https://img.shields.io/badge/Compatibilit%C3%A9-Steam%20%7C%20GOG-purple.svg)]()
+[![Version](https://img.shields.io/badge/Version-v1.0.0--beta-blue.svg)](https://github.com/DonTarken/loco-motive-patch-fr/releases)
+[![Statut](https://img.shields.io/badge/Statut-B%C3%AAta%20Ouverte%20%7C%20Playtest%20en%20cours-orange.svg)](https://github.com/DonTarken/loco-motive-patch-fr/issues)
+[![Couverture](https://img.shields.io/badge/Textes%20traduits-100%25-brightgreen.svg)]()
+[![Plateformes](https://img.shields.io/badge/Plateformes-Windows%20%7C%20Steam%20Deck%20(Proton)-purple.svg)]()
+[![Compatibilité](https://img.shields.io/badge/Compatibilit%C3%A9-Steam%20%7C%20GOG-lightgrey.svg)]()
 
 Ce projet propose un patch de localisation intégrale en français pour le jeu d'aventure point-and-click **Loco Motive**, développé par *Robust Games* et édité par *Chucklefish*.
+
+> [!IMPORTANT]
+> **📢 Projet en cours — Bêta Publique & Playtest Communautaire**  
+> L'intégralité des textes du jeu (100 % des dialogues, interactions, menus et inventaire) a été traduite et le jeu est jouable du début à la fin en français.  
+> Le projet est actuellement en **phase de relecture et de playtest en conditions réelles**. Vos retours sont essentiels pour peaufiner les répliques, corriger les éventuelles coquilles ou ajuster les tournures d'humour !
 
 ---
 
