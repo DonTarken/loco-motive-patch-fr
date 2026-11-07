@@ -5,6 +5,7 @@
 [![Couverture](https://img.shields.io/badge/Textes%20traduits-100%25-brightgreen.svg)]()
 [![Plateformes](https://img.shields.io/badge/Plateformes-Windows%20%7C%20Steam%20Deck%20(Proton)-purple.svg)]()
 [![Compatibilité](https://img.shields.io/badge/Compatibilit%C3%A9-Steam%20%7C%20GOG-lightgrey.svg)]()
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Soutenir%20le%20projet-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/dontarken)
 
 Ce projet propose un patch de localisation intégrale en français pour le jeu d'aventure point-and-click **Loco Motive**, développé par *Robust Games* et édité par *Chucklefish*.
 
@@ -85,6 +86,19 @@ Votre aide est précieuse pour peaufiner la traduction ! Si vous repérez :
 
 👉 **[Ouvrir un ticket sur GitHub Issues](https://github.com/DonTarken/loco-motive-patch-fr/issues/new/choose)**  
 *(Des formulaires guidés sont disponibles pour vous faciliter la tâche, avec possibilité de joindre une capture d'écran).*
+
+---
+
+## 💖 Soutenir le projet
+
+Ce patch de traduction intégrale est le fruit de dizaines d'heures de travail bénévole et d'adaptation passionnée.  
+Si vous appréciez de pouvoir découvrir et terminer *Loco Motive* en français et que vous souhaitez soutenir la maintenance du patch, vous pouvez m'offrir un café ! Chaque geste compte et fait chaud au cœur ☕
+
+<p align="center">
+  <a href="https://ko-fi.com/dontarken" target="_blank">
+    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="42" alt="Offrez-moi un café sur ko-fi.com" />
+  </a>
+</p>
 
 ---
 
