@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/social-preview.jpg" alt="Loco Motive — Patch de Traduction Française" width="100%">
+</p>
+
 # 🚂 Loco Motive — Patch de Traduction Française (Bêta Ouverte)
 
 [![Version](https://img.shields.io/badge/Version-v1.0.0--beta-blue.svg)](https://github.com/DonTarken/loco-motive-patch-fr/releases)
